@@ -64,4 +64,4 @@ REPO_RULES = {
     }
 }
 
-DISALLOWED_EXTENSIONS = ('.dmg', '.exe', '.appimage', '.msi', '.txt')
+DISALLOWED_EXTENSIONS = ('.dmg', '.exe', '.appimage', '.msi', '.txt', '.bin')
