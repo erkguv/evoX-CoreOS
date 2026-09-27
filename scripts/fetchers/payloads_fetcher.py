@@ -79,9 +79,10 @@ def fetch_payloads_category(credits_set):
                                 should_download = False
                                 target_filename = asset_name
 
-                                # Exclusion stricte et immédiate des fichiers .bin pour zftpd
-                                if repo_lower == "seregonwar/zftpd" and asset_name.endswith('.bin'):
-                                    continue
+                                # Exclusion stricte et immédiate des fichiers .bin ou contenant -ps4- pour zftpd
+                                if repo_lower == "seregonwar/zftpd":
+                                    if asset_name.endswith('.bin') or '-ps4-' in asset_name:
+                                        continue
 
                                 if custom_rules:
                                     if custom_rules.get("keep_original"):
