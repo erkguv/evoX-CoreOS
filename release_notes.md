@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1723)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-1747)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -17,14 +17,14 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
-  * `garlic-savemgr_v1.13.1.elf`
-  * `garlic-worker_v1.1.7.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `Common_FPS_PS5_v1.1.0.elf`
-  * `ps5-new-overlay_v1.0.15.elf`
+  * `ps5_overlay.elf`
+  * `ps5_overlay_shellui.elf`
   * `BFpilot_v0.4.4.elf`
   * `lapy_jb_daemon.elf`
   * `web-file-mgr_v1.9.elf`
+  * `wfm-7zip-helper.elf`
   * `wfm-7zip-helper_v1.9.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
@@ -39,9 +39,10 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
-  * `zftpd_v1.5.0.bin`
+  * `zftpd-ps4-v1.5.0.elf`
   * `zftpd_v1.5.0.elf`
   * `zhttp_v1.5.0.elf`
+  * `zftpd-ps4-zhttp-v1.5.0.elf`
   * `elfldr_v0.26.elf`
   * `ftpsrv_ps5-payload_v0.21.1.elf`
   * `websrv_v0.34.elf`
@@ -75,13 +76,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.4-955249d.elf`
   * `pldmgr_v0.5.1.elf`
-  * `ELF_Arsenal_v1.6.23.elf`
   * `Kura_v1.6.50.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
   * `elf-launcher_v1.0.3.elf`
-  * `np-fake-signin_v1.3.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`

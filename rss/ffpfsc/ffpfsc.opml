@@ -8,6 +8,6 @@
     <outline text="ProsperoRadio (PPSA99001.ffpfsc)" title="ProsperoRadio (PPSA99001.ffpfsc)" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc" description="PS5 Radio Player"/>
     <outline text="ProsperoTV (PPSA99003.ffpfsc)" title="ProsperoTV (PPSA99003.ffpfsc)" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc" description="PS5 IPTV"/>
     <outline text="EVO-PLAYER-PS5 (EVOPlayer-v0.10.0-PPSA99039.ffpfsc)" title="EVO-PLAYER-PS5 (EVOPlayer-v0.10.0-PPSA99039.ffpfsc)" type="rss" xmlUrl="https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc" description="A media player for jailbroken PS5"/>
-    <outline text="ProsperoRadio Vulkan Edition" title="ProsperoRadio Vulkan Edition" type="rss" xmlUrl="https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.026/PROSPERO_RADIO.ffpfsc" description="An internet radio for PS5 with a real radio face — rendered with Vulkan."/>
+    <outline text="ProsperoRadio Vulkan Edition" title="ProsperoRadio Vulkan Edition" type="rss" xmlUrl="https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.027/PROSPERO_RADIO.ffpfsc" description="An internet radio for PS5 with a real radio face — rendered with Vulkan."/>
   </body>
 </opml>

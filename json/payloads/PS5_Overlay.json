@@ -12,10 +12,20 @@
       "checksum": "4f544fa00f7a430e64c4c8d0ed42d0463d2370c81dabd9141599c27c4f3f99d6"
     },
     {
-      "name": "Ps5-New-Overlay V1.0.15",
-      "filename": "ps5-new-overlay_v1.0.15.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5-new-overlay_v1.0.15.elf",
-      "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5-new-overlay_v1.0.15.elf",
+      "name": "Ps5 Overlay",
+      "filename": "ps5_overlay.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf",
+      "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf",
+      "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
+      "version": "v1.0.15",
+      "category": "PS5 Overlay",
+      "checksum": "5e843b4b20b5954802a88722e5f9436d71d29bc3c82c22d7aa828b83b9960ff9"
+    },
+    {
+      "name": "Ps5 Overlay Shellui",
+      "filename": "ps5_overlay_shellui.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf",
+      "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf",
       "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
       "version": "v1.0.15",
       "category": "PS5 Overlay",
