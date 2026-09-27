@@ -218,8 +218,9 @@
             "version": "v0.10.0",
             "author": "sainsaji",
             "category": "FFPFSC",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "titleId": "PPSA99039",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PPSA99039.png",
+            "title": "EVO Player"
         }
     ]
 }

@@ -17,11 +17,10 @@
       <outline text="PS5-File-Explorer" title="PS5-File-Explorer" type="rss" xmlUrl="https://github.com/juma-sayeh/PS5-File-Explorer" description="PS5 File Explorer http://your-ps5-ip:5905."/>
       <outline text="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" title="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/SoNic-AIO/A53-Kstuff-ShadowMountPlus-3in1.elf" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
       <outline text="A53-kstuff-SMP_SoNic-AIO_Experimental" title="A53-kstuff-SMP_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/SoNic-AIO/A53-kstuff-SMP.elf" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
-      <outline text="kstuff_Darkmor_Experimental" title="kstuff_Darkmor_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-Darkmor/kstuff_v1.12-dr-test8.elf" description="Experimental Kstuff DarkMor"/>
-      <outline text="ShadowMountPlus" title="ShadowMountPlus" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/ShadownMountPlusExpermiental/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf" description="ShadowMountPlus experimental for FPKG"/>
-      <outline text="A53 Experimental KS-D" title="A53 Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_fast_v15.09.elf" description="A53 Experimental for Kstuff-Darkmor"/>
-      <outline text="Kstuff_EchoStrech_Experimental" title="Kstuff_EchoStrech_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-EchoStrech/kstuff-echostrech_v1.11expermiental.elf" description="Experimental Kstuff EchoStrech"/>
-      <outline text="A53 Experimental KS-E" title="A53 Experimental KS-E" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/A53-KSE/a53_exploit-experimental.elf" description="A53 Experimental for Kstuff-EchoStrech"/>
+      <outline text="Kstuff-NG_EchoStrech_Experimental" title="Kstuff-NG_EchoStrech_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-NG/Kstuff-NG_v1.00.elf" description="Experimental Kstuff NG"/>
+      <outline text="kstuff_Darkmor_Experimental" title="kstuff_Darkmor_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-Darkmor/kstuff-1.13-fpkg-dr-test3.elf" description="Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3"/>
+      <outline text="A53 1.00-11.40 Experimental KS-D" title="A53 1.00-11.40 Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_1140_20.09.elf" description="a53_ppr_install_1140_20.09.elf - support 1.00-11.40"/>
+      <outline text="A53 11.60 only Experimental KS-D" title="A53 11.60 only Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_1160_20.09.elf" description="a53_ppr_install_1160_20.09.elf - 11.60 only"/>
       <outline text="ps5-webkit-autoloader" title="ps5-webkit-autoloader" type="rss" xmlUrl="https://github.com/itsPLK/ps5-webkit-autoloader" description="Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00."/>
       <outline text="Host-PSM pooP2JB" title="Host-PSM pooP2JB" type="rss" xmlUrl="https://github.com/ps4macedo/instalador-host-psm-poop2jb" description="Host-PSM pooP2JB."/>
       <outline text="zftpd" title="zftpd" type="rss" xmlUrl="https://github.com/seregonwar/zftpd" description="FTP server payload for PS5. Port: 21"/>
@@ -62,6 +61,7 @@
       <outline text="onionHEN" title="onionHEN" type="rss" xmlUrl="https://github.com/aydencharles/onionHEN" description="An all-in-one HEN and Toolbox for PlayStation 5."/>
       <outline text="etaHEN-Beta" title="etaHEN-Beta" type="rss" xmlUrl="https://github.com/zecoxao/zecoxao.github.io/raw/refs/heads/main/luasauce/payloads/etaHEN-2.6B.bin" description="etahen beta version experimental."/>
       <outline text="ProsperoMgr" title="ProsperoMgr" type="rss" xmlUrl="https://github.com/notmaj0r/ProsperoMgr" description="A Web-Based All-In-One homebrew manager for your PlayStation 5"/>
+      <outline text="elf-launcher" title="elf-launcher" type="rss" xmlUrl="https://github.com/X-F1REBALL-X/elf-launcher" description="PS5 launcher for ELF payloads."/>
       <outline text="np-fake-signin" title="np-fake-signin" type="rss" xmlUrl="https://git.etawen.dev/earthonion/np-fake-signin" description="Fake activate PS5 without PSN."/>
       <outline text="ps5-linux-loader" title="ps5-linux-loader" type="rss" xmlUrl="https://github.com/ps5-linux/ps5-linux-loader" description="Linux loader payload for the PS5."/>
       <outline text="ps5-fan-control" title="ps5-fan-control" type="rss" xmlUrl="https://github.com/owendswang/ps5-fan-control" description="Small PS5 daemon payload ELF that sets the system fan temperature."/>
@@ -121,6 +121,7 @@
       <outline text="castation" title="castation" type="rss" xmlUrl="https://github.com/BrinooTk/castation" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
       <outline text="dump_installer" title="dump_installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer" description="Dump installer howmebrew"/>
       <outline text="dump_runner" title="dump_runner" type="rss" xmlUrl="https://github.com/EchoStretch/dump_runner" description="Dump runner howmebrew"/>
+      <outline text="kodi-ps5" title="kodi-ps5" type="rss" xmlUrl="https://github.com/VivaLaVent/kodi-ps5" description="kodi-ps5"/>
     </outline>
   </body>
 </opml>

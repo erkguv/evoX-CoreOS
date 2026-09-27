@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 11:26
+* **PAYLOADS**
+  * `Kstuff-NG` (Source-Fixe) - *Nouveau*
+  * `kstuff-1.13-fpkg-dr-test3` (Source-Fixe) - *Nouveau*
+  * `a53_ppr_install_1140_20.09` (Source-Fixe) - *Nouveau*
+  * `a53_ppr_install_1160_20.09` (Source-Fixe) - *Nouveau*
+  * `elf-launcher` (v0.0.20) - *Nouveau*
+* **APPS**
+  * `kodi-ps5` (0.7) - *Nouveau*
+
 ## Build du 27/09/2026 à 11:06
 * **PAYLOADS**
   * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.7beta2)*

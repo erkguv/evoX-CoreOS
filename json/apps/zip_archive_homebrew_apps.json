@@ -30,6 +30,16 @@
       "version": "v1.02",
       "author": "EchoStretch",
       "category": "Applications"
+    },
+    {
+      "name": "kodi-ps5",
+      "filename": "kodi-ps5-PPSA99420-0.7.zip",
+      "url": "https://github.com/VivaLaVent/kodi-ps5/releases/download/0.7/kodi-ps5-PPSA99420-0.7.zip",
+      "local_path": "archives/temp_apps/kodi-ps5-PPSA99420-0.7.zip",
+      "description": "kodi-ps5",
+      "version": "0.7",
+      "author": "VivaLaVent",
+      "category": "Applications"
     }
   ]
 }

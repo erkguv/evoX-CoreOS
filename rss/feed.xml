@@ -71,33 +71,33 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
+      <title>[Payloads] Kstuff-NG</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf</link>
+      <description>Experimental Kstuff NG</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
       <title>[Payloads] kstuff</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf</link>
-      <description>Experimental Kstuff DarkMor</description>
+      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] ShadowMountPlus</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf</link>
-      <description>ShadowMountPlus experimental for FPKG</description>
+      <title>[Payloads] kstuff-1.13-fpkg-dr-test3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf</link>
+      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] a53_ppr_install_fast</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf</link>
-      <description>A53 Experimental for Kstuff-Darkmor</description>
+      <title>[Payloads] a53_ppr_install_1140_20.09</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf</link>
+      <description>a53_ppr_install_1140_20.09.elf - support 1.00-11.40</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] kstuff-echostrech</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf</link>
-      <description>Experimental Kstuff EchoStrech</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] a53_exploit-experimental</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf</link>
-      <description>A53 Experimental for Kstuff-EchoStrech</description>
+      <title>[Payloads] a53_ppr_install_1160_20.09</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf</link>
+      <description>a53_ppr_install_1160_20.09.elf - 11.60 only</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
@@ -345,6 +345,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin</link>
       <description>etahen beta version experimental.</description>
       <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] elf-launcher</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v0.0.20/elf-launcher_v0.0.20.elf</link>
+      <description>PS5 launcher for ELF payloads.</description>
+      <pubDate>v0.0.20</pubDate>
     </item>
     <item>
       <title>[Payloads] np-fake-signin</title>
@@ -609,6 +615,12 @@
       <link>https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip</link>
       <description>Dump runner howmebrew</description>
       <pubDate>v1.02</pubDate>
+    </item>
+    <item>
+      <title>[Applications] kodi-ps5</title>
+      <link>https://github.com/VivaLaVent/kodi-ps5/releases/download/0.7/kodi-ps5-PPSA99420-0.7.zip</link>
+      <description>kodi-ps5</description>
+      <pubDate>0.7</pubDate>
     </item>
   </channel>
 </rss>

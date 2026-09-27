@@ -80,13 +80,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `c91b81e1bcf9...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `ec1c6c09a1ac...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `8c52eafba85d...` | A53 Experimental for Kstuff-EchoStrech |
-| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `0d750072e61a...` | A53 Experimental for Kstuff-Darkmor |
-| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `c5794137788a...` | Experimental Kstuff DarkMor |
-| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `63247dd3702f...` | Experimental Kstuff EchoStrech |
-| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `b00dc0afe781...` | ShadowMountPlus experimental for FPKG |
+| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `f91fa030cb4c...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `2c01a5cf9975...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [a53_ppr_install_1140_20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf) | Source-Fixe | `b45a3f883bf8...` | a53_ppr_install_1140_20.09.elf - support 1.00-11.40 |
+| [a53_ppr_install_1160_20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf) | Source-Fixe | `c92500518948...` | a53_ppr_install_1160_20.09.elf - 11.60 only |
+| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `c5794137788a...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
+| [kstuff-1.13-fpkg-dr-test3](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf) | Source-Fixe | `8810b2c8a153...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
+| [Kstuff-NG](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf) | Source-Fixe | `eb65511cea28...` | Experimental Kstuff NG |
 
 ### 📂 PS5 Cheat
 
@@ -160,6 +160,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
+| [elf-launcher](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v0.0.20/elf-launcher_v0.0.20.elf) | v0.0.20 | `f49a9a7425ee...` | PS5 launcher for ELF payloads. |
 | [ELF_Arsenal](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf) | v1.6.23 | `20cdb0979ce6...` | Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées. |
 | [etaHEN](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin) | 2.5B | `4845cac45095...` | Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés. |
 | [etaHEN-2.6B](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin) | Source-Fixe | `512c74a9d6f5...` | etahen beta version experimental. |
@@ -355,6 +356,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [castation (castation-0.4.0.zip)](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `N/A` | Dreamcast emulator based on Flycast PlayStation 5 homebrew |
 | [dump_installer](https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip) | 1.07 | `N/A` | Dump installer howmebrew |
 | [dump_runner](https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip) | v1.02 | `N/A` | Dump runner howmebrew |
+| [kodi-ps5](https://github.com/VivaLaVent/kodi-ps5/releases/download/0.7/kodi-ps5-PPSA99420-0.7.zip) | 0.7 | `N/A` | kodi-ps5 |
 
 ---
 
@@ -366,12 +368,11 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **ArkSama** : [Lapy JB Daemon](https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf)
 - **BestPig** : [BackPork](https://github.com/BestPig/BackPork)
 - **BrinooTk** : [castation](https://github.com/BrinooTk/castation)
-- **Darkmor** : [A53 Experimental KS-D](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_fast_v15.09.elf)
-- **Darkmor** : [ShadowMountPlus](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/ShadownMountPlusExpermiental/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf)
-- **Darkmor** : [kstuff_Darkmor_Experimental](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-Darkmor/kstuff_v1.12-dr-test8.elf)
+- **Darkmor** : [A53 1.00-11.40 Experimental KS-D](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_1140_20.09.elf)
+- **Darkmor** : [A53 11.60 only Experimental KS-D](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_1160_20.09.elf)
+- **Darkmor** : [kstuff_Darkmor_Experimental](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-Darkmor/kstuff-1.13-fpkg-dr-test3.elf)
 - **Drakmor** : [nanoDNS](https://github.com/drakmor/nanoDNS)
-- **EchoStrech** : [A53 Experimental KS-E](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/A53-KSE/a53_exploit-experimental.elf)
-- **EchoStrech** : [Kstuff_EchoStrech_Experimental](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-EchoStrech/kstuff-echostrech_v1.11expermiental.elf)
+- **EchoStrech** : [Kstuff-NG_EchoStrech_Experimental](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-NG/Kstuff-NG_v1.00.elf)
 - **EchoStretch** : [dump_installer](https://github.com/EchoStretch/dump_installer)
 - **EchoStretch** : [dump_runner](https://github.com/EchoStretch/dump_runner)
 - **EchoStretch** : [kstuff-lite_EchoStretch](https://github.com/EchoStretch/kstuff-lite)
@@ -401,6 +402,8 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **StonedModder** : [PS Game State Lib](https://github.com/StonedModder/ps-game-state-lib)
 - **StonedModder** : [PS-DiscordPresence](https://github.com/StonedModder/PS-DiscordPresence)
 - **StonedModder** : [savemnt-offset-dumper](https://github.com/StonedModder/savemnt-offset-dumper)
+- **VivaLaVent** : [kodi-ps5](https://github.com/VivaLaVent/kodi-ps5)
+- **X-F1REBALL-X** : [elf-launcher](https://github.com/X-F1REBALL-X/elf-launcher)
 - **aydencharles** : [kylin-core](https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/kylin-core-community-lite-v131-global-release.elf)
 - **aydencharles** : [onionHEN](https://github.com/aydencharles/onionHEN)
 - **barisyild** : [airpsx](https://github.com/barisyild/airpsx)

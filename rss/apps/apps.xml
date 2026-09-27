@@ -28,5 +28,11 @@
       <description>Dump runner howmebrew</description>
       <pubDate>v1.02</pubDate>
     </item>
+    <item>
+      <title>kodi-ps5</title>
+      <link>https://github.com/VivaLaVent/kodi-ps5/releases/download/0.7/kodi-ps5-PPSA99420-0.7.zip</link>
+      <description>kodi-ps5</description>
+      <pubDate>0.7</pubDate>
+    </item>
   </channel>
 </rss>

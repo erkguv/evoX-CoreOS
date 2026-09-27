@@ -80,6 +80,16 @@
       "version": "Source-Fixe",
       "category": "PS5 HEN Loader",
       "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
+    },
+    {
+      "name": "elf-launcher",
+      "filename": "elf-launcher_v0.0.20.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v0.0.20/elf-launcher_v0.0.20.elf",
+      "local_path": "payloads/ps5_hen_loader/elf-launcher/v0.0.20/elf-launcher_v0.0.20.elf",
+      "description": "PS5 launcher for ELF payloads.",
+      "version": "v0.0.20",
+      "category": "PS5 HEN Loader",
+      "checksum": "f49a9a7425ee54cd8b9e57a49b3e8fa0918f13ebaddba6e214033d6765f14aaa"
     }
   ]
 }

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1106)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-1126)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -28,11 +28,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
   * `A53-kstuff-SMP.elf`
+  * `Kstuff-NG_v1.00.elf`
   * `kstuff_v1.12-dr-test8.elf`
-  * `ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf`
-  * `a53_ppr_install_fast_v15.09.elf`
-  * `kstuff-echostrech_v1.11expermiental.elf`
-  * `a53_exploit-experimental.elf`
+  * `kstuff-1.13-fpkg-dr-test3.elf`
+  * `a53_ppr_install_1140_20.09.elf`
+  * `a53_ppr_install_1160_20.09.elf`
   * `webkit-autoloader-installer_v0.4.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
@@ -74,6 +74,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
+  * `elf-launcher_v0.0.20.elf`
   * `np-fake-signin_v1.3.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
@@ -139,6 +140,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `castation-0.4.0.zip`
   * `dump_installer.zip`
   * `dump_runner.zip`
+  * `kodi-ps5-PPSA99420-0.7.zip`
 
 </details>
 
