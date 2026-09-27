@@ -61,8 +61,8 @@ def fetch_github_release_data(repo, config):
         print(f"    ⚠️ Erreur lors de la récupération de la release pour {repo}: {e}")
     return None
 
-def fetch_assets_according_to_rules(entry, category_root_path, default_allowed_exts):
-    """Moteur générique unifié pour télécharger et filtrer les assets selon les règles du dépôt."""
+def fetch_assets_from_url(entry, category_root_path, default_allowed_exts):
+    """Moteur générique unifié renommé pour correspondre à l'import des fetchers."""
     title = entry['title']
     xml_url = entry['xml_url']
     description = entry['description']
