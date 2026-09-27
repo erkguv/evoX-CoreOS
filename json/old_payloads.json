@@ -109,7 +109,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "10b44d0558ebe626e89f0eaf6de2b593728a228a5c70a259b80e0144c37d0d9c"
+            "checksum": "4fb0027212bd21538f55aad141d42265dc90a88939d1347168e4a1cb31aec2e2"
         },
         {
             "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "7b0571ea517978c1a5e169587c3b2ae66dd4ccd6d868e25b04e4f25a596b3931"
+            "checksum": "c088d5148a8656e354dda55d5d9154103ac1f1e2d530829c29115216e312e0d9"
         },
         {
             "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
             "description": "Experimental Kstuff NG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "0d2ab0781fbab5e9c69eb256e987e6d13f90f516b3076578aeb15963b6af822f"
+            "checksum": "5d92c357dcad44dc6f392d31c6f7afc77e8aa747e1c558e61f87a76f26bfa4a6"
         },
         {
             "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
             "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "bcf0f2b45c83118959fa4c8e1bc93762454410a0ddd7a2d2676c5ca4105e8129"
+            "checksum": "076e29f6decbd08f70ec32987bcef75c4bc7ae3b48e8600918179bad60658e8e"
         },
         {
             "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
             "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "79651b545e284eb190dc223c258388854c6b3331075401fee1b5744a11f7a6fe"
+            "checksum": "612dc9401c925c5f25b933c35588959addcb7ed9c6f8a7f1d428df50a080c88b"
         },
         {
             "name": "A53 Ppr Install 1160 20.09",
@@ -169,7 +169,7 @@
             "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "de633b915eed8bf1e1e2fc06e8b38a9d68b9cedcdd54e9550d142caf10176c50"
+            "checksum": "03bbcd0866b7b5a7f9fe66ec6920ded58f0ad8c7ee753f3a412828acc17dc5d0"
         },
         {
             "name": "Webkit-Autoloader-Installer V0.4.0",
@@ -469,7 +469,7 @@
             "description": "ghost-toothAPI.",
             "version": "Source-Fixe",
             "category": "PS5 Utility",
-            "checksum": "f4f72a17fcf307d57d40468968e578d3c546a1a9c2722c65c87435a800e438ca"
+            "checksum": "16c7ca5c687b540679fd8b26392eb0fe0f3e0a326eae3dff13d712672b9508cb"
         },
         {
             "name": "Spectrum-Library V1.4.7",
@@ -630,6 +630,16 @@
             "version": "Source-Fixe",
             "category": "PS5 HEN Loader",
             "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
+        },
+        {
+            "name": "Prosperomgr Vbeta",
+            "filename": "ProsperoMgr_vbeta.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/beta/ProsperoMgr_vbeta.elf",
+            "local_path": "payloads/ps5_hen_loader/ProsperoMgr/beta/ProsperoMgr_vbeta.elf",
+            "description": "A Web-Based All-In-One homebrew manager for your PlayStation 5",
+            "version": "beta",
+            "category": "PS5 HEN Loader",
+            "checksum": "6cde8d8e97478ff43f69d2c6b22ac6512311d83b1d9ceb09d56796b9200c1b3c"
         },
         {
             "name": "Elf-Launcher V1.0.3",

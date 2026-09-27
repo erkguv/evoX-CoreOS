@@ -383,6 +383,12 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
+      <title>Prosperomgr Vbeta</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/beta/ProsperoMgr_vbeta.elf</link>
+      <description>A Web-Based All-In-One homebrew manager for your PlayStation 5</description>
+      <pubDate>beta</pubDate>
+    </item>
+    <item>
       <title>Elf-Launcher V1.0.3</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf</link>
       <description>PS5 launcher for ELF payloads.</description>

@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 21:01
+* **PAYLOADS**
+  * `Prosperomgr Vbeta` (beta) - *Nouveau*
+
 ## Build du 27/09/2026 à 20:28
 * **PAYLOADS**
   * `A53-Kstuff-Shadowmountplus-3In1` (Source-Fixe) - *Nouveau*

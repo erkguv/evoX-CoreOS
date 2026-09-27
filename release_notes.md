@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-2028)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-2101)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -80,6 +80,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
+  * `ProsperoMgr_vbeta.elf`
   * `elf-launcher_v1.0.3.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
@@ -136,13 +137,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>📄 Pack FFPFSC</b></summary>
 
 * **files**
-  * `PPSA99002.zip`
   * `PPSA99002.ffpfsc`
-  * `PPSA99001.zip`
   * `PPSA99001.ffpfsc`
   * `PPSA99003.ffpfsc`
-  * `PPSA99003.zip`
-  * `PPSA99004.zip`
   * `EVOPlayer-v0.10.0-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
 
