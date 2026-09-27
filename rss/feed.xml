@@ -552,7 +552,13 @@
     </item>
     <item>
       <title>[Packages PKG] Mario Kart 64 Port</title>
-      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_MK64_Port.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg</link>
+      <description>PS5PKG_MK64_Port.</description>
+      <pubDate>v1.0.0</pubDate>
+    </item>
+    <item>
+      <title>[Packages PKG] God Of War - Betrayal Port</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg</link>
       <description>PS5PKG_MK64_Port.</description>
       <pubDate>v1.0.0</pubDate>
     </item>
