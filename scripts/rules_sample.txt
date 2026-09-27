@@ -1,0 +1,56 @@
+# Exemple complet d'un dépôt avec toutes les options possibles
+"auteur-ou-proprietaire/nom-du-depot": {
+    
+    # 1. Gestion des canaux de release GitHub
+    # Valeurs possibles : "stable" (dernière release officielle) ou "pre-release" (première de la liste brute)
+    "release_channel": "stable",
+    
+    # 2. Filtrage des extensions de fichiers
+    # Liste des extensions autorisées à être téléchargées
+    "allowed_extensions": [".elf", ".bin", ".zip"],
+    # Liste des extensions à ignorer/exclure explicitement
+    "exclude_extensions": [".txt", ".md"],
+    # Liste de mots-clés interdits dans le nom du fichier (ex: ignorer les versions PS4)
+    "exclude_keywords": ["-ps4-", "debug-legacy"],
+    
+    # 3. Comportement des noms de fichiers
+    # True = garde le nom d'origine du fichier distant | False = applique les règles de nommage
+    "keep_original": False,
+    
+    # 4. Nettoyage du dossier cible
+    # True = supprime tous les anciens fichiers du dossier avant d'écrire les nouveaux
+    "strict_clean": True,
+    
+    # 5. Gestion des archives ZIP
+    # True = extrait automatiquement le contenu d'un fichier .zip téléchargé
+    "extract_zip": True,
+    # Format de renommage spécifique si une température ou une variable est détectée (utilisé pour les fans par ex)
+    "suffix_format": "_{temperature}_v{version}.elf",
+    
+    # 6. Option d'archivage source
+    # True = télécharge également l'archive source brute du dépôt (tar.gz / zip)
+    "download_source_archive": False,
+    
+    # 7. Système de mapping simple (compatibilité ascendante)
+    # Associe un motif du nom distant à un nom cible formaté avec la version
+    "mapping": {
+        "fichier-distant-v1.0.elf": "mon_nom_propre_v{version}.elf"
+    },
+    
+    # 8. Système multi-fichiers avancé ("targets")
+    # Permet de cibler plusieurs fichiers précis dans une seule release et de les renommer un par un
+    "targets": [
+        {
+            "match": "payload-core.elf",          # Mot-clé ou nom exact pour reconnaître ce fichier distant
+            "rename": "core_v{version}.elf"       # Nom final souhaité sur ton store avec injection de la version
+        },
+        {
+            "match": "payload-loader.elf",
+            "rename": "loader_v{version}.elf"
+        },
+        {
+            "match": "config-default.bin",
+            "rename": "config.bin"                # Nom fixe sans variable de version si souhaité
+        }
+    ]
+}
