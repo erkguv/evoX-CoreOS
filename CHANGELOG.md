@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 13:20
+* **PAYLOADS**
+  * `A53-Kstuff-ShadowMountPlus-3in1` (Source-Fixe) - *Nouveau*
+  * `ps5upload` (v5.35.0) - *Nouveau*
+  * `FGG-XSense` (1.1) - *Nouveau*
+  * `FGG-PlayPods` (1.0) - *Nouveau*
+  * `FGG-Unpack` (v0.1) - *Nouveau*
+  * `ghost-toothAPI` (Source-Fixe) - *Nouveau*
+  * `elf-launcher` (v1.0.2) - *Mise à jour (Précédent: v0.0.21)*
+
 ## Build du 27/09/2026 à 11:50
 * **PAYLOADS**
   * `elf-launcher` (v0.0.21) - *Mise à jour (Précédent: v0.0.20)*

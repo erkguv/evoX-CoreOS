@@ -83,13 +83,13 @@
     },
     {
       "name": "elf-launcher",
-      "filename": "elf-launcher_v0.0.21.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v0.0.21/elf-launcher_v0.0.21.elf",
-      "local_path": "payloads/ps5_hen_loader/elf-launcher/v0.0.21/elf-launcher_v0.0.21.elf",
+      "filename": "elf-launcher_v1.0.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.2/elf-launcher_v1.0.2.elf",
+      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.2/elf-launcher_v1.0.2.elf",
       "description": "PS5 launcher for ELF payloads.",
-      "version": "v0.0.21",
+      "version": "v1.0.2",
       "category": "PS5 HEN Loader",
-      "checksum": "23e0f96bd1ac3dd22e5ef468c1fd5f4d62fad2f50f42f9c6d7ae6cac3a58136a"
+      "checksum": "35f9afa8851d1101be43152e241f1d3e511f6e3d11055252c9de3f603b09c8ab"
     }
   ]
 }

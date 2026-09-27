@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1150)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-1320)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -26,6 +26,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `lapy_jb_daemon.elf`
   * `ps5-web-file-manager_v1.9.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
+  * `A53-Kstuff-ShadowMountPlus-3in1.elf`
   * `A53-kstuff-SMP.elf`
   * `Kstuff-NG_v1.00.elf`
   * `kstuff_v1.12-dr-test8.elf`
@@ -46,6 +47,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
+  * `ps5upload_v5.35.0.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `Ghostpad_v1.0.0.elf`
@@ -57,6 +59,10 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `unrar-ps5_v1.4.0.elf`
   * `PS5-Power-Payloads-Project_v1.0.elf`
   * `ps5-date-time-sync_v1.0.0.elf`
+  * `FGG-XSense_v1.1.elf`
+  * `FGG-PlayPods_v1.0.elf`
+  * `FGG-Unpack_v0.1.elf`
+  * `ghost-toothAPI.elf`
   * `Spectrum-Library_v1.4.7.bin`
   * `pegasus-dl_v1.9.0.elf`
   * `ps5shopappkg-dpi.elf`
@@ -72,7 +78,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
-  * `elf-launcher_v0.0.21.elf`
+  * `elf-launcher_v1.0.2.elf`
   * `np-fake-signin_v1.3.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`

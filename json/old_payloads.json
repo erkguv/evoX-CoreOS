@@ -92,6 +92,16 @@
             "checksum": "6d4b905b42727dddeaedddb2a657ed0d4e7110ddd068a6daab0aafb2ba32604b"
         },
         {
+            "name": "A53-Kstuff-ShadowMountPlus-3in1",
+            "filename": "A53-Kstuff-ShadowMountPlus-3in1.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
+            "local_path": "payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
+            "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
+            "version": "Source-Fixe",
+            "category": "PS5 Beta",
+            "checksum": "0c121c2ff2d46cdfad3c890e04566cef894a577a140e4e868dd9182d2698ac39"
+        },
+        {
             "name": "A53-kstuff-SMP",
             "filename": "A53-kstuff-SMP.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
@@ -99,7 +109,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "d0ef47cc0fdaeb071007c65cf6cfc3b7c6d6d39e108fc4384714eb79715eaccd"
+            "checksum": "1e0f4c77372fa00fba4d79a18e0e04374bed383c7cdd7032c29c40d0f5385096"
         },
         {
             "name": "Kstuff-NG",
@@ -109,7 +119,7 @@
             "description": "Experimental Kstuff NG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "fb0954fab9e616d94669ee196bd387fbea78dd7631ef9bfa8b6fc20712838969"
+            "checksum": "f1afcd01003f3ea6b923b862b3941ab20b57447018741b710a2d65b40f5cf4bb"
         },
         {
             "name": "kstuff",
@@ -129,7 +139,7 @@
             "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "9fee7dedb055056bc22bd127e8dc0203f158d1d6f328221308a7c13bed3173c4"
+            "checksum": "80bfb9438b9c5560ba467a7ecafb3b239b488a3a5d2ae6035a80df0b5424d2d9"
         },
         {
             "name": "a53_ppr_install_1140_20.09",
@@ -139,7 +149,7 @@
             "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "8717706a11357121ba9755e1e204a55e0c231953a3b04eb769494e0108b690d9"
+            "checksum": "cfb61d12e62703f2b55112877c3e28636af061e4d16567349dde8329daf23524"
         },
         {
             "name": "a53_ppr_install_1160_20.09",
@@ -149,7 +159,7 @@
             "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "13050b353e05f93ca277198cf51451b1dd09c9aa8740094052a4d290b944d8a7"
+            "checksum": "02618e0096e887ee9facc492f7518547198780efce4dc823898d4398ab32d888"
         },
         {
             "name": "webkit-autoloader-installer",
@@ -292,6 +302,16 @@
             "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
         },
         {
+            "name": "ps5upload",
+            "filename": "ps5upload_v5.35.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.35.0/ps5upload_v5.35.0.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v5.35.0/ps5upload_v5.35.0.elf",
+            "description": "PS5 Upload server / tool. Port: 9025",
+            "version": "v5.35.0",
+            "category": "PS5 Server",
+            "checksum": "94a996dc7adaaf264545ffc3b7f4fb471a52569630ea5538ee18d20039c4213b"
+        },
+        {
             "name": "airpsx",
             "filename": "airpsx_v0.19.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf",
@@ -400,6 +420,46 @@
             "version": "v1.0.0",
             "category": "PS5 Utility",
             "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849"
+        },
+        {
+            "name": "FGG-XSense",
+            "filename": "FGG-XSense_v1.1.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
+            "local_path": "payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
+            "description": "Use an Xbox controller on a jailbroken PlayStation 5.",
+            "version": "1.1",
+            "category": "PS5 Utility",
+            "checksum": "55195ccb02fbdbfa002e9188b0eff72d7d2e6de6c7a1c91666f88c6c9ff0d6c0"
+        },
+        {
+            "name": "FGG-PlayPods",
+            "filename": "FGG-PlayPods_v1.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
+            "local_path": "payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
+            "description": "Hear your PlayStation 5 on an ordinary Bluetooth headset.",
+            "version": "1.0",
+            "category": "PS5 Utility",
+            "checksum": "9ee1958ec24e4a927992fea9ee202f5a173756091bd3abc02ebf4d2d686211a4"
+        },
+        {
+            "name": "FGG-Unpack",
+            "filename": "FGG-Unpack_v0.1.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf",
+            "local_path": "payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf",
+            "description": "Extract .zip and .7z archives directly on a jailbroken PlayStation 5.",
+            "version": "v0.1",
+            "category": "PS5 Utility",
+            "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff"
+        },
+        {
+            "name": "ghost-toothAPI",
+            "filename": "ghost-toothAPI.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
+            "local_path": "payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
+            "description": "ghost-toothAPI.",
+            "version": "Source-Fixe",
+            "category": "PS5 Utility",
+            "checksum": "cedf4b18e2718e6fdd81ede246beefb1e1c0a7bbef611ad09811bd9c4c46db35"
         },
         {
             "name": "Spectrum-Library",
@@ -553,13 +613,13 @@
         },
         {
             "name": "elf-launcher",
-            "filename": "elf-launcher_v0.0.21.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v0.0.21/elf-launcher_v0.0.21.elf",
-            "local_path": "payloads/ps5_hen_loader/elf-launcher/v0.0.21/elf-launcher_v0.0.21.elf",
+            "filename": "elf-launcher_v1.0.2.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.2/elf-launcher_v1.0.2.elf",
+            "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.2/elf-launcher_v1.0.2.elf",
             "description": "PS5 launcher for ELF payloads.",
-            "version": "v0.0.21",
+            "version": "v1.0.2",
             "category": "PS5 HEN Loader",
-            "checksum": "23e0f96bd1ac3dd22e5ef468c1fd5f4d62fad2f50f42f9c6d7ae6cac3a58136a"
+            "checksum": "35f9afa8851d1101be43152e241f1d3e511f6e3d11055252c9de3f603b09c8ab"
         },
         {
             "name": "np-fake-signin",
