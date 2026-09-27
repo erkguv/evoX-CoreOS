@@ -78,5 +78,10 @@
         "titleId": "MOUG90926",
         "title": "God of War Betrayal",
         "icon": "PS5PKG_GOW-Betrayal_Port.png"
+    },
+    "EVOPlayer-v0.10.0-PPSA99039.ffpfsc": {
+        "titleId": "PPSA99039",
+        "title": "EVO Player",
+        "icon": "PPSA99039.png"
     }
 }
