@@ -221,6 +221,18 @@
             "titleId": "PPSA99039",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PPSA99039.png",
             "title": "EVO Player"
+        },
+        {
+            "name": "ProsperoRadio Vulkan Edition",
+            "filename": "PROSPERO_RADIO.ffpfsc",
+            "url": "https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.026/PROSPERO_RADIO.ffpfsc",
+            "local_path": "archives/temp_ffpfsc/PROSPERO_RADIO.ffpfsc",
+            "description": "An internet radio for PS5 with a real radio face — rendered with Vulkan.",
+            "version": "01.000.026",
+            "author": "RastaFairy",
+            "category": "FFPFSC",
+            "titleId": "CUSA00000",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
         }
     ]
 }

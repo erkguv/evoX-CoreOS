@@ -185,12 +185,6 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>ps5upload</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.34.0/ps5upload_v5.34.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.34.0</pubDate>
-    </item>
-    <item>
       <title>airpsx</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf</link>
       <description>AirPSX server tool for PS5 ecosystem.</description>

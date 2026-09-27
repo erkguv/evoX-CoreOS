@@ -28,5 +28,11 @@
       <description>A media player for jailbroken PS5</description>
       <pubDate>v0.10.0</pubDate>
     </item>
+    <item>
+      <title>ProsperoRadio Vulkan Edition</title>
+      <link>https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.026/PROSPERO_RADIO.ffpfsc</link>
+      <description>An internet radio for PS5 with a real radio face — rendered with Vulkan.</description>
+      <pubDate>01.000.026</pubDate>
+    </item>
   </channel>
 </rss>

@@ -185,12 +185,6 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] ps5upload</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.34.0/ps5upload_v5.34.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.34.0</pubDate>
-    </item>
-    <item>
       <title>[Payloads] airpsx</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf</link>
       <description>AirPSX server tool for PS5 ecosystem.</description>
@@ -591,6 +585,12 @@
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc</link>
       <description>A media player for jailbroken PS5</description>
       <pubDate>v0.10.0</pubDate>
+    </item>
+    <item>
+      <title>[Fichiers FFPFSC] ProsperoRadio Vulkan Edition</title>
+      <link>https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.026/PROSPERO_RADIO.ffpfsc</link>
+      <description>An internet radio for PS5 with a real radio face — rendered with Vulkan.</description>
+      <pubDate>01.000.026</pubDate>
     </item>
     <item>
       <title>[Applications] ProsperoAI (PPSA99004.zip)</title>

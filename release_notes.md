@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1126)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-1140)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -47,7 +47,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v5.34.0.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `Ghostpad_v1.0.0.elf`
@@ -129,6 +128,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99001.ffpfsc`
   * `PPSA99003.ffpfsc`
   * `EVOPlayer-v0.10.0-PPSA99039.ffpfsc`
+  * `PROSPERO_RADIO.ffpfsc`
 
 </details>
 
