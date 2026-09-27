@@ -2,9 +2,10 @@ import os
 import re
 import json
 import hashlib
+import zipfile
 import subprocess
 import urllib.request
-from scripts.config_rules import PATHS, BASE_URL
+from scripts.config_rules import PATHS, BASE_URL, REPO_RULES
 from scripts.fetchers.utils import parse_opml_file
 from scripts.cleaner import process_downloaded_payloads
 
@@ -69,17 +70,83 @@ def fetch_payloads_category(credits_set):
                             target_dir = os.path.join(PATHS["categories"]["payloads"]["root"], cat_tech, title.replace(" ", "_"), version_clean)
                             os.makedirs(target_dir, exist_ok=True)
 
+                            custom_rules = REPO_RULES.get("custom_payload_rules", {}).get(repo_lower)
+
                             for asset in release_data.get('assets', []):
                                 asset_url = asset.get('browser_download_url', '')
                                 asset_name = asset.get('name', '')
-                                if asset_name.lower().endswith(('.elf', '.bin', '.ffpfsc')):
+                                
+                                should_download = False
+                                target_filename = asset_name
+
+                                if custom_rules:
+                                    if "files" in custom_rules:
+                                        # Si l'asset fait partie de la liste exacte des fichiers demandés
+                                        if any(f in asset_name for f in custom_rules["files"]):
+                                            should_download = True
+                                            target_filename = asset_name
+                                    elif "mapping" in custom_rules:
+                                        matched_mapping = False
+                                        for original_pattern, target_pattern in custom_rules["mapping"].items():
+                                            if original_pattern in asset_name:
+                                                should_download = True
+                                                v_numeric = version_clean.lstrip('v')
+                                                if "{version}" in target_pattern:
+                                                    target_filename = target_pattern.format(version=v_numeric)
+                                                else:
+                                                    target_filename = target_pattern
+                                                matched_mapping = True
+                                                break
+                                        if not matched_mapping and asset_name.lower().endswith(('.elf', '.bin')):
+                                            should_download = True
+                                    elif custom_rules.get("extract_zip") and asset_name.endswith('.zip'):
+                                        should_download = True
+                                        target_filename = asset_name
+                                else:
+                                    if asset_name.lower().endswith(('.elf', '.bin', '.ffpfsc', '.zip')):
+                                        should_download = True
+
+                                # Exclusion stricte du .bin pour zftpd si jamais il matche par erreur
+                                if repo_lower == "seregonwar/zftpd" and asset_name.endswith('.bin'):
+                                    should_download = False
+
+                                if should_download:
+                                    local_file_path = os.path.join(target_dir, target_filename)
                                     opener = urllib.request.build_opener()
                                     opener.addheaders = [('User-Agent', 'Mozilla/5.0'), ('Accept', 'application/octet-stream')]
                                     if os.environ.get('GITHUB_TOKEN'):
                                         opener.addheaders.append(('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}"))
                                     urllib.request.install_opener(opener)
-                                    urllib.request.urlretrieve(asset_url, os.path.join(target_dir, asset_name))
+                                    urllib.request.urlretrieve(asset_url, local_file_path)
                                     downloaded = True
+
+                                    # Gestion spécifique si c'est un ZIP à extraire et renommer
+                                    if custom_rules and custom_rules.get("extract_zip") and asset_name.endswith('.zip'):
+                                        try:
+                                            with zipfile.ZipFile(local_file_path, 'r') as zip_ref:
+                                                for zipped_file in zip_ref.namelist():
+                                                    if zipped_file.endswith('.elf'):
+                                                        extracted_path = zip_ref.extract(zipped_file, target_dir)
+                                                        base_zipped_name = os.path.basename(zipped_file)
+                                                        
+                                                        temp_match = re.search(r'(\d+c)', base_zipped_name, re.IGNORECASE)
+                                                        v_numeric = version_clean.lstrip('v')
+                                                        
+                                                        if temp_match:
+                                                            temp_val = temp_match.group(1).lower()
+                                                            new_elf_name = f"fan_target_{temp_val}_v{v_numeric}.elf"
+                                                        else:
+                                                            new_elf_name = f"{os.path.splitext(base_zipped_name)[0]}_v{v_numeric}.elf"
+                                                        
+                                                        final_elf_path = os.path.join(target_dir, new_elf_name)
+                                                        if os.path.exists(final_elf_path):
+                                                            os.remove(final_elf_path)
+                                                        os.rename(extracted_path, final_elf_path)
+                                            
+                                            os.remove(local_file_path)
+                                        except Exception as zip_err:
+                                            print(f"    ⚠️ Erreur extraction ZIP pour {repo}: {zip_err}")
+
                     except Exception as e:
                         try:
                             target_dir = os.path.join(PATHS["categories"]["payloads"]["root"], cat_tech, title.replace(" ", "_"), "v1.0.0")
@@ -90,18 +157,16 @@ def fetch_payloads_category(credits_set):
                         except Exception as sub_e:
                             print(f"    ⚠️ Échec fallback gh release download pour {repo}: {sub_e}")
 
-            # --- GESTION FORGEJO / GITEA ROBUSTE (CONTOURNEMENT 401 PAR RAPPORT AUX URLS DIRECTES) ---
+            # --- GESTION FORGEJO / GITEA ROBUSTE ---
             if not downloaded and any(domain in xml_url for domain in ["git.", "codeberg.org", "gitlab.com", "gitea"]):
                 try:
                     html_content = ""
-                    # On tente de récupérer la page des releases, et si ça plante sur le 401, on attrape l'erreur pour ne pas crash
                     html_releases_url = f"{xml_url.rstrip('/')}/releases"
                     try:
                         req_html = urllib.request.Request(html_releases_url, headers={'User-Agent': 'Mozilla/5.0'})
                         with urllib.request.urlopen(req_html) as resp_html:
                             html_content = resp_html.read().decode('utf-8', errors='ignore')
                     except urllib.error.HTTPError:
-                        # Si /releases bloque en 401, on tente d'interroger directement la page principale ou la page des tags
                         html_tags_url = f"{xml_url.rstrip('/')}/tag"
                         req_tags = urllib.request.Request(html_tags_url, headers={'User-Agent': 'Mozilla/5.0'})
                         with urllib.request.urlopen(req_tags) as resp_tags:
@@ -160,10 +225,10 @@ def fetch_payloads_category(credits_set):
                     for chunk in iter(lambda: fb.read(4096), b""): hasher.update(chunk)
 
                 credits_set.add(f"- **{author}** : [{title}]({xml_url})")
-                display_name = os.path.splitext(main_file)[0].split('_v')[0]
+                display_name = os.path.splitext(main_file)[0]
 
                 item_data = {
-                    "name": display_name,
+                    "name": display_name.replace('_', ' ').title(),
                     "filename": main_file,
                     "url": f"{BASE_URL}/{target_dir.replace(os.sep, '/')}/{main_file}",
                     "local_path": full_path,
