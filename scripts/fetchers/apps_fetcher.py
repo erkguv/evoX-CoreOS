@@ -1,11 +1,10 @@
 # scripts/fetchers/apps_fetcher.py
 import os
 from scripts.config_rules import PATHS
-from scripts.fetchers.utils import parse_opml_file, fetch_assets_according_to_rules
+from scripts.fetchers.utils import parse_opml_file, fetch_assets_from_url
 
 def fetch_apps_category(credits_set):
     feed_dir = PATHS["categories"]["apps"]["feed"]
-    root_dir = PATHS["categories"]["apps"]["root"] if "root" in PATHS["categories"]["apps"] else "apps"
     all_flat = []
     by_category = {}
 
@@ -20,10 +19,11 @@ def fetch_apps_category(credits_set):
 
         for entry in entries:
             title, xml_url, author = entry['title'], entry['xml_url'], entry['author']
+            desc = entry.get('description', '')
             if not xml_url: continue
 
             default_exts = ('.pkg', '.zip', '.elf', '.bin', '.tar.gz', '.rar')
-            assets = fetch_assets_according_to_rules(entry, root_dir, default_exts)
+            assets = fetch_assets_from_url(xml_url, title, desc, author, default_exts, category_folder="apps")
             
             for item in assets:
                 item["category"] = cat_display
