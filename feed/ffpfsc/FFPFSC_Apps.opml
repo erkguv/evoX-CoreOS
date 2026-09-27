@@ -8,6 +8,7 @@
     <outline text="ProsperoRadio" title="ProsperoRadio" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoRadio" author="blackbearreloaded" description="PS5 Radio Player"/>
     <outline text="ProsperoTV" title="ProsperoTV" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoTV" author="blackbearreloaded" description="PS5 IPTV"/>
     <outline text="ProsperoAI" title="ProsperoAI" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI" author="blackbearreloaded" description="Private, local generative AI for PlayStation 5 homebrew"/>
-   <outline text="EVO-PLAYER-PS5" title="EVO-PLAYER-PS5" type="rss" xmlUrl="https://github.com/sainsaji/EVO-PLAYER-PS5" author="sainsaji" description="A media player for jailbroken PS5"/>
+    <outline text="EVO-PLAYER-PS5" title="EVO-PLAYER-PS5" type="rss" xmlUrl="https://github.com/sainsaji/EVO-PLAYER-PS5" author="sainsaji" description="A media player for jailbroken PS5"/>
+    <outline text="ProsperoRadio Vulkan Edition" title="ProsperoRadio Vulkan Edition" type="rss" xmlUrl="https://github.com/RastaFairy/Prospero_Radio_Vulkan" author="RastaFairy" description="An internet radio for PS5 with a real radio face — rendered with Vulkan."/>
   </body>
 </opml>
