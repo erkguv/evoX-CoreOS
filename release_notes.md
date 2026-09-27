@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1747)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-1825)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -39,10 +39,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
-  * `zftpd-ps4-v1.5.0.elf`
   * `zftpd_v1.5.0.elf`
   * `zhttp_v1.5.0.elf`
-  * `zftpd-ps4-zhttp-v1.5.0.elf`
   * `elfldr_v0.26.elf`
   * `ftpsrv_ps5-payload_v0.21.1.elf`
   * `websrv_v0.34.elf`
@@ -128,6 +126,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg`
   * `PS5PKG_MK64_Port.pkg`
   * `PS5PKG_GOW-Betrayal_Port.pkg`
+  * `Spectrum_Library_1.4.7_Native.pkg`
 
 </details>
 

@@ -137,12 +137,6 @@
       <pubDate>v1.2.0</pubDate>
     </item>
     <item>
-      <title>Zftpd-Ps4-V1.5.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd-ps4-v1.5.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.5.0</pubDate>
-    </item>
-    <item>
       <title>Zftpd V1.5.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
@@ -151,12 +145,6 @@
     <item>
       <title>Zhttp V1.5.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zhttp_v1.5.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.5.0</pubDate>
-    </item>
-    <item>
-      <title>Zftpd-Ps4-Zhttp-V1.5.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd-ps4-zhttp-v1.5.0.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
       <pubDate>v1.5.0</pubDate>
     </item>

@@ -17,5 +17,6 @@
     <outline text="PS5Webit-Nexgen999_Installer" title="PS5Webit-Nexgen999_Installer" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg" description="PS5Webit-Nexgen999_Installer."/>
     <outline text="Mario Kart 64 Port" title="Mario Kart 64 Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg" description="PS5PKG_MK64_Port."/>
     <outline text="God Of War - Betrayal Port" title="God Of War - Betrayal Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg" description="PS5PKG_MK64_Port."/>
+    <outline text="Spectrum-Library (Spectrum_Library_1.4.7_Native.pkg)" title="Spectrum-Library (Spectrum_Library_1.4.7_Native.pkg)" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.7/Spectrum_Library_1.4.7_Native.pkg" description="Spectrum-Library FreeShop."/>
   </body>
 </opml>

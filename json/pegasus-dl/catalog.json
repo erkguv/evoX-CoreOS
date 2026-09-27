@@ -171,6 +171,18 @@
             "title": "God of War Betrayal"
         },
         {
+            "name": "Spectrum-Library (Spectrum_Library_1.4.7_Native.pkg)",
+            "filename": "Spectrum_Library_1.4.7_Native.pkg",
+            "url": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.7/Spectrum_Library_1.4.7_Native.pkg",
+            "local_path": "archives/temp_pkg/Spectrum_Library_1.4.7_Native.pkg",
+            "description": "Spectrum-Library FreeShop.",
+            "version": "1.4.7",
+            "author": "Phoenixx1202",
+            "category": "PKG",
+            "titleId": "CUSA00000",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+        },
+        {
             "name": "ProsperoLight (PPSA99002.ffpfsc)",
             "filename": "PPSA99002.ffpfsc",
             "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc",

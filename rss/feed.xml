@@ -137,12 +137,6 @@
       <pubDate>v1.2.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Zftpd-Ps4-V1.5.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd-ps4-v1.5.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.5.0</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Zftpd V1.5.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
@@ -151,12 +145,6 @@
     <item>
       <title>[Payloads] Zhttp V1.5.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zhttp_v1.5.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.5.0</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Zftpd-Ps4-Zhttp-V1.5.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd-ps4-zhttp-v1.5.0.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
       <pubDate>v1.5.0</pubDate>
     </item>
@@ -627,6 +615,12 @@
       <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg</link>
       <description>PS5PKG_MK64_Port.</description>
       <pubDate>v1.0.0</pubDate>
+    </item>
+    <item>
+      <title>[Packages PKG] Spectrum-Library (Spectrum_Library_1.4.7_Native.pkg)</title>
+      <link>https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.7/Spectrum_Library_1.4.7_Native.pkg</link>
+      <description>Spectrum-Library FreeShop.</description>
+      <pubDate>1.4.7</pubDate>
     </item>
     <item>
       <title>[Fichiers FFPFSC] ProsperoLight (PPSA99002.ffpfsc)</title>

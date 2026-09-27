@@ -82,5 +82,11 @@
       <description>PS5PKG_MK64_Port.</description>
       <pubDate>v1.0.0</pubDate>
     </item>
+    <item>
+      <title>Spectrum-Library (Spectrum_Library_1.4.7_Native.pkg)</title>
+      <link>https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.7/Spectrum_Library_1.4.7_Native.pkg</link>
+      <description>Spectrum-Library FreeShop.</description>
+      <pubDate>1.4.7</pubDate>
+    </item>
   </channel>
 </rss>
