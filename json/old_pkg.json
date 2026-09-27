@@ -130,16 +130,6 @@
             "version": "Source-Fixe",
             "checksum": "132fdd785c3a7a7ac5220a87ec0f698d09ad6b4fdc7b8e422133867cd75998f1",
             "category": "PKG"
-        },
-        {
-            "name": "Legacyjb 1.1",
-            "filename": "LegacyJB_1.1.bin",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/pkg/Spectrum-Library/1.4.7/LegacyJB_1.1.bin",
-            "local_path": "pkg/Spectrum-Library/1.4.7/LegacyJB_1.1.bin",
-            "description": "Spectrum-Library FreeShop.",
-            "version": "1.4.7",
-            "checksum": "9c7b60380153cda2eb4a6f20ddc46774a621706388714d0fd97b492a6152f751",
-            "category": "PKG"
         }
     ]
 }

@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 20:28
+* **PAYLOADS**
+  * `A53-Kstuff-Shadowmountplus-3In1` (Source-Fixe) - *Nouveau*
+  * `Ps5Library-Agent V0.2.54` (v0.2.54) - *Nouveau*
+  * `Bfplayer-Standalone V0.1.0-Alpha.44` (v0.1.0-alpha.44) - *Nouveau*
+  * `Ps5-Fw-Spoof V26616621599` (26616621599) - *Nouveau*
+
 ## Build du 27/09/2026 à 19:53
 * **PKG**
   * `Ps5Pkg Avatar-Changer V1.00` (Source-Fixe) - *Nouveau*

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1953)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-2028)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -27,6 +27,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `wfm-7zip-helper.elf`
   * `wfm-7zip-helper_v1.9.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
+  * `A53-Kstuff-ShadowMountPlus-3in1.elf`
   * `A53-kstuff-SMP.elf`
   * `Kstuff-NG_v1.00.elf`
   * `kstuff_v1.12-dr-test8.elf`
@@ -66,6 +67,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Spectrum-Library_v1.4.7.bin`
   * `pegasus-dl_v1.9.0.elf`
   * `ps5shopappkg-dpi.elf`
+  * `ps5library-agent_v0.2.54.elf`
+  * `bfplayer-standalone_v0.1.0-alpha.44.elf`
   * `ProsperoPlayer_v1.0.elf`
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
@@ -88,6 +91,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Custom-Tool-Manager-_vCustom.elf`
   * `ps5-wallpaper-modd_v1.0.elf`
   * `ps5debug-NG_v1.3.2.elf`
+  * `ps5-fw-spoof_v26616621599.elf`
   * `ps5-self-pager_v1.2.elf`
   * `PS5-SELF-Decrypter_v0.5.2.elf`
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
@@ -125,7 +129,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg`
   * `PS5PKG_MK64_Port.pkg`
   * `PS5PKG_GOW-Betrayal_Port.pkg`
-  * `LegacyJB_1.1.bin`
 
 </details>
 

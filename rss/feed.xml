@@ -65,6 +65,12 @@
       <pubDate>file-explorer-v0.2.1</pubDate>
     </item>
     <item>
+      <title>[Payloads] A53-Kstuff-Shadowmountplus-3In1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf</link>
+      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
       <title>[Payloads] A53-Kstuff-Smp</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf</link>
       <description>Experimental AIO by SoNic credit to EchoStrech DarkMor</description>
@@ -299,6 +305,18 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
+      <title>[Payloads] Ps5Library-Agent V0.2.54</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.54/ps5library-agent_v0.2.54.elf</link>
+      <description>You need PS5Library.pkg.</description>
+      <pubDate>v0.2.54</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Bfplayer-Standalone V0.1.0-Alpha.44</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone_v0.1.0-alpha.44.elf</link>
+      <description>BFplayer is a native media library and player for jailbroken PlayStation 5 consoles.</description>
+      <pubDate>v0.1.0-alpha.44</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Prosperoplayer V1.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf</link>
       <description>A homebrew media player for jailbroken PS5.</description>
@@ -429,6 +447,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5debug-NG/1.3.2/ps5debug-NG_v1.3.2.elf</link>
       <description>Next generation debugger payload for PS5.</description>
       <pubDate>1.3.2</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Ps5-Fw-Spoof V26616621599</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof_v26616621599.elf</link>
+      <description>Firmware spoofer utility for PS5.</description>
+      <pubDate>26616621599</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Self-Pager V1.2</title>
@@ -609,12 +633,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/pkg/God_Of_War_-_Betrayal_Port/Source-Fixe/PS5PKG_GOW-Betrayal_Port.pkg</link>
       <description>PS5PKG_MK64_Port.</description>
       <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>[Packages PKG] Legacyjb 1.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/Spectrum-Library/1.4.7/LegacyJB_1.1.bin</link>
-      <description>Spectrum-Library FreeShop.</description>
-      <pubDate>1.4.7</pubDate>
     </item>
     <item>
       <title>[Fichiers FFPFSC] Ppsa99002</title>

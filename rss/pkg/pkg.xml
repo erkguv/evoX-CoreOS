@@ -82,11 +82,5 @@
       <description>PS5PKG_MK64_Port.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
-    <item>
-      <title>Legacyjb 1.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/Spectrum-Library/1.4.7/LegacyJB_1.1.bin</link>
-      <description>Spectrum-Library FreeShop.</description>
-      <pubDate>1.4.7</pubDate>
-    </item>
   </channel>
 </rss>

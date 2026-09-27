@@ -171,18 +171,6 @@
             "title": "God of War Betrayal"
         },
         {
-            "name": "Legacyjb 1.1",
-            "filename": "LegacyJB_1.1.bin",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/pkg/Spectrum-Library/1.4.7/LegacyJB_1.1.bin",
-            "local_path": "pkg/Spectrum-Library/1.4.7/LegacyJB_1.1.bin",
-            "description": "Spectrum-Library FreeShop.",
-            "version": "1.4.7",
-            "checksum": "9c7b60380153cda2eb4a6f20ddc46774a621706388714d0fd97b492a6152f751",
-            "category": "PKG",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
-        },
-        {
             "name": "Ppsa99002",
             "filename": "PPSA99002.zip",
             "url": "https://nexgen999.github.io/evoX-CoreOS/ffpfsc/ProsperoLight/01.000.060/PPSA99002.zip",
