@@ -6,79 +6,79 @@
     <description>Mises à jour automatiques pour la catégorie Packages PKG</description>
     <item>
       <title>Ps5Pkg Avatar-Changer V1.00</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/Avatar-Changer/Source-Fixe/PS5PKG_Avatar-Changer_v1.00.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg</link>
       <description>Avatar-Changer.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Fpkgi V1.10.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/FPKGi/Source-Fixe/PS5PKG_FPKGi_v1.10.0.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg</link>
       <description>FPKGi.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Homebrewloader V0.30</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/HOMEBREWLOADER/Source-Fixe/PS5PKG_HOMEBREWLOADER_v0.30.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_HOMEBREWLOADER_v0.30.pkg</link>
       <description>HOMEBREWLOADER.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Homebrew Store Installer</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/Homebrew_Store_installer/Source-Fixe/PS5PKG_Homebrew_Store_installer.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg</link>
       <description>Homebrew_Store.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Internetbrowser-Game Menu V1.00</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/InternetBrowser-Game_Menu/Source-Fixe/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg</link>
       <description>InternetBrowser-Game_Menu.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Internetbrowser-Media Menu V1.00</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/InternetBrowser-Media_Menu/Source-Fixe/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg</link>
       <description>InternetBrowser-Media_Menu.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5-Shop-Appkg</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/PS5-SHOP-APPKG/Source-Fixe/PS5-SHOP-APPKG.pkg</link>
+      <link>https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg</link>
       <description>PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi .</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Library</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/PS5Library/Source-Fixe/PS5Library.pkg</link>
+      <link>https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg</link>
       <description>PS5Library need ps5library-agent.elf.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Itemzflow Game Manager V1.14</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/Itemzflow_Game_Manager/Source-Fixe/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg</link>
       <description>Itemzflow_Game_Manager.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Ps5-Xplorer V1.05</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/PS5-Xplorer/Source-Fixe/PS5PKG_PS5-Xplorer_v1.05.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg</link>
       <description>PS5-Xplorer.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/PS5Webit-Nexgen999_Installer/Source-Fixe/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg</link>
       <description>PS5Webit-Nexgen999_Installer.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Mk64 Port</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/Mario_Kart_64_Port/Source-Fixe/PS5PKG_MK64_Port.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg</link>
       <description>PS5PKG_MK64_Port.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Ps5Pkg Gow-Betrayal Port</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/pkg/God_Of_War_-_Betrayal_Port/Source-Fixe/PS5PKG_GOW-Betrayal_Port.pkg</link>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg</link>
       <description>PS5PKG_MK64_Port.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>

@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 22:50
+* **APPS**
+  * `Kodi-Ps5-Ppsa99420-0.8` (0.8) - *Nouveau*
+
 ## Build du 27/09/2026 à 21:01
 * **PAYLOADS**
   * `Prosperomgr Vbeta` (beta) - *Nouveau*

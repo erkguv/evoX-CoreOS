@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-2136)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-2250)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -153,7 +153,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `castation-0.4.0.zip`
   * `dump_installer.zip`
   * `dump_runner.zip`
-  * `kodi-ps5-PPSA99420-0.7.zip`
+  * `kodi-ps5-PPSA99420-0.8.zip`
 
 </details>
 

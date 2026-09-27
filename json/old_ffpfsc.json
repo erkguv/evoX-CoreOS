@@ -4,7 +4,7 @@
         {
             "name": "Ppsa99002",
             "filename": "PPSA99002.ffpfsc",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/ffpfsc/ProsperoLight/01.000.060/PPSA99002.ffpfsc",
+            "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc",
             "local_path": "ffpfsc/ProsperoLight/01.000.060/PPSA99002.ffpfsc",
             "description": "PS5 Moonlight",
             "version": "01.000.060",
@@ -14,7 +14,7 @@
         {
             "name": "Ppsa99001",
             "filename": "PPSA99001.ffpfsc",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/ffpfsc/ProsperoRadio/01.000.005/PPSA99001.ffpfsc",
+            "url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc",
             "local_path": "ffpfsc/ProsperoRadio/01.000.005/PPSA99001.ffpfsc",
             "description": "PS5 Radio Player",
             "version": "01.000.005",
@@ -24,7 +24,7 @@
         {
             "name": "Ppsa99003",
             "filename": "PPSA99003.ffpfsc",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/ffpfsc/ProsperoTV/01.000.015/PPSA99003.ffpfsc",
+            "url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc",
             "local_path": "ffpfsc/ProsperoTV/01.000.015/PPSA99003.ffpfsc",
             "description": "PS5 IPTV",
             "version": "01.000.015",
@@ -34,7 +34,7 @@
         {
             "name": "Evoplayer-V0.10.0-Ppsa99039",
             "filename": "EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/ffpfsc/EVO-PLAYER-PS5/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+            "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
             "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
             "description": "A media player for jailbroken PS5",
             "version": "v0.10.0",
@@ -44,7 +44,7 @@
         {
             "name": "Prospero Radio",
             "filename": "PROSPERO_RADIO.ffpfsc",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/ffpfsc/ProsperoRadio_Vulkan_Edition/01.000.027/PROSPERO_RADIO.ffpfsc",
+            "url": "https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.027/PROSPERO_RADIO.ffpfsc",
             "local_path": "ffpfsc/ProsperoRadio_Vulkan_Edition/01.000.027/PROSPERO_RADIO.ffpfsc",
             "description": "An internet radio for PS5 with a real radio face — rendered with Vulkan.",
             "version": "01.000.027",

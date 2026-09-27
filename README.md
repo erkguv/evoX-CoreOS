@@ -71,13 +71,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [A53 Ppr Install 1140 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf) | Source-Fixe | `3ea6ee4f0e72...` | a53_ppr_install_1140_20.09.elf - support 1.00-11.40 |
-| [A53 Ppr Install 1160 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf) | Source-Fixe | `acd232d70434...` | a53_ppr_install_1160_20.09.elf - 11.60 only |
-| [A53-Kstuff-Shadowmountplus-3In1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `57c0cbd71248...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [A53-Kstuff-Smp](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `38d7812a56fd...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53 Ppr Install 1140 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf) | Source-Fixe | `03621bce23e4...` | a53_ppr_install_1140_20.09.elf - support 1.00-11.40 |
+| [A53 Ppr Install 1160 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf) | Source-Fixe | `25b8d5d13081...` | a53_ppr_install_1160_20.09.elf - 11.60 only |
+| [A53-Kstuff-Shadowmountplus-3In1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `d0718b91252a...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53-Kstuff-Smp](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `71844e787ca5...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
 | [Kstuff V1.12-Dr-Test8](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `c5794137788a...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
-| [Kstuff-1.13-Fpkg-Dr-Test3](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf) | Source-Fixe | `8219d8d3c388...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
-| [Kstuff-Ng V1.00](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf) | Source-Fixe | `0704480955b1...` | Experimental Kstuff NG |
+| [Kstuff-1.13-Fpkg-Dr-Test3](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf) | Source-Fixe | `ed0f929c6861...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
+| [Kstuff-Ng V1.00](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf) | Source-Fixe | `d933370d3c42...` | Experimental Kstuff NG |
 
 ### 📂 PS5 Cheat
 
@@ -273,7 +273,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Fgg-Playpods V1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf) | 1.0 | `9ee1958ec24e...` | Hear your PlayStation 5 on an ordinary Bluetooth headset. |
 | [Fgg-Unpack V0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf) | v0.1 | `e8c8e57bbda3...` | Extract .zip and .7z archives directly on a jailbroken PlayStation 5. |
 | [Fgg-Xsense V1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | 1.1 | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
-| [Ghost-Toothapi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | Source-Fixe | `5cb8854035f1...` | ghost-toothAPI. |
+| [Ghost-Toothapi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | Source-Fixe | `f2bce5cece2e...` | ghost-toothAPI. |
 | [Ghostpad V1.0.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/Ghostpad/v1.0.0/Ghostpad_v1.0.0.elf) | v1.0.0 | `94d43a8db7ec...` | Ghostpad controller input utility. |
 | [Poords4-Status V0.1.0-Rc44](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf) | v0.1.0-rc44 | `9195c5128535...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | [Poords4-Stop V0.1.0-Rc44](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf) | v0.1.0-rc44 | `ffdce4964f0d...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
@@ -307,19 +307,19 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Package | Auteur | Version | Description |
 | :--- | :--- | :--- | :--- |
-| [Ps5-Shop-Appkg](https://nexgen999.github.io/evoX-CoreOS/pkg/PS5-SHOP-APPKG/Source-Fixe/PS5-SHOP-APPKG.pkg) | Inconnu | Source-Fixe | PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi . |
-| [Ps5Library](https://nexgen999.github.io/evoX-CoreOS/pkg/PS5Library/Source-Fixe/PS5Library.pkg) | Inconnu | Source-Fixe | PS5Library need ps5library-agent.elf. |
-| [Ps5Pkg Avatar-Changer V1.00](https://nexgen999.github.io/evoX-CoreOS/pkg/Avatar-Changer/Source-Fixe/PS5PKG_Avatar-Changer_v1.00.pkg) | Inconnu | Source-Fixe | Avatar-Changer. |
-| [Ps5Pkg Fpkgi V1.10.0](https://nexgen999.github.io/evoX-CoreOS/pkg/FPKGi/Source-Fixe/PS5PKG_FPKGi_v1.10.0.pkg) | Inconnu | Source-Fixe | FPKGi. |
-| [Ps5Pkg Gow-Betrayal Port](https://nexgen999.github.io/evoX-CoreOS/pkg/God_Of_War_-_Betrayal_Port/Source-Fixe/PS5PKG_GOW-Betrayal_Port.pkg) | Inconnu | Source-Fixe | PS5PKG_MK64_Port. |
-| [Ps5Pkg Homebrew Store Installer](https://nexgen999.github.io/evoX-CoreOS/pkg/Homebrew_Store_installer/Source-Fixe/PS5PKG_Homebrew_Store_installer.pkg) | Inconnu | Source-Fixe | Homebrew_Store. |
-| [Ps5Pkg Homebrewloader V0.30](https://nexgen999.github.io/evoX-CoreOS/pkg/HOMEBREWLOADER/Source-Fixe/PS5PKG_HOMEBREWLOADER_v0.30.pkg) | Inconnu | Source-Fixe | HOMEBREWLOADER. |
-| [Ps5Pkg Internetbrowser-Game Menu V1.00](https://nexgen999.github.io/evoX-CoreOS/pkg/InternetBrowser-Game_Menu/Source-Fixe/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg) | Inconnu | Source-Fixe | InternetBrowser-Game_Menu. |
-| [Ps5Pkg Internetbrowser-Media Menu V1.00](https://nexgen999.github.io/evoX-CoreOS/pkg/InternetBrowser-Media_Menu/Source-Fixe/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg) | Inconnu | Source-Fixe | InternetBrowser-Media_Menu. |
-| [Ps5Pkg Itemzflow Game Manager V1.14](https://nexgen999.github.io/evoX-CoreOS/pkg/Itemzflow_Game_Manager/Source-Fixe/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg) | Inconnu | Source-Fixe | Itemzflow_Game_Manager. |
-| [Ps5Pkg Mk64 Port](https://nexgen999.github.io/evoX-CoreOS/pkg/Mario_Kart_64_Port/Source-Fixe/PS5PKG_MK64_Port.pkg) | Inconnu | Source-Fixe | PS5PKG_MK64_Port. |
-| [Ps5Pkg Ps5-Xplorer V1.05](https://nexgen999.github.io/evoX-CoreOS/pkg/PS5-Xplorer/Source-Fixe/PS5PKG_PS5-Xplorer_v1.05.pkg) | Inconnu | Source-Fixe | PS5-Xplorer. |
-| [Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00](https://nexgen999.github.io/evoX-CoreOS/pkg/PS5Webit-Nexgen999_Installer/Source-Fixe/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg) | Inconnu | Source-Fixe | PS5Webit-Nexgen999_Installer. |
+| [Ps5-Shop-Appkg](https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg) | Inconnu | Source-Fixe | PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi . |
+| [Ps5Library](https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg) | Inconnu | Source-Fixe | PS5Library need ps5library-agent.elf. |
+| [Ps5Pkg Avatar-Changer V1.00](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg) | Inconnu | Source-Fixe | Avatar-Changer. |
+| [Ps5Pkg Fpkgi V1.10.0](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg) | Inconnu | Source-Fixe | FPKGi. |
+| [Ps5Pkg Gow-Betrayal Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg) | Inconnu | Source-Fixe | PS5PKG_MK64_Port. |
+| [Ps5Pkg Homebrew Store Installer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg) | Inconnu | Source-Fixe | Homebrew_Store. |
+| [Ps5Pkg Homebrewloader V0.30](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_HOMEBREWLOADER_v0.30.pkg) | Inconnu | Source-Fixe | HOMEBREWLOADER. |
+| [Ps5Pkg Internetbrowser-Game Menu V1.00](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg) | Inconnu | Source-Fixe | InternetBrowser-Game_Menu. |
+| [Ps5Pkg Internetbrowser-Media Menu V1.00](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg) | Inconnu | Source-Fixe | InternetBrowser-Media_Menu. |
+| [Ps5Pkg Itemzflow Game Manager V1.14](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg) | Inconnu | Source-Fixe | Itemzflow_Game_Manager. |
+| [Ps5Pkg Mk64 Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg) | Inconnu | Source-Fixe | PS5PKG_MK64_Port. |
+| [Ps5Pkg Ps5-Xplorer V1.05](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg) | Inconnu | Source-Fixe | PS5-Xplorer. |
+| [Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg) | Inconnu | Source-Fixe | PS5Webit-Nexgen999_Installer. |
 
 ---
 
@@ -332,11 +332,11 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Evoplayer-V0.10.0-Ppsa99039](https://nexgen999.github.io/evoX-CoreOS/ffpfsc/EVO-PLAYER-PS5/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc) | v0.10.0 | `a2b14616a266...` | A media player for jailbroken PS5 |
-| [Ppsa99001](https://nexgen999.github.io/evoX-CoreOS/ffpfsc/ProsperoRadio/01.000.005/PPSA99001.ffpfsc) | 01.000.005 | `0f82072f1e8a...` | PS5 Radio Player |
-| [Ppsa99002](https://nexgen999.github.io/evoX-CoreOS/ffpfsc/ProsperoLight/01.000.060/PPSA99002.ffpfsc) | 01.000.060 | `6e92e8f862cf...` | PS5 Moonlight |
-| [Ppsa99003](https://nexgen999.github.io/evoX-CoreOS/ffpfsc/ProsperoTV/01.000.015/PPSA99003.ffpfsc) | 01.000.015 | `4d5ea7fd048d...` | PS5 IPTV |
-| [Prospero Radio](https://nexgen999.github.io/evoX-CoreOS/ffpfsc/ProsperoRadio_Vulkan_Edition/01.000.027/PROSPERO_RADIO.ffpfsc) | 01.000.027 | `81d7b4c9cea5...` | An internet radio for PS5 with a real radio face — rendered with Vulkan. |
+| [Evoplayer-V0.10.0-Ppsa99039](https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc) | v0.10.0 | `a2b14616a266...` | A media player for jailbroken PS5 |
+| [Ppsa99001](https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc) | 01.000.005 | `0f82072f1e8a...` | PS5 Radio Player |
+| [Ppsa99002](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | 01.000.060 | `6e92e8f862cf...` | PS5 Moonlight |
+| [Ppsa99003](https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc) | 01.000.015 | `4d5ea7fd048d...` | PS5 IPTV |
+| [Prospero Radio](https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.027/PROSPERO_RADIO.ffpfsc) | 01.000.027 | `81d7b4c9cea5...` | An internet radio for PS5 with a real radio face — rendered with Vulkan. |
 
 ---
 
@@ -349,7 +349,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Ppsa99004](https://nexgen999.github.io/evoX-CoreOS/apps/ProsperoAI/01.000.000/PPSA99004.zip) | 01.000.000 | `19c2bacebf6f...` | Private, local generative AI for PlayStation 5 homebrew |
+| [Ppsa99004](https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip) | 01.000.000 | `19c2bacebf6f...` | Private, local generative AI for PlayStation 5 homebrew |
 
 ### 📂 Applications
 
@@ -358,10 +358,10 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Castation-0.4.0](https://nexgen999.github.io/evoX-CoreOS/apps/castation/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `6b17a8feaf3a...` | Dreamcast emulator based on Flycast PlayStation 5 homebrew |
-| [Dump Installer](https://nexgen999.github.io/evoX-CoreOS/apps/dump_installer/1.07/dump_installer.zip) | 1.07 | `5096f5775236...` | Dump installer howmebrew |
-| [Dump Runner](https://nexgen999.github.io/evoX-CoreOS/apps/dump_runner/v1.02/dump_runner.zip) | v1.02 | `0ffc4af70b23...` | Dump runner howmebrew |
-| [Kodi-Ps5-Ppsa99420-0.7](https://nexgen999.github.io/evoX-CoreOS/apps/kodi-ps5/0.7/kodi-ps5-PPSA99420-0.7.zip) | 0.7 | `5abaf7b7bdc1...` | kodi-ps5 |
+| [Castation-0.4.0](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `6b17a8feaf3a...` | Dreamcast emulator based on Flycast PlayStation 5 homebrew |
+| [Dump Installer](https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip) | 1.07 | `5096f5775236...` | Dump installer howmebrew |
+| [Dump Runner](https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip) | v1.02 | `0ffc4af70b23...` | Dump runner howmebrew |
+| [Kodi-Ps5-Ppsa99420-0.8](https://github.com/VivaLaVent/kodi-ps5/releases/download/0.8/kodi-ps5-PPSA99420-0.8.zip) | 0.8 | `9727e391c9ba...` | kodi-ps5 |
 
 ---
 

@@ -4,7 +4,7 @@
     {
       "name": "Ppsa99004",
       "filename": "PPSA99004.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/ProsperoAI/01.000.000/PPSA99004.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip",
       "local_path": "apps/ProsperoAI/01.000.000/PPSA99004.zip",
       "description": "Private, local generative AI for PlayStation 5 homebrew",
       "version": "01.000.000",
@@ -14,7 +14,7 @@
     {
       "name": "Castation-0.4.0",
       "filename": "castation-0.4.0.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/castation/v0.4.0/castation-0.4.0.zip",
+      "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",
       "local_path": "apps/castation/v0.4.0/castation-0.4.0.zip",
       "description": "Dreamcast emulator based on Flycast PlayStation 5 homebrew",
       "version": "v0.4.0",
@@ -24,7 +24,7 @@
     {
       "name": "Dump Installer",
       "filename": "dump_installer.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/dump_installer/1.07/dump_installer.zip",
+      "url": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
       "local_path": "apps/dump_installer/1.07/dump_installer.zip",
       "description": "Dump installer howmebrew",
       "version": "1.07",
@@ -34,7 +34,7 @@
     {
       "name": "Dump Runner",
       "filename": "dump_runner.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/dump_runner/v1.02/dump_runner.zip",
+      "url": "https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip",
       "local_path": "apps/dump_runner/v1.02/dump_runner.zip",
       "description": "Dump runner howmebrew",
       "version": "v1.02",
@@ -42,13 +42,13 @@
       "category": "Applications"
     },
     {
-      "name": "Kodi-Ps5-Ppsa99420-0.7",
-      "filename": "kodi-ps5-PPSA99420-0.7.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/kodi-ps5/0.7/kodi-ps5-PPSA99420-0.7.zip",
-      "local_path": "apps/kodi-ps5/0.7/kodi-ps5-PPSA99420-0.7.zip",
+      "name": "Kodi-Ps5-Ppsa99420-0.8",
+      "filename": "kodi-ps5-PPSA99420-0.8.zip",
+      "url": "https://github.com/VivaLaVent/kodi-ps5/releases/download/0.8/kodi-ps5-PPSA99420-0.8.zip",
+      "local_path": "apps/kodi-ps5/0.8/kodi-ps5-PPSA99420-0.8.zip",
       "description": "kodi-ps5",
-      "version": "0.7",
-      "checksum": "5abaf7b7bdc16ff43b041466394e73c578d14c73f9df62547f277906e090ac58",
+      "version": "0.8",
+      "checksum": "9727e391c9ba2c820b1064932eb863ac0c141cde55f3ceb0f9c777e0c5a13bb0",
       "category": "Applications"
     }
   ]
