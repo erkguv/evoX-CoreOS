@@ -92,10 +92,9 @@ def fetch_payloads_category(credits_set):
                                                 if "{version}" in target_pattern:
                                                     target_filename = target_pattern.format(version=v_numeric)
                                                 else:
-                                                    target_filename = target_pattern # Garde le nom exact (ex: helper)
+                                                    target_filename = target_pattern
                                                 matched_mapping = True
                                                 break
-                                        # Si aucun pattern explicite ne matche mais que c'est un elf/bin
                                         if not matched_mapping and asset_name.lower().endswith(('.elf', '.bin')):
                                             should_download = True
                                     elif custom_rules.get("extract_zip") and asset_name.endswith('.zip'):
@@ -223,7 +222,7 @@ def fetch_payloads_category(credits_set):
                 display_name = os.path.splitext(main_file)[0]
 
                 item_data = {
-                    "name": display_name,
+                    "name": display_name.replace('_', ' ').title(),
                     "filename": main_file,
                     "url": f"{BASE_URL}/{target_dir.replace(os.sep, '/')}/{main_file}",
                     "local_path": full_path,
