@@ -2,7 +2,7 @@
   "name": "PS5 Cheat",
   "payloads": [
     {
-      "name": "CheatRunner_v0.17",
+      "name": "Cheatrunner V0.17",
       "filename": "CheatRunner_v0.17.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",
       "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",
@@ -12,7 +12,7 @@
       "checksum": "2f296d3f1e69b65439bb5dc362f0f6504f6dc9f245fa16a3683e9d7ec9533773"
     },
     {
-      "name": "kylin-core-community-lite-v131-global-release",
+      "name": "Kylin-Core-Community-Lite-V131-Global-Release",
       "filename": "kylin-core-community-lite-v131-global-release.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/kylin-core/Source-Fixe/kylin-core-community-lite-v131-global-release.elf",
       "local_path": "payloads/PS5_Cheat/kylin-core/Source-Fixe/kylin-core-community-lite-v131-global-release.elf",

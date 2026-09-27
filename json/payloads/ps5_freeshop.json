@@ -2,7 +2,7 @@
   "name": "PS5 Freeshop",
   "payloads": [
     {
-      "name": "Spectrum-Library_v1.4.7",
+      "name": "Spectrum-Library V1.4.7",
       "filename": "Spectrum-Library_v1.4.7.bin",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin",
       "local_path": "payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin",
@@ -12,7 +12,7 @@
       "checksum": "9c7b60380153cda2eb4a6f20ddc46774a621706388714d0fd97b492a6152f751"
     },
     {
-      "name": "pegasus-dl_v1.9.0",
+      "name": "Pegasus-Dl V1.9.0",
       "filename": "pegasus-dl_v1.9.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf",
       "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf",
@@ -22,7 +22,7 @@
       "checksum": "6336c626f0fbdef1272cc5d4e0239d7b44bf40f8106679083cf50d4c8e02389b"
     },
     {
-      "name": "ps5shopappkg-dpi",
+      "name": "Ps5Shopappkg-Dpi",
       "filename": "ps5shopappkg-dpi.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf",
       "local_path": "payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf",

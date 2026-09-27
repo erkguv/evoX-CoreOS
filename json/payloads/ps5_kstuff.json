@@ -2,7 +2,7 @@
   "name": "PS5 Kstuff",
   "payloads": [
     {
-      "name": "kstuff_EchoStretch_v1.6.7",
+      "name": "Kstuff Echostretch V1.6.7",
       "filename": "kstuff_EchoStretch_v1.6.7.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf",
       "local_path": "payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf",
@@ -12,7 +12,7 @@
       "checksum": "f1c1f4b2b6395644af04cbe9828aba58586acf7aacb9e01113cac92ce16e3569"
     },
     {
-      "name": "kstuff-lite_EchoStretch_v1.11",
+      "name": "Kstuff-Lite Echostretch V1.11",
       "filename": "kstuff-lite_EchoStretch_v1.11.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf",
       "local_path": "payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf",
@@ -22,7 +22,7 @@
       "checksum": "ab9a6cb4d3b1daf139d4d646e402b1cf569071acd64599c936d7a3a6164dc779"
     },
     {
-      "name": "kstuff-lite_drakmor_v1.2-dr-test1",
+      "name": "Kstuff-Lite Drakmor V1.2-Dr-Test1",
       "filename": "kstuff-lite_drakmor_v1.2-dr-test1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
       "local_path": "payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",

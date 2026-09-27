@@ -2,7 +2,7 @@
   "name": "AIO Store Payloads",
   "payloads": [
     {
-      "name": "garlic-savemgr_v1.13.1",
+      "name": "Garlic-Savemgr V1.13.1",
       "filename": "garlic-savemgr_v1.13.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
       "local_path": "payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
@@ -12,7 +12,7 @@
       "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5"
     },
     {
-      "name": "garlic-worker_v1.1.7",
+      "name": "Garlic-Worker V1.1.7",
       "filename": "garlic-worker_v1.1.7.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
       "local_path": "payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
@@ -22,7 +22,7 @@
       "checksum": "4d0055b1cd83701cd5d480ca7917843b3b50ff1d53eac6ca7e67a8f3b8643a0d"
     },
     {
-      "name": "savemnt-offset-dumper_v1.0.0",
+      "name": "Savemnt-Offset-Dumper V1.0.0",
       "filename": "savemnt-offset-dumper_v1.0.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf",
       "local_path": "payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf",
@@ -32,7 +32,7 @@
       "checksum": "946328551f74e3b6a34a7c0169f9b40792e392775768b84874b55ecdff71222e"
     },
     {
-      "name": "Common_FPS_PS5_v1.1.0",
+      "name": "Common Fps Ps5 V1.1.0",
       "filename": "Common_FPS_PS5_v1.1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf",
       "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf",
@@ -42,7 +42,7 @@
       "checksum": "4f544fa00f7a430e64c4c8d0ed42d0463d2370c81dabd9141599c27c4f3f99d6"
     },
     {
-      "name": "ps5-new-overlay_v1.0.15",
+      "name": "Ps5-New-Overlay V1.0.15",
       "filename": "ps5-new-overlay_v1.0.15.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5-new-overlay_v1.0.15.elf",
       "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5-new-overlay_v1.0.15.elf",
@@ -52,7 +52,7 @@
       "checksum": "54d23675bf44f17599a9e08397cf0c62b0e10cfbffdc2fe1673e5bcc9de8a2b7"
     },
     {
-      "name": "BFpilot_v0.4.4",
+      "name": "Bfpilot V0.4.4",
       "filename": "BFpilot_v0.4.4.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf",
       "local_path": "payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf",
@@ -62,7 +62,7 @@
       "checksum": "5a8237630260026ad054d71fbbe661e433ac9ffa2cb4eea2785769c1eb7ee1c1"
     },
     {
-      "name": "lapy_jb_daemon",
+      "name": "Lapy Jb Daemon",
       "filename": "lapy_jb_daemon.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf",
       "local_path": "payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf",
@@ -72,7 +72,7 @@
       "checksum": "e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed"
     },
     {
-      "name": "web-file-mgr_v1.9",
+      "name": "Web-File-Mgr V1.9",
       "filename": "web-file-mgr_v1.9.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr_v1.9.elf",
       "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr_v1.9.elf",
@@ -82,7 +82,7 @@
       "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
     },
     {
-      "name": "wfm-7zip-helper_v1.9",
+      "name": "Wfm-7Zip-Helper V1.9",
       "filename": "wfm-7zip-helper_v1.9.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/wfm-7zip-helper_v1.9.elf",
       "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/wfm-7zip-helper_v1.9.elf",
@@ -92,17 +92,7 @@
       "checksum": "7a6369489143c2b8887331a7235a6a77dd5667c794c4234973f8159fed92fe24"
     },
     {
-      "name": "ps5-web-file-manager_v1.9",
-      "filename": "ps5-web-file-manager_v1.9.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/ps5-web-file-manager_v1.9.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/ps5-web-file-manager_v1.9.elf",
-      "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.9",
-      "category": "PS5 File Explorer",
-      "checksum": "7a6369489143c2b8887331a7235a6a77dd5667c794c4234973f8159fed92fe24"
-    },
-    {
-      "name": "PS5-File-Explorer_vfile-explorer-v0.2.1",
+      "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",
       "filename": "PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
       "local_path": "payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
@@ -112,37 +102,37 @@
       "checksum": "6d4b905b42727dddeaedddb2a657ed0d4e7110ddd068a6daab0aafb2ba32604b"
     },
     {
-      "name": "A53-Kstuff-ShadowMountPlus-3in1",
+      "name": "A53-Kstuff-Shadowmountplus-3In1",
       "filename": "A53-Kstuff-ShadowMountPlus-3in1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
       "local_path": "payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "fe394835f640c00f5b18cb9b824b64e9e9dba71c47abb4b719c3ff7c4fe8b264"
+      "checksum": "ae925314337cb66db79520f710fbba4d63555441f6aefc273e7502bbddd22f4b"
     },
     {
-      "name": "A53-kstuff-SMP",
+      "name": "A53-Kstuff-Smp",
       "filename": "A53-kstuff-SMP.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
       "local_path": "payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "ff34721e4b8921416a8e354f2f64bc8367adc8fc111e8a1ea529db52f357b0df"
+      "checksum": "9f16cc8722cfd35b626d2c110b7982ce6632f9f824153dab880f5331dcf94d43"
     },
     {
-      "name": "Kstuff-NG_v1.00",
+      "name": "Kstuff-Ng V1.00",
       "filename": "Kstuff-NG_v1.00.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf",
       "local_path": "payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf",
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "793eb4ef8f8b50bbc4a4bb1d686da9ad3d75871557adb272506bd23794a5600c"
+      "checksum": "d5260b0661705409800a6213fe85f9e54b41a517b5bb8b79cca7f89029601df1"
     },
     {
-      "name": "kstuff_v1.12-dr-test8",
+      "name": "Kstuff V1.12-Dr-Test8",
       "filename": "kstuff_v1.12-dr-test8.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf",
       "local_path": "payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf",
@@ -152,37 +142,37 @@
       "checksum": "c5794137788abf5d85a78345b00601ad3b156f1d0d5d9569b597177beb242d4a"
     },
     {
-      "name": "kstuff-1.13-fpkg-dr-test3",
+      "name": "Kstuff-1.13-Fpkg-Dr-Test3",
       "filename": "kstuff-1.13-fpkg-dr-test3.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf",
       "local_path": "payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf",
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "c72bda5a1014f45b43b4ed565891e8398baa315c08cdbb77af7b8eb75493e105"
+      "checksum": "1c87abef82a06a42f9154e53aae9443def7e8e10951233bf3b41cf3e7f4ce449"
     },
     {
-      "name": "a53_ppr_install_1140_20.09",
+      "name": "A53 Ppr Install 1140 20.09",
       "filename": "a53_ppr_install_1140_20.09.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf",
       "local_path": "payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf",
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "6a87aa81853a608d2b5ac62e19aeeea7517bb2dd2cc8d6af2a6c1038e513887d"
+      "checksum": "5faaf300148326eadd2ba5d6341b64156b57ef927795852f847a5b7cf92f9157"
     },
     {
-      "name": "a53_ppr_install_1160_20.09",
+      "name": "A53 Ppr Install 1160 20.09",
       "filename": "a53_ppr_install_1160_20.09.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf",
       "local_path": "payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf",
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "8b90de710ecaa7bc97e1acf8ef1f5de8ddec9a202b53136dabf343c9d8d7b2ac"
+      "checksum": "654624d122370564d4c6ae943f422bcad7d3c30824ba086bd9b6bb3ca9d46b65"
     },
     {
-      "name": "webkit-autoloader-installer_v0.4.0",
+      "name": "Webkit-Autoloader-Installer V0.4.0",
       "filename": "webkit-autoloader-installer_v0.4.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.4.0/webkit-autoloader-installer_v0.4.0.elf",
       "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.4.0/webkit-autoloader-installer_v0.4.0.elf",
@@ -192,7 +182,7 @@
       "checksum": "179d5e52ec3e0f595900b40883c0e10cc1fba1efc275a547f47e828d45d05915"
     },
     {
-      "name": "Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0",
+      "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
       "filename": "Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
       "local_path": "payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
@@ -202,7 +192,7 @@
       "checksum": "3ccc45938dcc1bb6ee766195106c928049fd632993828bcf73b5368fdebfc496"
     },
     {
-      "name": "Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0",
+      "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0",
       "filename": "Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf",
       "local_path": "payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf",
@@ -212,7 +202,7 @@
       "checksum": "894432bb3161559a272bbdd07cc66dd80ac487f6ddbcc9ae5718090dc0f6e716"
     },
     {
-      "name": "Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0",
+      "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr V1.2.0",
       "filename": "Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf",
       "local_path": "payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf",
@@ -222,7 +212,7 @@
       "checksum": "b81609da1db061165e44541653b95f524c917a3d5a1fca308965b0d821be3178"
     },
     {
-      "name": "Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0",
+      "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen-En V1.2.0",
       "filename": "Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf",
       "local_path": "payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf",
@@ -232,7 +222,7 @@
       "checksum": "90f1ec197e66bbf4fa1a3bce040d6a5d04d571c4f8290f608401e8f7c2e9e0a4"
     },
     {
-      "name": "zftpd_v1.5.0",
+      "name": "Zftpd V1.5.0",
       "filename": "zftpd_v1.5.0.bin",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.bin",
       "local_path": "payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.bin",
@@ -242,7 +232,7 @@
       "checksum": "9340aa91f8f1eeb619473d716e0b6ab7af1c6fbb3ad815648520872ad6c86ccf"
     },
     {
-      "name": "zftpd_v1.5.0",
+      "name": "Zftpd V1.5.0",
       "filename": "zftpd_v1.5.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf",
       "local_path": "payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf",
@@ -252,7 +242,7 @@
       "checksum": "5d2f96ccf0630ab5803552dd3f99ad9eeaaea998daa2812f1c4dc5e7a0b45a84"
     },
     {
-      "name": "zhttp_v1.5.0",
+      "name": "Zhttp V1.5.0",
       "filename": "zhttp_v1.5.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zhttp_v1.5.0.elf",
       "local_path": "payloads/ps5_server/zftpd/v1.5.0/zhttp_v1.5.0.elf",
@@ -262,7 +252,7 @@
       "checksum": "6cf6a738112fc339619ebe772690fa611f60ecdb20164a0e3f49e137277bc42b"
     },
     {
-      "name": "elfldr_v0.26",
+      "name": "Elfldr V0.26",
       "filename": "elfldr_v0.26.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.26/elfldr_v0.26.elf",
       "local_path": "payloads/ps5_server/elfldr/v0.26/elfldr_v0.26.elf",
@@ -272,7 +262,7 @@
       "checksum": "ed6d587a057c09d6a95b2176e336d9ffc605e547ac56462128b029e47b8ccea1"
     },
     {
-      "name": "ftpsrv_ps5-payload_v0.21.1",
+      "name": "Ftpsrv Ps5-Payload V0.21.1",
       "filename": "ftpsrv_ps5-payload_v0.21.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf",
       "local_path": "payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf",
@@ -282,7 +272,7 @@
       "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938"
     },
     {
-      "name": "websrv_v0.34",
+      "name": "Websrv V0.34",
       "filename": "websrv_v0.34.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
       "local_path": "payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
@@ -292,7 +282,7 @@
       "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263"
     },
     {
-      "name": "gdbsrv_v0.9",
+      "name": "Gdbsrv V0.9",
       "filename": "gdbsrv_v0.9.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf",
       "local_path": "payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf",
@@ -302,7 +292,7 @@
       "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5"
     },
     {
-      "name": "klogsrv_v0.9",
+      "name": "Klogsrv V0.9",
       "filename": "klogsrv_v0.9.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf",
       "local_path": "payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf",
@@ -312,7 +302,7 @@
       "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
     },
     {
-      "name": "ftpsrv_drakmor_v1.16-ng-stable",
+      "name": "Ftpsrv Drakmor V1.16-Ng-Stable",
       "filename": "ftpsrv_drakmor_v1.16-ng-stable.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf",
       "local_path": "payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf",
@@ -322,7 +312,7 @@
       "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32"
     },
     {
-      "name": "ps5-ezremote-server_v1.11",
+      "name": "Ps5-Ezremote-Server V1.11",
       "filename": "ps5-ezremote-server_v1.11.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf",
       "local_path": "payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf",
@@ -332,7 +322,7 @@
       "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
     },
     {
-      "name": "ps5upload_v5.35.0",
+      "name": "Ps5Upload V5.35.0",
       "filename": "ps5upload_v5.35.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.35.0/ps5upload_v5.35.0.elf",
       "local_path": "payloads/ps5_server/ps5upload/v5.35.0/ps5upload_v5.35.0.elf",
@@ -342,7 +332,7 @@
       "checksum": "94a996dc7adaaf264545ffc3b7f4fb471a52569630ea5538ee18d20039c4213b"
     },
     {
-      "name": "airpsx_v0.19",
+      "name": "Airpsx V0.19",
       "filename": "airpsx_v0.19.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf",
       "local_path": "payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf",
@@ -352,7 +342,7 @@
       "checksum": "ae025ca7727b3a8abf6a705903ca9116a6fa6e7f7ead606916109cf9044c5d63"
     },
     {
-      "name": "ChronicLoader-PS5-Payload_v0.1",
+      "name": "Chronicloader-Ps5-Payload V0.1",
       "filename": "ChronicLoader-PS5-Payload_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf",
       "local_path": "payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf",
@@ -362,7 +352,7 @@
       "checksum": "3561120f85e0ec32de5de15cdd61a1fe8d5146eb4c6aa99ee88209914a2774b1"
     },
     {
-      "name": "Ghostpad_v1.0.0",
+      "name": "Ghostpad V1.0.0",
       "filename": "Ghostpad_v1.0.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/Ghostpad/v1.0.0/Ghostpad_v1.0.0.elf",
       "local_path": "payloads/ps5_utility/Ghostpad/v1.0.0/Ghostpad_v1.0.0.elf",
@@ -372,7 +362,7 @@
       "checksum": "94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1"
     },
     {
-      "name": "PoorDS4-status_v0.1.0-rc44",
+      "name": "Poords4-Status V0.1.0-Rc44",
       "filename": "PoorDS4-status_v0.1.0-rc44.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf",
       "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf",
@@ -382,7 +372,7 @@
       "checksum": "9195c512853538ec3ccf0207f68ed4898f386c6fb624c54d8fa959cef1a8b906"
     },
     {
-      "name": "PoorDS4-stop_v0.1.0-rc44",
+      "name": "Poords4-Stop V0.1.0-Rc44",
       "filename": "PoorDS4-stop_v0.1.0-rc44.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf",
       "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf",
@@ -392,7 +382,7 @@
       "checksum": "ffdce4964f0d34a2b9be7cb65e6ad345d5beb582dcdf94d0214cde6bc79acd0d"
     },
     {
-      "name": "PoorDS4rc44_v0.1.0-rc44",
+      "name": "Poords4Rc44 V0.1.0-Rc44",
       "filename": "PoorDS4rc44_v0.1.0-rc44.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4rc44_v0.1.0-rc44.elf",
       "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4rc44_v0.1.0-rc44.elf",
@@ -402,7 +392,7 @@
       "checksum": "a077fe7a1defbe6918538b834eaa502a6b4239d7feff58c8fa4ec06cd325d9a8"
     },
     {
-      "name": "PS_Game_State_Lib_v0.1",
+      "name": "Ps Game State Lib V0.1",
       "filename": "PS_Game_State_Lib_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf",
       "local_path": "payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf",
@@ -412,7 +402,7 @@
       "checksum": "a550e1494b0f8be3b244f8820ee8d899442d33a936f9ded6203a0318c7afdba8"
     },
     {
-      "name": "PS-DiscordPresence_v0.01",
+      "name": "Ps-Discordpresence V0.01",
       "filename": "PS-DiscordPresence_v0.01.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS-DiscordPresence/v0.01/PS-DiscordPresence_v0.01.elf",
       "local_path": "payloads/ps5_utility/PS-DiscordPresence/v0.01/PS-DiscordPresence_v0.01.elf",
@@ -422,7 +412,7 @@
       "checksum": "375cf619ea6f6c594ea2b79ecbb98704723522d07e51c877687876d5fe589afb"
     },
     {
-      "name": "unrar-ps5_v1.4.0",
+      "name": "Unrar-Ps5 V1.4.0",
       "filename": "unrar-ps5_v1.4.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/unrar-ps5/v1.4.0/unrar-ps5_v1.4.0.elf",
       "local_path": "payloads/ps5_utility/unrar-ps5/v1.4.0/unrar-ps5_v1.4.0.elf",
@@ -432,7 +422,7 @@
       "checksum": "2ef04b0bc8fc1932b29da1a53336c40ed0a3f6a945a0746bef2e5dde52149701"
     },
     {
-      "name": "PS5-Power-Payloads-Project_v1.0",
+      "name": "Ps5-Power-Payloads-Project V1.0",
       "filename": "PS5-Power-Payloads-Project_v1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS5-Power-Payloads-Project/1.0/PS5-Power-Payloads-Project_v1.0.elf",
       "local_path": "payloads/ps5_utility/PS5-Power-Payloads-Project/1.0/PS5-Power-Payloads-Project_v1.0.elf",
@@ -442,7 +432,7 @@
       "checksum": "3614f68981adc13a231d3655bf3892725bc25aa372d67a0037698253753b7cbe"
     },
     {
-      "name": "ps5-date-time-sync_v1.0.0",
+      "name": "Ps5-Date-Time-Sync V1.0.0",
       "filename": "ps5-date-time-sync_v1.0.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf",
       "local_path": "payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf",
@@ -452,7 +442,7 @@
       "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849"
     },
     {
-      "name": "FGG-XSense_v1.1",
+      "name": "Fgg-Xsense V1.1",
       "filename": "FGG-XSense_v1.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
       "local_path": "payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
@@ -462,7 +452,7 @@
       "checksum": "55195ccb02fbdbfa002e9188b0eff72d7d2e6de6c7a1c91666f88c6c9ff0d6c0"
     },
     {
-      "name": "FGG-PlayPods_v1.0",
+      "name": "Fgg-Playpods V1.0",
       "filename": "FGG-PlayPods_v1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
       "local_path": "payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
@@ -472,7 +462,7 @@
       "checksum": "9ee1958ec24e4a927992fea9ee202f5a173756091bd3abc02ebf4d2d686211a4"
     },
     {
-      "name": "FGG-Unpack_v0.1",
+      "name": "Fgg-Unpack V0.1",
       "filename": "FGG-Unpack_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf",
       "local_path": "payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf",
@@ -482,17 +472,17 @@
       "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff"
     },
     {
-      "name": "ghost-toothAPI",
+      "name": "Ghost-Toothapi",
       "filename": "ghost-toothAPI.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
       "local_path": "payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "027180e75c7dd650861b0a7c0b1f0c91b4e811ee427512255b488eca01862b4a"
+      "checksum": "cfe26d3c6918ab5f4d4eb189f71dc90825ed4bf40da5a2026561cb701863ab9a"
     },
     {
-      "name": "Spectrum-Library_v1.4.7",
+      "name": "Spectrum-Library V1.4.7",
       "filename": "Spectrum-Library_v1.4.7.bin",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin",
       "local_path": "payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin",
@@ -502,7 +492,7 @@
       "checksum": "9c7b60380153cda2eb4a6f20ddc46774a621706388714d0fd97b492a6152f751"
     },
     {
-      "name": "pegasus-dl_v1.9.0",
+      "name": "Pegasus-Dl V1.9.0",
       "filename": "pegasus-dl_v1.9.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf",
       "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf",
@@ -512,7 +502,7 @@
       "checksum": "6336c626f0fbdef1272cc5d4e0239d7b44bf40f8106679083cf50d4c8e02389b"
     },
     {
-      "name": "ps5shopappkg-dpi",
+      "name": "Ps5Shopappkg-Dpi",
       "filename": "ps5shopappkg-dpi.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf",
       "local_path": "payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf",
@@ -522,7 +512,7 @@
       "checksum": "c4672cfa909463843c537f67d5f2df9eb3456d4036d26a4fb81fc34d7853170b"
     },
     {
-      "name": "ProsperoPlayer_v1.0",
+      "name": "Prosperoplayer V1.0",
       "filename": "ProsperoPlayer_v1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf",
       "local_path": "payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf",
@@ -532,7 +522,7 @@
       "checksum": "40b9955273982cd563e1b16bd428ea6a9c399e7d4bc55b220fe223948572cdad"
     },
     {
-      "name": "svtplay_v0.3",
+      "name": "Svtplay V0.3",
       "filename": "svtplay_v0.3.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf",
       "local_path": "payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf",
@@ -542,7 +532,7 @@
       "checksum": "31f2caac7d53b8754bb37cb0364e615bfc38fc5f02c886d286a4f9e603b56832"
     },
     {
-      "name": "PS-Play_v2.1",
+      "name": "Ps-Play V2.1",
       "filename": "PS-Play_v2.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf",
       "local_path": "payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf",
@@ -552,7 +542,7 @@
       "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
     },
     {
-      "name": "pkg-manager_v1.4.1",
+      "name": "Pkg-Manager V1.4.1",
       "filename": "pkg-manager_v1.4.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
       "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
@@ -562,7 +552,7 @@
       "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
     },
     {
-      "name": "etaHEN_v2.5B",
+      "name": "Etahen V2.5B",
       "filename": "etaHEN_v2.5B.bin",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin",
       "local_path": "payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin",
@@ -572,7 +562,7 @@
       "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
     },
     {
-      "name": "PS5_Unified_Autoloader_v0.1.4-955249d",
+      "name": "Ps5 Unified Autoloader V0.1.4-955249D",
       "filename": "PS5_Unified_Autoloader_v0.1.4-955249d.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
       "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
@@ -582,7 +572,7 @@
       "checksum": "31d12ba2b0b11462a91756f4b8c7857e90674fc8df02fe74155c7c2a8f27a4fd"
     },
     {
-      "name": "pldmgr_v0.5.1",
+      "name": "Pldmgr V0.5.1",
       "filename": "pldmgr_v0.5.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
       "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
@@ -592,7 +582,7 @@
       "checksum": "05617c69ea145d1c11b8f7a6b7d3bd9e6df3831afd25d71a4ac85d63fb8e28aa"
     },
     {
-      "name": "ELF_Arsenal_v1.6.23",
+      "name": "Elf Arsenal V1.6.23",
       "filename": "ELF_Arsenal_v1.6.23.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
       "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
@@ -602,7 +592,7 @@
       "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
     },
     {
-      "name": "Kura_v1.6.50",
+      "name": "Kura V1.6.50",
       "filename": "Kura_v1.6.50.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf",
       "local_path": "payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf",
@@ -612,7 +602,7 @@
       "checksum": "8bac520b2b99dcda8109838884380605736d8b1c23793754250bcef00536b6ab"
     },
     {
-      "name": "PIZZA-HEN_v2.00",
+      "name": "Pizza-Hen V2.00",
       "filename": "PIZZA-HEN_v2.00.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf",
       "local_path": "payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf",
@@ -622,7 +612,7 @@
       "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
     },
     {
-      "name": "onionHEN_v0.0.13",
+      "name": "Onionhen V0.0.13",
       "filename": "onionHEN_v0.0.13.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
       "local_path": "payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
@@ -632,7 +622,7 @@
       "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
     },
     {
-      "name": "etaHEN-2.6B",
+      "name": "Etahen-2.6B",
       "filename": "etaHEN-2.6B.bin",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin",
       "local_path": "payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin",
@@ -642,7 +632,7 @@
       "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
     },
     {
-      "name": "elf-launcher_v1.0.3",
+      "name": "Elf-Launcher V1.0.3",
       "filename": "elf-launcher_v1.0.3.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf",
       "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf",
@@ -652,7 +642,7 @@
       "checksum": "0b18a6c974b11709268315af9d61c501545fce1cfb884815c9a21b1f62d4fa47"
     },
     {
-      "name": "np-fake-signin_v1.3",
+      "name": "Np-Fake-Signin V1.3",
       "filename": "np-fake-signin_v1.3.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.3/np-fake-signin_v1.3.elf",
       "local_path": "payloads/PS5_Activation/np-fake-signin/v1.3/np-fake-signin_v1.3.elf",
@@ -662,7 +652,7 @@
       "checksum": "2ace1bb0be6d57f91cb24e4d3a221dec2d6d6114ace0a6b5748c6c0dcdb3b9c6"
     },
     {
-      "name": "ps5-linux-loader_v2.5",
+      "name": "Ps5-Linux-Loader V2.5",
       "filename": "ps5-linux-loader_v2.5.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf",
       "local_path": "payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf",
@@ -672,7 +662,7 @@
       "checksum": "9fc48733077145d1d204a4c9cdb879baaab1e711a604dd73af0dd4a807d6bc49"
     },
     {
-      "name": "ps5-fan-control_v0.3",
+      "name": "Ps5-Fan-Control V0.3",
       "filename": "ps5-fan-control_v0.3.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf",
       "local_path": "payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf",
@@ -682,7 +672,7 @@
       "checksum": "b10b6b9b9c00efed8bf9202a83b6cb762345d1f84130a419eff7139250026b36"
     },
     {
-      "name": "fan_target_85c_v0.1",
+      "name": "Fan Target 85C V0.1",
       "filename": "fan_target_85c_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf",
@@ -692,7 +682,7 @@
       "checksum": "c37019c351c1c5b05b43adbac29d85bfd25f8c0ab9d94371cacab1945d8e0fd0"
     },
     {
-      "name": "fan_target_75c_v0.1",
+      "name": "Fan Target 75C V0.1",
       "filename": "fan_target_75c_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf",
@@ -702,7 +692,7 @@
       "checksum": "4b52e09c48ebed1f369221c290e8ec4a9fdb2a477b7b7f44a1b8646958d9f69b"
     },
     {
-      "name": "fan_target_70c_v0.1",
+      "name": "Fan Target 70C V0.1",
       "filename": "fan_target_70c_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
@@ -712,7 +702,7 @@
       "checksum": "a9ad8502123799d58f8ddd9882d842f524c4ecc3ea6743a73c6dcdffd0bf30e0"
     },
     {
-      "name": "fan_target_65c_v0.1",
+      "name": "Fan Target 65C V0.1",
       "filename": "fan_target_65c_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_65c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_65c_v0.1.elf",
@@ -722,7 +712,7 @@
       "checksum": "0bedeb564947530d09d1dfb27df63c2a09eaa7f51faf3ddcc90b3fb2870e6312"
     },
     {
-      "name": "fan_target_80c_v0.1",
+      "name": "Fan Target 80C V0.1",
       "filename": "fan_target_80c_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
@@ -732,7 +722,7 @@
       "checksum": "ccf2e709218f31cd9e6a0705c99646b8f030b877687df8377982a2f6ca10216e"
     },
     {
-      "name": "PS5-Custom-Tool-Manager-_vCustom",
+      "name": "Ps5-Custom-Tool-Manager- Vcustom",
       "filename": "PS5-Custom-Tool-Manager-_vCustom.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/PS5-Custom-Tool-Manager-/Custom/PS5-Custom-Tool-Manager-_vCustom.elf",
       "local_path": "payloads/ps5_themes-avatars/PS5-Custom-Tool-Manager-/Custom/PS5-Custom-Tool-Manager-_vCustom.elf",
@@ -742,7 +732,7 @@
       "checksum": "297824ceaf6ea53fde57550adf9b5c2fc44c63ef60e8196ab92d351d1615d9cb"
     },
     {
-      "name": "ps5-wallpaper-modd_v1.0",
+      "name": "Ps5-Wallpaper-Modd V1.0",
       "filename": "ps5-wallpaper-modd_v1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/ps5-wallpaper-modd/v1.0/ps5-wallpaper-modd_v1.0.elf",
       "local_path": "payloads/ps5_themes-avatars/ps5-wallpaper-modd/v1.0/ps5-wallpaper-modd_v1.0.elf",
@@ -752,7 +742,7 @@
       "checksum": "b18a866bac9deff45b921b7d3ea6143d541117b56c666d817ecdc81961829139"
     },
     {
-      "name": "ps5debug-NG_v1.3.2",
+      "name": "Ps5Debug-Ng V1.3.2",
       "filename": "ps5debug-NG_v1.3.2.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5debug-NG/1.3.2/ps5debug-NG_v1.3.2.elf",
       "local_path": "payloads/ps5_sdk_debug/ps5debug-NG/1.3.2/ps5debug-NG_v1.3.2.elf",
@@ -762,7 +752,7 @@
       "checksum": "949b0e6e0fe3f24f4a820319fd76d9ccb92f9770cbb1a64b09a8eca5c1fc9ff3"
     },
     {
-      "name": "ps5-self-pager_v1.2",
+      "name": "Ps5-Self-Pager V1.2",
       "filename": "ps5-self-pager_v1.2.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager_v1.2.elf",
       "local_path": "payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager_v1.2.elf",
@@ -772,7 +762,7 @@
       "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b"
     },
     {
-      "name": "PS5-SELF-Decrypter_v0.5.2",
+      "name": "Ps5-Self-Decrypter V0.5.2",
       "filename": "PS5-SELF-Decrypter_v0.5.2.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/PS5-SELF-Decrypter_v0.5.2.elf",
       "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/PS5-SELF-Decrypter_v0.5.2.elf",
@@ -782,7 +772,7 @@
       "checksum": "46340d3048a977f5603b3def0a0ba1c85b5c182891388442e51b39e281257b6a"
     },
     {
-      "name": "ps5-remoteplay-get-pin_v0.1.1",
+      "name": "Ps5-Remoteplay-Get-Pin V0.1.1",
       "filename": "ps5-remoteplay-get-pin_v0.1.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-remoteplay-get-pin/v0.1.1/ps5-remoteplay-get-pin_v0.1.1.elf",
       "local_path": "payloads/ps5_sdk_debug/ps5-remoteplay-get-pin/v0.1.1/ps5-remoteplay-get-pin_v0.1.1.elf",
@@ -792,7 +782,7 @@
       "checksum": "1d611c1856dd2f4b4b6cb42ead1128a7f08a26585788f92de79fa4f67d721472"
     },
     {
-      "name": "MemDBG_vnightly-20260922-g6e493c9",
+      "name": "Memdbg Vnightly-20260922-G6E493C9",
       "filename": "MemDBG_vnightly-20260922-g6e493c9.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260922-g6e493c9/MemDBG_vnightly-20260922-g6e493c9.elf",
       "local_path": "payloads/ps5_sdk_debug/MemDBG/nightly-20260922-g6e493c9/MemDBG_vnightly-20260922-g6e493c9.elf",
@@ -802,7 +792,7 @@
       "checksum": "b87f14d98efbe1b892fe5d660eee3751b1459097a4c4475bab98c85cf8f75831"
     },
     {
-      "name": "ps5-hwinfo_v0.1",
+      "name": "Ps5-Hwinfo V0.1",
       "filename": "ps5-hwinfo_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-hwinfo/0.1/ps5-hwinfo_v0.1.elf",
       "local_path": "payloads/ps5_sdk_debug/ps5-hwinfo/0.1/ps5-hwinfo_v0.1.elf",
@@ -812,7 +802,7 @@
       "checksum": "4514bdbc0c556df1a66544615942d5087d1cbee5c2026b3b66e688ba01e5a5b0"
     },
     {
-      "name": "CheatRunner_v0.17",
+      "name": "Cheatrunner V0.17",
       "filename": "CheatRunner_v0.17.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",
       "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",
@@ -822,7 +812,7 @@
       "checksum": "2f296d3f1e69b65439bb5dc362f0f6504f6dc9f245fa16a3683e9d7ec9533773"
     },
     {
-      "name": "kylin-core-community-lite-v131-global-release",
+      "name": "Kylin-Core-Community-Lite-V131-Global-Release",
       "filename": "kylin-core-community-lite-v131-global-release.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/kylin-core/Source-Fixe/kylin-core-community-lite-v131-global-release.elf",
       "local_path": "payloads/PS5_Cheat/kylin-core/Source-Fixe/kylin-core-community-lite-v131-global-release.elf",
@@ -832,7 +822,7 @@
       "checksum": "2b731fc60b3d7996667b372bb8e31df7125d209ecacbb6838312a51b24b65c29"
     },
     {
-      "name": "kstuff_EchoStretch_v1.6.7",
+      "name": "Kstuff Echostretch V1.6.7",
       "filename": "kstuff_EchoStretch_v1.6.7.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf",
       "local_path": "payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf",
@@ -842,7 +832,7 @@
       "checksum": "f1c1f4b2b6395644af04cbe9828aba58586acf7aacb9e01113cac92ce16e3569"
     },
     {
-      "name": "kstuff-lite_EchoStretch_v1.11",
+      "name": "Kstuff-Lite Echostretch V1.11",
       "filename": "kstuff-lite_EchoStretch_v1.11.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf",
       "local_path": "payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf",
@@ -852,7 +842,7 @@
       "checksum": "ab9a6cb4d3b1daf139d4d646e402b1cf569071acd64599c936d7a3a6164dc779"
     },
     {
-      "name": "kstuff-lite_drakmor_v1.2-dr-test1",
+      "name": "Kstuff-Lite Drakmor V1.2-Dr-Test1",
       "filename": "kstuff-lite_drakmor_v1.2-dr-test1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
       "local_path": "payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
@@ -862,7 +852,7 @@
       "checksum": "9c1b242eaed3704ef18be45d001a2c4ebf2d9222cfe3cbb0f0c3db33309abac9"
     },
     {
-      "name": "nanoDNS_v0.4",
+      "name": "Nanodns V0.4",
       "filename": "nanoDNS_v0.4.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf",
       "local_path": "payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf",
@@ -872,7 +862,7 @@
       "checksum": "fcfb7d47c3b295560ea1603dc015f7c4950353ef0faca16428bd425680ef1fc5"
     },
     {
-      "name": "Chukei_DNS_v0.9.0",
+      "name": "Chukei Dns V0.9.0",
       "filename": "Chukei_DNS_v0.9.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf",
       "local_path": "payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf",
@@ -882,7 +872,7 @@
       "checksum": "d69081b4a68adcab517c699d8535b17830af41de635d891de4c516b43015610f"
     },
     {
-      "name": "PS5-Game-Compressor_v1.0.4",
+      "name": "Ps5-Game-Compressor V1.0.4",
       "filename": "PS5-Game-Compressor_v1.0.4.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf",
       "local_path": "payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf",
@@ -892,7 +882,7 @@
       "checksum": "e55e90aaade13b6e0d4316c1597ef90a21b67a06475c3e25de054224bc1e941b"
     },
     {
-      "name": "ps5-app-dumper_v1.11",
+      "name": "Ps5-App-Dumper V1.11",
       "filename": "ps5-app-dumper_v1.11.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf",
       "local_path": "payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf",
@@ -902,7 +892,7 @@
       "checksum": "18483751ebaea6879b020a9dd87c0a4fb4f1bf09f3708d950362a483f78cc0d0"
     },
     {
-      "name": "ShadowMountPlus_v1.7beta2",
+      "name": "Shadowmountplus V1.7Beta2",
       "filename": "ShadowMountPlus_v1.7beta2.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta2/ShadowMountPlus_v1.7beta2.elf",
       "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta2/ShadowMountPlus_v1.7beta2.elf",
@@ -912,7 +902,7 @@
       "checksum": "3f716a7b2220c7e87e87452ae05cad689ef842d3beb4cdad6c526cb6dfc2b6b5"
     },
     {
-      "name": "BackPork_v0.1",
+      "name": "Backpork V0.1",
       "filename": "BackPork_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf",
       "local_path": "payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf",
@@ -922,7 +912,7 @@
       "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
     },
     {
-      "name": "apr_emu_updater_v2.0.6",
+      "name": "Apr Emu Updater V2.0.6",
       "filename": "apr_emu_updater_v2.0.6.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf",
       "local_path": "payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf",

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1518)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-1612)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -26,7 +26,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `lapy_jb_daemon.elf`
   * `web-file-mgr_v1.9.elf`
   * `wfm-7zip-helper_v1.9.elf`
-  * `ps5-web-file-manager_v1.9.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
   * `A53-kstuff-SMP.elf`

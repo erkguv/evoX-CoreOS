@@ -2,7 +2,7 @@
   "name": "PS5 Utility",
   "payloads": [
     {
-      "name": "ChronicLoader-PS5-Payload_v0.1",
+      "name": "Chronicloader-Ps5-Payload V0.1",
       "filename": "ChronicLoader-PS5-Payload_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf",
       "local_path": "payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf",
@@ -12,7 +12,7 @@
       "checksum": "3561120f85e0ec32de5de15cdd61a1fe8d5146eb4c6aa99ee88209914a2774b1"
     },
     {
-      "name": "Ghostpad_v1.0.0",
+      "name": "Ghostpad V1.0.0",
       "filename": "Ghostpad_v1.0.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/Ghostpad/v1.0.0/Ghostpad_v1.0.0.elf",
       "local_path": "payloads/ps5_utility/Ghostpad/v1.0.0/Ghostpad_v1.0.0.elf",
@@ -22,7 +22,7 @@
       "checksum": "94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1"
     },
     {
-      "name": "PoorDS4-status_v0.1.0-rc44",
+      "name": "Poords4-Status V0.1.0-Rc44",
       "filename": "PoorDS4-status_v0.1.0-rc44.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf",
       "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf",
@@ -32,7 +32,7 @@
       "checksum": "9195c512853538ec3ccf0207f68ed4898f386c6fb624c54d8fa959cef1a8b906"
     },
     {
-      "name": "PoorDS4-stop_v0.1.0-rc44",
+      "name": "Poords4-Stop V0.1.0-Rc44",
       "filename": "PoorDS4-stop_v0.1.0-rc44.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf",
       "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf",
@@ -42,7 +42,7 @@
       "checksum": "ffdce4964f0d34a2b9be7cb65e6ad345d5beb582dcdf94d0214cde6bc79acd0d"
     },
     {
-      "name": "PoorDS4rc44_v0.1.0-rc44",
+      "name": "Poords4Rc44 V0.1.0-Rc44",
       "filename": "PoorDS4rc44_v0.1.0-rc44.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4rc44_v0.1.0-rc44.elf",
       "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4rc44_v0.1.0-rc44.elf",
@@ -52,7 +52,7 @@
       "checksum": "a077fe7a1defbe6918538b834eaa502a6b4239d7feff58c8fa4ec06cd325d9a8"
     },
     {
-      "name": "PS_Game_State_Lib_v0.1",
+      "name": "Ps Game State Lib V0.1",
       "filename": "PS_Game_State_Lib_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf",
       "local_path": "payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf",
@@ -62,7 +62,7 @@
       "checksum": "a550e1494b0f8be3b244f8820ee8d899442d33a936f9ded6203a0318c7afdba8"
     },
     {
-      "name": "PS-DiscordPresence_v0.01",
+      "name": "Ps-Discordpresence V0.01",
       "filename": "PS-DiscordPresence_v0.01.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS-DiscordPresence/v0.01/PS-DiscordPresence_v0.01.elf",
       "local_path": "payloads/ps5_utility/PS-DiscordPresence/v0.01/PS-DiscordPresence_v0.01.elf",
@@ -72,7 +72,7 @@
       "checksum": "375cf619ea6f6c594ea2b79ecbb98704723522d07e51c877687876d5fe589afb"
     },
     {
-      "name": "unrar-ps5_v1.4.0",
+      "name": "Unrar-Ps5 V1.4.0",
       "filename": "unrar-ps5_v1.4.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/unrar-ps5/v1.4.0/unrar-ps5_v1.4.0.elf",
       "local_path": "payloads/ps5_utility/unrar-ps5/v1.4.0/unrar-ps5_v1.4.0.elf",
@@ -82,7 +82,7 @@
       "checksum": "2ef04b0bc8fc1932b29da1a53336c40ed0a3f6a945a0746bef2e5dde52149701"
     },
     {
-      "name": "PS5-Power-Payloads-Project_v1.0",
+      "name": "Ps5-Power-Payloads-Project V1.0",
       "filename": "PS5-Power-Payloads-Project_v1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS5-Power-Payloads-Project/1.0/PS5-Power-Payloads-Project_v1.0.elf",
       "local_path": "payloads/ps5_utility/PS5-Power-Payloads-Project/1.0/PS5-Power-Payloads-Project_v1.0.elf",
@@ -92,7 +92,7 @@
       "checksum": "3614f68981adc13a231d3655bf3892725bc25aa372d67a0037698253753b7cbe"
     },
     {
-      "name": "ps5-date-time-sync_v1.0.0",
+      "name": "Ps5-Date-Time-Sync V1.0.0",
       "filename": "ps5-date-time-sync_v1.0.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf",
       "local_path": "payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf",
@@ -102,7 +102,7 @@
       "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849"
     },
     {
-      "name": "FGG-XSense_v1.1",
+      "name": "Fgg-Xsense V1.1",
       "filename": "FGG-XSense_v1.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
       "local_path": "payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
@@ -112,7 +112,7 @@
       "checksum": "55195ccb02fbdbfa002e9188b0eff72d7d2e6de6c7a1c91666f88c6c9ff0d6c0"
     },
     {
-      "name": "FGG-PlayPods_v1.0",
+      "name": "Fgg-Playpods V1.0",
       "filename": "FGG-PlayPods_v1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
       "local_path": "payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
@@ -122,7 +122,7 @@
       "checksum": "9ee1958ec24e4a927992fea9ee202f5a173756091bd3abc02ebf4d2d686211a4"
     },
     {
-      "name": "FGG-Unpack_v0.1",
+      "name": "Fgg-Unpack V0.1",
       "filename": "FGG-Unpack_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf",
       "local_path": "payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf",
@@ -132,14 +132,14 @@
       "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff"
     },
     {
-      "name": "ghost-toothAPI",
+      "name": "Ghost-Toothapi",
       "filename": "ghost-toothAPI.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
       "local_path": "payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "027180e75c7dd650861b0a7c0b1f0c91b4e811ee427512255b488eca01862b4a"
+      "checksum": "cfe26d3c6918ab5f4d4eb189f71dc90825ed4bf40da5a2026561cb701863ab9a"
     }
   ]
 }
