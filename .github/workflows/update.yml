@@ -60,8 +60,8 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Nettoyage de sécurité pour supprimer les fichiers lourds > 90 Mo stockés par erreur localement
-          find . -type f \( -name "*.pkg" -o -name "*.bin" -o -name "*.zip" \) -size +90M -delete 2>/dev/null || true
+          # Nettoyage de sécurité en excluant le dossier archives/ pour ne pas supprimer les ZIP finaux
+          find . -path "./archives" -prune -o -type f \( -name "*.pkg" -o -name "*.bin" -o -name "*.zip" \) -size +90M -delete 2>/dev/null || true
           
           git add -A
           git diff-index --quiet HEAD || (git commit -m "🤖 Auto-update store, RSS, Release Notes & Packages [skip ci]" && git push)
