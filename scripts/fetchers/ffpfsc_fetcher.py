@@ -24,6 +24,11 @@ def fetch_ffpfsc_category(credits_set):
 
             assets = fetch_assets_according_to_rules(entry, root_dir, ('.ffpfsc',))
             for item in assets:
+                # 🛑 FILTRAGE STRICT : On s'assure de ne garder que les fichiers .ffpfsc et d'ignorer les .zip
+                file_url = item.get("url", "") or item.get("file_name", "")
+                if not file_url.lower().endswith('.ffpfsc'):
+                    continue
+
                 item["category"] = cat_display
                 credits_set.add(f"- **{author}** : [{title}]({xml_url})")
                 cat_list.append(item)
