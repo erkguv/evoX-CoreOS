@@ -22,8 +22,16 @@ def fetch_pkg_category(credits_set):
             title, xml_url, author = entry['title'], entry['xml_url'], entry['author']
             if not xml_url: continue
 
+            # Récupération standard via les règles
             assets = fetch_assets_according_to_rules(entry, root_dir, ('.pkg',))
+            
             for item in assets:
+                # 🛑 FILTRAGE STRICT DE SÉCURITÉ : On vérifie que le fichier ou le lien se termine bien par .pkg
+                # Cela empêche catégoriquement le passage d'un .bin ou d'une autre extension non désirée
+                file_url = item.get("url", "") or item.get("file_name", "")
+                if not file_url.lower().endswith('.pkg'):
+                    continue
+
                 item["category"] = cat_display
                 credits_set.add(f"- **{author}** : [{title}]({xml_url})")
                 cat_list.append(item)
