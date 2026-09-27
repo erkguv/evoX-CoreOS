@@ -1,5 +1,8 @@
 # Archives et gros paquets AIO (gérés par les Releases GitHub)
 archives/
+pkg/
+apps/
+ffpfsc/
 
 # Dossiers système et environnements virtuels Python
 **/__pycache__/
