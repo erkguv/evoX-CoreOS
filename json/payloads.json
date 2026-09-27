@@ -109,7 +109,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "ae925314337cb66db79520f710fbba4d63555441f6aefc273e7502bbddd22f4b"
+      "checksum": "d5732a02c9d399e99eb59c099edb4b6c8300e2809d63638c3553a3f4daf26f44"
     },
     {
       "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "9f16cc8722cfd35b626d2c110b7982ce6632f9f824153dab880f5331dcf94d43"
+      "checksum": "8d93d07d4cdc20cc282f7f4c25cee7ce8cf72a85458e079db53722fb82c60a0f"
     },
     {
       "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "d5260b0661705409800a6213fe85f9e54b41a517b5bb8b79cca7f89029601df1"
+      "checksum": "91c6e47bee99a19a56d7d3dc9d2cfb3f4b09811fb3f058dc9d1974761f0f5840"
     },
     {
       "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "1c87abef82a06a42f9154e53aae9443def7e8e10951233bf3b41cf3e7f4ce449"
+      "checksum": "b62f1d45e1b78e3069d3a4f51cce16de019b5abd0eb3ed1672853c59964b1ef6"
     },
     {
       "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "5faaf300148326eadd2ba5d6341b64156b57ef927795852f847a5b7cf92f9157"
+      "checksum": "8f8638861f63ee55abb1d5c62383c6a9a8da06b75a8db8c388e1384f4c3d9d9e"
     },
     {
       "name": "A53 Ppr Install 1160 20.09",
@@ -169,7 +169,7 @@
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "654624d122370564d4c6ae943f422bcad7d3c30824ba086bd9b6bb3ca9d46b65"
+      "checksum": "a0491115523f60e9ea840a75465ad1ef61b5126900a143fec8d887df8365c459"
     },
     {
       "name": "Webkit-Autoloader-Installer V0.4.0",
@@ -479,7 +479,7 @@
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "cfe26d3c6918ab5f4d4eb189f71dc90825ed4bf40da5a2026561cb701863ab9a"
+      "checksum": "84bbbd89e6b408399940251f10c48a0cda5968041610c08f4a6235cde83124a2"
     },
     {
       "name": "Spectrum-Library V1.4.7",
