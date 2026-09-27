@@ -39,14 +39,12 @@ REPO_RULES = {
         "instalador-host-psm-poop2jb", 
         "psm", 
         "poords4",
-        "owendswang/ps5-web-file-manager"
+        "owendswang/ps5-web-file-manager",
+        "smoxa/ps5-new-overlay"
     ],
     "custom_payload_rules": {
         "smoxa/ps5-new-overlay": {
-            "mapping": {
-                "ps5_overlay.elf": "ps5_overlay.elf",
-                "ps5_overlay_shellui.elf": "ps5_overlay_shellui.elf"
-            }
+            "keep_original": True
         },
         "seregonwar/zftpd": {
             "mapping": {
