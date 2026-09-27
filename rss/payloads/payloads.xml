@@ -138,12 +138,6 @@
     </item>
     <item>
       <title>Zftpd V1.5.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.bin</link>
-      <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.5.0</pubDate>
-    </item>
-    <item>
-      <title>Zftpd V1.5.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
       <pubDate>v1.5.0</pubDate>
@@ -293,12 +287,6 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Spectrum-Library V1.4.7</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin</link>
-      <description>free store webadmin http://your-ps5-ip:7575.</description>
-      <pubDate>1.4.7</pubDate>
-    </item>
-    <item>
       <title>Pegasus-Dl V1.9.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf</link>
       <description>free store webadmin http://your-ps5-ip:6970.</description>
@@ -335,12 +323,6 @@
       <pubDate>v1.4.1</pubDate>
     </item>
     <item>
-      <title>Etahen V2.5B</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin</link>
-      <description>Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés.</description>
-      <pubDate>2.5B</pubDate>
-    </item>
-    <item>
       <title>Ps5 Unified Autoloader V0.1.4-955249D</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf</link>
       <description>Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l'exploit.</description>
@@ -375,12 +357,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf</link>
       <description>An all-in-one HEN and Toolbox for PlayStation 5.</description>
       <pubDate>v0.0.13</pubDate>
-    </item>
-    <item>
-      <title>Etahen-2.6B</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin</link>
-      <description>etahen beta version experimental.</description>
-      <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Elf-Launcher V1.0.3</title>

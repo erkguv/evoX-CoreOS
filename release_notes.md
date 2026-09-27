@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1629)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-1648)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -39,7 +39,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
-  * `zftpd_v1.5.0.bin`
   * `zftpd_v1.5.0.elf`
   * `zhttp_v1.5.0.elf`
   * `elfldr_v0.26.elf`
@@ -65,21 +64,18 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-PlayPods_v1.0.elf`
   * `FGG-Unpack_v0.1.elf`
   * `ghost-toothAPI.elf`
-  * `Spectrum-Library_v1.4.7.bin`
   * `pegasus-dl_v1.9.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `ProsperoPlayer_v1.0.elf`
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
   * `pkg-manager_v1.4.1.elf`
-  * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.4-955249d.elf`
   * `pldmgr_v0.5.1.elf`
   * `ELF_Arsenal_v1.6.23.elf`
   * `Kura_v1.6.50.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
-  * `etaHEN-2.6B.bin`
   * `elf-launcher_v1.0.3.elf`
   * `np-fake-signin_v1.3.elf`
   * `ps5-linux-loader_v2.5.elf`
