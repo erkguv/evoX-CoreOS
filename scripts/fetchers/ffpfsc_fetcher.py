@@ -1,11 +1,10 @@
 # scripts/fetchers/ffpfsc_fetcher.py
 import os
 from scripts.config_rules import PATHS
-from scripts.fetchers.utils import parse_opml_file, fetch_assets_according_to_rules
+from scripts.fetchers.utils import parse_opml_file, fetch_assets_from_url
 
 def fetch_ffpfsc_category(credits_set):
     feed_dir = PATHS["categories"]["ffpfsc"]["feed"]
-    root_dir = PATHS["categories"]["ffpfsc"]["root"] if "root" in PATHS["categories"]["ffpfsc"] else "ffpfsc"
     all_flat = []
     by_category = {}
 
@@ -20,9 +19,11 @@ def fetch_ffpfsc_category(credits_set):
 
         for entry in entries:
             title, xml_url, author = entry['title'], entry['xml_url'], entry['author']
+            desc = entry.get('description', '')
             if not xml_url: continue
 
-            assets = fetch_assets_according_to_rules(entry, root_dir, ('.ffpfsc',))
+            assets = fetch_assets_from_url(xml_url, title, desc, author, ('.ffpfsc',), category_folder="ffpfsc")
+            
             for item in assets:
                 # 🛑 FILTRAGE STRICT : On s'assure de ne garder que les fichiers .ffpfsc et d'ignorer les .zip
                 file_url = item.get("url", "") or item.get("file_name", "")
