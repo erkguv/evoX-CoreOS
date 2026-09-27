@@ -26,6 +26,7 @@ REPO_RULES = {
     "extract_zip_repos": [
         "poords4", 
         "fan_target", 
+        "drakmor/fan_target",
         "shadowmountplus", 
         "instalador-host-psm-poop2jb"
     ],
@@ -48,6 +49,10 @@ REPO_RULES = {
                 "zftpd-ps5-v1.5.0.elf": "zftpd_v{version}.elf",
                 "zftpd-ps5-zhttp-v1.5.0.elf": "zhttp_v{version}.elf"
             }
+        },
+        "drakmor/fan_target": {
+            "extract_zip": True,
+            "suffix_format": "_{temperature}_v{version}.elf" # ex: fan_target_65c_v1.0.0.elf
         }
     }
 }
