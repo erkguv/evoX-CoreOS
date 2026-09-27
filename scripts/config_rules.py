@@ -39,11 +39,14 @@ REPO_RULES = {
         "instalador-host-psm-poop2jb", 
         "psm", 
         "poords4",
-        "owendswang/ps5-web-file-manager" # Pour s'assurer que le cleaner ne renomme pas brutalement l'helper
+        "owendswang/ps5-web-file-manager"
     ],
     "custom_payload_rules": {
         "smoxa/ps5-new-overlay": {
-            "files": ["ps5_overlay.elf", "ps5_overlay_shellui.elf"]
+            "mapping": {
+                "ps5_overlay.elf": "ps5_overlay.elf",
+                "ps5_overlay_shellui.elf": "ps5_overlay_shellui.elf"
+            }
         },
         "seregonwar/zftpd": {
             "mapping": {
@@ -64,4 +67,4 @@ REPO_RULES = {
     }
 }
 
-DISALLOWED_EXTENSIONS = ('.dmg', '.exe', '.appimage', '.msi', '.txt', '.bin')
+DISALLOWED_EXTENSIONS = ('.dmg', '.exe', '.appimage', '.msi', '.txt')
