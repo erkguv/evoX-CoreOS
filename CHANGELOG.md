@@ -1,5 +1,100 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 17:23
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.13.1` (v1.13.1) - *Nouveau*
+  * `Garlic-Worker V1.1.7` (v1.1.7) - *Nouveau*
+  * `Savemnt-Offset-Dumper V1.0.0` (1.0.0) - *Nouveau*
+  * `Common Fps Ps5 V1.1.0` (v1.1.0) - *Nouveau*
+  * `Ps5-New-Overlay V1.0.15` (v1.0.15) - *Nouveau*
+  * `Bfpilot V0.4.4` (v0.4.4) - *Nouveau*
+  * `Lapy Jb Daemon` (Source-Fixe) - *Nouveau*
+  * `Web-File-Mgr V1.9` (v1.9) - *Nouveau*
+  * `Wfm-7Zip-Helper V1.9` (v1.9) - *Nouveau*
+  * `Ps5-File-Explorer Vfile-Explorer-V0.2.1` (file-explorer-v0.2.1) - *Nouveau*
+  * `A53-Kstuff-Shadowmountplus-3In1` (Source-Fixe) - *Nouveau*
+  * `A53-Kstuff-Smp` (Source-Fixe) - *Nouveau*
+  * `Kstuff-Ng V1.00` (Source-Fixe) - *Nouveau*
+  * `Kstuff V1.12-Dr-Test8` (Source-Fixe) - *Nouveau*
+  * `Kstuff-1.13-Fpkg-Dr-Test3` (Source-Fixe) - *Nouveau*
+  * `A53 Ppr Install 1140 20.09` (Source-Fixe) - *Nouveau*
+  * `A53 Ppr Install 1160 20.09` (Source-Fixe) - *Nouveau*
+  * `Webkit-Autoloader-Installer V0.4.0` (v0.4.0) - *Nouveau*
+  * `Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0` (v1.2.0) - *Nouveau*
+  * `Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0` (v1.2.0) - *Nouveau*
+  * `Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr V1.2.0` (v1.2.0) - *Nouveau*
+  * `Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen-En V1.2.0` (v1.2.0) - *Nouveau*
+  * `Zftpd V1.5.0` (v1.5.0) - *Nouveau*
+  * `Zftpd V1.5.0` (v1.5.0) - *Nouveau*
+  * `Zhttp V1.5.0` (v1.5.0) - *Nouveau*
+  * `Elfldr V0.26` (v0.26) - *Nouveau*
+  * `Ftpsrv Ps5-Payload V0.21.1` (v0.21.1) - *Nouveau*
+  * `Websrv V0.34` (v0.34) - *Nouveau*
+  * `Gdbsrv V0.9` (v0.9) - *Nouveau*
+  * `Klogsrv V0.9` (v0.9) - *Nouveau*
+  * `Ftpsrv Drakmor V1.16-Ng-Stable` (1.16-ng-stable) - *Nouveau*
+  * `Ps5-Ezremote-Server V1.11` (1.11) - *Nouveau*
+  * `Ps5Upload V5.35.0` (v5.35.0) - *Nouveau*
+  * `Airpsx V0.19` (0.19) - *Nouveau*
+  * `Chronicloader-Ps5-Payload V0.1` (0.1) - *Nouveau*
+  * `Ghostpad V1.0.0` (v1.0.0) - *Nouveau*
+  * `Poords4-Status V0.1.0-Rc44` (v0.1.0-rc44) - *Nouveau*
+  * `Poords4-Stop V0.1.0-Rc44` (v0.1.0-rc44) - *Nouveau*
+  * `Poords4Rc44 V0.1.0-Rc44` (v0.1.0-rc44) - *Nouveau*
+  * `Ps Game State Lib V0.1` (v0.1) - *Nouveau*
+  * `Ps-Discordpresence V0.01` (v0.01) - *Nouveau*
+  * `Unrar-Ps5 V1.4.0` (v1.4.0) - *Nouveau*
+  * `Ps5-Power-Payloads-Project V1.0` (1.0) - *Nouveau*
+  * `Ps5-Date-Time-Sync V1.0.0` (v1.0.0) - *Nouveau*
+  * `Fgg-Xsense V1.1` (1.1) - *Nouveau*
+  * `Fgg-Playpods V1.0` (1.0) - *Nouveau*
+  * `Fgg-Unpack V0.1` (v0.1) - *Nouveau*
+  * `Ghost-Toothapi` (Source-Fixe) - *Nouveau*
+  * `Spectrum-Library V1.4.7` (1.4.7) - *Nouveau*
+  * `Pegasus-Dl V1.9.0` (v1.9.0) - *Nouveau*
+  * `Ps5Shopappkg-Dpi` (Source-Fixe) - *Nouveau*
+  * `Prosperoplayer V1.0` (v1.0) - *Nouveau*
+  * `Svtplay V0.3` (v0.3) - *Nouveau*
+  * `Ps-Play V2.1` (2.1) - *Nouveau*
+  * `Pkg-Manager V1.4.1` (v1.4.1) - *Nouveau*
+  * `Etahen V2.5B` (2.5B) - *Nouveau*
+  * `Ps5 Unified Autoloader V0.1.4-955249D` (v0.1.4-955249d) - *Nouveau*
+  * `Pldmgr V0.5.1` (v0.5.1) - *Nouveau*
+  * `Elf Arsenal V1.6.23` (v1.6.23) - *Nouveau*
+  * `Kura V1.6.50` (v1.6.50) - *Nouveau*
+  * `Pizza-Hen V2.00` (v2.00) - *Nouveau*
+  * `Onionhen V0.0.13` (v0.0.13) - *Nouveau*
+  * `Etahen-2.6B` (Source-Fixe) - *Nouveau*
+  * `Elf-Launcher V1.0.3` (v1.0.3) - *Nouveau*
+  * `Np-Fake-Signin V1.3` (v1.3) - *Nouveau*
+  * `Ps5-Linux-Loader V2.5` (v2.5) - *Nouveau*
+  * `Ps5-Fan-Control V0.3` (v0.3) - *Nouveau*
+  * `Fan Target 85C V0.1` (0.1) - *Nouveau*
+  * `Fan Target 75C V0.1` (0.1) - *Nouveau*
+  * `Fan Target 70C V0.1` (0.1) - *Nouveau*
+  * `Fan Target 65C V0.1` (0.1) - *Nouveau*
+  * `Fan Target 80C V0.1` (0.1) - *Nouveau*
+  * `Ps5-Custom-Tool-Manager- Vcustom` (Custom) - *Nouveau*
+  * `Ps5-Wallpaper-Modd V1.0` (v1.0) - *Nouveau*
+  * `Ps5Debug-Ng V1.3.2` (1.3.2) - *Nouveau*
+  * `Ps5-Self-Pager V1.2` (v1.2) - *Nouveau*
+  * `Ps5-Self-Decrypter V0.5.2` (v0.5.2) - *Nouveau*
+  * `Ps5-Remoteplay-Get-Pin V0.1.1` (v0.1.1) - *Nouveau*
+  * `Memdbg Vnightly-20260922-G6E493C9` (nightly-20260922-g6e493c9) - *Nouveau*
+  * `Ps5-Hwinfo V0.1` (0.1) - *Nouveau*
+  * `Cheatrunner V0.17` (v0.17) - *Nouveau*
+  * `Kylin-Core-Community-Lite-V131-Global-Release` (Source-Fixe) - *Nouveau*
+  * `Kstuff Echostretch V1.6.7` (v1.6.7) - *Nouveau*
+  * `Kstuff-Lite Echostretch V1.11` (v1.11) - *Nouveau*
+  * `Kstuff-Lite Drakmor V1.2-Dr-Test1` (1.2-dr-test1) - *Nouveau*
+  * `Nanodns V0.4` (0.4) - *Nouveau*
+  * `Chukei Dns V0.9.0` (0.9.0) - *Nouveau*
+  * `Ps5-Game-Compressor V1.0.4` (v1.0.4) - *Nouveau*
+  * `Ps5-App-Dumper V1.11` (v1.11) - *Nouveau*
+  * `Shadowmountplus V1.7Beta2` (1.7beta2) - *Nouveau*
+  * `Backpork V0.1` (0.1) - *Nouveau*
+  * `Apr Emu Updater V2.0.6` (v2.0.6) - *Nouveau*
+
 ## Build du 27/09/2026 à 17:08
 * **PAYLOADS**
   * `Garlic-Savemgr V1.13.1` (v1.13.1) - *Nouveau*
