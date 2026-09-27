@@ -22,5 +22,11 @@
       <description>PS5 IPTV</description>
       <pubDate>01.000.015</pubDate>
     </item>
+    <item>
+      <title>EVO-PLAYER-PS5 (EVOPlayer-v0.10.0-PPSA99039.ffpfsc)</title>
+      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc</link>
+      <description>A media player for jailbroken PS5</description>
+      <pubDate>v0.10.0</pubDate>
+    </item>
   </channel>
 </rss>

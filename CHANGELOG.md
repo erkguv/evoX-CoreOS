@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 11:06
+* **PAYLOADS**
+  * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.7beta2)*
+* **FFPFSC**
+  * `EVO-PLAYER-PS5 (EVOPlayer-v0.10.0-PPSA99039.ffpfsc)` (v0.10.0) - *Nouveau*
+
 ## Build du 27/09/2026 à 10:32
 * **PAYLOADS**
   * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.7beta2)*

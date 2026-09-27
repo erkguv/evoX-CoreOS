@@ -30,6 +30,16 @@
       "version": "01.000.015",
       "author": "blackbearreloaded",
       "category": "FFPFSC"
+    },
+    {
+      "name": "EVO-PLAYER-PS5 (EVOPlayer-v0.10.0-PPSA99039.ffpfsc)",
+      "filename": "EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+      "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+      "local_path": "archives/temp_ffpfsc/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+      "description": "A media player for jailbroken PS5",
+      "version": "v0.10.0",
+      "author": "sainsaji",
+      "category": "FFPFSC"
     }
   ]
 }

@@ -114,6 +114,7 @@
       <outline text="ProsperoRadio" title="ProsperoRadio" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoRadio" description="PS5 Radio Player"/>
       <outline text="ProsperoTV" title="ProsperoTV" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoTV" description="PS5 IPTV"/>
       <outline text="ProsperoAI" title="ProsperoAI" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI" description="Private, local generative AI for PlayStation 5 homebrew"/>
+      <outline text="EVO-PLAYER-PS5" title="EVO-PLAYER-PS5" type="rss" xmlUrl="https://github.com/sainsaji/EVO-PLAYER-PS5" description="A media player for jailbroken PS5"/>
     </outline>
     <outline text="Apps" title="Apps">
       <outline text="ProsperoAI" title="ProsperoAI" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI" description="Private, local generative AI for PlayStation 5 homebrew"/>
