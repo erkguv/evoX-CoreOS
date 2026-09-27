@@ -87,7 +87,7 @@ REPO_RULES = {
             "release_channel": "stable"
         },
 
-        # --- 4. Nouveaux dépôts en Pre-Release configurés ---
+        # --- 4. Dépôts en Pre-Release configurés ---
         "rdiol12/ps5library": {
             "release_channel": "pre-release",
             "allowed_extensions": [".elf"],
@@ -118,6 +118,17 @@ REPO_RULES = {
                 {
                     "match": "ps5-fw-spoof",
                     "rename": "ps5-fw-spoof_v{version}.elf"
+                }
+            ]
+        },
+        "notmaj0r/prosperomgr": {
+            "release_channel": "pre-release",
+            "allowed_extensions": [".elf"],
+            "strict_clean": True,
+            "targets": [
+                {
+                    "match": "ProsperoMgr",
+                    "rename": "ProsperoMgr_v{version}.elf"
                 }
             ]
         },
