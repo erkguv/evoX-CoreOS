@@ -80,13 +80,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `09fbb3cc099b...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `cda8d1b405ac...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `3a5cc4f19078...` | A53 Experimental for Kstuff-EchoStrech |
-| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `bcb529adf3a3...` | A53 Experimental for Kstuff-Darkmor |
-| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `aff3baa3bd1b...` | Experimental Kstuff DarkMor |
-| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `bd904494af64...` | Experimental Kstuff EchoStrech |
-| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `faa30b6c0880...` | ShadowMountPlus experimental for FPKG |
+| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `999ecf273ff7...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `2e085aa5ae65...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `fd9eb3f5d1ac...` | A53 Experimental for Kstuff-EchoStrech |
+| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `f02600317571...` | A53 Experimental for Kstuff-Darkmor |
+| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `078dfc381df9...` | Experimental Kstuff DarkMor |
+| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `b45bc8c71688...` | Experimental Kstuff EchoStrech |
+| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `dd5c640b2340...` | ShadowMountPlus experimental for FPKG |
 
 ### 📂 PS5 Cheat
 
@@ -138,7 +138,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | [pegasus-dl](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf) | v1.9.0 | `6336c626f0fb...` | free store webadmin http://your-ps5-ip:6970. |
 | [ps5shopappkg-dpi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf) | Source-Fixe | `c4672cfa9094...` | You need PS5-SHOP-APPKG.pkg DPI port 9040. |
-| [Spectrum-Library](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.6/Spectrum-Library_v1.4.6.elf) | 1.4.6 | `73dd3f393886...` | free store webadmin http://your-ps5-ip:7575. |
+| [Spectrum-Library](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin) | 1.4.7 | `9c7b60380153...` | free store webadmin http://your-ps5-ip:7575. |
 
 ### 📂 PS5 Game Dump
 
@@ -309,6 +309,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [InternetBrowser-Game_Menu](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg) | ps5xploit | v1.0.0 | InternetBrowser-Game_Menu. |
 | [InternetBrowser-Media_Menu](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg) | ps5xploit | v1.0.0 | InternetBrowser-Media_Menu. |
 | [Itemzflow_Game_Manager](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg) | Itemzflow | v1.0.0 | Itemzflow_Game_Manager. |
+| [Mario Kart 64 Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_MK64_Port.pkg) | m0ur0ne | v1.0.0 | PS5PKG_MK64_Port. |
 | [PS5-SHOP-APPKG](https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg) | ps5xploit | v1.0.0 | PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi . |
 | [PS5-Xplorer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg) | Lapy | v1.0.0 | PS5-Xplorer. |
 | [PS5Library](https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg) | rdiol12 | v1.0.0 | PS5Library need ps5library-agent.elf. |
@@ -425,6 +426,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **juma-sayeh** : [PS5-File-Explorer](https://github.com/juma-sayeh/PS5-File-Explorer)
 - **juma-sayeh** : [PS5-Game-Compressor](https://github.com/juma-sayeh/PS5-Game-Compressor)
 - **kerrdec97** : [ps5-date-time-sync](https://github.com/kerrdec97/ps5-date-time-sync)
+- **m0ur0ne** : [Mario Kart 64 Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_MK64_Port.pkg)
 - **notmaj0r** : [CheatRunner](https://github.com/notmaj0r/CheatRunner)
 - **owendswang** : [ps5-fan-control](https://github.com/owendswang/ps5-fan-control)
 - **owendswang** : [ps5-web-file-manager](https://github.com/owendswang/ps5-web-file-manager)

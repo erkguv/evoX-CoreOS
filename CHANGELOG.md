@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 09:28
+* **PAYLOADS**
+  * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.7beta2)*
+  * `Spectrum-Library` (1.4.7) - *Mise à jour (Précédent: 1.4.6)*
+* **PKG**
+  * `Mario Kart 64 Port` (v1.0.0) - *Nouveau*
+
 ## Build du 27/09/2026 à 03:09
 * **PAYLOADS**
   * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.7beta2)*

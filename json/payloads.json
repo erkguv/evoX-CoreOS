@@ -99,7 +99,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "09fbb3cc099bfbd5dd498f37e2c9f4a9269984b40561dcd8a15979aac4030934"
+      "checksum": "999ecf273ff7618dec8f99d0b91d67fcf7766cca711699c11bf992aa3bf908c9"
     },
     {
       "name": "A53-kstuff-SMP",
@@ -109,7 +109,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "cda8d1b405ac7ffb476089a183c1f85d0d7275bf1ee05f0d35a481611b1fcdd2"
+      "checksum": "2e085aa5ae65db067e601a3a66ed2d2a9e6a30a3a78072491257f68c109acd3e"
     },
     {
       "name": "kstuff",
@@ -119,7 +119,7 @@
       "description": "Experimental Kstuff DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "aff3baa3bd1b42670cd6f3e0173be2d8134491367f8e8b6c29b1db77ea52fe89"
+      "checksum": "078dfc381df9d44c0d6f1e0ba0196202f7b8dae645a0fa2f0a6d327089c09e69"
     },
     {
       "name": "ShadowMountPlus",
@@ -129,7 +129,7 @@
       "description": "ShadowMountPlus experimental for FPKG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "faa30b6c088072368fa64c8eb2ea00d586ac06a76e11bf729b5b112cc396295e"
+      "checksum": "dd5c640b2340db6eb7b467eaba1a350e626fe077d2aeeb696fb05bc9f1e82c84"
     },
     {
       "name": "a53_ppr_install_fast",
@@ -139,7 +139,7 @@
       "description": "A53 Experimental for Kstuff-Darkmor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "bcb529adf3a3f717e47b719d28186868abe8b62e424254a4d9ccfabbc787c5bc"
+      "checksum": "f026003175717caeecb44123ebb0500e691934bf3d31c78db14b0a74a515b4e5"
     },
     {
       "name": "kstuff-echostrech",
@@ -149,7 +149,7 @@
       "description": "Experimental Kstuff EchoStrech",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "bd904494af640b87d2f003a5c59ecc94f6b249182835adf356ac8860853a8604"
+      "checksum": "b45bc8c71688f9ee4844df6b3d1b7b88ede2345855621dfc1a9e06f239117101"
     },
     {
       "name": "a53_exploit-experimental",
@@ -159,7 +159,7 @@
       "description": "A53 Experimental for Kstuff-EchoStrech",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "3a5cc4f19078aba081196dd058677a66cb33ad48a17d44f362832a12bc94e26e"
+      "checksum": "fd9eb3f5d1acb3999658b55f4a3f0ddd8b99a505289e9496d08c3c04be6cc1f0"
     },
     {
       "name": "webkit-autoloader-installer",
@@ -423,13 +423,13 @@
     },
     {
       "name": "Spectrum-Library",
-      "filename": "Spectrum-Library_v1.4.6.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.6/Spectrum-Library_v1.4.6.elf",
-      "local_path": "payloads/ps5_freeshop/Spectrum-Library/1.4.6/Spectrum-Library_v1.4.6.elf",
+      "filename": "Spectrum-Library_v1.4.7.bin",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin",
+      "local_path": "payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin",
       "description": "free store webadmin http://your-ps5-ip:7575.",
-      "version": "1.4.6",
+      "version": "1.4.7",
       "category": "PS5 Freeshop",
-      "checksum": "73dd3f3938867ac970207ae8e4093e2d0c5b005bcad1ff9ff2aeb5d34294a161"
+      "checksum": "9c7b60380153cda2eb4a6f20ddc46774a621706388714d0fd97b492a6152f751"
     },
     {
       "name": "pegasus-dl",

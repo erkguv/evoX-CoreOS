@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-0309)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-0928)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -59,7 +59,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `unrar-ps5_v1.4.0.elf`
   * `PS5-Power-Payloads-Project_v1.0.elf`
   * `ps5-date-time-sync_v1.0.0.elf`
-  * `Spectrum-Library_v1.4.6.elf`
+  * `Spectrum-Library_v1.4.7.bin`
   * `pegasus-dl_v1.9.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `ProsperoPlayer_v1.0.elf`
@@ -115,6 +115,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5PKG_Itemzflow_Game_Manager_v1.14.pkg`
   * `PS5PKG_PS5-Xplorer_v1.05.pkg`
   * `PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg`
+  * `PS5PKG_MK64_Port.pkg`
 
 </details>
 

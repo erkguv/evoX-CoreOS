@@ -120683,6 +120683,21 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA15972",
+      "title": "[exFAT] DYNASTY WARRIORS ORIGINS",
+      "downloadLinks": [
+        {
+          "name": "DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTmtFZ3pIYlFPUUU0bXNvWFhNRkN1Ky9TTm92dlNmYmIyWUNaRFpwV0lnZTJMQnpzSG5jMis2cnJtdnBWaTJFQkkzK1FvaDhOZzI5d0RxSzNIaUpZR3JRYmxpVHkiLCJpIjoicE44aFFvWTd6YTNWT2VlbSIsIm4iOiJEYXRhIn0="
+        }
+      ],
+      "version": "01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/DYNASTY_WARRIORS_ORIGINS.avif",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA13195",
       "title": "[exFAT] Stellar Blade Complete Edition",
       "downloadLinks": [

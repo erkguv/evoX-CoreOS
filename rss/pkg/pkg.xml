@@ -70,5 +70,11 @@
       <description>PS5Webit-Nexgen999_Installer.</description>
       <pubDate>v1.0.0</pubDate>
     </item>
+    <item>
+      <title>Mario Kart 64 Port</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_MK64_Port.pkg</link>
+      <description>PS5PKG_MK64_Port.</description>
+      <pubDate>v1.0.0</pubDate>
+    </item>
   </channel>
 </rss>
