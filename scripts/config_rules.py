@@ -38,7 +38,8 @@ REPO_RULES = {
     "keep_original_filename_repos": [
         "instalador-host-psm-poop2jb", 
         "psm", 
-        "poords4"
+        "poords4",
+        "owendswang/ps5-web-file-manager" # Pour s'assurer que le cleaner ne renomme pas brutalement l'helper
     ],
     "custom_payload_rules": {
         "smoxa/ps5-new-overlay": {
@@ -52,7 +53,13 @@ REPO_RULES = {
         },
         "drakmor/fan_target": {
             "extract_zip": True,
-            "suffix_format": "_{temperature}_v{version}.elf" # ex: fan_target_65c_v1.0.0.elf
+            "suffix_format": "_{temperature}_v{version}.elf"
+        },
+        "owendswang/ps5-web-file-manager": {
+            "mapping": {
+                "web-file-mgr": "web-file-mgr_v{version}.elf",
+                "wfm-7zip-helper.elf": "wfm-7zip-helper.elf"
+            }
         }
     }
 }
