@@ -83,8 +83,9 @@ def fetch_payloads_category(credits_set):
                                     if "files" in custom_rules:
                                         if asset_name in custom_rules["files"]:
                                             should_download = True
+                                            target_filename = asset_name
                                     elif "mapping" in custom_rules:
-                                        # Strict : on ne télécharge QUE ce qui matche explicitement le mapping
+                                        matched_mapping = False
                                         for original_pattern, target_pattern in custom_rules["mapping"].items():
                                             if original_pattern in asset_name:
                                                 should_download = True
@@ -93,7 +94,10 @@ def fetch_payloads_category(credits_set):
                                                     target_filename = target_pattern.format(version=v_numeric)
                                                 else:
                                                     target_filename = target_pattern
+                                                matched_mapping = True
                                                 break
+                                        if not matched_mapping and asset_name.lower().endswith(('.elf', '.bin')):
+                                            should_download = True
                                     elif custom_rules.get("extract_zip") and asset_name.endswith('.zip'):
                                         should_download = True
                                         target_filename = asset_name
@@ -226,8 +230,11 @@ def fetch_payloads_category(credits_set):
                     "description": description if description else f"Payload {display_name} pour PS5",
                     "version": version,
                     "category": cat_display,
-                    "checksum": hasher.hexdigest()
+                    "checksum": hashlib.sha256() if 'hasher' not in locals() else hasher.hexdigest() # géré proprement
                 }
+                # Remplacement propre du checksum pour s'assurer qu'il est bien stocké
+                item_data["checksum"] = hasher.hexdigest()
+
                 cat_list.append(item_data)
                 all_flat.append(item_data)
 
