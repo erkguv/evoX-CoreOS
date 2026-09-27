@@ -26,7 +26,7 @@
       "filename": "kstuff-lite_drakmor_v1.2-dr-test1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
       "local_path": "payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
-      "description": "Drakmor's variant of kstuff-lite.",
+      "description": "Drakmor",
       "version": "1.2-dr-test1",
       "category": "PS5 Kstuff",
       "checksum": "9c1b242eaed3704ef18be45d001a2c4ebf2d9222cfe3cbb0f0c3db33309abac9"

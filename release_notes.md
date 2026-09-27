@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1825)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-1953)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -27,7 +27,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `wfm-7zip-helper.elf`
   * `wfm-7zip-helper_v1.9.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
-  * `A53-Kstuff-ShadowMountPlus-3in1.elf`
   * `A53-kstuff-SMP.elf`
   * `Kstuff-NG_v1.00.elf`
   * `kstuff_v1.12-dr-test8.elf`
@@ -126,7 +125,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg`
   * `PS5PKG_MK64_Port.pkg`
   * `PS5PKG_GOW-Betrayal_Port.pkg`
-  * `Spectrum_Library_1.4.7_Native.pkg`
+  * `LegacyJB_1.1.bin`
 
 </details>
 
@@ -134,9 +133,13 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>📄 Pack FFPFSC</b></summary>
 
 * **files**
+  * `PPSA99002.zip`
   * `PPSA99002.ffpfsc`
+  * `PPSA99001.zip`
   * `PPSA99001.ffpfsc`
   * `PPSA99003.ffpfsc`
+  * `PPSA99003.zip`
+  * `PPSA99004.zip`
   * `EVOPlayer-v0.10.0-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
 

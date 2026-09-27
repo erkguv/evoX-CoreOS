@@ -2,53 +2,53 @@
   "name": "AIO Store Apps",
   "apps": [
     {
-      "name": "ProsperoAI (PPSA99004.zip)",
+      "name": "Ppsa99004",
       "filename": "PPSA99004.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip",
-      "local_path": "archives/temp_apps/PPSA99004.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/ProsperoAI/01.000.000/PPSA99004.zip",
+      "local_path": "apps/ProsperoAI/01.000.000/PPSA99004.zip",
       "description": "Private, local generative AI for PlayStation 5 homebrew",
       "version": "01.000.000",
-      "author": "blackbearreloaded",
+      "checksum": "19c2bacebf6fb1587b32d458fb5af2fb472d9f3844085993b0f1a30669dc0c69",
       "category": "Applications"
     },
     {
-      "name": "castation (castation-0.4.0.zip)",
+      "name": "Castation-0.4.0",
       "filename": "castation-0.4.0.zip",
-      "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",
-      "local_path": "archives/temp_apps/castation-0.4.0.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/castation/v0.4.0/castation-0.4.0.zip",
+      "local_path": "apps/castation/v0.4.0/castation-0.4.0.zip",
       "description": "Dreamcast emulator based on Flycast PlayStation 5 homebrew",
       "version": "v0.4.0",
-      "author": "BrinooTk",
+      "checksum": "6b17a8feaf3a51c82c5bf572ebd54346457057d78bb25e274e97692f04bfdf6d",
       "category": "Applications"
     },
     {
-      "name": "dump_installer",
+      "name": "Dump Installer",
       "filename": "dump_installer.zip",
-      "url": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
-      "local_path": "archives/temp_apps/dump_installer.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/dump_installer/1.07/dump_installer.zip",
+      "local_path": "apps/dump_installer/1.07/dump_installer.zip",
       "description": "Dump installer howmebrew",
       "version": "1.07",
-      "author": "EchoStretch",
+      "checksum": "5096f5775236758803d2a4fc3c257973d27e0fb1429ecd5f75b0c74382c1403c",
       "category": "Applications"
     },
     {
-      "name": "dump_runner",
+      "name": "Dump Runner",
       "filename": "dump_runner.zip",
-      "url": "https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip",
-      "local_path": "archives/temp_apps/dump_runner.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/dump_runner/v1.02/dump_runner.zip",
+      "local_path": "apps/dump_runner/v1.02/dump_runner.zip",
       "description": "Dump runner howmebrew",
       "version": "v1.02",
-      "author": "EchoStretch",
+      "checksum": "0ffc4af70b23f7a3c6e943732fab76a7b353f03048958df7699b40e2ec539b1d",
       "category": "Applications"
     },
     {
-      "name": "kodi-ps5",
+      "name": "Kodi-Ps5-Ppsa99420-0.7",
       "filename": "kodi-ps5-PPSA99420-0.7.zip",
-      "url": "https://github.com/VivaLaVent/kodi-ps5/releases/download/0.7/kodi-ps5-PPSA99420-0.7.zip",
-      "local_path": "archives/temp_apps/kodi-ps5-PPSA99420-0.7.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/kodi-ps5/0.7/kodi-ps5-PPSA99420-0.7.zip",
+      "local_path": "apps/kodi-ps5/0.7/kodi-ps5-PPSA99420-0.7.zip",
       "description": "kodi-ps5",
       "version": "0.7",
-      "author": "VivaLaVent",
+      "checksum": "5abaf7b7bdc16ff43b041466394e73c578d14c73f9df62547f277906e090ac58",
       "category": "Applications"
     }
   ]

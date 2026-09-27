@@ -5,32 +5,32 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Applications</description>
     <item>
-      <title>ProsperoAI (PPSA99004.zip)</title>
-      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip</link>
+      <title>Ppsa99004</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/apps/ProsperoAI/01.000.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
       <pubDate>01.000.000</pubDate>
     </item>
     <item>
-      <title>castation (castation-0.4.0.zip)</title>
-      <link>https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip</link>
+      <title>Castation-0.4.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/apps/castation/v0.4.0/castation-0.4.0.zip</link>
       <description>Dreamcast emulator based on Flycast PlayStation 5 homebrew</description>
       <pubDate>v0.4.0</pubDate>
     </item>
     <item>
-      <title>dump_installer</title>
-      <link>https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip</link>
+      <title>Dump Installer</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/apps/dump_installer/1.07/dump_installer.zip</link>
       <description>Dump installer howmebrew</description>
       <pubDate>1.07</pubDate>
     </item>
     <item>
-      <title>dump_runner</title>
-      <link>https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip</link>
+      <title>Dump Runner</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/apps/dump_runner/v1.02/dump_runner.zip</link>
       <description>Dump runner howmebrew</description>
       <pubDate>v1.02</pubDate>
     </item>
     <item>
-      <title>kodi-ps5</title>
-      <link>https://github.com/VivaLaVent/kodi-ps5/releases/download/0.7/kodi-ps5-PPSA99420-0.7.zip</link>
+      <title>Kodi-Ps5-Ppsa99420-0.7</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/apps/kodi-ps5/0.7/kodi-ps5-PPSA99420-0.7.zip</link>
       <description>kodi-ps5</description>
       <pubDate>0.7</pubDate>
     </item>

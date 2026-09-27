@@ -1,5 +1,38 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 19:53
+* **PKG**
+  * `Ps5Pkg Avatar-Changer V1.00` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Fpkgi V1.10.0` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Homebrewloader V0.30` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Homebrew Store Installer` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Internetbrowser-Game Menu V1.00` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Internetbrowser-Media Menu V1.00` (Source-Fixe) - *Nouveau*
+  * `Ps5-Shop-Appkg` (Source-Fixe) - *Nouveau*
+  * `Ps5Library` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Itemzflow Game Manager V1.14` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Ps5-Xplorer V1.05` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Mk64 Port` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Gow-Betrayal Port` (Source-Fixe) - *Nouveau*
+  * `Legacyjb 1.1` (1.4.7) - *Nouveau*
+* **FFPFSC**
+  * `Ppsa99002` (01.000.060) - *Nouveau*
+  * `Ppsa99002` (01.000.060) - *Nouveau*
+  * `Ppsa99001` (01.000.005) - *Nouveau*
+  * `Ppsa99001` (01.000.005) - *Nouveau*
+  * `Ppsa99003` (01.000.015) - *Nouveau*
+  * `Ppsa99003` (01.000.015) - *Nouveau*
+  * `Ppsa99004` (01.000.000) - *Nouveau*
+  * `Evoplayer-V0.10.0-Ppsa99039` (v0.10.0) - *Nouveau*
+  * `Prospero Radio` (01.000.027) - *Nouveau*
+* **APPS**
+  * `Ppsa99004` (01.000.000) - *Nouveau*
+  * `Castation-0.4.0` (v0.4.0) - *Nouveau*
+  * `Dump Installer` (1.07) - *Nouveau*
+  * `Dump Runner` (v1.02) - *Nouveau*
+  * `Kodi-Ps5-Ppsa99420-0.7` (0.7) - *Nouveau*
+
 ## Build du 27/09/2026 à 18:25
 * **PAYLOADS**
   * `Savemnt-Offset-Dumper V1.0.0` (1.0.0) - *Nouveau*

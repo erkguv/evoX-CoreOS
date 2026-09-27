@@ -2,13 +2,13 @@
   "name": "Applications",
   "apps": [
     {
-      "name": "ProsperoAI (PPSA99004.zip)",
+      "name": "Ppsa99004",
       "filename": "PPSA99004.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip",
-      "local_path": "archives/temp_apps/PPSA99004.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/apps/ProsperoAI/01.000.000/PPSA99004.zip",
+      "local_path": "apps/ProsperoAI/01.000.000/PPSA99004.zip",
       "description": "Private, local generative AI for PlayStation 5 homebrew",
       "version": "01.000.000",
-      "author": "blackbearreloaded",
+      "checksum": "19c2bacebf6fb1587b32d458fb5af2fb472d9f3844085993b0f1a30669dc0c69",
       "category": "Applications"
     }
   ]

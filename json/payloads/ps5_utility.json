@@ -96,7 +96,7 @@
       "filename": "ps5-date-time-sync_v1.0.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf",
       "local_path": "payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf",
-      "description": "A lightweight, standalone PS5 payload that restores the console's system date and time using public NTP servers.",
+      "description": "A lightweight, standalone PS5 payload that restores the console",
       "version": "v1.0.0",
       "category": "PS5 Utility",
       "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849"
@@ -139,7 +139,7 @@
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "d5cbb31e0598da98d5f70968b1e078855a85811da6afa17f3ae9d896d19100fd"
+      "checksum": "cd80509ee14c17abd7aaed13582318f37f7be6b2ec741c0bd80de9bd1881224c"
     }
   ]
 }

@@ -102,16 +102,6 @@
             "checksum": "6d4b905b42727dddeaedddb2a657ed0d4e7110ddd068a6daab0aafb2ba32604b"
         },
         {
-            "name": "A53-Kstuff-Shadowmountplus-3In1",
-            "filename": "A53-Kstuff-ShadowMountPlus-3in1.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
-            "local_path": "payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
-            "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
-            "version": "Source-Fixe",
-            "category": "PS5 Beta",
-            "checksum": "6838f1747704546a248f6d1f75e6ef006e2245048c7b4dd90d3d28b958e6ccdc"
-        },
-        {
             "name": "A53-Kstuff-Smp",
             "filename": "A53-kstuff-SMP.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
@@ -119,7 +109,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "61b5b2460a13a2b9b34eaaa55ef844e44d565c9d7b58bb97dbeec03dc37ebc26"
+            "checksum": "edd1478265829a04b2232a731ec65d9bc7543f132510d5afe19177d22a47484d"
         },
         {
             "name": "Kstuff-Ng V1.00",
@@ -129,7 +119,7 @@
             "description": "Experimental Kstuff NG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "a7aa37e2d3f0c8d3685d950f346a046c1a9aae66b85d20ac54a5700fa71f7f91"
+            "checksum": "83dbbf2dd6f02c53909518d70fae559e72ca7e452e6ca46015a4af096f76b7d6"
         },
         {
             "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +139,7 @@
             "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "efd43b2c32fd63bbc7a0dda41c887f9041f654f7e270222e925a4f91b4fa47b9"
+            "checksum": "8de9c8604496756ccdd0a41212d23709b581c9e96a1e8d2ecf8b99889780a60c"
         },
         {
             "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +149,7 @@
             "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "0235856e3c9675395601075e2ec124436c5091e1b49dbe44b2f3672a4313a67a"
+            "checksum": "002223a0225671593353b00ee340259bc9350a510ab7a12af530f7485c54ce6a"
         },
         {
             "name": "A53 Ppr Install 1160 20.09",
@@ -169,7 +159,7 @@
             "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "b412475e7938e174a071038b05a378c6f74661ce7bcae06f7c4a452cb8f83728"
+            "checksum": "1da4888b2bfbdbf70168b0c09781f40cf21d04dbf352b6edcb15fd4e73c9cc69"
         },
         {
             "name": "Webkit-Autoloader-Installer V0.4.0",
@@ -296,7 +286,7 @@
             "filename": "ftpsrv_drakmor_v1.16-ng-stable.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf",
             "local_path": "payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf",
-            "description": "Drakmor's variant of the FTP server. Port: 21",
+            "description": "Drakmor",
             "version": "1.16-ng-stable",
             "category": "PS5 Server",
             "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32"
@@ -426,7 +416,7 @@
             "filename": "ps5-date-time-sync_v1.0.0.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf",
             "local_path": "payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf",
-            "description": "A lightweight, standalone PS5 payload that restores the console's system date and time using public NTP servers.",
+            "description": "A lightweight, standalone PS5 payload that restores the console",
             "version": "v1.0.0",
             "category": "PS5 Utility",
             "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849"
@@ -469,7 +459,7 @@
             "description": "ghost-toothAPI.",
             "version": "Source-Fixe",
             "category": "PS5 Utility",
-            "checksum": "d5cbb31e0598da98d5f70968b1e078855a85811da6afa17f3ae9d896d19100fd"
+            "checksum": "cd80509ee14c17abd7aaed13582318f37f7be6b2ec741c0bd80de9bd1881224c"
         },
         {
             "name": "Spectrum-Library V1.4.7",
@@ -556,7 +546,7 @@
             "filename": "PS5_Unified_Autoloader_v0.1.4-955249d.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
             "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
-            "description": "Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l'exploit.",
+            "description": "Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l",
             "version": "v0.1.4-955249d",
             "category": "PS5 HEN Loader",
             "checksum": "31d12ba2b0b11462a91756f4b8c7857e90674fc8df02fe74155c7c2a8f27a4fd"
@@ -566,7 +556,7 @@
             "filename": "pldmgr_v0.5.1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
             "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
-            "description": "Interface d'administration et de gestion réseau pour envoyer, activer et ordonner vos fichiers ELF/BIN sur la console.",
+            "description": "Interface d",
             "version": "v0.5.1",
             "category": "PS5 HEN Loader",
             "checksum": "05617c69ea145d1c11b8f7a6b7d3bd9e6df3831afd25d71a4ac85d63fb8e28aa"
@@ -576,7 +566,7 @@
             "filename": "Kura_v1.6.50.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf",
             "local_path": "payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf",
-            "description": "Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5.",
+            "description": "Un loader de payloads moderne et épuré conçu pour optimiser l",
             "version": "v1.6.50",
             "category": "PS5 HEN Loader",
             "checksum": "8bac520b2b99dcda8109838884380605736d8b1c23793754250bcef00536b6ab"
@@ -646,7 +636,7 @@
             "filename": "fan_target_85c_v0.1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf",
             "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf",
-            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console's automatic fan control enabled.",
+            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
             "version": "0.1",
             "category": "PS5 Fan",
             "checksum": "c37019c351c1c5b05b43adbac29d85bfd25f8c0ab9d94371cacab1945d8e0fd0"
@@ -656,7 +646,7 @@
             "filename": "fan_target_75c_v0.1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf",
             "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf",
-            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console's automatic fan control enabled.",
+            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
             "version": "0.1",
             "category": "PS5 Fan",
             "checksum": "4b52e09c48ebed1f369221c290e8ec4a9fdb2a477b7b7f44a1b8646958d9f69b"
@@ -666,7 +656,7 @@
             "filename": "fan_target_70c_v0.1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
             "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
-            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console's automatic fan control enabled.",
+            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
             "version": "0.1",
             "category": "PS5 Fan",
             "checksum": "a9ad8502123799d58f8ddd9882d842f524c4ecc3ea6743a73c6dcdffd0bf30e0"
@@ -676,7 +666,7 @@
             "filename": "fan_target_65c_v0.1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_65c_v0.1.elf",
             "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_65c_v0.1.elf",
-            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console's automatic fan control enabled.",
+            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
             "version": "0.1",
             "category": "PS5 Fan",
             "checksum": "0bedeb564947530d09d1dfb27df63c2a09eaa7f51faf3ddcc90b3fb2870e6312"
@@ -686,7 +676,7 @@
             "filename": "fan_target_80c_v0.1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
             "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
-            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console's automatic fan control enabled.",
+            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
             "version": "0.1",
             "category": "PS5 Fan",
             "checksum": "ccf2e709218f31cd9e6a0705c99646b8f030b877687df8377982a2f6ca10216e"
@@ -816,7 +806,7 @@
             "filename": "kstuff-lite_drakmor_v1.2-dr-test1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
             "local_path": "payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
-            "description": "Drakmor's variant of kstuff-lite.",
+            "description": "Drakmor",
             "version": "1.2-dr-test1",
             "category": "PS5 Kstuff",
             "checksum": "9c1b242eaed3704ef18be45d001a2c4ebf2d9222cfe3cbb0f0c3db33309abac9"
@@ -826,7 +816,7 @@
             "filename": "nanoDNS_v0.4.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf",
             "local_path": "payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf",
-            "description": "Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d'exploits.",
+            "description": "Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d",
             "version": "0.4",
             "category": "PS5 Dns",
             "checksum": "fcfb7d47c3b295560ea1603dc015f7c4950353ef0faca16428bd425680ef1fc5"
@@ -836,7 +826,7 @@
             "filename": "Chukei_DNS_v0.9.0.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf",
             "local_path": "payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf",
-            "description": "Serveur DNS de redirection d'envergure conçu spécifiquement pour bloquer les mises à jour de Sony et rediriger le guide de l'utilisateur.",
+            "description": "Serveur DNS de redirection d",
             "version": "0.9.0",
             "category": "PS5 Dns",
             "checksum": "d69081b4a68adcab517c699d8535b17830af41de635d891de4c516b43015610f"

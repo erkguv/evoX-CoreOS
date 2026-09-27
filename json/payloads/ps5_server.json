@@ -76,7 +76,7 @@
       "filename": "ftpsrv_drakmor_v1.16-ng-stable.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf",
       "local_path": "payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf",
-      "description": "Drakmor's variant of the FTP server. Port: 21",
+      "description": "Drakmor",
       "version": "1.16-ng-stable",
       "category": "PS5 Server",
       "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32"
