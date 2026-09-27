@@ -2,7 +2,7 @@
   "name": "PS5 Activation",
   "payloads": [
     {
-      "name": "np-fake-signin",
+      "name": "np-fake-signin_v1.3",
       "filename": "np-fake-signin_v1.3.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.3/np-fake-signin_v1.3.elf",
       "local_path": "payloads/PS5_Activation/np-fake-signin/v1.3/np-fake-signin_v1.3.elf",

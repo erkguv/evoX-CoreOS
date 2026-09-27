@@ -2,7 +2,7 @@
   "name": "PS5 Cheat",
   "payloads": [
     {
-      "name": "CheatRunner",
+      "name": "CheatRunner_v0.17",
       "filename": "CheatRunner_v0.17.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",
       "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",

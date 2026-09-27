@@ -2,7 +2,7 @@
   "name": "PS5 HEN Loader",
   "payloads": [
     {
-      "name": "etaHEN",
+      "name": "etaHEN_v2.5B",
       "filename": "etaHEN_v2.5B.bin",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin",
       "local_path": "payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin",
@@ -12,7 +12,7 @@
       "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
     },
     {
-      "name": "PS5_Unified_Autoloader",
+      "name": "PS5_Unified_Autoloader_v0.1.4-955249d",
       "filename": "PS5_Unified_Autoloader_v0.1.4-955249d.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
       "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
@@ -22,7 +22,7 @@
       "checksum": "31d12ba2b0b11462a91756f4b8c7857e90674fc8df02fe74155c7c2a8f27a4fd"
     },
     {
-      "name": "pldmgr",
+      "name": "pldmgr_v0.5.1",
       "filename": "pldmgr_v0.5.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
       "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
@@ -32,7 +32,7 @@
       "checksum": "05617c69ea145d1c11b8f7a6b7d3bd9e6df3831afd25d71a4ac85d63fb8e28aa"
     },
     {
-      "name": "ELF_Arsenal",
+      "name": "ELF_Arsenal_v1.6.23",
       "filename": "ELF_Arsenal_v1.6.23.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
       "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
@@ -42,7 +42,7 @@
       "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
     },
     {
-      "name": "Kura",
+      "name": "Kura_v1.6.50",
       "filename": "Kura_v1.6.50.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf",
       "local_path": "payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf",
@@ -52,7 +52,7 @@
       "checksum": "8bac520b2b99dcda8109838884380605736d8b1c23793754250bcef00536b6ab"
     },
     {
-      "name": "PIZZA-HEN",
+      "name": "PIZZA-HEN_v2.00",
       "filename": "PIZZA-HEN_v2.00.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf",
       "local_path": "payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf",
@@ -62,7 +62,7 @@
       "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
     },
     {
-      "name": "onionHEN",
+      "name": "onionHEN_v0.0.13",
       "filename": "onionHEN_v0.0.13.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
       "local_path": "payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
@@ -82,14 +82,14 @@
       "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
     },
     {
-      "name": "elf-launcher",
-      "filename": "elf-launcher_v1.0.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.2/elf-launcher_v1.0.2.elf",
-      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.2/elf-launcher_v1.0.2.elf",
+      "name": "elf-launcher_v1.0.3",
+      "filename": "elf-launcher_v1.0.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf",
+      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf",
       "description": "PS5 launcher for ELF payloads.",
-      "version": "v1.0.2",
+      "version": "v1.0.3",
       "category": "PS5 HEN Loader",
-      "checksum": "35f9afa8851d1101be43152e241f1d3e511f6e3d11055252c9de3f603b09c8ab"
+      "checksum": "0b18a6c974b11709268315af9d61c501545fce1cfb884815c9a21b1f62d4fa47"
     }
   ]
 }

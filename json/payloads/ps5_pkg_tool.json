@@ -2,7 +2,7 @@
   "name": "PS5 Pkg Tool",
   "payloads": [
     {
-      "name": "pkg-manager",
+      "name": "pkg-manager_v1.4.1",
       "filename": "pkg-manager_v1.4.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
       "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",

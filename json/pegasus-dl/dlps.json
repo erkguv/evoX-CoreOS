@@ -3,6 +3,86 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA15973",
+      "title": "Dynasty Warriors Origins",
+      "downloadLinks": [
+        {
+          "name": "ASIA 4.xx Base - Viki",
+          "url": "https://vikingfile.com/f/hKfgqldZMU#Dynasty"
+        },
+        {
+          "name": "ASIA 4.xx Base - Viki",
+          "url": "https://vikingfile.com/f/khsdqLVP1g#DYNASTY"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/3-bfd-1.jpg",
+      "description": "Variant: ASIA 4.xx\nRegion: ASIA\nRelease note: Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: ASIA 4.xx\nRegion: ASIA\nRelease note: Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/dynasty-warriors-origins-ps5/"
+    },
+    {
+      "titleId": "PPSA15972",
+      "title": "Dynasty Warriors Origins",
+      "downloadLinks": [
+        {
+          "name": "v01.008 Base - Akirabox part 1",
+          "url": "https://akirabox.com/0Kezk76anzD1/file"
+        },
+        {
+          "name": "v01.008 Base - Akirabox part 2",
+          "url": "https://akirabox.com/l5YzMZQdWGyO/file"
+        },
+        {
+          "name": "v01.008 Base - Akirabox part 3",
+          "url": "https://akirabox.com/1RgzR9Qkv3bp/file"
+        },
+        {
+          "name": "v01.008 Base - Akirabox part 4",
+          "url": "https://akirabox.com/l76mZrWobman/file"
+        },
+        {
+          "name": "v01.008 Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/GoiMZ0fHPF"
+        },
+        {
+          "name": "v01.008 Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/PDZThIfiPf"
+        },
+        {
+          "name": "v01.008 Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/quO05UiGSW"
+        },
+        {
+          "name": "v01.008 Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/5oTXQNiAew"
+        },
+        {
+          "name": "v01.008 Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/dVWKm"
+        },
+        {
+          "name": "v01.008 Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1m9uAS"
+        },
+        {
+          "name": "v01.008 Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/ZTfTE"
+        },
+        {
+          "name": "v01.008 Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1qBl20"
+        },
+        {
+          "name": "JPN exFAT 01.008 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTmtFZ3pIYlFPUUU0bXNvWFhNRkN1Ky9TTm92dlNmYmIyWUNaRFpwV0lnZTJMQnpzSG5jMis2cnJtdnBWaTJFQkkzK1FvaDhOZzI5d0RxSzNIaUpZR3JRYmxpVHkiLCJpIjoicE44aFFvWTd6YTNWT2VlbSIsIm4iOiJEYXRhIn0="
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/3-bfd-1.jpg",
+      "description": "Variant: v01.008\nRelease note: DYNASTY WARRIORS ORIGINS (v01.008) – BP 4.xx – PPSA15972 – FPKG\nContributor: Thanks to DecKerr97 for the Files with BackPort and drakmor for ampr-emu.\n\nVariant: JPN exFAT 01.008\nRegion: JPN\nRelease note: exFAT format — FW 01.008 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/dynasty-warriors-origins-ps5/"
+    },
+    {
       "titleId": "PPSA16951",
       "title": "Tales of Xillia Remastered",
       "downloadLinks": [
@@ -32162,23 +32242,11 @@
         {
           "name": "exFAT v01.013 Base - Akirabox",
           "url": "https://akirabox.com/APVma0BEVGXo/file"
-        },
-        {
-          "name": "USA to EUR Languages exFAT 01.013 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoianhINEhwSG84eTA3Vy8vN0V3U3RTQUExQjlNcXl2VUp3SjJxQzJHSXdzdWFvdFh5eUJyS3hscy9SVVA1eHY4Y2oyTXcvdXIyIiwicyI6InpHR0RGM3dkdEJWZjRucG9HZGdOekE9PSIsImkiOiJRM3JCemwwUWNESysxTTkvIn0="
-        },
-        {
-          "name": "USA to EUR Languages exFAT 01.013 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoieHdFMUR4Njc5ZFpiRzlHQ1FrOXAwRFVVWFhDOGplb1hkU2hrR2tqUnJxNkxodGRGb1RmWlh3Z1V2T0VaTlk0YXVwOE0iLCJzIjoiVVRaMG0vUXZzbmlPNW12dktrRktSUT09IiwiaSI6IkJwUDhCY1pjclN4YUtCWmwifQ=="
-        },
-        {
-          "name": "USA to EUR Languages exFAT 01.013 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiZlZGNmI1emMzbXZFRlA1NkxzeFRjTThUVWVzUVV0Y21nc3g3TXRXL040L3F4OFpZQTdtazdMcU1kbmU2enJBaTdnPT0iLCJzIjoiRTFsOS9xeU5jbFY5ZXBhVEZRTTl4Zz09IiwiaSI6InFWdk51OElKZW9uNVpuaDIifQ=="
         }
       ],
       "category": "game",
       "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/06/1-js.jpg",
-      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.013\nRelease note: Star Wars Jedi Survivor (v01.013) – PPSA07783 – exFAT USA to EUR Languages.\nContributor: Thanks to Speed007 for the Files, drakmor for ampr-emu and BestPig for the BackPort.\n\nVariant: USA to EUR Languages exFAT 01.013\nRegion: USA to EUR Languages\nRelease note: exFAT format — FW 01.013\nContributor: pippo",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.013\nRelease note: Star Wars Jedi Survivor (v01.013) – PPSA07783 – exFAT USA to EUR Languages.\nContributor: Thanks to Speed007 for the Files, drakmor for ampr-emu and BestPig for the BackPort.",
       "downloadSource": "https://dlpsgame.com/star-wars-jedi-survivor-ps5/"
     },
     {
@@ -120683,18 +120751,26 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
-      "titleId": "PPSA15972",
-      "title": "[exFAT] DYNASTY WARRIORS ORIGINS",
+      "titleId": "PPSA07783",
+      "title": "[exFAT] Star Wars Jedi Survivor Deluxe Edition",
       "downloadLinks": [
         {
-          "name": "DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTmtFZ3pIYlFPUUU0bXNvWFhNRkN1Ky9TTm92dlNmYmIyWUNaRFpwV0lnZTJMQnpzSG5jMis2cnJtdnBWaTJFQkkzK1FvaDhOZzI5d0RxSzNIaUpZR3JRYmxpVHkiLCJpIjoicE44aFFvWTd6YTNWT2VlbSIsIm4iOiJEYXRhIn0="
+          "name": "USA to EUR Langs exFAT 01.013 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoianhINEhwSG84eTA3Vy8vN0V3U3RTQUExQjlNcXl2VUp3SjJxQzJHSXdzdWFvdFh5eUJyS3hscy9SVVA1eHY4Y2oyTXcvdXIyIiwicyI6InpHR0RGM3dkdEJWZjRucG9HZGdOekE9PSIsImkiOiJRM3JCemwwUWNESysxTTkvIn0="
+        },
+        {
+          "name": "USA to EUR Langs exFAT 01.013 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoieHdFMUR4Njc5ZFpiRzlHQ1FrOXAwRFVVWFhDOGplb1hkU2hrR2tqUnJxNkxodGRGb1RmWlh3Z1V2T0VaTlk0YXVwOE0iLCJzIjoiVVRaMG0vUXZzbmlPNW12dktrRktSUT09IiwiaSI6IkJwUDhCY1pjclN4YUtCWmwifQ=="
+        },
+        {
+          "name": "USA to EUR Langs exFAT 01.013 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiZlZGNmI1emMzbXZFRlA1NkxzeFRjTThUVWVzUVV0Y21nc3g3TXRXL040L3F4OFpZQTdtazdMcU1kbmU2enJBaTdnPT0iLCJzIjoiRTFsOS9xeU5jbFY5ZXBhVEZRTTl4Zz09IiwiaSI6InFWdk51OElKZW9uNVpuaDIifQ=="
         }
       ],
-      "version": "01.007",
+      "version": "01.013",
       "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/DYNASTY_WARRIORS_ORIGINS.avif",
-      "description": "Region: JPN\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Star_Wars_Jedi_Survivor_DE.avif",
+      "description": "Region: USA to EUR Langs\nRelease note: exFAT format — FW 01.013\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {

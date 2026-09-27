@@ -2,7 +2,7 @@
   "name": "PS5 Dns",
   "payloads": [
     {
-      "name": "nanoDNS",
+      "name": "nanoDNS_v0.4",
       "filename": "nanoDNS_v0.4.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf",
       "local_path": "payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf",
@@ -12,7 +12,7 @@
       "checksum": "fcfb7d47c3b295560ea1603dc015f7c4950353ef0faca16428bd425680ef1fc5"
     },
     {
-      "name": "Chukei_DNS",
+      "name": "Chukei_DNS_v0.9.0",
       "filename": "Chukei_DNS_v0.9.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf",
       "local_path": "payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf",

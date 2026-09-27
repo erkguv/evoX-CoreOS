@@ -2,7 +2,7 @@
   "name": "PS5 Overlay",
   "payloads": [
     {
-      "name": "Common_FPS_PS5",
+      "name": "Common_FPS_PS5_v1.1.0",
       "filename": "Common_FPS_PS5_v1.1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf",
       "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf",
@@ -12,7 +12,7 @@
       "checksum": "4f544fa00f7a430e64c4c8d0ed42d0463d2370c81dabd9141599c27c4f3f99d6"
     },
     {
-      "name": "ps5-new-overlay",
+      "name": "ps5-new-overlay_v1.0.15",
       "filename": "ps5-new-overlay_v1.0.15.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5-new-overlay_v1.0.15.elf",
       "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5-new-overlay_v1.0.15.elf",

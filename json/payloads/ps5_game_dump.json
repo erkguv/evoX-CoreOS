@@ -2,7 +2,7 @@
   "name": "PS5 Game Dump",
   "payloads": [
     {
-      "name": "PS5-Game-Compressor",
+      "name": "PS5-Game-Compressor_v1.0.4",
       "filename": "PS5-Game-Compressor_v1.0.4.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf",
       "local_path": "payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf",
@@ -12,7 +12,7 @@
       "checksum": "e55e90aaade13b6e0d4316c1597ef90a21b67a06475c3e25de054224bc1e941b"
     },
     {
-      "name": "ps5-app-dumper",
+      "name": "ps5-app-dumper_v1.11",
       "filename": "ps5-app-dumper_v1.11.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf",
       "local_path": "payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf",
@@ -22,7 +22,7 @@
       "checksum": "18483751ebaea6879b020a9dd87c0a4fb4f1bf09f3708d950362a483f78cc0d0"
     },
     {
-      "name": "ShadowMountPlus",
+      "name": "ShadowMountPlus_v1.7beta2",
       "filename": "ShadowMountPlus_v1.7beta2.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta2/ShadowMountPlus_v1.7beta2.elf",
       "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta2/ShadowMountPlus_v1.7beta2.elf",
@@ -32,7 +32,7 @@
       "checksum": "3f716a7b2220c7e87e87452ae05cad689ef842d3beb4cdad6c526cb6dfc2b6b5"
     },
     {
-      "name": "BackPork",
+      "name": "BackPork_v0.1",
       "filename": "BackPork_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf",
       "local_path": "payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf",
@@ -42,7 +42,7 @@
       "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
     },
     {
-      "name": "apr_emu_updater",
+      "name": "apr_emu_updater_v2.0.6",
       "filename": "apr_emu_updater_v2.0.6.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf",
       "local_path": "payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf",

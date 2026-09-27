@@ -2,7 +2,7 @@
   "name": "PS5 Linux",
   "payloads": [
     {
-      "name": "ps5-linux-loader",
+      "name": "ps5-linux-loader_v2.5",
       "filename": "ps5-linux-loader_v2.5.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf",
       "local_path": "payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf",

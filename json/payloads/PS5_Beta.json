@@ -9,7 +9,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "0c121c2ff2d46cdfad3c890e04566cef894a577a140e4e868dd9182d2698ac39"
+      "checksum": "fe394835f640c00f5b18cb9b824b64e9e9dba71c47abb4b719c3ff7c4fe8b264"
     },
     {
       "name": "A53-kstuff-SMP",
@@ -19,20 +19,20 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "1e0f4c77372fa00fba4d79a18e0e04374bed383c7cdd7032c29c40d0f5385096"
+      "checksum": "ff34721e4b8921416a8e354f2f64bc8367adc8fc111e8a1ea529db52f357b0df"
     },
     {
-      "name": "Kstuff-NG",
+      "name": "Kstuff-NG_v1.00",
       "filename": "Kstuff-NG_v1.00.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf",
       "local_path": "payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf",
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "f1afcd01003f3ea6b923b862b3941ab20b57447018741b710a2d65b40f5cf4bb"
+      "checksum": "793eb4ef8f8b50bbc4a4bb1d686da9ad3d75871557adb272506bd23794a5600c"
     },
     {
-      "name": "kstuff",
+      "name": "kstuff_v1.12-dr-test8",
       "filename": "kstuff_v1.12-dr-test8.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf",
       "local_path": "payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf",
@@ -49,7 +49,7 @@
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "80bfb9438b9c5560ba467a7ecafb3b239b488a3a5d2ae6035a80df0b5424d2d9"
+      "checksum": "c72bda5a1014f45b43b4ed565891e8398baa315c08cdbb77af7b8eb75493e105"
     },
     {
       "name": "a53_ppr_install_1140_20.09",
@@ -59,7 +59,7 @@
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "cfb61d12e62703f2b55112877c3e28636af061e4d16567349dde8329daf23524"
+      "checksum": "6a87aa81853a608d2b5ac62e19aeeea7517bb2dd2cc8d6af2a6c1038e513887d"
     },
     {
       "name": "a53_ppr_install_1160_20.09",
@@ -69,7 +69,7 @@
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "02618e0096e887ee9facc492f7518547198780efce4dc823898d4398ab32d888"
+      "checksum": "8b90de710ecaa7bc97e1acf8ef1f5de8ddec9a202b53136dabf343c9d8d7b2ac"
     }
   ]
 }
