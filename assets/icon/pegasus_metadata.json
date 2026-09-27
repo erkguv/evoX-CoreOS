@@ -68,5 +68,15 @@
         "titleId": "PPSA99051",
         "title": "PS5Library",
         "icon": "PS5Library.png"
+    },
+    "PS5PKG_MK64_Port.pkg": {
+        "titleId": "MOMK27926",
+        "title": "Mario Kart 64",
+        "icon": "PS5PKG_MK64_Port.png"
+    },
+    "PS5PKG_GOW-Betrayal_Port.pkg": {
+        "titleId": "MOUG90926",
+        "title": "God of War Betrayal",
+        "icon": "PS5PKG_GOW-Betrayal_Port.png"
     }
 }
