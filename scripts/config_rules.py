@@ -28,20 +28,66 @@ PATHS = {
 REPO_RULES = {
     "custom_payload_rules": {
         
-        # Exemple 1 : Overlay multi-fichiers en gardant les noms originaux
+        # --- 1. Dépôts avec conservation du nom d'origine (anciennement keep_original_filename_repos) ---
         "smoxa/ps5-new-overlay": {
-            "release_channel": "stable",            # "stable", "pre-release", ou "all"
+            "keep_original": True,
+            "strict_clean": True,
+            "release_channel": "stable",
             "allowed_extensions": [".elf"],
             "exclude_extensions": [],
             "exclude_keywords": [],
-            "keep_original": True,
-            "strict_clean": True,
             "extract_zip": False,
             "download_source_archive": False,
             "targets": []
         },
+        "instalador-host-psm-poop2jb": {
+            "extract_zip": True,
+            "keep_original": True,
+            "release_channel": "stable",
+            "strict_clean": False
+        },
+        "psm": {
+            "keep_original": True,
+            "release_channel": "stable"
+        },
+        "poords4": {
+            "extract_zip": True,
+            "keep_original": True,
+            "release_channel": "stable"
+        },
 
-        # Exemple 2 : Zftpd avec filtrage strict des .bin et de la version PS4
+        # --- 2. Dépôts avec extraction de ZIP (anciennement extract_zip_repos) ---
+        "shadowmountplus": {
+            "extract_zip": True,
+            "release_channel": "stable"
+        },
+        "fan_target": {
+            "extract_zip": True,
+            "suffix_format": "_{temperature}_v{version}.elf",
+            "release_channel": "stable"
+        },
+        "drakmor/fan_target": {
+            "extract_zip": True,
+            "suffix_format": "_{temperature}_v{version}.elf",
+            "release_channel": "stable",
+            "allowed_extensions": [".zip", ".elf"]
+        },
+
+        # --- 3. Dépôts avec nettoyage strict (anciennement strict_clean_repos) ---
+        "ps5-payload-dev/websrv": {
+            "strict_clean": True,
+            "release_channel": "stable"
+        },
+        "phantomptr/ps5upload": {
+            "strict_clean": True,
+            "release_channel": "stable"
+        },
+        "boazvdwansem/ps5-debugger": {
+            "strict_clean": True,
+            "release_channel": "stable"
+        },
+
+        # --- 4. Dépôts avec mappings spécifiques et règles poussées ---
         "seregonwar/zftpd": {
             "release_channel": "stable",
             "allowed_extensions": [".elf"],
@@ -51,46 +97,25 @@ REPO_RULES = {
             "strict_clean": True,
             "extract_zip": False,
             "download_source_archive": False,
+            "mapping": {
+                "zftpd-ps5-v1.5.0.elf": "zftpd_v{version}.elf",
+                "zftpd-ps5-zhttp-v1.5.0.elf": "zhttp_v{version}.elf"
+            },
             "targets": [
                 {
-                    "match": "zftpd-ps5-v1.5.0.elf", # Sera géré via mapping ou correspondance partielle
+                    "match": "zftpd-ps5-v1.5.0.elf",
                     "rename": "zftpd_v{version}.elf"
                 },
                 {
                     "match": "zftpd-ps5-zhttp-v1.5.0.elf",
                     "rename": "zhttp_v{version}.elf"
                 }
-            ],
-            "mapping": {
-                "zftpd-ps5-v1.5.0.elf": "zftpd_v{version}.elf",
-                "zftpd-ps5-zhttp-v1.5.0.elf": "zhttp_v{version}.elf"
-            }
+            ]
         },
-
-        # Exemple 3 : Fan Target avec extraction de ZIP et variantes de température
-        "drakmor/fan_target": {
-            "release_channel": "stable",
-            "allowed_extensions": [".zip", ".elf"],
-            "exclude_extensions": [],
-            "exclude_keywords": [],
-            "keep_original": False,
-            "strict_clean": True,
-            "extract_zip": True,
-            "suffix_format": "_{temperature}_v{version}.elf",
-            "download_source_archive": False,
-            "targets": []
-        },
-
-        # Exemple 4 : Web File Manager avec mapping simple
         "owendswang/ps5-web-file-manager": {
             "release_channel": "stable",
-            "allowed_extensions": [".elf"],
-            "exclude_extensions": [],
-            "exclude_keywords": [],
-            "keep_original": False,
+            "keep_original": True,
             "strict_clean": False,
-            "extract_zip": False,
-            "download_source_archive": False,
             "mapping": {
                 "web-file-mgr": "web-file-mgr_v{version}.elf",
                 "wfm-7zip-helper.elf": "wfm-7zip-helper.elf"
