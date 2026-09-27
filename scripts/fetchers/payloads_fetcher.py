@@ -70,7 +70,7 @@ def fetch_payloads_category(credits_set):
                             target_dir = os.path.join(PATHS["categories"]["payloads"]["root"], cat_tech, title.replace(" ", "_"), version_clean)
                             os.makedirs(target_dir, exist_ok=True)
 
-                            custom_rules = REPO_RULES.get("custom_payload_rules", {}).get(repo_lower)
+                            custom_rules = REPO_RULES.get("custom_payload_rules", {}).get(repo_lower, {})
 
                             for asset in release_data.get('assets', []):
                                 asset_url = asset.get('browser_download_url', '')
@@ -79,9 +79,13 @@ def fetch_payloads_category(credits_set):
                                 should_download = False
                                 target_filename = asset_name
 
+                                # Filtre d'exclusion immédiate pour zftpd (bloque tout .bin)
+                                if repo_lower == "seregonwar/zftpd" and asset_name.endswith('.bin'):
+                                    continue
+
                                 if custom_rules:
                                     if "files" in custom_rules:
-                                        if asset_name in custom_rules["files"]:
+                                        if any(f == asset_name or f in asset_name for f in custom_rules["files"]):
                                             should_download = True
                                             target_filename = asset_name
                                     elif "mapping" in custom_rules:
@@ -115,7 +119,7 @@ def fetch_payloads_category(credits_set):
                                     urllib.request.urlretrieve(asset_url, local_file_path)
                                     downloaded = True
 
-                                    # Gestion spécifique si c'est un ZIP à extraire et renommer (ex: fan_target)
+                                    # Gestion extraction ZIP
                                     if custom_rules and custom_rules.get("extract_zip") and asset_name.endswith('.zip'):
                                         try:
                                             with zipfile.ZipFile(local_file_path, 'r') as zip_ref:
@@ -123,13 +127,11 @@ def fetch_payloads_category(credits_set):
                                                     if zipped_file.endswith('.elf'):
                                                         extracted_path = zip_ref.extract(zipped_file, target_dir)
                                                         base_zipped_name = os.path.basename(zipped_file)
-                                                        
                                                         temp_match = re.search(r'(\d+c)', base_zipped_name, re.IGNORECASE)
                                                         v_numeric = version_clean.lstrip('v')
                                                         
                                                         if temp_match:
-                                                            temp_val = temp_match.group(1).lower()
-                                                            new_elf_name = f"fan_target_{temp_val}_v{v_numeric}.elf"
+                                                            new_elf_name = f"fan_target_{temp_match.group(1).lower()}_v{v_numeric}.elf"
                                                         else:
                                                             new_elf_name = f"{os.path.splitext(base_zipped_name)[0]}_v{v_numeric}.elf"
                                                         
@@ -137,79 +139,24 @@ def fetch_payloads_category(credits_set):
                                                         if os.path.exists(final_elf_path):
                                                             os.remove(final_elf_path)
                                                         os.rename(extracted_path, final_elf_path)
-                                            
                                             os.remove(local_file_path)
                                         except Exception as zip_err:
                                             print(f"    ⚠️ Erreur extraction ZIP pour {repo}: {zip_err}")
 
                     except Exception as e:
-                        try:
-                            target_dir = os.path.join(PATHS["categories"]["payloads"]["root"], cat_tech, title.replace(" ", "_"), "v1.0.0")
-                            os.makedirs(target_dir, exist_ok=True)
-                            subprocess.call(f"gh release download --repo '{repo}' --dir '{target_dir}' --clobber 2>/dev/null", shell=True)
-                            if os.listdir(target_dir):
-                                downloaded = True
-                        except Exception as sub_e:
-                            print(f"    ⚠️ Échec fallback gh release download pour {repo}: {sub_e}")
-
-            # --- GESTION FORGEJO / GITEA ROBUSTE ---
-            if not downloaded and any(domain in xml_url for domain in ["git.", "codeberg.org", "gitlab.com", "gitea"]):
-                try:
-                    html_content = ""
-                    html_releases_url = f"{xml_url.rstrip('/')}/releases"
-                    try:
-                        req_html = urllib.request.Request(html_releases_url, headers={'User-Agent': 'Mozilla/5.0'})
-                        with urllib.request.urlopen(req_html) as resp_html:
-                            html_content = resp_html.read().decode('utf-8', errors='ignore')
-                    except urllib.error.HTTPError:
-                        html_tags_url = f"{xml_url.rstrip('/')}/tag"
-                        req_tags = urllib.request.Request(html_tags_url, headers={'User-Agent': 'Mozilla/5.0'})
-                        with urllib.request.urlopen(req_tags) as resp_tags:
-                            html_content = resp_tags.read().decode('utf-8', errors='ignore')
-
-                    if html_content:
-                        direct_links = re.findall(r'href="([^"]+\.(?:elf|bin|ffpfsc))"', html_content, re.IGNORECASE)
-                        if direct_links:
-                            direct_url = None
-                            for link in direct_links:
-                                if "releases/download" in link:
-                                    direct_url = link
-                                    break
-                            if not direct_url:
-                                direct_url = direct_links[0]
-
-                            if not direct_url.startswith('http'):
-                                base_uri = re.match(r'(https?://[^/]+)', xml_url).group(1)
-                                direct_url = base_uri + direct_url
-                            
-                            f_name = direct_url.split('/')[-1].split('?')[0]
-                            ver_match = re.search(r'/releases/download/([^/]+)/', direct_url)
-                            version = ver_match.group(1) if ver_match else "latest"
-                            version_clean = re.sub(r'[^a-zA-Z0-9._-]', '', version)
-
-                            target_dir = os.path.join(PATHS["categories"]["payloads"]["root"], cat_tech, title.replace(" ", "_"), version_clean)
-                            os.makedirs(target_dir, exist_ok=True)
-                            local_path = os.path.join(target_dir, f_name)
-                            
-                            opener = urllib.request.build_opener()
-                            opener.addheaders = [('User-Agent', 'Mozilla/5.0')]
-                            urllib.request.install_opener(opener)
-                            urllib.request.urlretrieve(direct_url, local_path)
-                            
-                            if os.path.exists(local_path) and os.path.getsize(local_path) > 0:
-                                downloaded = True
-                                print(f"    ✅ Récupération réussie par contournement HTML pour {title}")
-
-                except Exception as e:
-                    print(f"    ⚠️ Erreur contournement Forgejo pour {xml_url} : {e}")
-            # -----------------------------------------------------------------------------------------
+                        print(f"    ⚠️ Échec gh api release pour {repo}: {e}")
 
             version_clean = re.sub(r'[^a-zA-Z0-9._-]', '', version) if version != "Source-Fixe" else "Source-Fixe"
             target_dir = os.path.join(PATHS["categories"]["payloads"]["root"], cat_tech, title.replace(" ", "_"), version_clean)
             default_base_name = re.sub(r'[^a-zA-Z0-9._-]', '_', title)
             default_base_name = re.sub(r'_{2,}', '_', default_base_name).strip('_')
 
-            eligible_binaries = process_downloaded_payloads(target_dir, repo_lower, default_base_name, version_clean)
+            # Si des règles spécifiques "files" ou "mapping" sont définies, on évite que le cleaner ne renomme tout
+            custom_rules = REPO_RULES.get("custom_payload_rules", {}).get(repo_lower, {})
+            if "files" in custom_rules or "mapping" in custom_rules:
+                eligible_binaries = [f for f in os.listdir(target_dir) if os.path.isfile(os.path.join(target_dir, f))] if os.path.exists(target_dir) else []
+            else:
+                eligible_binaries = process_downloaded_payloads(target_dir, repo_lower, default_base_name, version_clean)
 
             for main_file in eligible_binaries:
                 full_path = os.path.join(target_dir, main_file)
@@ -230,11 +177,8 @@ def fetch_payloads_category(credits_set):
                     "description": description if description else f"Payload {display_name} pour PS5",
                     "version": version,
                     "category": cat_display,
-                    "checksum": hashlib.sha256() if 'hasher' not in locals() else hasher.hexdigest() # géré proprement
+                    "checksum": hasher.hexdigest()
                 }
-                # Remplacement propre du checksum pour s'assurer qu'il est bien stocké
-                item_data["checksum"] = hasher.hexdigest()
-
                 cat_list.append(item_data)
                 all_flat.append(item_data)
 
