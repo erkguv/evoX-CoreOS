@@ -1,0 +1,35 @@
+# scripts/fetchers/apps_fetcher.py
+import os
+from scripts.config_rules import PATHS
+from scripts.fetchers.utils import parse_opml_file, fetch_assets_according_to_rules
+
+def fetch_apps_category(credits_set):
+    feed_dir = PATHS["categories"]["apps"]["feed"]
+    root_dir = PATHS["categories"]["apps"]["root"] if "root" in PATHS["categories"]["apps"] else "apps"
+    all_flat = []
+    by_category = {}
+
+    if not os.path.exists(feed_dir):
+        return by_category, all_flat
+
+    for opml_file in [f for f in os.listdir(feed_dir) if f.endswith('.opml')]:
+        cat_tech = opml_file.replace('.opml', '').lower()
+        cat_display = "Applications"
+        cat_list = []
+        entries = parse_opml_file(os.path.join(feed_dir, opml_file))
+
+        for entry in entries:
+            title, xml_url, author = entry['title'], entry['xml_url'], entry['author']
+            if not xml_url: continue
+
+            default_exts = ('.pkg', '.zip', '.elf', '.bin', '.tar.gz', '.rar')
+            assets = fetch_assets_according_to_rules(entry, root_dir, default_exts)
+            
+            for item in assets:
+                item["category"] = cat_display
+                credits_set.add(f"- **{author}** : [{title}]({xml_url})")
+                cat_list.append(item)
+                all_flat.append(item)
+
+        by_category[cat_tech] = {"name": cat_display, "items": cat_list}
+    return by_category, all_flat
