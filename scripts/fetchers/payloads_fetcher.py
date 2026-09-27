@@ -2,6 +2,7 @@ import os
 import re
 import json
 import hashlib
+import zipfile
 import subprocess
 import urllib.request
 from scripts.config_rules import PATHS, BASE_URL, REPO_RULES
@@ -89,8 +90,11 @@ def fetch_payloads_category(credits_set):
                                                 v_numeric = version_clean.lstrip('v')
                                                 target_filename = target_pattern.format(version=v_numeric)
                                                 break
+                                    elif custom_rules.get("extract_zip") and asset_name.endswith('.zip'):
+                                        should_download = True
+                                        target_filename = asset_name
                                 else:
-                                    if asset_name.lower().endswith(('.elf', '.bin', '.ffpfsc')):
+                                    if asset_name.lower().endswith(('.elf', '.bin', '.ffpfsc', '.zip')):
                                         should_download = True
 
                                 if should_download:
@@ -102,6 +106,34 @@ def fetch_payloads_category(credits_set):
                                     urllib.request.install_opener(opener)
                                     urllib.request.urlretrieve(asset_url, local_file_path)
                                     downloaded = True
+
+                                    # Gestion spécifique si c'est un ZIP à extraire et renommer (ex: fan_target)
+                                    if custom_rules and custom_rules.get("extract_zip") and asset_name.endswith('.zip'):
+                                        try:
+                                            with zipfile.ZipFile(local_file_path, 'r') as zip_ref:
+                                                for zipped_file in zip_ref.namelist():
+                                                    if zipped_file.endswith('.elf'):
+                                                        extracted_path = zip_ref.extract(zipped_file, target_dir)
+                                                        base_zipped_name = os.path.basename(zipped_file)
+                                                        
+                                                        temp_match = re.search(r'(\d+c)', base_zipped_name, re.IGNORECASE)
+                                                        v_numeric = version_clean.lstrip('v')
+                                                        
+                                                        if temp_match:
+                                                            temp_val = temp_match.group(1).lower()
+                                                            new_elf_name = f"fan_target_{temp_val}_v{v_numeric}.elf"
+                                                        else:
+                                                            new_elf_name = f"{os.path.splitext(base_zipped_name)[0]}_v{v_numeric}.elf"
+                                                        
+                                                        final_elf_path = os.path.join(target_dir, new_elf_name)
+                                                        if os.path.exists(final_elf_path):
+                                                            os.remove(final_elf_path)
+                                                        os.rename(extracted_path, final_elf_path)
+                                            
+                                            os.remove(local_file_path)
+                                        except Exception as zip_err:
+                                            print(f"    ⚠️ Erreur extraction ZIP pour {repo}: {zip_err}")
+
                     except Exception as e:
                         try:
                             target_dir = os.path.join(PATHS["categories"]["payloads"]["root"], cat_tech, title.replace(" ", "_"), "v1.0.0")
@@ -180,7 +212,7 @@ def fetch_payloads_category(credits_set):
                     for chunk in iter(lambda: fb.read(4096), b""): hasher.update(chunk)
 
                 credits_set.add(f"- **{author}** : [{title}]({xml_url})")
-                display_name = os.path.splitext(main_file)[0].split('_v')[0]
+                display_name = os.path.splitext(main_file)[0]
 
                 item_data = {
                     "name": display_name,
