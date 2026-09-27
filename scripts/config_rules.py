@@ -87,7 +87,42 @@ REPO_RULES = {
             "release_channel": "stable"
         },
 
-        # --- 4. Dépôts avec mappings spécifiques et règles poussées ---
+        # --- 4. Nouveaux dépôts en Pre-Release configurés ---
+        "rdiol12/ps5library": {
+            "release_channel": "pre-release",
+            "allowed_extensions": [".elf"],
+            "strict_clean": True,
+            "targets": [
+                {
+                    "match": "ps5library-agent",
+                    "rename": "ps5library-agent_v{version}.elf"
+                }
+            ]
+        },
+        "itsblurf/bfplayer": {
+            "release_channel": "pre-release",
+            "allowed_extensions": [".elf"],
+            "strict_clean": True,
+            "targets": [
+                {
+                    "match": "bfplayer-standalone",
+                    "rename": "bfplayer-standalone_v{version}.elf"
+                }
+            ]
+        },
+        "illusionyy/ps5-fw-spoof": {
+            "release_channel": "pre-release",
+            "allowed_extensions": [".elf"],
+            "strict_clean": True,
+            "targets": [
+                {
+                    "match": "ps5-fw-spoof",
+                    "rename": "ps5-fw-spoof_v{version}.elf"
+                }
+            ]
+        },
+
+        # --- 5. Dépôts avec mappings spécifiques et règles poussées ---
         "seregonwar/zftpd": {
             "release_channel": "stable",
             "allowed_extensions": [".elf"],
