@@ -153,8 +153,9 @@
             "version": "v1.0.0",
             "author": "m0ur0ne",
             "category": "PKG",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "titleId": "MOMK27926",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PS5PKG_MK64_Port.png",
+            "title": "Mario Kart 64"
         },
         {
             "name": "God Of War - Betrayal Port",
@@ -165,8 +166,9 @@
             "version": "v1.0.0",
             "author": "m0ur0ne",
             "category": "PKG",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "titleId": "MOUG90926",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PS5PKG_GOW-Betrayal_Port.png",
+            "title": "God of War Betrayal"
         },
         {
             "name": "ProsperoLight (PPSA99002.ffpfsc)",
