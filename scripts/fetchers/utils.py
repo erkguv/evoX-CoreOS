@@ -71,9 +71,7 @@ def fetch_assets_according_to_rules(entry, category_root_path, default_allowed_e
         return []
 
     version = "v1.0.0"
-    downloaded = False
     clean_xml_url = xml_url.split('?')[0].lower()
-    repo_lower = ""
     processed_items = []
 
     # Source fixe directe
@@ -98,7 +96,7 @@ def fetch_assets_according_to_rules(entry, category_root_path, default_allowed_e
                 processed_items.append({
                     "name": display_name.replace('_', ' ').title(),
                     "filename": f_name,
-                    "url": f"{BASE_URL}/{target_dir.replace(os.sep, '/')}/{f_name}",
+                    "url": xml_url,  # <-- URL d'origine directe
                     "local_path": local_file_path,
                     "description": description if description else f"Fichier {display_name}",
                     "version": version,
@@ -116,7 +114,6 @@ def fetch_assets_according_to_rules(entry, category_root_path, default_allowed_e
             repo_lower = repo.lower()
             rules = get_repo_config(repo_lower)
             
-            # Surcharge des extensions par défaut si le dépôt définit ses propres règles
             allowed_exts = rules.get("allowed_extensions", default_allowed_exts)
             exclude_exts = rules.get("exclude_extensions", [])
             exclude_keys = rules.get("exclude_keywords", [])
@@ -180,34 +177,23 @@ def fetch_assets_according_to_rules(entry, category_root_path, default_allowed_e
                                 opener.addheaders.append(('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}"))
                             urllib.request.install_opener(opener)
                             urllib.request.urlretrieve(asset_url, local_file_path)
-                            downloaded = True
+
+                            hasher = hashlib.sha256()
+                            with open(local_file_path, 'rb') as fb:
+                                for chunk in iter(lambda: fb.read(4096), b""): hasher.update(chunk)
+
+                            display_name = os.path.splitext(target_filename)[0]
+                            processed_items.append({
+                                "name": display_name.replace('_', ' ').title(),
+                                "filename": target_filename,
+                                "url": asset_url,  # <-- Conserve l'URL GitHub d'origine
+                                "local_path": local_file_path,
+                                "description": description if description else f"Élément {display_name}",
+                                "version": version,
+                                "checksum": hasher.hexdigest()
+                            })
 
             except Exception as e:
                 print(f"    ⚠️ Échec de récupération GitHub pour {repo}: {e}")
-
-    # Construction de la liste finale des fichiers présents dans le dossier cible
-    version_clean = re.sub(r'[^a-zA-Z0-9._-]', '', version) if version != "Source-Fixe" else "Source-Fixe"
-    target_dir = os.path.join(category_root_path, title.replace(" ", "_"), version_clean)
-    
-    if os.path.exists(target_dir):
-        for main_file in os.listdir(target_dir):
-            full_path = os.path.join(target_dir, main_file)
-            if not os.path.isfile(full_path):
-                continue
-            
-            hasher = hashlib.sha256()
-            with open(full_path, 'rb') as fb:
-                for chunk in iter(lambda: fb.read(4096), b""): hasher.update(chunk)
-
-            display_name = os.path.splitext(main_file)[0]
-            processed_items.append({
-                "name": display_name.replace('_', ' ').title(),
-                "filename": main_file,
-                "url": f"{BASE_URL}/{target_dir.replace(os.sep, '/')}/{main_file}",
-                "local_path": full_path,
-                "description": description if description else f"Élément {display_name}",
-                "version": version,
-                "checksum": hasher.hexdigest()
-            })
 
     return processed_items
