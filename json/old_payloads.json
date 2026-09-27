@@ -92,16 +92,6 @@
             "checksum": "6d4b905b42727dddeaedddb2a657ed0d4e7110ddd068a6daab0aafb2ba32604b"
         },
         {
-            "name": "A53-Kstuff-ShadowMountPlus-3in1",
-            "filename": "A53-Kstuff-ShadowMountPlus-3in1.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
-            "local_path": "payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
-            "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
-            "version": "Source-Fixe",
-            "category": "PS5 Beta",
-            "checksum": "19af4fdcedcec5051003122f9a39580a8843de80ca5f821a95853a8214f2ebb1"
-        },
-        {
             "name": "A53-kstuff-SMP",
             "filename": "A53-kstuff-SMP.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
@@ -109,7 +99,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "1dfb4b905c4f5e66864f3542d324bf36539a1dd126c383d25c0d2516a8e32da8"
+            "checksum": "d0ef47cc0fdaeb071007c65cf6cfc3b7c6d6d39e108fc4384714eb79715eaccd"
         },
         {
             "name": "Kstuff-NG",
@@ -119,7 +109,7 @@
             "description": "Experimental Kstuff NG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "d41464d3002224be4d149376d588fa720da1a5f6d380d6b6924fec3961de3be9"
+            "checksum": "fb0954fab9e616d94669ee196bd387fbea78dd7631ef9bfa8b6fc20712838969"
         },
         {
             "name": "kstuff",
@@ -139,7 +129,7 @@
             "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "d1ad93f214bab63a47c40a2525f25bf7b0ddd77861df98828eda2280f4bcf269"
+            "checksum": "9fee7dedb055056bc22bd127e8dc0203f158d1d6f328221308a7c13bed3173c4"
         },
         {
             "name": "a53_ppr_install_1140_20.09",
@@ -149,7 +139,7 @@
             "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "3865ff77c0b581ed5d1c14ffd87d55d76adebda5e3ecc25ee6c21f951360c4be"
+            "checksum": "8717706a11357121ba9755e1e204a55e0c231953a3b04eb769494e0108b690d9"
         },
         {
             "name": "a53_ppr_install_1160_20.09",
@@ -159,7 +149,7 @@
             "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "16f767d6605083cec38376605895a8469bbe0ca46d9b5ceeba5fec814f53d052"
+            "checksum": "13050b353e05f93ca277198cf51451b1dd09c9aa8740094052a4d290b944d8a7"
         },
         {
             "name": "webkit-autoloader-installer",
@@ -563,13 +553,13 @@
         },
         {
             "name": "elf-launcher",
-            "filename": "elf-launcher_v0.0.20.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v0.0.20/elf-launcher_v0.0.20.elf",
-            "local_path": "payloads/ps5_hen_loader/elf-launcher/v0.0.20/elf-launcher_v0.0.20.elf",
+            "filename": "elf-launcher_v0.0.21.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v0.0.21/elf-launcher_v0.0.21.elf",
+            "local_path": "payloads/ps5_hen_loader/elf-launcher/v0.0.21/elf-launcher_v0.0.21.elf",
             "description": "PS5 launcher for ELF payloads.",
-            "version": "v0.0.20",
+            "version": "v0.0.21",
             "category": "PS5 HEN Loader",
-            "checksum": "d6d5fb473ecbcf25754111f4eb01bb753d23956b9da125f906efa86170544d88"
+            "checksum": "23e0f96bd1ac3dd22e5ef468c1fd5f4d62fad2f50f42f9c6d7ae6cac3a58136a"
         },
         {
             "name": "np-fake-signin",

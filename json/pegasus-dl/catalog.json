@@ -231,8 +231,9 @@
             "version": "01.000.026",
             "author": "RastaFairy",
             "category": "FFPFSC",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "titleId": "PPSA99001",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ProsperoRadio.png",
+            "title": "ProsperoRadio Vulkan Edition"
         }
     ]
 }

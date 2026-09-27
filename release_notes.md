@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.27-1140)
+### 🚀 Synthèse de la mise à jour (v2026.09.27-1150)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -26,7 +26,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `lapy_jb_daemon.elf`
   * `ps5-web-file-manager_v1.9.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
-  * `A53-Kstuff-ShadowMountPlus-3in1.elf`
   * `A53-kstuff-SMP.elf`
   * `Kstuff-NG_v1.00.elf`
   * `kstuff_v1.12-dr-test8.elf`
@@ -73,7 +72,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
-  * `elf-launcher_v0.0.20.elf`
+  * `elf-launcher_v0.0.21.elf`
   * `np-fake-signin_v1.3.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`

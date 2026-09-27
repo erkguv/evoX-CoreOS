@@ -59,12 +59,6 @@
       <pubDate>file-explorer-v0.2.1</pubDate>
     </item>
     <item>
-      <title>A53-Kstuff-ShadowMountPlus-3in1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
       <title>A53-kstuff-SMP</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf</link>
       <description>Experimental AIO by SoNic credit to EchoStrech DarkMor</description>
@@ -342,9 +336,9 @@
     </item>
     <item>
       <title>elf-launcher</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v0.0.20/elf-launcher_v0.0.20.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v0.0.21/elf-launcher_v0.0.21.elf</link>
       <description>PS5 launcher for ELF payloads.</description>
-      <pubDate>v0.0.20</pubDate>
+      <pubDate>v0.0.21</pubDate>
     </item>
     <item>
       <title>np-fake-signin</title>

@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/09/2026 à 11:50
+* **PAYLOADS**
+  * `elf-launcher` (v0.0.21) - *Mise à jour (Précédent: v0.0.20)*
+
 ## Build du 27/09/2026 à 11:40
 * **FFPFSC**
   * `ProsperoRadio Vulkan Edition` (01.000.026) - *Nouveau*
