@@ -84,7 +84,7 @@ def fetch_payloads_category(credits_set):
                                         if asset_name in custom_rules["files"]:
                                             should_download = True
                                     elif "mapping" in custom_rules:
-                                        matched_mapping = False
+                                        # Strict : on ne télécharge QUE ce qui matche explicitement le mapping
                                         for original_pattern, target_pattern in custom_rules["mapping"].items():
                                             if original_pattern in asset_name:
                                                 should_download = True
@@ -93,10 +93,7 @@ def fetch_payloads_category(credits_set):
                                                     target_filename = target_pattern.format(version=v_numeric)
                                                 else:
                                                     target_filename = target_pattern
-                                                matched_mapping = True
                                                 break
-                                        if not matched_mapping and asset_name.lower().endswith(('.elf', '.bin')):
-                                            should_download = True
                                     elif custom_rules.get("extract_zip") and asset_name.endswith('.zip'):
                                         should_download = True
                                         target_filename = asset_name
