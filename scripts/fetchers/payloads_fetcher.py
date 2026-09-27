@@ -79,13 +79,13 @@ def fetch_payloads_category(credits_set):
                                 should_download = False
                                 target_filename = asset_name
 
-                                # Filtre d'exclusion immédiate pour zftpd (bloque tout .bin)
+                                # Exclusion stricte et immédiate des fichiers .bin pour zftpd
                                 if repo_lower == "seregonwar/zftpd" and asset_name.endswith('.bin'):
                                     continue
 
                                 if custom_rules:
-                                    if "files" in custom_rules:
-                                        if any(f == asset_name or f in asset_name for f in custom_rules["files"]):
+                                    if custom_rules.get("keep_original"):
+                                        if asset_name.lower().endswith('.elf'):
                                             should_download = True
                                             target_filename = asset_name
                                     elif "mapping" in custom_rules:
@@ -151,9 +151,8 @@ def fetch_payloads_category(credits_set):
             default_base_name = re.sub(r'[^a-zA-Z0-9._-]', '_', title)
             default_base_name = re.sub(r'_{2,}', '_', default_base_name).strip('_')
 
-            # Si des règles spécifiques "files" ou "mapping" sont définies, on évite que le cleaner ne renomme tout
             custom_rules = REPO_RULES.get("custom_payload_rules", {}).get(repo_lower, {})
-            if "files" in custom_rules or "mapping" in custom_rules:
+            if custom_rules.get("keep_original") or "mapping" in custom_rules:
                 eligible_binaries = [f for f in os.listdir(target_dir) if os.path.isfile(os.path.join(target_dir, f))] if os.path.exists(target_dir) else []
             else:
                 eligible_binaries = process_downloaded_payloads(target_dir, repo_lower, default_base_name, version_clean)
