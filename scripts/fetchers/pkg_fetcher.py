@@ -1,11 +1,10 @@
 # scripts/fetchers/pkg_fetcher.py
 import os
 from scripts.config_rules import PATHS
-from scripts.fetchers.utils import parse_opml_file, fetch_assets_according_to_rules
+from scripts.fetchers.utils import parse_opml_file, fetch_assets_from_url
 
 def fetch_pkg_category(credits_set):
     feed_dir = PATHS["categories"]["pkg"]["feed"]
-    root_dir = PATHS["categories"]["pkg"]["root"] if "root" in PATHS["categories"]["pkg"] else "pkg"
     all_flat = []
     by_category = {}
 
@@ -19,15 +18,14 @@ def fetch_pkg_category(credits_set):
         entries = parse_opml_file(os.path.join(feed_dir, opml_file))
 
         for entry in entries:
-            title, xml_url, author = entry['title'], entry['xml_url'], entry['author']
+            title, xml_url, author, desc = entry['title'], entry['xml_url'], entry['author'], entry['description']
             if not xml_url: continue
 
-            # Récupération standard via les règles
-            assets = fetch_assets_according_to_rules(entry, root_dir, ('.pkg',))
+            # Utilisation de l'ancienne méthode pour garder les URLs d'origine de la source
+            assets = fetch_assets_from_url(xml_url, title, desc, author, ('.pkg',), category_folder="pkg")
             
             for item in assets:
-                # 🛑 FILTRAGE STRICT DE SÉCURITÉ : On vérifie que le fichier ou le lien se termine bien par .pkg
-                # Cela empêche catégoriquement le passage d'un .bin ou d'une autre extension non désirée
+                # 🛑 FILTRAGE STRICT DE SÉCURITÉ
                 file_url = item.get("url", "") or item.get("file_name", "")
                 if not file_url.lower().endswith('.pkg'):
                     continue
