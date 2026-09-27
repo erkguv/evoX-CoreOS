@@ -83,5 +83,10 @@
         "titleId": "PPSA99039",
         "title": "EVO Player",
         "icon": "PPSA99039.png"
+    },
+    "PROSPERO_RADIO.ffpfsc": {
+        "titleId": "PPSA99001",
+        "title": "ProsperoRadio Vulkan Edition",
+        "icon": "ProsperoRadio.png"
     }
 }
