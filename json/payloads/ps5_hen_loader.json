@@ -72,14 +72,14 @@
       "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
     },
     {
-      "name": "Prosperomgr Vbeta",
-      "filename": "ProsperoMgr_vbeta.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/beta/ProsperoMgr_vbeta.elf",
-      "local_path": "payloads/ps5_hen_loader/ProsperoMgr/beta/ProsperoMgr_vbeta.elf",
+      "name": "Prosperomgr V1.1",
+      "filename": "ProsperoMgr_v1.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf",
+      "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf",
       "description": "A Web-Based All-In-One homebrew manager for your PlayStation 5",
-      "version": "beta",
+      "version": "v1.1",
       "category": "PS5 HEN Loader",
-      "checksum": "6cde8d8e97478ff43f69d2c6b22ac6512311d83b1d9ceb09d56796b9200c1b3c"
+      "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
     },
     {
       "name": "Elf-Launcher V1.0.3",

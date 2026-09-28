@@ -12,14 +12,14 @@
       "checksum": "946328551f74e3b6a34a7c0169f9b40792e392775768b84874b55ecdff71222e"
     },
     {
-      "name": "Common Fps Ps5 V1.1.0",
-      "filename": "Common_FPS_PS5_v1.1.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf",
-      "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf",
+      "name": "Common Fps Ps5 V1.2.0",
+      "filename": "Common_FPS_PS5_v1.2.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.0/Common_FPS_PS5_v1.2.0.elf",
+      "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.0/Common_FPS_PS5_v1.2.0.elf",
       "description": "A lightweight, open-source real-time FPS counter for PlayStation 5.",
-      "version": "v1.1.0",
+      "version": "v1.2.0",
       "category": "PS5 Overlay",
-      "checksum": "4f544fa00f7a430e64c4c8d0ed42d0463d2370c81dabd9141599c27c4f3f99d6"
+      "checksum": "6cab6df150bb0d77a954e7cf812992b291fc74d8b2aaf31c8316210aabb360b2"
     },
     {
       "name": "Ps5 Overlay",
@@ -109,7 +109,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "73ef2e663a2e7661cdff850a10796d40e5f40fd5889b1bfc1f970e52151b604e"
+      "checksum": "df96edff579ef829c51d046e659681743aed7bef1e0e3db1c1be3dd0009e87b1"
     },
     {
       "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "61b3f822330ab59063d69d0f15a1df9f9fc5b6af9612f9670c21c7cf71df9c15"
+      "checksum": "0781a4658d4c618cd53a31c441c69598b9c1a179a1272a12894819cda82828b5"
     },
     {
       "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "37d8ddb118c2b049bafb6bd1d724bd3b22d1afb91dd200822d6285c8b79a4eb0"
+      "checksum": "80305211ff8ab7790c5cade0d04cacd58f3ed718f3aa2c5c5d6195090bdb34ea"
     },
     {
       "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "35f1fd96e318e2257222cc78d8a897789b7d8d3fc682a81b714789d8c8e6208b"
+      "checksum": "6d729e4bc4f0a8f8f4f5b28386ce8b577fd6c6940ad7c5767318dfb0738ac282"
     },
     {
       "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "988a4b4750460d1789509bb7c61573cc74d8cff444eab29d0a7f29d06f79456b"
+      "checksum": "26e848a3a39b05accadb038dff4a58ee8182c2b38228be7d343772d92b4aa234"
     },
     {
       "name": "A53 Ppr Install 1160 20.09",
@@ -169,7 +169,7 @@
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "6eabcb3d795e64862270394c0680c00ccbe7d35897f44bf1846bb679c0dda7df"
+      "checksum": "f4a697ae6b328482f0d5e303445302461966d275c8279b699ada03a42792fe16"
     },
     {
       "name": "Webkit-Autoloader-Installer V0.4.0",
@@ -469,7 +469,7 @@
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "fa1c80d7db9640ce40d88f65a42f9f0d7ea605b10d504e104d28c71d84896738"
+      "checksum": "d1eea2da0791b9b3fb98f9a972d40d1722421f5ac353dc22678859031fd0970b"
     },
     {
       "name": "Spectrum-Library V1.4.7",
@@ -632,14 +632,14 @@
       "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
     },
     {
-      "name": "Prosperomgr Vbeta",
-      "filename": "ProsperoMgr_vbeta.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/beta/ProsperoMgr_vbeta.elf",
-      "local_path": "payloads/ps5_hen_loader/ProsperoMgr/beta/ProsperoMgr_vbeta.elf",
+      "name": "Prosperomgr V1.1",
+      "filename": "ProsperoMgr_v1.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf",
+      "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf",
       "description": "A Web-Based All-In-One homebrew manager for your PlayStation 5",
-      "version": "beta",
+      "version": "v1.1",
       "category": "PS5 HEN Loader",
-      "checksum": "6cde8d8e97478ff43f69d2c6b22ac6512311d83b1d9ceb09d56796b9200c1b3c"
+      "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
     },
     {
       "name": "Elf-Launcher V1.0.3",

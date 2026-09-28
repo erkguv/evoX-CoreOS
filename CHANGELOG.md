@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/09/2026 à 22:56
+* **PAYLOADS**
+  * `Common Fps Ps5 V1.2.0` (v1.2.0) - *Nouveau*
+  * `Prosperomgr V1.1` (v1.1) - *Nouveau*
+* **FFPFSC**
+  * `Prospero Radio` (01.000.042) - *Mise à jour (Précédent: 01.000.027)*
+* **APPS**
+  * `Kodi-Ps5-Ppsa99420-0.8.1` (0.8.1) - *Nouveau*
+
 ## Build du 28/09/2026 à 03:28
 * **PAYLOADS**
   * `Ps5Upload V5.36.0` (v5.36.0) - *Nouveau*

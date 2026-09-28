@@ -224,6 +224,30 @@
         {
           "name": "ASIA 9.xx Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/ozpTj8IBbC"
+        },
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/0Kezk7pJ1zD1/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/Pbe3PalZezlX/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1tXaLI"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/cpUmW"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/qfS0gxf4jG"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/K5zlRMEsAQ"
         }
       ],
       "category": "game",
@@ -35957,7 +35981,7 @@
       ],
       "category": "game",
       "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/06/5-1.jpg",
-      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 11.xx Make sure use latest update y2jb or bdj or p2jb Do not run game from the internal drive as this may cause the console to freeze and enter recovery mode Already add to game [ apr emu – playgo emu ] Before run game need run backpork payload without backpack payload apr emu will not work and game will crash\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.013\nRelease note: Death Stranding 2 On The Beach Deluxe Edition (v01.013) – BP 4.xx – PPSA02015 – exFAT This release include the Proper BackPort.\nContributor: Thanks to High-Speed007 for the Files, drakmor for ampr-dlc-emu and BestPig & Kira for the BackPort.\n\nVariant: USA exFAT 01.013\nRegion: USA\nRelease note: exFAT format — FW 01.013 — DLCs Merged\nContributor: pippo",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 11.xx Make sure use latest update y2jb or bdj or p2jb Do not run game from the internal drive as this may cause the console to freeze and enter recovery mode Already add to game [ apr emu – playgo emu ] Before run game need run backpork payload without backpack payload apr emu will not work and game will crash\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.013\nRelease note: Death Stranding 2 On The Beach Deluxe Edition (v01.013) – BP 4.xx – PPSA02015 – exFAT This release include the Proper BackPort.\nContributor: Thanks to High-Speed007 for the Files, drakmor for ampr-dlc-emu and BestPig & Kira for the BackPort.\n\nVariant: USA exFAT 01.013\nRegion: USA\nRelease note: exFAT format — FW 01.013\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/death-stranding-2-on-the-beach-ps5/"
     },
     {
@@ -114705,27 +114729,11 @@
         {
           "name": "USA Base - 1fichier",
           "url": "https://1fichier.com/?9qw96u1xh5sn580iwcrc"
-        },
-        {
-          "name": "USA to EUR Languages exFAT 01.005 Base - AKIA Std (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiMnJIdDdQZ0R1ZFlDUGplRFl1cDMxWDRSUjdIRG8xc0t0bklzeG5sclZtWSttdkZXOEMzdk1PWkhtMkxVd24rUWNQZTNmYVMwIiwicyI6IlJUNzVXeFlWdUdaeGlJUVNPMmtXdkE9PSIsImkiOiJ2K0N6Q0N0cktYcTFDbkNoIn0="
-        },
-        {
-          "name": "USA to EUR Languages exFAT 01.005 BackPort backport - AKIA Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiVzY5ZHk2RlV0WGNvT2xmNExxWEw0MVcvV3Z2WXlvMVJLYzFUK1h5NmJkTDNvRS9sRXA1bFp1cnlvSVBWSmVkdXpOWEt2ZWpQIiwicyI6IklxamVubGZ4UElzRDgzOHF5UWRUc2c9PSIsImkiOiJpaEY3dlNCK3NQalMxOE9RIn0="
-        },
-        {
-          "name": "USA to EUR Languages exFAT 01.005 BackPort backport - VIKI Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiZTBXWnJ5QkNLcER0QmNubUFxYWViUUxWaS93ZWZmRmt2cVhzZCtOOWtFVEdyUXRQTm9HWHBsWVVUL2hYaTAyalNMaGkiLCJzIjoibk51UFgvUVJKbkp2RlovVC82TkVSUT09IiwiaSI6IjVSZlRBUVZLTzBJUE9BTXcifQ=="
-        },
-        {
-          "name": "USA to EUR Languages exFAT 01.005 BackPort backport - Buzz Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoidGdXdmxocFI2NXJVVUNJTlh1Z0FSNEY4eDlwVTJnUGJEODI0dGdBNjdOUUp6eCtjVmJVVlRlT0NqVU9ua3ZPVVFPcFJTUT09IiwicyI6IlZBdWNzcnlWYloyamlIK0xtdTdFVWc9PSIsImkiOiJ4RTJoZlpMZDBlVEMvL0tQIn0="
         }
       ],
       "category": "game",
       "posterUrl": "https://dlpsgame.com/wp-content/uploads/2024/12/2-9.jpg",
-      "description": "Variant: USA 9.xx\nRegion: USA\nRelease note: Works on 9.xx and higher\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nRelease note: External Drive only. USA to EUR Languages (Optional for Dump-Folder Version) : Here\nContributor: @Pippo26442999 x SiESPTA\n\nVariant: USA\nRegion: USA\nContributor: @Tai Van\nPassword: DLPSGAME.COM\n\nVariant: USA to EUR Languages exFAT 01.005\nRegion: USA to EUR Languages\nRelease note: exFAT format — FW 01.005 — Standard (9.xx) + 4.xx BackPork\nContributor: pippo",
+      "description": "Variant: USA 9.xx\nRegion: USA\nRelease note: Works on 9.xx and higher\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nRelease note: External Drive only. USA to EUR Languages (Optional for Dump-Folder Version) : Here\nContributor: @Pippo26442999 x SiESPTA\n\nVariant: USA\nRegion: USA\nContributor: @Tai Van\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/demons-souls-free-ps5/"
     },
     {
@@ -120745,6 +120753,21 @@
       "posterUrl": "https://pkg.games/wp-content/uploads/2026/01/5_4-1.jpg",
       "description": "Variant: Release 1\nContributor: pkg.games\n\nVariant: USA exFAT 01.004\nRegion: USA\nRelease note: exFAT format — FW 01.004 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
+    },
+    {
+      "titleId": "PPSA01341",
+      "title": "[exFAT] Demons Souls Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiejYxNFlEZWU5aE1qWDRVYTc4Y0swZ0lheWlpWlRxVHQ2N1h5SE9hdVc0QXV2aGdlVkNNM1FlakZnRndWcEEzWWVTWGZhTzNSL3Q0anFnVTRubFVLNnc4Tnh5QjIiLCJpIjoidTUwTGZIbXY2SXdDYU51SyIsIm4iOiJEYXRhIn0="
+        }
+      ],
+      "version": "01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Demons_Souls_DE.avif",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
       "titleId": "PPSA15508",

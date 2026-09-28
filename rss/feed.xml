@@ -11,10 +11,10 @@
       <pubDate>1.0.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Common Fps Ps5 V1.1.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf</link>
+      <title>[Payloads] Common Fps Ps5 V1.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.0/Common_FPS_PS5_v1.2.0.elf</link>
       <description>A lightweight, open-source real-time FPS counter for PlayStation 5.</description>
-      <pubDate>v1.1.0</pubDate>
+      <pubDate>v1.2.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5 Overlay</title>
@@ -383,10 +383,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Prosperomgr Vbeta</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/beta/ProsperoMgr_vbeta.elf</link>
+      <title>[Payloads] Prosperomgr V1.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf</link>
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5</description>
-      <pubDate>beta</pubDate>
+      <pubDate>v1.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Elf-Launcher V1.0.3</title>
@@ -666,9 +666,9 @@
     </item>
     <item>
       <title>[Fichiers FFPFSC] Prospero Radio</title>
-      <link>https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.027/PROSPERO_RADIO.ffpfsc</link>
+      <link>https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.042/PROSPERO_RADIO.ffpfsc</link>
       <description>An internet radio for PS5 with a real radio face — rendered with Vulkan.</description>
-      <pubDate>01.000.027</pubDate>
+      <pubDate>01.000.042</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa99004</title>
@@ -695,10 +695,10 @@
       <pubDate>v1.02</pubDate>
     </item>
     <item>
-      <title>[Applications] Kodi-Ps5-Ppsa99420-0.8</title>
-      <link>https://github.com/VivaLaVent/kodi-ps5/releases/download/0.8/kodi-ps5-PPSA99420-0.8.zip</link>
+      <title>[Applications] Kodi-Ps5-Ppsa99420-0.8.1</title>
+      <link>https://github.com/VivaLaVent/kodi-ps5/releases/download/0.8.1/kodi-ps5-PPSA99420-0.8.1.zip</link>
       <description>kodi-ps5</description>
-      <pubDate>0.8</pubDate>
+      <pubDate>0.8.1</pubDate>
     </item>
   </channel>
 </rss>

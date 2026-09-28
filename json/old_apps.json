@@ -42,13 +42,13 @@
             "category": "Applications"
         },
         {
-            "name": "Kodi-Ps5-Ppsa99420-0.8",
-            "filename": "kodi-ps5-PPSA99420-0.8.zip",
-            "url": "https://github.com/VivaLaVent/kodi-ps5/releases/download/0.8/kodi-ps5-PPSA99420-0.8.zip",
-            "local_path": "apps/kodi-ps5/0.8/kodi-ps5-PPSA99420-0.8.zip",
+            "name": "Kodi-Ps5-Ppsa99420-0.8.1",
+            "filename": "kodi-ps5-PPSA99420-0.8.1.zip",
+            "url": "https://github.com/VivaLaVent/kodi-ps5/releases/download/0.8.1/kodi-ps5-PPSA99420-0.8.1.zip",
+            "local_path": "apps/kodi-ps5/0.8.1/kodi-ps5-PPSA99420-0.8.1.zip",
             "description": "kodi-ps5",
-            "version": "0.8",
-            "checksum": "9727e391c9ba2c820b1064932eb863ac0c141cde55f3ceb0f9c777e0c5a13bb0",
+            "version": "0.8.1",
+            "checksum": "2d1a73d684eff318a99094fa6934c07fae24c9f433a428e856b71af2fb16d924",
             "category": "Applications"
         }
     ]

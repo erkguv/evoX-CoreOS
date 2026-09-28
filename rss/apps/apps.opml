@@ -8,6 +8,6 @@
     <outline text="Castation-0.4.0" title="Castation-0.4.0" type="rss" xmlUrl="https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
     <outline text="Dump Installer" title="Dump Installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip" description="Dump installer howmebrew"/>
     <outline text="Dump Runner" title="Dump Runner" type="rss" xmlUrl="https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip" description="Dump runner howmebrew"/>
-    <outline text="Kodi-Ps5-Ppsa99420-0.8" title="Kodi-Ps5-Ppsa99420-0.8" type="rss" xmlUrl="https://github.com/VivaLaVent/kodi-ps5/releases/download/0.8/kodi-ps5-PPSA99420-0.8.zip" description="kodi-ps5"/>
+    <outline text="Kodi-Ps5-Ppsa99420-0.8.1" title="Kodi-Ps5-Ppsa99420-0.8.1" type="rss" xmlUrl="https://github.com/VivaLaVent/kodi-ps5/releases/download/0.8.1/kodi-ps5-PPSA99420-0.8.1.zip" description="kodi-ps5"/>
   </body>
 </opml>

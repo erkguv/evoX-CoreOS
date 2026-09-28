@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.28-1250)
+### 🚀 Synthèse de la mise à jour (v2026.09.28-2256)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -18,7 +18,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 
 * **payloads**
   * `savemnt-offset-dumper_v1.0.0.elf`
-  * `Common_FPS_PS5_v1.1.0.elf`
+  * `Common_FPS_PS5_v1.2.0.elf`
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `BFpilot_v0.4.4.elf`
@@ -80,7 +80,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
-  * `ProsperoMgr_vbeta.elf`
+  * `ProsperoMgr_v1.1.elf`
   * `elf-launcher_v1.0.3.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
@@ -153,7 +153,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `castation-0.4.0.zip`
   * `dump_installer.zip`
   * `dump_runner.zip`
-  * `kodi-ps5-PPSA99420-0.8.zip`
+  * `kodi-ps5-PPSA99420-0.8.1.zip`
 
 </details>
 
