@@ -3,6 +3,38 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA23226",
+      "title": "Black Myth: Wukong Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/5dwq5Jznsa"
+        }
+      ],
+      "version": "01.021",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA23226_2abf3aa1290f28440396a473e68bd0b3c94f9046bf50f7f9bcc4ff76a30901b9/icon0.webp",
+      "description": "Included in the edition: Black Myth: Wukong full game for PS5®. Black Myth: Wukong is an action RPG rooted in Chinese mythology. The story is based on Journey to the West, one of the Four Great Classical Novels of Chinese literature. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past. • Explore a Land of Vast Wonders \"A world unseen, where wonders gleam, And with each stride, a new scene streams.\" Enter a fascinating realm filled with the wonders and discoveries of ancient Chinese mythology! As the Destined One, you shall traverse an array of breathtaking and distinctive landscapes from the classic tale, composing an epic of adventure that is seen anew. • Confront Mighty Foes, Old and New \"Heroic Monkey, might and fame, Adversaries rise, to test his name. \" One of the major highlights of Journey to the West is its diverse cast of adversaries, each with their unique strengths. As the Destined One, you will encounter powerful foes and worthy rivals throughout your journey. Fearlessly engage them in epic battles where surrender is not an option. • Temper Your Mastery of Varied Spells \"Spells unbound, talents in play, Unleashed abilities seize the day.\" Spells, transformations, and magic vessels of all manifestations, in which some counteract while others amplify, have long been iconic combat elements of Chinese mythology. As the Destined One, aside from mastering various staff techniques, you can also freely combine different spells, abilities, weapons, and equipment to find a winning strategy that best suits your combat style. • Discover Heartfelt Tales Behind Every Facade \"Within all souls, both wild and tame, There thrives a tale of life's fierce flame.\" Beneath the ferocity and craftiness of your foes lies an engaging tapestry of their origins, personalities, and motivations waiting to be revealed. As the Destined One, you will uncover the stories behind a variety of characters, delving beyond your battles with them to taste the love, hate, greed, and fury they once held and still carry within.\nRegion: ASIA\nAPR: apr-emu-v0.2.7.6 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-09-28T03:12:53.154Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 150323855360
+    },
+    {
+      "titleId": "PPSA29343",
+      "title": "Beast of Reincarnation Digital Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/onlKybVclx"
+        }
+      ],
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29343_4b41cf9dba843a1e9a4a5cc9fd734912145c42e4ce6f19b6881ca48040556b91/icon0.webp",
+      "description": "Beast of Reincarnation Digital Deluxe Edition The Digital Deluxe Edition includes Black and Brown Shiba Skins for Koo, “Oni’s Hat” for Emma, Emma’s sword “Big Dipper”, 100,000 Amber (in-game currency), plus a number of vegetable seedlings! Set in a post-apocalyptic Japan, humanity's only hope lies with Emma, an outcast shunned from society for her affliction, and Koo, the blighted dog. Together, they embark on this expansive adventure in this one-person, one-dog action RPG. Experience a journey where you feel moments of loneliness, and also the reliability and comfort of your companion. Savor a world of impermanence, where forests suddenly burst forth amidst the wasteland. As Emma and Koo travel through this beautiful yet harsh world, their bond and abilities blossom. Customize your playstyle with unique skill trees, gear, and spirit stones to survive this beautiful yet brutal world. Define your own playstyle through your preferred loadout, including ranged, stealthy, and aggressive combat. In this world ravaged by blight... What will you find at the end of your journey? Key Features: Emma and Koo’s Synergy Emma and Koo create a revolutionary action RPG experience. Fight as a unit, using Emma's sword abilities while giving Koo commands to unleash various techniques in a hybrid combat system that combines elements of action and turn-based RPGs. Japan: Year 4026 Travel through a beautiful yet harsh post-apocalyptic world. Experience the ever-changing scenery, in the blighted forest, and the Bosses that rule this world. Emma and Koo, who met in the far east, are tasked with battling Bosses from all over the world and capturing their powers in order to defeat the Beast of Reincarnation. A story filled with secrets Dive into a brutal narrative where every character hides a dangerous truth. Uncover the intertwined fates of Emma and Koo in this profound story.\nRegion: USA\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-09-28T03:11:44.573Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 50465865728
+    },
+    {
       "titleId": "PPSA18697",
       "title": "The Bearer & The Last Flame",
       "downloadLinks": [
@@ -725,6 +757,22 @@
       "description": "Become the legendary part man, part machine, all cop hero and bring justice to the dangerous, crime-ridden streets of Old Detroit. Uphold the law by any means necessary: With your powerful Auto-9 or one of the other 20 weapons available, eradicate criminals throughout this explosive first-person adventure. Your cyborg strength and cybernetic abilities can be upgraded as you progress, to make you an even more formidable law enforcement officer. It's up to you to decide how to fulfil your prime directives: Explore open areas and complete your objectives according to your own sense of justice. Finding evidence, interrogating suspects and maintaining public order are just some of your daily tasks as a police officer. But don't take decisions lightly: your choices can determine the fate of citizens and the result of your mission. An original story set in the world of RoboCop: The city of Old Detroit has been hit by a crime wave, with a new enemy threatening the peace and order. Your investigation leads you right into the heart of a shadowy conspiracy in an original story that takes place between RoboCop 2 and 3, with striking locations to explore and familiar faces to meet. Peter Weller, the original RoboCop actor, is even back on duty to voice the cybercop. Get ready to… PROTECT THE INNOCENT AND UPHOLD THE LAW\nRegion: USA\nUpdated: 2026-09-26T07:19:53.438Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 39728447488
+    },
+    {
+      "titleId": "PPSA01460",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/1peGpL48Wj"
+        }
+      ],
+      "version": "01.015.001",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01460_c2d86412625d4a0d67ef3f1f0f1df30c9c7e28c8e32689ecd35604366e84ba79/icon0.webp",
+      "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. In the latest adventure in the Marvel’s Spider-Man universe, teenager Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. But when a fierce power struggle threatens to destroy his new home, the aspiring hero realizes that with great power, there must also come great responsibility. To save all of Marvel’s New York, Miles must take up the mantle of Spider-Man and own it. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: EUR\nUpdated: 2026-09-25T23:48:49.669Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 40802189312
     },
     {
       "titleId": "PPSA01649",
@@ -1999,14 +2047,14 @@
       "title": "Kingdom Come Deliverance 2 Royal Edition",
       "downloadLinks": [
         {
-          "name": "Viki",
+          "name": "Viki (+Arabic Lang)",
           "url": "https://vikingfile.com/f/DIjEtL8L91"
         }
       ],
       "version": "01.052",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21704_3668d56fb3c4449df65c8d6fc026ab1147214ad7e395a81d61c95641e973771f/icon0.webp",
-      "description": "Live a life medieval with the unforgettable RPG experience of Kingdom Come: Deliverance II. Immerse yourself in a thrilling adventure - through the eyes of Henry - as you embark on a quest of epic proportions. The Royal Edition includes the base game, all the exciting story DLC and additional expansion sets to make your Middle Ages journey truly unforgettable. Kingdom Come: Deliverance II Royal Edition contains: -Gallant Huntsman’s Kit -Shields of Seasons Passing -The Lion’s Crest - Brushes with Death - Legacy of the Forge - Mysteria Ecclesiae\nRegion: EUR\nNotes: DLCs won't work if the account you are launching the game from was never online before. You would need to run the payload np-fake-signin-ps5 before then.\nUpdated: 2026-09-21T08:57:38.393Z",
+      "description": "Live a life medieval with the unforgettable RPG experience of Kingdom Come: Deliverance II. Immerse yourself in a thrilling adventure - through the eyes of Henry - as you embark on a quest of epic proportions. The Royal Edition includes the base game, all the exciting story DLC and additional expansion sets to make your Middle Ages journey truly unforgettable. Kingdom Come: Deliverance II Royal Edition contains: -Gallant Huntsman’s Kit -Shields of Seasons Passing -The Lion’s Crest - Brushes with Death - Legacy of the Forge - Mysteria Ecclesiae\nRegion: EUR\nNotes: DLCs won't work if the account you are launching the game from was never online before. You would need to run the payload np-fake-signin-ps5 before then. Arabic only language\nUpdated: 2026-09-21T08:57:38.393Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 144955146240
     },
@@ -3642,7 +3690,7 @@
       "version": "1.036.178",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28180_52d0eb9d50748574d0312b57df691dee90bdbf95a4b147c7b6945585fe392a4e/icon0.webp",
-      "description": "Edition includes: Days Gone Remastered Ride into a desperate, dog-eat-dog world in the definitive Days Gone experience, remastered for the PlayStation®5 console. Fight to survive an environment ravaged by a deadly pandemic as former outlaw biker, Deacon St. John. Risk the threats of the Broken Road on the back of your trusty Drifter bike as you face terrifying hordes of relentless feral Freakers – as well as dangerous gangs of humans. Unpredictable weather and different times of day and night can cause incredible danger and shocking surprises… and everything wants you dead. - Appreciate enhanced graphical fidelity, increased foliage draw distance, plus improved shadow and lighting quality – with the potential for smooth, seamless performance made possible by a variable refresh rate, for TVs or displays that support VRR.1 - Select your preferred playing experience, between Quality mode for increased resolution or Performance mode for improved framerates. - Feel every moment of survival through the DualSense® wireless controller’s haptic feedback and adaptive triggers. From the rumble of your bike’s engine, to traversing the Broken Road… 1 Compatible TV or display required.\nRegion: USA\nCredits: Firmware 10.xx+\nUpdated: 2026-09-16T17:14:43.361Z",
+      "description": "Edition includes: Days Gone Remastered Ride into a desperate, dog-eat-dog world in the definitive Days Gone experience, remastered for the PlayStation®5 console. Fight to survive an environment ravaged by a deadly pandemic as former outlaw biker, Deacon St. John. Risk the threats of the Broken Road on the back of your trusty Drifter bike as you face terrifying hordes of relentless feral Freakers – as well as dangerous gangs of humans. Unpredictable weather and different times of day and night can cause incredible danger and shocking surprises… and everything wants you dead. - Appreciate enhanced graphical fidelity, increased foliage draw distance, plus improved shadow and lighting quality – with the potential for smooth, seamless performance made possible by a variable refresh rate, for TVs or displays that support VRR.1 - Select your preferred playing experience, between Quality mode for increased resolution or Performance mode for improved framerates. - Feel every moment of survival through the DualSense® wireless controller’s haptic feedback and adaptive triggers. From the rumble of your bike’s engine, to traversing the Broken Road… 1 Compatible TV or display required.\nRegion: USA\nUpdated: 2026-09-16T17:14:43.361Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 49714246451
     },
@@ -11217,7 +11265,7 @@
       "version": "01.021",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA23226_2abf3aa1290f28440396a473e68bd0b3c94f9046bf50f7f9bcc4ff76a30901b9/icon0.webp",
-      "description": "Included in the edition: Black Myth: Wukong full game for PS5®. Black Myth: Wukong is an action RPG rooted in Chinese mythology. The story is based on Journey to the West, one of the Four Great Classical Novels of Chinese literature. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past. • Explore a Land of Vast Wonders \"A world unseen, where wonders gleam, And with each stride, a new scene streams.\" Enter a fascinating realm filled with the wonders and discoveries of ancient Chinese mythology! As the Destined One, you shall traverse an array of breathtaking and distinctive landscapes from the classic tale, composing an epic of adventure that is seen anew. • Confront Mighty Foes, Old and New \"Heroic Monkey, might and fame, Adversaries rise, to test his name. \" One of the major highlights of Journey to the West is its diverse cast of adversaries, each with their unique strengths. As the Destined One, you will encounter powerful foes and worthy rivals throughout your journey. Fearlessly engage them in epic battles where surrender is not an option. • Temper Your Mastery of Varied Spells \"Spells unbound, talents in play, Unleashed abilities seize the day.\" Spells, transformations, and magic vessels of all manifestations, in which some counteract while others amplify, have long been iconic combat elements of Chinese mythology. As the Destined One, aside from mastering various staff techniques, you can also freely combine different spells, abilities, weapons, and equipment to find a winning strategy that best suits your combat style. • Discover Heartfelt Tales Behind Every Facade \"Within all souls, both wild and tame, There thrives a tale of life's fierce flame.\" Beneath the ferocity and craftiness of your foes lies an engaging tapestry of their origins, personalities, and motivations waiting to be revealed. As the Destined One, you will uncover the stories behind a variety of characters, delving beyond your battles with them to taste the love, hate, greed, and fury they once held and still carry within.\nRegion: EUR\nAPR: apr-emu-v0.2.7.6 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-07-01T15:27:43.329Z",
+      "description": "Included in the edition: Black Myth: Wukong full game for PS5®. Black Myth: Wukong is an action RPG rooted in Chinese mythology. The story is based on Journey to the West, one of the Four Great Classical Novels of Chinese literature. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past. • Explore a Land of Vast Wonders \"A world unseen, where wonders gleam, And with each stride, a new scene streams.\" Enter a fascinating realm filled with the wonders and discoveries of ancient Chinese mythology! As the Destined One, you shall traverse an array of breathtaking and distinctive landscapes from the classic tale, composing an epic of adventure that is seen anew. • Confront Mighty Foes, Old and New \"Heroic Monkey, might and fame, Adversaries rise, to test his name. \" One of the major highlights of Journey to the West is its diverse cast of adversaries, each with their unique strengths. As the Destined One, you will encounter powerful foes and worthy rivals throughout your journey. Fearlessly engage them in epic battles where surrender is not an option. • Temper Your Mastery of Varied Spells \"Spells unbound, talents in play, Unleashed abilities seize the day.\" Spells, transformations, and magic vessels of all manifestations, in which some counteract while others amplify, have long been iconic combat elements of Chinese mythology. As the Destined One, aside from mastering various staff techniques, you can also freely combine different spells, abilities, weapons, and equipment to find a winning strategy that best suits your combat style. • Discover Heartfelt Tales Behind Every Facade \"Within all souls, both wild and tame, There thrives a tale of life's fierce flame.\" Beneath the ferocity and craftiness of your foes lies an engaging tapestry of their origins, personalities, and motivations waiting to be revealed. As the Destined One, you will uncover the stories behind a variety of characters, delving beyond your battles with them to taste the love, hate, greed, and fury they once held and still carry within.\nRegion: ASIA\nAPR: apr-emu-v0.2.7.6 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-07-01T15:27:43.329Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 117037858816
     },
