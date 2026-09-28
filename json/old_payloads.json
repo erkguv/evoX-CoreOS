@@ -109,7 +109,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "d0718b91252aa2474d2a104b8ccf3125d5dcda30281ce457b00a9d57fb34d713"
+            "checksum": "234bc788d43b7ee0ff5094c48dd79aea8a58f544f56b79f651623df42a740c53"
         },
         {
             "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "71844e787ca50983751d03ca076d311694a9cd6d791a1c8d6af4c57b74cd78c0"
+            "checksum": "cc80127dcb7eeff72700ff78c87efc7b46c81cc2478997c02387a9c61b17fe42"
         },
         {
             "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
             "description": "Experimental Kstuff NG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "d933370d3c4208f76b584346a17d4c124e76c637fa1325e97ea6b2def9441491"
+            "checksum": "1fdfbd2cbc882da94f28e2801a302903d217b968db77e0d6912b012388dc38c8"
         },
         {
             "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
             "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "ed0f929c6861a82ecb6cab72a7bfea2b401bcd8fd6edb458fb5f7588568ed303"
+            "checksum": "66927a68daebbd212fdc3711067804b3512a02c958811200b6ffbeb46fd4d235"
         },
         {
             "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
             "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "03621bce23e48fa90819f6504ad351899f25230c8166922a32299ba5b47b7b5d"
+            "checksum": "efde2f016e78be2b575ebd1ad86a4aba32b2bf03b3b0a35d90967bb7ff31ac5f"
         },
         {
             "name": "A53 Ppr Install 1160 20.09",
@@ -169,7 +169,7 @@
             "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "25b8d5d13081b664f7e222255bcf14c908a04e127150092528f72bca05c4fb3e"
+            "checksum": "5d7d43361311ec83fc81ad11615703d3d70c8c80c1fc87b2220e48b33c5a74e2"
         },
         {
             "name": "Webkit-Autoloader-Installer V0.4.0",
@@ -312,14 +312,14 @@
             "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
         },
         {
-            "name": "Ps5Upload V5.35.0",
-            "filename": "ps5upload_v5.35.0.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.35.0/ps5upload_v5.35.0.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v5.35.0/ps5upload_v5.35.0.elf",
+            "name": "Ps5Upload V5.36.0",
+            "filename": "ps5upload_v5.36.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.36.0/ps5upload_v5.36.0.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v5.36.0/ps5upload_v5.36.0.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v5.35.0",
+            "version": "v5.36.0",
             "category": "PS5 Server",
-            "checksum": "94a996dc7adaaf264545ffc3b7f4fb471a52569630ea5538ee18d20039c4213b"
+            "checksum": "b1a10ae2b55ae8929681941991535226610d3fe2af9454a34d260e5884c8d336"
         },
         {
             "name": "Airpsx V0.19",
@@ -469,7 +469,7 @@
             "description": "ghost-toothAPI.",
             "version": "Source-Fixe",
             "category": "PS5 Utility",
-            "checksum": "f2bce5cece2e2f3fea63ba02c9dacdc1c631811fc2d9bb95d48ed78d2b0aed34"
+            "checksum": "1b382cf5017f1c8912a4d7ee1f502093114ff384482d2cb3fcd24c958adc1161"
         },
         {
             "name": "Spectrum-Library V1.4.7",
