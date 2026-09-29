@@ -3,6 +3,210 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA11386",
+      "title": "007 First Light",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/Pbe3Pay9LzlX/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/1RgzR9yOv3bp/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/k0embbrRWmVb/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/0Kezk7bVnzD1/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1utdRo"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/mFFY0"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/14VYLw"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/qH6PY"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/007-first-light-ps5/"
+    },
+    {
+      "titleId": "PPSA18054",
+      "title": "Star Wars Zero Company",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/QN9mEqy9wm6d/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/N2p3DPynk3Ma/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/0rpmvp9W7zRg/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1io4vI"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1emE3k"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/S5zIO"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2110/422562f57b88bf0efe97eb9dde23aef5ac80fc4a82d4398d.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/star-wars-zero-company-ps5/"
+    },
+    {
+      "titleId": "PPSA24003",
+      "title": "Dying Light The Beast",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/gXeGOAy6d3Aa/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0rpmvp9eBzRg/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/N2p3DPyr93Ma/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2F2thQ"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/16OVrk"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1lypU"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/5e2a5dac13684c40c91545ab3a6fee50711e4e9eab9ed39e.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/dying-light-the-beast-ps5/"
+    },
+    {
+      "titleId": "PPSA15595",
+      "title": "MARVEL Tokon Fighting Souls",
+      "downloadLinks": [
+        {
+          "name": "JPN 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/wgWGq7ADd34o/file"
+        },
+        {
+          "name": "JPN 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/LJlGn7MKRm15/file"
+        },
+        {
+          "name": "JPN 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/ey2YS"
+        },
+        {
+          "name": "JPN 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1reHJo"
+        },
+        {
+          "name": "JPN 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/tbrkypk7i5"
+        },
+        {
+          "name": "JPN 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/Xdikinl60g"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0407/ace9ff730b9916b1c491de681758cdbbdcdce172e0f36147.png?w=260",
+      "description": "Region: JPN\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/marvel-tokon-fighting-souls-ps5/"
+    },
+    {
+      "titleId": "PPSA19577",
+      "title": "Kunitsu Gami Path of The Goddess",
+      "downloadLinks": [
+        {
+          "name": "EUR 8.xx Base - Transit",
+          "url": "https://transfer.it/t/TeTs2CoHgRgY"
+        },
+        {
+          "name": "EUR 8.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/hWwHVKubmH"
+        },
+        {
+          "name": "EUR 8.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/dDM8QKJqtD"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0301/0c99d3ada38035978841fba687ad6a49e9a50b89106a141e.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 8.xx and higher\nContributor: @VanBuuren for Upload\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/kunitsu-gami-path-of-the-goddess-ps5/"
+    },
+    {
+      "titleId": "PPSA28183",
+      "title": "Assassins Creed Black Flag Resynced",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Transit",
+          "url": "https://transfer.it/t/2cm0afw1lbzQ"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/hBsSygMqEg"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/MvQOa3j8g9"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/bmflImpnKe"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/jKYCOXsPTf"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/FkJODelSsT"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/k1jahHD3pQ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28183_1c6bfa7627489bbb191b6dc143f1cd58e8a802db1534968519f040b9ab1b256c/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nContributor: @VanBuuren for Upload\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/assassins-creed-black-flag-resynced-ps5/"
+    },
+    {
       "titleId": "PPSA15973",
       "title": "Dynasty Warriors Origins",
       "downloadLinks": [
@@ -162,7 +366,7 @@
         }
       ],
       "category": "game",
-      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/1-vdr.jpg",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0909/e9e042d7543a5dcf46600705f62fe4fadbcaf631db098448.png?w=260",
       "description": "Region: JPN\nRelease note: Dumped by 月凌风 & 来栖晓 & Backport by Deckerr97",
       "downloadSource": "https://dlpsgame.com/no-sleep-for-kaname-date-from-ai-the-somnium-files-ps5/"
     },
@@ -1379,7 +1583,7 @@
         }
       ],
       "category": "game",
-      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/6-wed.jpg",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/3102/8ff786c1eabe992daa21976e07b7dd94d77f6a0a18fc3e1e.png?w=260",
       "description": "Region: HK\nRelease note: Works on 10.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/atelier-ryza-2-lost-legends-and-the-secret-fairy-dx-ps5/"
     },
@@ -7366,7 +7570,7 @@
         }
       ],
       "category": "game",
-      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/07/5-vff.jpg",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2009/bbd6d0062ee2a3aae28cd2e477a076fb8c525e9cb6314cbb.png?w=260",
       "description": "Region: USA\nRelease note: Works on 8.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/hamster-playground-ps5/"
     },

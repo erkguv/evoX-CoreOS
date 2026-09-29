@@ -71,13 +71,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [A53 Ppr Install 1140 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf) | Source-Fixe | `86648c0fda47...` | a53_ppr_install_1140_20.09.elf - support 1.00-11.40 |
-| [A53 Ppr Install 1160 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf) | Source-Fixe | `f6b6c6b88653...` | a53_ppr_install_1160_20.09.elf - 11.60 only |
-| [A53-Kstuff-Shadowmountplus-3In1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `346c6ab50fa6...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [A53-Kstuff-Smp](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `441928ff7ebb...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53 Ppr Install 1140 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf) | Source-Fixe | `5b825174876e...` | a53_ppr_install_1140_20.09.elf - support 1.00-11.40 |
+| [A53 Ppr Install 1160 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf) | Source-Fixe | `7224dcabe9f9...` | a53_ppr_install_1160_20.09.elf - 11.60 only |
+| [A53-Kstuff-Shadowmountplus-3In1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `c74102dfb6b9...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53-Kstuff-Smp](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `26f8c6cf4362...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
 | [Kstuff V1.12-Dr-Test8](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `c5794137788a...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
-| [Kstuff-1.13-Fpkg-Dr-Test3](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf) | Source-Fixe | `1f46e1ad0d99...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
-| [Kstuff-Ng V1.00](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf) | Source-Fixe | `b46514583418...` | Experimental Kstuff NG |
+| [Kstuff-1.13-Fpkg-Dr-Test3](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf) | Source-Fixe | `8fb92f1a13b6...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
+| [Kstuff-Ng V1.00](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf) | Source-Fixe | `4d86443b2c86...` | Experimental Kstuff NG |
 
 ### 📂 PS5 Cheat
 
@@ -197,7 +197,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Common Fps Ps5 V1.2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.0/Common_FPS_PS5_v1.2.0.elf) | v1.2.0 | `6cab6df150bb...` | A lightweight, open-source real-time FPS counter for PlayStation 5. |
+| [Common Fps Ps5 V1.2.1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.1/Common_FPS_PS5_v1.2.1.elf) | v1.2.1 | `6be733b7b3a1...` | A lightweight, open-source real-time FPS counter for PlayStation 5. |
 | [Ps5 Overlay](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf) | v1.0.15 | `5e843b4b20b5...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
 | [Ps5 Overlay Shellui](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf) | v1.0.15 | `54d23675bf44...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
 
@@ -274,7 +274,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Fgg-Playpods V1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf) | 1.0 | `9ee1958ec24e...` | Hear your PlayStation 5 on an ordinary Bluetooth headset. |
 | [Fgg-Unpack V0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf) | v0.1 | `e8c8e57bbda3...` | Extract .zip and .7z archives directly on a jailbroken PlayStation 5. |
 | [Fgg-Xsense V1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | 1.1 | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
-| [Ghost-Toothapi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | Source-Fixe | `ae5d0ed6e06e...` | ghost-toothAPI. |
+| [Ghost-Toothapi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | Source-Fixe | `f554e7e241ad...` | ghost-toothAPI. |
 | [Ghostpad V1.0.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/Ghostpad/v1.0.0/Ghostpad_v1.0.0.elf) | v1.0.0 | `94d43a8db7ec...` | Ghostpad controller input utility. |
 | [Poords4-Status V0.1.0-Rc44](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf) | v0.1.0-rc44 | `9195c5128535...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | [Poords4-Stop V0.1.0-Rc44](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf) | v0.1.0-rc44 | `ffdce4964f0d...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |

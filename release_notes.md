@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.29-2050)
+### 🚀 Synthèse de la mise à jour (v2026.09.29-2150)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -18,7 +18,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 
 * **payloads**
   * `savemnt-offset-dumper_v1.0.0.elf`
-  * `Common_FPS_PS5_v1.2.0.elf`
+  * `Common_FPS_PS5_v1.2.1.elf`
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `BFpilot_v0.4.4.elf`
