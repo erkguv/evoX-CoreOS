@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 29/09/2026 à 20:50
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.5.0` (v0.5.0) - *Nouveau*
+  * `Ps5Upload V5.39.1` (v5.39.1) - *Nouveau*
+  * `Pegasus-Dl V1.10.0` (v1.10.0) - *Nouveau*
+  * `Ps5Library-Agent V0.2.55` (v0.2.55) - *Nouveau*
+  * `Ps5 Unified Autoloader V0.1.5-915A65E` (v0.1.5-915a65e) - *Nouveau*
+  * `Pldmgr V0.5.2` (v0.5.2) - *Nouveau*
+  * `Elf-Launcher` (v1.0.5) - *Nouveau*
+  * `Elf-Launcher-Install` (v1.0.5) - *Nouveau*
+
 ## Build du 29/09/2026 à 04:04
 * **PAYLOADS**
   * `Ps5Upload V5.38.0` (v5.38.0) - *Nouveau*

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.29-0404)
+### 🚀 Synthèse de la mise à jour (v2026.09.29-2050)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -34,7 +34,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test3.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `webkit-autoloader-installer_v0.4.0.elf`
+  * `webkit-autoloader-installer_v0.5.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
@@ -48,7 +48,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v5.38.0.elf`
+  * `ps5upload_v5.39.1.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `Ghostpad_v1.0.0.elf`
@@ -65,23 +65,24 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-Unpack_v0.1.elf`
   * `ghost-toothAPI.elf`
   * `Spectrum-Library_v1.4.7.bin`
-  * `pegasus-dl_v1.9.0.elf`
+  * `pegasus-dl_v1.10.0.elf`
   * `ps5shopappkg-dpi.elf`
-  * `ps5library-agent_v0.2.54.elf`
+  * `ps5library-agent_v0.2.55.elf`
   * `bfplayer-standalone_v0.1.0-alpha.44.elf`
   * `ProsperoPlayer_v1.0.elf`
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
   * `pkg-manager_v1.4.1.elf`
   * `etaHEN_v2.5B.bin`
-  * `PS5_Unified_Autoloader_v0.1.4-955249d.elf`
-  * `pldmgr_v0.5.1.elf`
+  * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
+  * `pldmgr_v0.5.2.elf`
   * `Kura_v1.6.50.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr_v1.1.elf`
-  * `elf-launcher_v1.0.3.elf`
+  * `elf-launcher.elf`
+  * `elf-launcher-install.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`

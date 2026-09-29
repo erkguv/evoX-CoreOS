@@ -107,10 +107,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Webkit-Autoloader-Installer V0.4.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.4.0/webkit-autoloader-installer_v0.4.0.elf</link>
+      <title>[Payloads] Webkit-Autoloader-Installer V0.5.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.0/webkit-autoloader-installer_v0.5.0.elf</link>
       <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.</description>
-      <pubDate>v0.4.0</pubDate>
+      <pubDate>v0.5.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0</title>
@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V5.38.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.38.0/ps5upload_v5.38.0.elf</link>
+      <title>[Payloads] Ps5Upload V5.39.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.39.1/ps5upload_v5.39.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.38.0</pubDate>
+      <pubDate>v5.39.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -293,10 +293,10 @@
       <pubDate>1.4.7</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pegasus-Dl V1.9.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf</link>
+      <title>[Payloads] Pegasus-Dl V1.10.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.0/pegasus-dl_v1.10.0.elf</link>
       <description>free store webadmin http://your-ps5-ip:6970.</description>
-      <pubDate>v1.9.0</pubDate>
+      <pubDate>v1.10.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5Shopappkg-Dpi</title>
@@ -305,10 +305,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Library-Agent V0.2.54</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.54/ps5library-agent_v0.2.54.elf</link>
+      <title>[Payloads] Ps5Library-Agent V0.2.55</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent_v0.2.55.elf</link>
       <description>You need PS5Library.pkg.</description>
-      <pubDate>v0.2.54</pubDate>
+      <pubDate>v0.2.55</pubDate>
     </item>
     <item>
       <title>[Payloads] Bfplayer-Standalone V0.1.0-Alpha.44</title>
@@ -347,16 +347,16 @@
       <pubDate>2.5B</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5 Unified Autoloader V0.1.4-955249D</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf</link>
+      <title>[Payloads] Ps5 Unified Autoloader V0.1.5-915A65E</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf</link>
       <description>Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l</description>
-      <pubDate>v0.1.4-955249d</pubDate>
+      <pubDate>v0.1.5-915a65e</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pldmgr V0.5.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf</link>
+      <title>[Payloads] Pldmgr V0.5.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf</link>
       <description>Interface d</description>
-      <pubDate>v0.5.1</pubDate>
+      <pubDate>v0.5.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Kura V1.6.50</title>
@@ -389,10 +389,16 @@
       <pubDate>v1.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Elf-Launcher V1.0.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf</link>
+      <title>[Payloads] Elf-Launcher</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf</link>
       <description>PS5 launcher for ELF payloads.</description>
-      <pubDate>v1.0.3</pubDate>
+      <pubDate>v1.0.5</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Elf-Launcher-Install</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf</link>
+      <description>PS5 launcher for ELF payloads.</description>
+      <pubDate>v1.0.5</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Linux-Loader V2.5</title>

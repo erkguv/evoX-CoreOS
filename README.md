@@ -62,7 +62,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen-En V1.2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf) | v1.2.0 | `90f1ec197e66...` | Host-PSM pooP2JB. |
 | [Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr V1.2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf) | v1.2.0 | `b81609da1db0...` | Host-PSM pooP2JB. |
 | [Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf) | v1.2.0 | `3ccc45938dcc...` | Host-PSM pooP2JB. |
-| [Webkit-Autoloader-Installer V0.4.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.4.0/webkit-autoloader-installer_v0.4.0.elf) | v0.4.0 | `179d5e52ec3e...` | Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. |
+| [Webkit-Autoloader-Installer V0.5.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.0/webkit-autoloader-installer_v0.5.0.elf) | v0.5.0 | `83c212852026...` | Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. |
 
 ### 📂 PS5 Beta
 
@@ -71,13 +71,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [A53 Ppr Install 1140 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf) | Source-Fixe | `3e984a18effa...` | a53_ppr_install_1140_20.09.elf - support 1.00-11.40 |
-| [A53 Ppr Install 1160 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf) | Source-Fixe | `d850ead97f64...` | a53_ppr_install_1160_20.09.elf - 11.60 only |
-| [A53-Kstuff-Shadowmountplus-3In1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `688a0aae8064...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [A53-Kstuff-Smp](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `0b4dd9da37e4...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53 Ppr Install 1140 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf) | Source-Fixe | `86648c0fda47...` | a53_ppr_install_1140_20.09.elf - support 1.00-11.40 |
+| [A53 Ppr Install 1160 20.09](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf) | Source-Fixe | `f6b6c6b88653...` | a53_ppr_install_1160_20.09.elf - 11.60 only |
+| [A53-Kstuff-Shadowmountplus-3In1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `346c6ab50fa6...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53-Kstuff-Smp](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `441928ff7ebb...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
 | [Kstuff V1.12-Dr-Test8](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `c5794137788a...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
-| [Kstuff-1.13-Fpkg-Dr-Test3](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf) | Source-Fixe | `393c5c49c9eb...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
-| [Kstuff-Ng V1.00](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf) | Source-Fixe | `5f7888b92714...` | Experimental Kstuff NG |
+| [Kstuff-1.13-Fpkg-Dr-Test3](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf) | Source-Fixe | `1f46e1ad0d99...` | Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 |
+| [Kstuff-Ng V1.00](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf) | Source-Fixe | `b46514583418...` | Experimental Kstuff NG |
 
 ### 📂 PS5 Cheat
 
@@ -134,8 +134,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Pegasus-Dl V1.9.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf) | v1.9.0 | `6336c626f0fb...` | free store webadmin http://your-ps5-ip:6970. |
-| [Ps5Library-Agent V0.2.54](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.54/ps5library-agent_v0.2.54.elf) | v0.2.54 | `ddd201c1041e...` | You need PS5Library.pkg. |
+| [Pegasus-Dl V1.10.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.0/pegasus-dl_v1.10.0.elf) | v1.10.0 | `724b245d8de0...` | free store webadmin http://your-ps5-ip:6970. |
+| [Ps5Library-Agent V0.2.55](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent_v0.2.55.elf) | v0.2.55 | `1efb53f018dc...` | You need PS5Library.pkg. |
 | [Ps5Shopappkg-Dpi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf) | Source-Fixe | `c4672cfa9094...` | You need PS5-SHOP-APPKG.pkg DPI port 9040. |
 | [Spectrum-Library V1.4.7](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin) | 1.4.7 | `9c7b60380153...` | free store webadmin http://your-ps5-ip:7575. |
 
@@ -159,15 +159,16 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Elf-Launcher V1.0.3](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf) | v1.0.3 | `0b18a6c974b1...` | PS5 launcher for ELF payloads. |
+| [Elf-Launcher](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf) | v1.0.5 | `ffaba582a767...` | PS5 launcher for ELF payloads. |
+| [Elf-Launcher-Install](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf) | v1.0.5 | `ffaba582a767...` | PS5 launcher for ELF payloads. |
 | [Etahen V2.5B](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin) | 2.5B | `4845cac45095...` | Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés. |
 | [Etahen-2.6B](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin) | Source-Fixe | `512c74a9d6f5...` | etahen beta version experimental. |
 | [Kura V1.6.50](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf) | v1.6.50 | `8bac520b2b99...` | Un loader de payloads moderne et épuré conçu pour optimiser l |
 | [Onionhen V0.0.13](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf) | v0.0.13 | `aa3f98847948...` | An all-in-one HEN and Toolbox for PlayStation 5. |
 | [Pizza-Hen V2.00](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf) | v2.00 | `8535d399612d...` | PIZZA HEN is an experimental all-in-one PS5 homebrew environment. |
-| [Pldmgr V0.5.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf) | v0.5.1 | `05617c69ea14...` | Interface d |
+| [Pldmgr V0.5.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf) | v0.5.2 | `62b3ba2a4937...` | Interface d |
 | [Prosperomgr V1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf) | v1.1 | `e7a6bb544adb...` | A Web-Based All-In-One homebrew manager for your PlayStation 5 |
-| [Ps5 Unified Autoloader V0.1.4-955249D](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf) | v0.1.4-955249d | `31d12ba2b0b1...` | Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l |
+| [Ps5 Unified Autoloader V0.1.5-915A65E](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf) | v0.1.5-915a65e | `c8e36ea06cfd...` | Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l |
 
 ### 📂 PS5 Kstuff
 
@@ -247,7 +248,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Gdbsrv V0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | v0.9 | `80952d75f423...` | GDB Debugger server payload. Port: 1234 |
 | [Klogsrv V0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | v0.9 | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | [Ps5-Ezremote-Server V1.11](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf) | 1.11 | `0f36b7ea3c33...` | Easy remote server component. Port: 8080 |
-| [Ps5Upload V5.38.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.38.0/ps5upload_v5.38.0.elf) | v5.38.0 | `a57d86cb3b1d...` | PS5 Upload server / tool. Port: 9025 |
+| [Ps5Upload V5.39.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.39.1/ps5upload_v5.39.1.elf) | v5.39.1 | `a50d66033f66...` | PS5 Upload server / tool. Port: 9025 |
 | [Websrv V0.34](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | v0.34 | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | [Zftpd V1.5.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf) | v1.5.0 | `68a80e1cb455...` | FTP server payload for PS5. Port: 21 |
 | [Zhttp V1.5.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zhttp_v1.5.0.elf) | v1.5.0 | `6cf6a738112f...` | FTP server payload for PS5. Port: 21 |
@@ -273,7 +274,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Fgg-Playpods V1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf) | 1.0 | `9ee1958ec24e...` | Hear your PlayStation 5 on an ordinary Bluetooth headset. |
 | [Fgg-Unpack V0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf) | v0.1 | `e8c8e57bbda3...` | Extract .zip and .7z archives directly on a jailbroken PlayStation 5. |
 | [Fgg-Xsense V1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | 1.1 | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
-| [Ghost-Toothapi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | Source-Fixe | `8a39010c592c...` | ghost-toothAPI. |
+| [Ghost-Toothapi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | Source-Fixe | `ae5d0ed6e06e...` | ghost-toothAPI. |
 | [Ghostpad V1.0.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/Ghostpad/v1.0.0/Ghostpad_v1.0.0.elf) | v1.0.0 | `94d43a8db7ec...` | Ghostpad controller input utility. |
 | [Poords4-Status V0.1.0-Rc44](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf) | v0.1.0-rc44 | `9195c5128535...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | [Poords4-Stop V0.1.0-Rc44](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf) | v0.1.0-rc44 | `ffdce4964f0d...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |

@@ -109,7 +109,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "688a0aae806431de79b0acdefd8ed1f96e661d4f10db8db47e707ef89f99925b"
+      "checksum": "346c6ab50fa680348197a990b3252968ec6ad765fcf12b89f42b04259721b9b7"
     },
     {
       "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "0b4dd9da37e4fb88d81aa27e030ffeab64a9ceb9f25dffa48295451d21d72798"
+      "checksum": "441928ff7ebb977fcafdcc6581ceb86bcea469a854e9a108ca1b9450585c9008"
     },
     {
       "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "5f7888b92714e0567b197c5e8be8735c75e56be1bf7056c647d6b8e701dce250"
+      "checksum": "b46514583418a4a48b9920e5b2d8f4f1b77171d5731978ca9ad07bb4ba65f244"
     },
     {
       "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "393c5c49c9eb9ea4ea883d3a068ebb4cf6657fc1e934625f525919beb7a07907"
+      "checksum": "1f46e1ad0d99e1493eb4f9b3651e9153460b15fc6d186a17ce954c6a413d2887"
     },
     {
       "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "3e984a18effae321dcbfb518a3286c46ed58e293fa60b5677643ad07a8189209"
+      "checksum": "86648c0fda4777c6a08260e4542d97a3a639a0f9b365efa76dab026491959b0c"
     },
     {
       "name": "A53 Ppr Install 1160 20.09",
@@ -169,17 +169,17 @@
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "d850ead97f64bed897aec5c73c7c1474279fc1c76542623431b59a4e9fdaab35"
+      "checksum": "f6b6c6b88653980342bf548e79467406e28ff8bbe57694c4edad8f73995141a6"
     },
     {
-      "name": "Webkit-Autoloader-Installer V0.4.0",
-      "filename": "webkit-autoloader-installer_v0.4.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.4.0/webkit-autoloader-installer_v0.4.0.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.4.0/webkit-autoloader-installer_v0.4.0.elf",
+      "name": "Webkit-Autoloader-Installer V0.5.0",
+      "filename": "webkit-autoloader-installer_v0.5.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.0/webkit-autoloader-installer_v0.5.0.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.0/webkit-autoloader-installer_v0.5.0.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.4.0",
+      "version": "v0.5.0",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "179d5e52ec3e0f595900b40883c0e10cc1fba1efc275a547f47e828d45d05915"
+      "checksum": "83c2128520267515fe2f197db35427bb95b7273934e52ad3c6bf668a4ef27b7f"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
@@ -312,14 +312,14 @@
       "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
     },
     {
-      "name": "Ps5Upload V5.38.0",
-      "filename": "ps5upload_v5.38.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.38.0/ps5upload_v5.38.0.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v5.38.0/ps5upload_v5.38.0.elf",
+      "name": "Ps5Upload V5.39.1",
+      "filename": "ps5upload_v5.39.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.39.1/ps5upload_v5.39.1.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v5.39.1/ps5upload_v5.39.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v5.38.0",
+      "version": "v5.39.1",
       "category": "PS5 Server",
-      "checksum": "a57d86cb3b1ddab89f4317f021da4b4e0ef8180a5a88d50a0fb17a1c1ba8fd28"
+      "checksum": "a50d66033f66cb9d6600c810066b699e59b1a0cc3d7e98bffd5a0b6eb9ebd1a3"
     },
     {
       "name": "Airpsx V0.19",
@@ -469,7 +469,7 @@
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "8a39010c592cf6d2d075eed7bd92c6cc8b2727f62131c0e7ae23af85b36e3717"
+      "checksum": "ae5d0ed6e06ebdcb17587c85cd65bb24fbadbe47babaf40294ca2b8901aad97e"
     },
     {
       "name": "Spectrum-Library V1.4.7",
@@ -482,14 +482,14 @@
       "checksum": "9c7b60380153cda2eb4a6f20ddc46774a621706388714d0fd97b492a6152f751"
     },
     {
-      "name": "Pegasus-Dl V1.9.0",
-      "filename": "pegasus-dl_v1.9.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf",
-      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf",
+      "name": "Pegasus-Dl V1.10.0",
+      "filename": "pegasus-dl_v1.10.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.0/pegasus-dl_v1.10.0.elf",
+      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.10.0/pegasus-dl_v1.10.0.elf",
       "description": "free store webadmin http://your-ps5-ip:6970.",
-      "version": "v1.9.0",
+      "version": "v1.10.0",
       "category": "PS5 Freeshop",
-      "checksum": "6336c626f0fbdef1272cc5d4e0239d7b44bf40f8106679083cf50d4c8e02389b"
+      "checksum": "724b245d8de08e5a16865180fac7f30eda72b94d45c9cc73686d9b2defc33f66"
     },
     {
       "name": "Ps5Shopappkg-Dpi",
@@ -502,14 +502,14 @@
       "checksum": "c4672cfa909463843c537f67d5f2df9eb3456d4036d26a4fb81fc34d7853170b"
     },
     {
-      "name": "Ps5Library-Agent V0.2.54",
-      "filename": "ps5library-agent_v0.2.54.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.54/ps5library-agent_v0.2.54.elf",
-      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.54/ps5library-agent_v0.2.54.elf",
+      "name": "Ps5Library-Agent V0.2.55",
+      "filename": "ps5library-agent_v0.2.55.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent_v0.2.55.elf",
+      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent_v0.2.55.elf",
       "description": "You need PS5Library.pkg.",
-      "version": "v0.2.54",
+      "version": "v0.2.55",
       "category": "PS5 Freeshop",
-      "checksum": "ddd201c1041e90d736231f9dc18ae54d3b64c2500985573e9585c17dcb3cc55f"
+      "checksum": "1efb53f018dc79803da3041c24bac6cc5dec31617fbd0eb09f5c53cfee27625d"
     },
     {
       "name": "Bfplayer-Standalone V0.1.0-Alpha.44",
@@ -572,24 +572,24 @@
       "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
     },
     {
-      "name": "Ps5 Unified Autoloader V0.1.4-955249D",
-      "filename": "PS5_Unified_Autoloader_v0.1.4-955249d.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
-      "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
+      "name": "Ps5 Unified Autoloader V0.1.5-915A65E",
+      "filename": "PS5_Unified_Autoloader_v0.1.5-915a65e.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf",
+      "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf",
       "description": "Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l",
-      "version": "v0.1.4-955249d",
+      "version": "v0.1.5-915a65e",
       "category": "PS5 HEN Loader",
-      "checksum": "31d12ba2b0b11462a91756f4b8c7857e90674fc8df02fe74155c7c2a8f27a4fd"
+      "checksum": "c8e36ea06cfd37c5fad356ff9fcd09d3e62065d88170b5119ce8f1eeb3efacac"
     },
     {
-      "name": "Pldmgr V0.5.1",
-      "filename": "pldmgr_v0.5.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
-      "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
+      "name": "Pldmgr V0.5.2",
+      "filename": "pldmgr_v0.5.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf",
+      "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf",
       "description": "Interface d",
-      "version": "v0.5.1",
+      "version": "v0.5.2",
       "category": "PS5 HEN Loader",
-      "checksum": "05617c69ea145d1c11b8f7a6b7d3bd9e6df3831afd25d71a4ac85d63fb8e28aa"
+      "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
     },
     {
       "name": "Kura V1.6.50",
@@ -642,14 +642,24 @@
       "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
     },
     {
-      "name": "Elf-Launcher V1.0.3",
-      "filename": "elf-launcher_v1.0.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf",
-      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf",
+      "name": "Elf-Launcher",
+      "filename": "elf-launcher.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf",
+      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf",
       "description": "PS5 launcher for ELF payloads.",
-      "version": "v1.0.3",
+      "version": "v1.0.5",
       "category": "PS5 HEN Loader",
-      "checksum": "0b18a6c974b11709268315af9d61c501545fce1cfb884815c9a21b1f62d4fa47"
+      "checksum": "ffaba582a76748f2a239d5ec3ebe6d38645c88771b8b4f29d722c8203bb8bfdc"
+    },
+    {
+      "name": "Elf-Launcher-Install",
+      "filename": "elf-launcher-install.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf",
+      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf",
+      "description": "PS5 launcher for ELF payloads.",
+      "version": "v1.0.5",
+      "category": "PS5 HEN Loader",
+      "checksum": "ffaba582a76748f2a239d5ec3ebe6d38645c88771b8b4f29d722c8203bb8bfdc"
     },
     {
       "name": "Ps5-Linux-Loader V2.5",

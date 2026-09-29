@@ -12,24 +12,24 @@
       "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
     },
     {
-      "name": "Ps5 Unified Autoloader V0.1.4-955249D",
-      "filename": "PS5_Unified_Autoloader_v0.1.4-955249d.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
-      "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf",
+      "name": "Ps5 Unified Autoloader V0.1.5-915A65E",
+      "filename": "PS5_Unified_Autoloader_v0.1.5-915a65e.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf",
+      "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf",
       "description": "Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l",
-      "version": "v0.1.4-955249d",
+      "version": "v0.1.5-915a65e",
       "category": "PS5 HEN Loader",
-      "checksum": "31d12ba2b0b11462a91756f4b8c7857e90674fc8df02fe74155c7c2a8f27a4fd"
+      "checksum": "c8e36ea06cfd37c5fad356ff9fcd09d3e62065d88170b5119ce8f1eeb3efacac"
     },
     {
-      "name": "Pldmgr V0.5.1",
-      "filename": "pldmgr_v0.5.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
-      "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf",
+      "name": "Pldmgr V0.5.2",
+      "filename": "pldmgr_v0.5.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf",
+      "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf",
       "description": "Interface d",
-      "version": "v0.5.1",
+      "version": "v0.5.2",
       "category": "PS5 HEN Loader",
-      "checksum": "05617c69ea145d1c11b8f7a6b7d3bd9e6df3831afd25d71a4ac85d63fb8e28aa"
+      "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
     },
     {
       "name": "Kura V1.6.50",
@@ -82,14 +82,24 @@
       "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
     },
     {
-      "name": "Elf-Launcher V1.0.3",
-      "filename": "elf-launcher_v1.0.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf",
-      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.3/elf-launcher_v1.0.3.elf",
+      "name": "Elf-Launcher",
+      "filename": "elf-launcher.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf",
+      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf",
       "description": "PS5 launcher for ELF payloads.",
-      "version": "v1.0.3",
+      "version": "v1.0.5",
       "category": "PS5 HEN Loader",
-      "checksum": "0b18a6c974b11709268315af9d61c501545fce1cfb884815c9a21b1f62d4fa47"
+      "checksum": "ffaba582a76748f2a239d5ec3ebe6d38645c88771b8b4f29d722c8203bb8bfdc"
+    },
+    {
+      "name": "Elf-Launcher-Install",
+      "filename": "elf-launcher-install.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf",
+      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf",
+      "description": "PS5 launcher for ELF payloads.",
+      "version": "v1.0.5",
+      "category": "PS5 HEN Loader",
+      "checksum": "ffaba582a76748f2a239d5ec3ebe6d38645c88771b8b4f29d722c8203bb8bfdc"
     }
   ]
 }
