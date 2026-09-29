@@ -28,7 +28,7 @@ PATHS = {
 REPO_RULES = {
     "custom_payload_rules": {
         
-        # --- 1. Dépôts avec conservation du nom d'origine (anciennement keep_original_filename_repos) ---
+        # --- 1. Dépôts avec conservation du nom d'origine ---
         "smoxa/ps5-new-overlay": {
             "keep_original": True,
             "strict_clean": True,
@@ -56,7 +56,7 @@ REPO_RULES = {
             "release_channel": "stable"
         },
 
-        # --- 2. Dépôts avec extraction de ZIP (anciennement extract_zip_repos) ---
+        # --- 2. Dépôts avec extraction de ZIP ---
         "shadowmountplus": {
             "extract_zip": True,
             "release_channel": "stable"
@@ -73,7 +73,7 @@ REPO_RULES = {
             "allowed_extensions": [".zip", ".elf"]
         },
 
-        # --- 3. Dépôts avec nettoyage strict (anciennement strict_clean_repos) ---
+        # --- 3. Dépôts avec nettoyage strict ---
         "ps5-payload-dev/websrv": {
             "strict_clean": True,
             "release_channel": "stable"
@@ -167,6 +167,13 @@ REPO_RULES = {
                 "wfm-7zip-helper.elf": "wfm-7zip-helper.elf"
             },
             "targets": []
+        },
+        "x-f1reball-x/elf-launcher": {
+            "release_channel": "stable",
+            "allowed_extensions": [".elf"],
+            "exclude_extensions": [".zip"],
+            "keep_original": True,
+            "strict_clean": True
         }
     }
 }
