@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 29/09/2026 à 04:04
+* **PAYLOADS**
+  * `Ps5Upload V5.38.0` (v5.38.0) - *Nouveau*
+
 ## Build du 28/09/2026 à 22:56
 * **PAYLOADS**
   * `Common Fps Ps5 V1.2.0` (v1.2.0) - *Nouveau*
