@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 30/09/2026 à 21:53
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.5.2` (v0.5.2) - *Nouveau*
+
 ## Build du 30/09/2026 à 17:35
 * **PAYLOADS**
   * `Cheatrunner V0.17.1` (v0.17.1) - *Nouveau*

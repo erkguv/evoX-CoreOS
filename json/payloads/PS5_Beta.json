@@ -9,7 +9,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "177ca668f2d60b337dc4f29b03b209856e5f74d7f64e605a712514d051418fe3"
+      "checksum": "6897ec4e56b362b66796ed7684ea9ce76b4b2ae1a6aff3e25af87fd57ae61e32"
     },
     {
       "name": "A53-Kstuff-Smp",
@@ -19,7 +19,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "027592b9b8d27b7a2079facda4bd9047b0f70ea9a5f22e6acfaf79baa828235d"
+      "checksum": "60a09369d05efbd32776e10032130e867a16205ca945308f052499b8b543b483"
     },
     {
       "name": "Kstuff-Ng V1.00",
@@ -29,7 +29,7 @@
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "d64919d9540c4c1dca1344560c021173be5a4a15cfc3ab699793285bafdc0df3"
+      "checksum": "214c97eb4d191336f5ea38801ab3d723a40f083a2a9a40d006e121629cb0f0dd"
     },
     {
       "name": "Kstuff V1.12-Dr-Test8",
@@ -49,7 +49,7 @@
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "9832b341e58ddc16b05de79f807c7bd92c50af59c2790d2c55ea599e63991c5f"
+      "checksum": "b1c9c3f424bd24bd79a0aa301a8588d511a4214800a55a52816ac9c11e09472d"
     },
     {
       "name": "A53 Ppr Install 1140 20.09",
@@ -59,7 +59,7 @@
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "58c973b1efd848c8681d9168a58cae5836976142b38c04a2902bf4327439cd78"
+      "checksum": "611517ecacdcb37f83959b27efca1ae1145c1c7710a2f9ef8caacf17912c7b49"
     },
     {
       "name": "A53 Ppr Install 1160 20.09",
@@ -69,7 +69,7 @@
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "38c5b3b0f6c3d23098844c1840ad087e2f2b939a257380c7f3ca12ebbcf9331f"
+      "checksum": "488b302f577b52bc33a8160d343c93aa6f228e87650429723c60637e1145e831"
     }
   ]
 }

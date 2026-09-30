@@ -109,7 +109,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "177ca668f2d60b337dc4f29b03b209856e5f74d7f64e605a712514d051418fe3"
+      "checksum": "6897ec4e56b362b66796ed7684ea9ce76b4b2ae1a6aff3e25af87fd57ae61e32"
     },
     {
       "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "027592b9b8d27b7a2079facda4bd9047b0f70ea9a5f22e6acfaf79baa828235d"
+      "checksum": "60a09369d05efbd32776e10032130e867a16205ca945308f052499b8b543b483"
     },
     {
       "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "d64919d9540c4c1dca1344560c021173be5a4a15cfc3ab699793285bafdc0df3"
+      "checksum": "214c97eb4d191336f5ea38801ab3d723a40f083a2a9a40d006e121629cb0f0dd"
     },
     {
       "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "9832b341e58ddc16b05de79f807c7bd92c50af59c2790d2c55ea599e63991c5f"
+      "checksum": "b1c9c3f424bd24bd79a0aa301a8588d511a4214800a55a52816ac9c11e09472d"
     },
     {
       "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "58c973b1efd848c8681d9168a58cae5836976142b38c04a2902bf4327439cd78"
+      "checksum": "611517ecacdcb37f83959b27efca1ae1145c1c7710a2f9ef8caacf17912c7b49"
     },
     {
       "name": "A53 Ppr Install 1160 20.09",
@@ -169,17 +169,17 @@
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "38c5b3b0f6c3d23098844c1840ad087e2f2b939a257380c7f3ca12ebbcf9331f"
+      "checksum": "488b302f577b52bc33a8160d343c93aa6f228e87650429723c60637e1145e831"
     },
     {
-      "name": "Webkit-Autoloader-Installer V0.5.1",
-      "filename": "webkit-autoloader-installer_v0.5.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.1/webkit-autoloader-installer_v0.5.1.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.1/webkit-autoloader-installer_v0.5.1.elf",
+      "name": "Webkit-Autoloader-Installer V0.5.2",
+      "filename": "webkit-autoloader-installer_v0.5.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.5.1",
+      "version": "v0.5.2",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "80083f76383944e1f87c2d4126e4e067cd70bd8013feb538575bc2cb08258a78"
+      "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
@@ -220,26 +220,6 @@
       "version": "v1.2.0",
       "category": "Ps5-Webkit-Autoloader",
       "checksum": "90f1ec197e66bbf4fa1a3bce040d6a5d04d571c4f8290f608401e8f7c2e9e0a4"
-    },
-    {
-      "name": "Zftpd V1.5.0",
-      "filename": "zftpd_v1.5.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf",
-      "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.5.0",
-      "category": "PS5 Server",
-      "checksum": "68a80e1cb45544c15b1581a49154ad14aa8e29483e5fec786f2a95e0e28ea6cb"
-    },
-    {
-      "name": "Zhttp V1.5.0",
-      "filename": "zhttp_v1.5.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zhttp_v1.5.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.5.0/zhttp_v1.5.0.elf",
-      "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.5.0",
-      "category": "PS5 Server",
-      "checksum": "6cf6a738112fc339619ebe772690fa611f60ecdb20164a0e3f49e137277bc42b"
     },
     {
       "name": "Elfldr V0.26",
@@ -469,7 +449,7 @@
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "af1f960ca5ae5860a1c6616575f1986b5438e4ac1eb4c73fdabdeb449c166ac0"
+      "checksum": "34e0ff184a07151d62e539e83d90d8730315b4279687af9eb4ae3054596c07e4"
     },
     {
       "name": "Spectrum-Library V1.4.7",
@@ -809,7 +789,7 @@
       "description": "CheatRunner.",
       "version": "v0.17.1",
       "category": "PS5 Cheat",
-      "checksum": "bc77de3a4ec9caf1bb6c86d9f251d8690afe405c188e6ae3b6b4ac363fd952dc"
+      "checksum": "6863f06cb6ff41f846d84a0542c21469b52cacf55c9e6a0e2c74c114b3a55212"
     },
     {
       "name": "Kylin-Core-Community-Lite-V131-Global-Release",

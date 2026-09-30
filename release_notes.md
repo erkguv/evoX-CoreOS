@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.30-1735)
+### 🚀 Synthèse de la mise à jour (v2026.09.30-2153)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -34,13 +34,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test3.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `webkit-autoloader-installer_v0.5.1.elf`
+  * `webkit-autoloader-installer_v0.5.2.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
-  * `zftpd_v1.5.0.elf`
-  * `zhttp_v1.5.0.elf`
   * `elfldr_v0.26.elf`
   * `ftpsrv_ps5-payload_v0.21.1.elf`
   * `websrv_v0.34.elf`

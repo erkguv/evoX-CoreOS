@@ -107,10 +107,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Webkit-Autoloader-Installer V0.5.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.1/webkit-autoloader-installer_v0.5.1.elf</link>
+      <title>[Payloads] Webkit-Autoloader-Installer V0.5.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf</link>
       <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.</description>
-      <pubDate>v0.5.1</pubDate>
+      <pubDate>v0.5.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0</title>
@@ -135,18 +135,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf</link>
       <description>Host-PSM pooP2JB.</description>
       <pubDate>v1.2.0</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Zftpd V1.5.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.5.0</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Zhttp V1.5.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zhttp_v1.5.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.5.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Elfldr V0.26</title>
