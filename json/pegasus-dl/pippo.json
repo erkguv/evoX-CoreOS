@@ -3,6 +3,50 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28183",
+      "title": "Assassins Creed Black Flag Resynced Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dnnh431y0iy7"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/tdpllwpymz2k"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/rkmns8tjuc4h"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0PdzyXK5d3eA/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/CDhIcZQV44"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/vflgkjmasb6k"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/fr1t7qz9uq34"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha24/dbbdaa37c6d04847c65d/PPSA28183-Compressed.7z"
+        }
+      ],
+      "version": "v01.006.038",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28183_1c6bfa7627489bbb191b6dc143f1cd58e8a802db1534968519f040b9ab1b256c/icon0.webp",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA28183, v01.006.038, EUR, 4.xx BackPort\nSize: 122GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 130996502528
+    },
+    {
       "titleId": "PPSA28997",
       "title": "God of War Sons of Sparta",
       "downloadLinks": [
@@ -78,7 +122,7 @@
       "version": "v01.001.008",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18605_5bb41b247f6d0c974095594fb97f1574e24dcd4ceefeb090171579d835561906/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, 4.xx BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, 4.xx BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 77309411328
     },
@@ -122,7 +166,7 @@
       "version": "v01.018",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png?w=260",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 86973087744
     },
@@ -9471,7 +9515,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4554951,
+      "id": 4568638,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -13037,7 +13081,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4555054,
+      "id": 4568741,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

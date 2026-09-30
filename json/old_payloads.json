@@ -109,7 +109,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "3754ee2969a24af2777d1ec1278a47d1ce0d7ff279cdaa3c8daaf25bab8b0972"
+            "checksum": "177ca668f2d60b337dc4f29b03b209856e5f74d7f64e605a712514d051418fe3"
         },
         {
             "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "7fcd6de7bdd44d1500a1c651e3ddd85ff449bcc7a8edb2ad7536037227982c61"
+            "checksum": "027592b9b8d27b7a2079facda4bd9047b0f70ea9a5f22e6acfaf79baa828235d"
         },
         {
             "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
             "description": "Experimental Kstuff NG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "155c17abb872b6e60c690411a570c47d5a706e175e226923b6792e924531d8fd"
+            "checksum": "d64919d9540c4c1dca1344560c021173be5a4a15cfc3ab699793285bafdc0df3"
         },
         {
             "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
             "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "8d979a3d81d07bd8744f76f65f2479ef9c3f9a7838a3ab6bb44052aebfeea6d5"
+            "checksum": "9832b341e58ddc16b05de79f807c7bd92c50af59c2790d2c55ea599e63991c5f"
         },
         {
             "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
             "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "71d078221a3bc4f9e2df8b1c9711a4c8e471efd12a6bb5f2440ef960ab1a1639"
+            "checksum": "58c973b1efd848c8681d9168a58cae5836976142b38c04a2902bf4327439cd78"
         },
         {
             "name": "A53 Ppr Install 1160 20.09",
@@ -169,7 +169,7 @@
             "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "68e9e4cdbd58c21a358598fd8256846047ed8889b9390c46892c967a412dc8a7"
+            "checksum": "38c5b3b0f6c3d23098844c1840ad087e2f2b939a257380c7f3ca12ebbcf9331f"
         },
         {
             "name": "Webkit-Autoloader-Installer V0.5.1",
@@ -469,7 +469,7 @@
             "description": "ghost-toothAPI.",
             "version": "Source-Fixe",
             "category": "PS5 Utility",
-            "checksum": "2ef7052bb5bc14c1d74e1260d74eb002a145e4ba208083bbccf3282b3f284bad"
+            "checksum": "af1f960ca5ae5860a1c6616575f1986b5438e4ac1eb4c73fdabdeb449c166ac0"
         },
         {
             "name": "Spectrum-Library V1.4.7",
@@ -642,26 +642,6 @@
             "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
         },
         {
-            "name": "Elf-Launcher",
-            "filename": "elf-launcher.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf",
-            "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf",
-            "description": "PS5 launcher for ELF payloads.",
-            "version": "v1.0.5",
-            "category": "PS5 HEN Loader",
-            "checksum": "ffaba582a76748f2a239d5ec3ebe6d38645c88771b8b4f29d722c8203bb8bfdc"
-        },
-        {
-            "name": "Elf-Launcher-Install",
-            "filename": "elf-launcher-install.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf",
-            "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf",
-            "description": "PS5 launcher for ELF payloads.",
-            "version": "v1.0.5",
-            "category": "PS5 HEN Loader",
-            "checksum": "ffaba582a76748f2a239d5ec3ebe6d38645c88771b8b4f29d722c8203bb8bfdc"
-        },
-        {
             "name": "Ps5-Linux-Loader V2.5",
             "filename": "ps5-linux-loader_v2.5.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf",
@@ -822,14 +802,14 @@
             "checksum": "4514bdbc0c556df1a66544615942d5087d1cbee5c2026b3b66e688ba01e5a5b0"
         },
         {
-            "name": "Cheatrunner V0.17",
-            "filename": "CheatRunner_v0.17.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",
-            "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",
+            "name": "Cheatrunner V0.17.1",
+            "filename": "CheatRunner_v0.17.1.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.1/CheatRunner_v0.17.1.elf",
+            "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17.1/CheatRunner_v0.17.1.elf",
             "description": "CheatRunner.",
-            "version": "v0.17",
+            "version": "v0.17.1",
             "category": "PS5 Cheat",
-            "checksum": "2f296d3f1e69b65439bb5dc362f0f6504f6dc9f245fa16a3683e9d7ec9533773"
+            "checksum": "bc77de3a4ec9caf1bb6c86d9f251d8690afe405c188e6ae3b6b4ac363fd952dc"
         },
         {
             "name": "Kylin-Core-Community-Lite-V131-Global-Release",

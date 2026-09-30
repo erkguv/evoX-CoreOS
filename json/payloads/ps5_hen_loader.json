@@ -80,26 +80,6 @@
       "version": "v1.1",
       "category": "PS5 HEN Loader",
       "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
-    },
-    {
-      "name": "Elf-Launcher",
-      "filename": "elf-launcher.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf",
-      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf",
-      "description": "PS5 launcher for ELF payloads.",
-      "version": "v1.0.5",
-      "category": "PS5 HEN Loader",
-      "checksum": "ffaba582a76748f2a239d5ec3ebe6d38645c88771b8b4f29d722c8203bb8bfdc"
-    },
-    {
-      "name": "Elf-Launcher-Install",
-      "filename": "elf-launcher-install.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf",
-      "local_path": "payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf",
-      "description": "PS5 launcher for ELF payloads.",
-      "version": "v1.0.5",
-      "category": "PS5 HEN Loader",
-      "checksum": "ffaba582a76748f2a239d5ec3ebe6d38645c88771b8b4f29d722c8203bb8bfdc"
     }
   ]
 }

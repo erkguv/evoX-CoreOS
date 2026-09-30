@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA11386",
+      "title": "007 First Light",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/tfJUEJfHl3"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/rrqiClIGNd"
+        }
+      ],
+      "version": "01.018",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png?w=260",
+      "description": "Follow James Bond as a young, resourceful and sometimes reckless recruit in MI6's training program, and discover an origin story of the world’s most famous spy. After a heroic act, young Naval air crewman James Bond is offered to join the newly revived Double 0 program. But when a mission to stop a rogue agent ends in tragedy, he must join forces with his reluctant mentor Greenway to expose a deep conspiracy and stop a looming coup at the heart of the State. BECOME 007 Discover a new standalone, re-imagined James Bond origin story, and the events that lead an audacious young hero to become the best MI6 agent. A THRILLING ESPIONAGE ADVENTURE Embark on missions in breathtaking locations, drive iconic vehicles, and dive into a cinematic adventure in pursuit of a rogue agent who’s always one step ahead. SPYING, YOUR WAY Go silent or go loud. Whether fighting with fists or firepower, using gadgets to infiltrate, or bluffing your way past guards, the approach is entirely up to you. WELCOME TO MI6 Test your skills and replay your favorite missions with additional modifiers, for endless espionage fun! JOIN THE COMMUNITY CHALLENGE & GET REWARDS The mission is simple: rally together and unlock the wishlist milestones for 007 First Light. With every milestone reached, new in-game and community rewards are unlocked, adding style, sophistication, and a secret reward. Sign-up to IOI Account to claim the community unlocks. More wishlists unlocks collective rewards each time you reach a new tier.\nRegion: EUR\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-09-30T15:26:52.476Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 53042846106
+    },
+    {
+      "titleId": "PPSA18605",
+      "title": "READY OR NOT",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/vmpjpJrnBk"
+        }
+      ],
+      "version": "01.001.008",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18605_5bb41b247f6d0c974095594fb97f1574e24dcd4ceefeb090171579d835561906/icon0.webp",
+      "description": "Become an elite SWAT commander and bring order to a city overwhelmed by chaos and corruption. Lead a team of highly-trained SWAT officers through unpredictable high-risk missions against ruthless criminals to prevent the city from spiralling into disorder. Equip real-world weapons and gear to tackle missions inspired by current events against Los Sueňos’ ruthless criminal element. Every decision, from squad selection to tactical breach and engagement is the difference between life and death. Are you ready? FEATURES Take Command Ready or Not delivers an immersive SWAT experience. Equip your team with authentic weapons and gear, deploy into high-stakes, real-world inspired missions to secure locations concealing unknown criminal threats and potential civilians. Every mission demands tactical precision and situational awareness. Bullets from known and concealed threats react realistically with the environment, passing through walls, furniture and bodies. Cover your six, clear your corners, apprehend the threats and rescue the innocent. The Weight of the Badge Shoulder the weight of being a SWAT commander entrusted with confronting Los Sueňos’ criminal corruption and stopping it from overwhelming the city’s citizens. Every tactical decision matters, every outcome is yours to bear. Your choices in the field dictate mission success, the survival of your squad and the safety of hostages. Squadmate and hostage deaths take a profound psychological toll on surviving team members, affecting their performance or ending their careers altogether. True Tactical Gameplay Ready or Not is a true tactical shooter. Every mission is a high-stakes, life-or-death operation. Strategically forge your squad of elite SWAT officers, equip them with the right weapons and gear for the mission, position your team to tactically breach criminal strongholds and quickly identify and neutralize threats in tense, life threatening scenarios. Follow the rules of engagement, communicate with your team, and execute flawlessly - failure is for the unprepared. Your Mission is the Story Ready or Not confronts you with a raw, unflinching mirror of real-world crime, exposing the horrors of human trafficking, drug running, illegal arms dealing, militant extremism and terrorism through interwoven storylines that span multiple missions. Grapple with moral dilemmas as you’re forced to balance your duty to exercise constraint in the face of Los Sueňos' most vile criminals. Cross-Comradery Team up with friends to stem the tide of crime infesting the city. Enhanced with crossplay, Ready or Not supports up to five players in a co-operative tactical experience on all platforms. Communicate effectively to increase your tactical precision, watch your squad’s back and successfully complete your mission.\nUpdated: 2026-09-30T14:23:30.529Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 28862180229
+    },
+    {
       "titleId": "PPSA28997",
       "title": "God of War Sons of Sparta Digital Deluxe Edition",
       "downloadLinks": [

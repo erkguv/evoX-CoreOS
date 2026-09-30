@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.30-1153)
+### 🚀 Synthèse de la mise à jour (v2026.09.30-1735)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -81,8 +81,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr_v1.1.elf`
-  * `elf-launcher.elf`
-  * `elf-launcher-install.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
@@ -99,7 +97,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
   * `MemDBG_vnightly-20260930-g6e493c9.elf`
   * `ps5-hwinfo_v0.1.elf`
-  * `CheatRunner_v0.17.elf`
+  * `CheatRunner_v0.17.1.elf`
   * `kylin-core-community-lite-v131-global-release.elf`
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.11.elf`

@@ -389,18 +389,6 @@
       <pubDate>v1.1</pubDate>
     </item>
     <item>
-      <title>Elf-Launcher</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher.elf</link>
-      <description>PS5 launcher for ELF payloads.</description>
-      <pubDate>v1.0.5</pubDate>
-    </item>
-    <item>
-      <title>Elf-Launcher-Install</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher-install.elf</link>
-      <description>PS5 launcher for ELF payloads.</description>
-      <pubDate>v1.0.5</pubDate>
-    </item>
-    <item>
       <title>Ps5-Linux-Loader V2.5</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf</link>
       <description>Linux loader payload for the PS5.</description>
@@ -497,10 +485,10 @@
       <pubDate>0.1</pubDate>
     </item>
     <item>
-      <title>Cheatrunner V0.17</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf</link>
+      <title>Cheatrunner V0.17.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.1/CheatRunner_v0.17.1.elf</link>
       <description>CheatRunner.</description>
-      <pubDate>v0.17</pubDate>
+      <pubDate>v0.17.1</pubDate>
     </item>
     <item>
       <title>Kylin-Core-Community-Lite-V131-Global-Release</title>

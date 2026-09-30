@@ -3,6 +3,66 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28997",
+      "title": "God of War Sons of Sparta",
+      "downloadLinks": [
+        {
+          "name": "USA Base - Akirabox",
+          "url": "https://akirabox.com/ex5z25bLa3Kq/file"
+        },
+        {
+          "name": "USA Base - Vikingfile",
+          "url": "https://vikingfile.com/f/MbCPHVOQG4"
+        },
+        {
+          "name": "USA Base - Rootz",
+          "url": "https://www.rootz.so/d/1aP0qG"
+        },
+        {
+          "name": "USA exFAT 01.008.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMXUwdzgzMFA3UDFnd3N6THZGNXN6YjEzNDNoMjJETHJrVFphc3Z3aXhKc2JGUURuNUlrclN6Z2ZuYlVtVU4vV1JwTXJGWDZNa1p5cU5VcWpVQ1hxYjNpek9FQTIiLCJpIjoiaW9COUg4dHowUFI3QVFjdSIsIm4iOiJEYXRhIn0="
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0519/7260437aae9056d5bd34225e4fce98ca8bb0ef1cd8e6471f.png?w=260",
+      "description": "Variant: USA\nRegion: USA\nRelease note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.008.001\nRegion: USA\nRelease note: exFAT format — FW 01.008.001 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/god-of-war-sons-of-sparta-ps5/"
+    },
+    {
+      "titleId": "PPSA34861",
+      "title": "Romeo Is A Dead Man",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/l5YzMZBZYGyO/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/l76mZrernman/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/rk9zKWgWZz0l/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1CDtj6"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1GFkae"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/7bMgq"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34861_646a10e58dfec97a262667d918027582ff4f354a52d87b99b80430748ba58640/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/romeo-is-a-dead-man-ps5/"
+    },
+    {
       "titleId": "PPSA03671",
       "title": "Marvels Wolverine",
       "downloadLinks": [
@@ -41,6 +101,78 @@
         {
           "name": "USA 13.xx Base - Rootz part 9",
           "url": "https://www.rootz.so/d/LZsnI"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/b5OzdVL2RmB8/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/N2p3DP6eV3Ma/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/qLQ36qZK1m19/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/QN9mEqOZZm6d/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/0rpmvpRQLzRg/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/E9Qz9XePJ3OL/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 7",
+          "url": "https://akirabox.com/LK0G1bPyNm91/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 8",
+          "url": "https://akirabox.com/2bJG8bA073OB/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 9",
+          "url": "https://akirabox.com/dkD3YwAZAGLQ/file"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/xhxyQVqIkJ"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/VLX5zHPM9d"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/9QFu1K6HYB"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/xz3nANDVju"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/3vhLtkoF0Q"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/hGbK0Vntt5"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/pkWPA1LScE"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/uNbwZXW7pz"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/420J0Iwpcz"
         }
       ],
       "category": "game",
@@ -217,7 +349,7 @@
       "title": "Hellblade Senuas Sacrifice",
       "downloadLinks": [
         {
-          "name": "USA 10.xx Base - Akia",
+          "name": "USA 10.xx Base - Akirabox",
           "url": "https://akirabox.com/XkrzoKZJkzBO/file"
         },
         {
@@ -235,7 +367,7 @@
       "title": "Ready or Not",
       "downloadLinks": [
         {
-          "name": "Viki",
+          "name": "Vikingfile",
           "url": "https://vikingfile.com/f/7E6ZG6YeKB"
         }
       ],
@@ -413,7 +545,7 @@
           "url": "https://www.rootz.so/d/qH6PY"
         },
         {
-          "name": "EUR 12.xx Base - Viki",
+          "name": "EUR 12.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/fXRfgdKLM1"
         }
       ],
@@ -794,6 +926,64 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png?w=260",
       "description": "Region: JPN\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/no-sleep-for-kaname-date-from-ai-the-somnium-files-ps5/"
+    },
+    {
+      "titleId": "PPSA25217",
+      "title": "Super Robot Wars Y",
+      "downloadLinks": [
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/k0embby1JmVb/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Pbe3PaBVJzlX/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1uEeYq"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/laGjA"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/1X8fHvCQSP"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/ozpTj8IBbC"
+        },
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/0Kezk7pJ1zD1/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/Pbe3PalZezlX/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1tXaLI"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/cpUmW"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/qfS0gxf4jG"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/K5zlRMEsAQ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0121/c135c3a9e59194c92eab0932fd3994ccb3c32f9c8122fe82.png?w=260",
+      "description": "Region: ASIA\nRelease note: Works on 9.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/super-robot-wars-y-ps5/"
     },
     {
       "titleId": "PPSA13934",
@@ -1922,64 +2112,6 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/3102/8ff786c1eabe992daa21976e07b7dd94d77f6a0a18fc3e1e.png?w=260",
       "description": "Region: HK\nRelease note: Works on 10.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/atelier-ryza-2-lost-legends-and-the-secret-fairy-dx-ps5/"
-    },
-    {
-      "titleId": "PPSA25217",
-      "title": "Super Robot Wars Y",
-      "downloadLinks": [
-        {
-          "name": "ASIA 9.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/k0embby1JmVb/file"
-        },
-        {
-          "name": "ASIA 9.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/Pbe3PaBVJzlX/file"
-        },
-        {
-          "name": "ASIA 9.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/1uEeYq"
-        },
-        {
-          "name": "ASIA 9.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/laGjA"
-        },
-        {
-          "name": "ASIA 9.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/1X8fHvCQSP"
-        },
-        {
-          "name": "ASIA 9.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/ozpTj8IBbC"
-        },
-        {
-          "name": "ASIA 9.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/0Kezk7pJ1zD1/file"
-        },
-        {
-          "name": "ASIA 9.xx Base - Akirabox part 4",
-          "url": "https://akirabox.com/Pbe3PalZezlX/file"
-        },
-        {
-          "name": "ASIA 9.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/1tXaLI"
-        },
-        {
-          "name": "ASIA 9.xx Base - Rootz part 4",
-          "url": "https://www.rootz.so/d/cpUmW"
-        },
-        {
-          "name": "ASIA 9.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/qfS0gxf4jG"
-        },
-        {
-          "name": "ASIA 9.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/K5zlRMEsAQ"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0121/c135c3a9e59194c92eab0932fd3994ccb3c32f9c8122fe82.png?w=260",
-      "description": "Region: ASIA\nRelease note: Works on 9.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/super-robot-wars-y-ps5/"
     },
     {
       "titleId": "PPSA23732",
@@ -8107,8 +8239,40 @@
       "title": "WWI Isonzo Deluxe Edition",
       "downloadLinks": [
         {
-          "name": "Gofile",
+          "name": "USA 12.xx Base - Gofile",
           "url": "https://gofile.io/d/8zf8S9"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/fnNVQ"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1sTcCe"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/BnkmW4DWa3R0/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0PdzyQ1N4zeA/file"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/MpKI0qesJc"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/DHLnh13Qk8"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?iuhy4o412z5h34un29fe"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?8wq6dvnb37zyvyd07h4n"
         }
       ],
       "category": "game",
@@ -8195,8 +8359,40 @@
       "title": "Redout 2",
       "downloadLinks": [
         {
-          "name": "Gofile",
+          "name": "USA 12.xx Base - Gofile",
           "url": "https://gofile.io/d/THABO2"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2KAiVU"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/13Scsa"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/gXeGOoYWAGAa/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/qLQ36KeDKz19/file"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/I3gPYnTpTI"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/NZZp9fJmZD"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?7tow2ssfwj56dli23bhl"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?br6bs6ljkqh9zmpgtopg"
         }
       ],
       "category": "game",

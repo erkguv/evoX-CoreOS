@@ -2,14 +2,14 @@
   "name": "PS5 Cheat",
   "payloads": [
     {
-      "name": "Cheatrunner V0.17",
-      "filename": "CheatRunner_v0.17.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",
-      "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf",
+      "name": "Cheatrunner V0.17.1",
+      "filename": "CheatRunner_v0.17.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.1/CheatRunner_v0.17.1.elf",
+      "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17.1/CheatRunner_v0.17.1.elf",
       "description": "CheatRunner.",
-      "version": "v0.17",
+      "version": "v0.17.1",
       "category": "PS5 Cheat",
-      "checksum": "2f296d3f1e69b65439bb5dc362f0f6504f6dc9f245fa16a3683e9d7ec9533773"
+      "checksum": "bc77de3a4ec9caf1bb6c86d9f251d8690afe405c188e6ae3b6b4ac363fd952dc"
     },
     {
       "name": "Kylin-Core-Community-Lite-V131-Global-Release",
