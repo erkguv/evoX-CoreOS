@@ -2,14 +2,14 @@
   "name": "Ps5-Webkit-Autoloader",
   "payloads": [
     {
-      "name": "Webkit-Autoloader-Installer V0.5.0",
-      "filename": "webkit-autoloader-installer_v0.5.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.0/webkit-autoloader-installer_v0.5.0.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.0/webkit-autoloader-installer_v0.5.0.elf",
+      "name": "Webkit-Autoloader-Installer V0.5.1",
+      "filename": "webkit-autoloader-installer_v0.5.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.1/webkit-autoloader-installer_v0.5.1.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.1/webkit-autoloader-installer_v0.5.1.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.5.0",
+      "version": "v0.5.1",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "83c2128520267515fe2f197db35427bb95b7273934e52ad3c6bf668a4ef27b7f"
+      "checksum": "80083f76383944e1f87c2d4126e4e067cd70bd8013feb538575bc2cb08258a78"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",

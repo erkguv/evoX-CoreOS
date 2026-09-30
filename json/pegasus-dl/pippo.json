@@ -3,6 +3,94 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA18605",
+      "title": "Ready or Not Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/tmia88x27k44"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/uxcexake4kck"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/on754ovledy0"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/E9Qz9X7R23OL/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/GEUPhkwape"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/5nwjcp28tu5q"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/wkkjmxg9ytc0"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha32/839676943c220e9370c0/PPSA18605-Compressed.7z"
+        }
+      ],
+      "version": "v01.001.008",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18605_5bb41b247f6d0c974095594fb97f1574e24dcd4ceefeb090171579d835561906/icon0.webp",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, 4.xx BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 77309411328
+    },
+    {
+      "titleId": "PPSA11386",
+      "title": "007 First Light Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/69czbsmdqyg7"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/1lmxofuurtsq"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/zsn3hv8snbtb"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/2WVGrdePB3kx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/NSVJ7pp9me"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/dz8sizpspx8d"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/xcsxt3l31iui"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha32/74fdbe90560222fc3953/PPSA11386-Compressed.7z"
+        }
+      ],
+      "version": "v01.018",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png?w=260",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 86973087744
+    },
+    {
       "titleId": "PPSA19534",
       "title": "Battlefield 6",
       "downloadLinks": [
@@ -9347,7 +9435,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4515573,
+      "id": 4533148,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -12913,7 +13001,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4515676,
+      "id": 4533251,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

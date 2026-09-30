@@ -12,14 +12,14 @@
       "checksum": "e55e90aaade13b6e0d4316c1597ef90a21b67a06475c3e25de054224bc1e941b"
     },
     {
-      "name": "Ps5-App-Dumper V1.11",
-      "filename": "ps5-app-dumper_v1.11.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf",
-      "local_path": "payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf",
+      "name": "Ps5-App-Dumper V2.00",
+      "filename": "ps5-app-dumper_v2.00.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.00/ps5-app-dumper_v2.00.elf",
+      "local_path": "payloads/ps5_game_dump/ps5-app-dumper/v2.00/ps5-app-dumper_v2.00.elf",
       "description": "PS5 App Dumper payload.",
-      "version": "v1.11",
+      "version": "v2.00",
       "category": "PS5 Game Dump",
-      "checksum": "18483751ebaea6879b020a9dd87c0a4fb4f1bf09f3708d950362a483f78cc0d0"
+      "checksum": "b6fea71afb8937fcd1a933116c620e989acba25b7049eaeaa00cdc1bd604d686"
     },
     {
       "name": "Shadowmountplus V1.7Beta2",

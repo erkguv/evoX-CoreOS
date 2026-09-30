@@ -109,7 +109,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "c74102dfb6b96b58296336fdee3de3382cd2e0c6458d12e536271374984e00a5"
+      "checksum": "bf655183a80c3e706c044cdafeb4a04fa05e585fc1d03a66f1ea2d4fe59b49e6"
     },
     {
       "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "26f8c6cf4362f752308199cbad151f47ec71f30cfad826b2333ae60033761857"
+      "checksum": "fba3fbd43a8fb24a0a43ae27c7dfe1e132356429b1f8ab158633a377399be111"
     },
     {
       "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "4d86443b2c8629e7cb69a11039715eb1ade3002368091194bbfe71c7d723ba07"
+      "checksum": "f7d722904ed237f8ee05fe7a214366a35a971135df0120e64991e5a1709a44a0"
     },
     {
       "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "8fb92f1a13b6c05d16bcccbcb658c53d2811e6e754976304e0c2ef41cb22dbdc"
+      "checksum": "b92fc747ea5c781fe9a7d1fddef6104cd1071bd829c6cc7a4a35bf44d0e18c8d"
     },
     {
       "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "5b825174876e0e068337a3338fca4ca3a96fb7415a1644a9a9e24b30179aba64"
+      "checksum": "eb992796ed009cdb1aea213a297d3fbcd6fe052a21306a9ea1b35b65be290708"
     },
     {
       "name": "A53 Ppr Install 1160 20.09",
@@ -169,17 +169,17 @@
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "7224dcabe9f9c5167381fa46609838a72839e80f7aa43178367305d1bea6734d"
+      "checksum": "ab88b2e3612aa10cca7fd3910d51d1f2fdf461ef65a92746e82074902a10ba04"
     },
     {
-      "name": "Webkit-Autoloader-Installer V0.5.0",
-      "filename": "webkit-autoloader-installer_v0.5.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.0/webkit-autoloader-installer_v0.5.0.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.0/webkit-autoloader-installer_v0.5.0.elf",
+      "name": "Webkit-Autoloader-Installer V0.5.1",
+      "filename": "webkit-autoloader-installer_v0.5.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.1/webkit-autoloader-installer_v0.5.1.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.1/webkit-autoloader-installer_v0.5.1.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.5.0",
+      "version": "v0.5.1",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "83c2128520267515fe2f197db35427bb95b7273934e52ad3c6bf668a4ef27b7f"
+      "checksum": "80083f76383944e1f87c2d4126e4e067cd70bd8013feb538575bc2cb08258a78"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
@@ -352,34 +352,34 @@
       "checksum": "94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1"
     },
     {
-      "name": "Poords4-Status V0.1.0-Rc44",
-      "filename": "PoorDS4-status_v0.1.0-rc44.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf",
-      "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf",
+      "name": "Poords4-Status V0.1.0-Rc51",
+      "filename": "PoorDS4-status_v0.1.0-rc51.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
+      "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
       "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-      "version": "v0.1.0-rc44",
+      "version": "v0.1.0-rc51",
       "category": "PS5 Utility",
-      "checksum": "9195c512853538ec3ccf0207f68ed4898f386c6fb624c54d8fa959cef1a8b906"
+      "checksum": "d47bb84a6ae05117f095c05b75dfee15d9fbf07864a3e52d0e2e626eab613440"
     },
     {
-      "name": "Poords4-Stop V0.1.0-Rc44",
-      "filename": "PoorDS4-stop_v0.1.0-rc44.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf",
-      "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf",
+      "name": "Poords4-Stop V0.1.0-Rc51",
+      "filename": "PoorDS4-stop_v0.1.0-rc51.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
+      "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
       "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-      "version": "v0.1.0-rc44",
+      "version": "v0.1.0-rc51",
       "category": "PS5 Utility",
       "checksum": "ffdce4964f0d34a2b9be7cb65e6ad345d5beb582dcdf94d0214cde6bc79acd0d"
     },
     {
-      "name": "Poords4Rc44 V0.1.0-Rc44",
-      "filename": "PoorDS4rc44_v0.1.0-rc44.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4rc44_v0.1.0-rc44.elf",
-      "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4rc44_v0.1.0-rc44.elf",
+      "name": "Poords4Rc51 V0.1.0-Rc51",
+      "filename": "PoorDS4rc51_v0.1.0-rc51.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf",
+      "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf",
       "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-      "version": "v0.1.0-rc44",
+      "version": "v0.1.0-rc51",
       "category": "PS5 Utility",
-      "checksum": "a077fe7a1defbe6918538b834eaa502a6b4239d7feff58c8fa4ec06cd325d9a8"
+      "checksum": "e1b9f257f51678a977edaeafd4ca1f8a03e9df0afda7d5dd84435841fa20795d"
     },
     {
       "name": "Ps Game State Lib V0.1",
@@ -469,7 +469,7 @@
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "f554e7e241ad1c9f29a82266894d6c08372a686f7a38064598652d10fc1b6d05"
+      "checksum": "ed6fe222a882a45d4f23ac2a60ccd5375994acffc9a982ad379be51f4ed0e322"
     },
     {
       "name": "Spectrum-Library V1.4.7",
@@ -902,14 +902,14 @@
       "checksum": "e55e90aaade13b6e0d4316c1597ef90a21b67a06475c3e25de054224bc1e941b"
     },
     {
-      "name": "Ps5-App-Dumper V1.11",
-      "filename": "ps5-app-dumper_v1.11.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf",
-      "local_path": "payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf",
+      "name": "Ps5-App-Dumper V2.00",
+      "filename": "ps5-app-dumper_v2.00.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.00/ps5-app-dumper_v2.00.elf",
+      "local_path": "payloads/ps5_game_dump/ps5-app-dumper/v2.00/ps5-app-dumper_v2.00.elf",
       "description": "PS5 App Dumper payload.",
-      "version": "v1.11",
+      "version": "v2.00",
       "category": "PS5 Game Dump",
-      "checksum": "18483751ebaea6879b020a9dd87c0a4fb4f1bf09f3708d950362a483f78cc0d0"
+      "checksum": "b6fea71afb8937fcd1a933116c620e989acba25b7049eaeaa00cdc1bd604d686"
     },
     {
       "name": "Shadowmountplus V1.7Beta2",

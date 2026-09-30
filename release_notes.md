@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.29-2150)
+### 🚀 Synthèse de la mise à jour (v2026.09.30-0351)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -34,7 +34,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test3.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `webkit-autoloader-installer_v0.5.0.elf`
+  * `webkit-autoloader-installer_v0.5.1.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
@@ -52,9 +52,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `Ghostpad_v1.0.0.elf`
-  * `PoorDS4-status_v0.1.0-rc44.elf`
-  * `PoorDS4-stop_v0.1.0-rc44.elf`
-  * `PoorDS4rc44_v0.1.0-rc44.elf`
+  * `PoorDS4-status_v0.1.0-rc51.elf`
+  * `PoorDS4-stop_v0.1.0-rc51.elf`
+  * `PoorDS4rc51_v0.1.0-rc51.elf`
   * `PS_Game_State_Lib_v0.1.elf`
   * `PS-DiscordPresence_v0.01.elf`
   * `unrar-ps5_v1.4.0.elf`
@@ -107,7 +107,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `nanoDNS_v0.4.elf`
   * `Chukei_DNS_v0.9.0.elf`
   * `PS5-Game-Compressor_v1.0.4.elf`
-  * `ps5-app-dumper_v1.11.elf`
+  * `ps5-app-dumper_v2.00.elf`
   * `ShadowMountPlus_v1.7beta2.elf`
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
