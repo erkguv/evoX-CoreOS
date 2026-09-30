@@ -109,7 +109,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "bf655183a80c3e706c044cdafeb4a04fa05e585fc1d03a66f1ea2d4fe59b49e6"
+            "checksum": "3754ee2969a24af2777d1ec1278a47d1ce0d7ff279cdaa3c8daaf25bab8b0972"
         },
         {
             "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "fba3fbd43a8fb24a0a43ae27c7dfe1e132356429b1f8ab158633a377399be111"
+            "checksum": "7fcd6de7bdd44d1500a1c651e3ddd85ff449bcc7a8edb2ad7536037227982c61"
         },
         {
             "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
             "description": "Experimental Kstuff NG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "f7d722904ed237f8ee05fe7a214366a35a971135df0120e64991e5a1709a44a0"
+            "checksum": "155c17abb872b6e60c690411a570c47d5a706e175e226923b6792e924531d8fd"
         },
         {
             "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
             "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "b92fc747ea5c781fe9a7d1fddef6104cd1071bd829c6cc7a4a35bf44d0e18c8d"
+            "checksum": "8d979a3d81d07bd8744f76f65f2479ef9c3f9a7838a3ab6bb44052aebfeea6d5"
         },
         {
             "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
             "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "eb992796ed009cdb1aea213a297d3fbcd6fe052a21306a9ea1b35b65be290708"
+            "checksum": "71d078221a3bc4f9e2df8b1c9711a4c8e471efd12a6bb5f2440ef960ab1a1639"
         },
         {
             "name": "A53 Ppr Install 1160 20.09",
@@ -169,7 +169,7 @@
             "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "ab88b2e3612aa10cca7fd3910d51d1f2fdf461ef65a92746e82074902a10ba04"
+            "checksum": "68e9e4cdbd58c21a358598fd8256846047ed8889b9390c46892c967a412dc8a7"
         },
         {
             "name": "Webkit-Autoloader-Installer V0.5.1",
@@ -312,14 +312,14 @@
             "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
         },
         {
-            "name": "Ps5Upload V5.39.1",
-            "filename": "ps5upload_v5.39.1.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.39.1/ps5upload_v5.39.1.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v5.39.1/ps5upload_v5.39.1.elf",
+            "name": "Ps5Upload V5.40.0",
+            "filename": "ps5upload_v5.40.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.40.0/ps5upload_v5.40.0.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v5.40.0/ps5upload_v5.40.0.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v5.39.1",
+            "version": "v5.40.0",
             "category": "PS5 Server",
-            "checksum": "a50d66033f66cb9d6600c810066b699e59b1a0cc3d7e98bffd5a0b6eb9ebd1a3"
+            "checksum": "d10ba9d979ac6a18bd8d3d77ea3845ae592761768c9aec89e2b71735cda2927b"
         },
         {
             "name": "Airpsx V0.19",
@@ -352,16 +352,6 @@
             "checksum": "94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1"
         },
         {
-            "name": "Poords4-Status V0.1.0-Rc51",
-            "filename": "PoorDS4-status_v0.1.0-rc51.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
-            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
-            "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-            "version": "v0.1.0-rc51",
-            "category": "PS5 Utility",
-            "checksum": "d47bb84a6ae05117f095c05b75dfee15d9fbf07864a3e52d0e2e626eab613440"
-        },
-        {
             "name": "Poords4-Stop V0.1.0-Rc51",
             "filename": "PoorDS4-stop_v0.1.0-rc51.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
@@ -370,6 +360,16 @@
             "version": "v0.1.0-rc51",
             "category": "PS5 Utility",
             "checksum": "ffdce4964f0d34a2b9be7cb65e6ad345d5beb582dcdf94d0214cde6bc79acd0d"
+        },
+        {
+            "name": "Poords4-Status V0.1.0-Rc51",
+            "filename": "PoorDS4-status_v0.1.0-rc51.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
+            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
+            "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
+            "version": "v0.1.0-rc51",
+            "category": "PS5 Utility",
+            "checksum": "d47bb84a6ae05117f095c05b75dfee15d9fbf07864a3e52d0e2e626eab613440"
         },
         {
             "name": "Poords4Rc51 V0.1.0-Rc51",
@@ -469,7 +469,7 @@
             "description": "ghost-toothAPI.",
             "version": "Source-Fixe",
             "category": "PS5 Utility",
-            "checksum": "ed6fe222a882a45d4f23ac2a60ccd5375994acffc9a982ad379be51f4ed0e322"
+            "checksum": "2ef7052bb5bc14c1d74e1260d74eb002a145e4ba208083bbccf3282b3f284bad"
         },
         {
             "name": "Spectrum-Library V1.4.7",
@@ -482,14 +482,14 @@
             "checksum": "9c7b60380153cda2eb4a6f20ddc46774a621706388714d0fd97b492a6152f751"
         },
         {
-            "name": "Pegasus-Dl V1.10.0",
-            "filename": "pegasus-dl_v1.10.0.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.0/pegasus-dl_v1.10.0.elf",
-            "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.10.0/pegasus-dl_v1.10.0.elf",
+            "name": "Pegasus-Dl V1.10.1",
+            "filename": "pegasus-dl_v1.10.1.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf",
+            "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf",
             "description": "free store webadmin http://your-ps5-ip:6970.",
-            "version": "v1.10.0",
+            "version": "v1.10.1",
             "category": "PS5 Freeshop",
-            "checksum": "724b245d8de08e5a16865180fac7f30eda72b94d45c9cc73686d9b2defc33f66"
+            "checksum": "b24fdc62fc6cad14684b214a9c5be6c1221585afbf9493e387ab90f9dee21138"
         },
         {
             "name": "Ps5Shopappkg-Dpi",
@@ -802,14 +802,14 @@
             "checksum": "1d611c1856dd2f4b4b6cb42ead1128a7f08a26585788f92de79fa4f67d721472"
         },
         {
-            "name": "Memdbg Vnightly-20260922-G6E493C9",
-            "filename": "MemDBG_vnightly-20260922-g6e493c9.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260922-g6e493c9/MemDBG_vnightly-20260922-g6e493c9.elf",
-            "local_path": "payloads/ps5_sdk_debug/MemDBG/nightly-20260922-g6e493c9/MemDBG_vnightly-20260922-g6e493c9.elf",
+            "name": "Memdbg Vnightly-20260930-G6E493C9",
+            "filename": "MemDBG_vnightly-20260930-g6e493c9.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260930-g6e493c9/MemDBG_vnightly-20260930-g6e493c9.elf",
+            "local_path": "payloads/ps5_sdk_debug/MemDBG/nightly-20260930-g6e493c9/MemDBG_vnightly-20260930-g6e493c9.elf",
             "description": "Memory debugging and inspection suite.",
-            "version": "nightly-20260922-g6e493c9",
+            "version": "nightly-20260930-g6e493c9",
             "category": "PS5 Sdk Debug",
-            "checksum": "b87f14d98efbe1b892fe5d660eee3751b1459097a4c4475bab98c85cf8f75831"
+            "checksum": "2fbdc9f0b21043619b1c32b512df47b3ddf79a99f096243c0d48f5ffc14e1906"
         },
         {
             "name": "Ps5-Hwinfo V0.1",

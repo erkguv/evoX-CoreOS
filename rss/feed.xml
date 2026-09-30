@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V5.39.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.39.1/ps5upload_v5.39.1.elf</link>
+      <title>[Payloads] Ps5Upload V5.40.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.40.0/ps5upload_v5.40.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.39.1</pubDate>
+      <pubDate>v5.40.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -215,14 +215,14 @@
       <pubDate>v1.0.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Poords4-Status V0.1.0-Rc51</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf</link>
+      <title>[Payloads] Poords4-Stop V0.1.0-Rc51</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf</link>
       <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
       <pubDate>v0.1.0-rc51</pubDate>
     </item>
     <item>
-      <title>[Payloads] Poords4-Stop V0.1.0-Rc51</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf</link>
+      <title>[Payloads] Poords4-Status V0.1.0-Rc51</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf</link>
       <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
       <pubDate>v0.1.0-rc51</pubDate>
     </item>
@@ -293,10 +293,10 @@
       <pubDate>1.4.7</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pegasus-Dl V1.10.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.0/pegasus-dl_v1.10.0.elf</link>
+      <title>[Payloads] Pegasus-Dl V1.10.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf</link>
       <description>free store webadmin http://your-ps5-ip:6970.</description>
-      <pubDate>v1.10.0</pubDate>
+      <pubDate>v1.10.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5Shopappkg-Dpi</title>
@@ -485,10 +485,10 @@
       <pubDate>v0.1.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Memdbg Vnightly-20260922-G6E493C9</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260922-g6e493c9/MemDBG_vnightly-20260922-g6e493c9.elf</link>
+      <title>[Payloads] Memdbg Vnightly-20260930-G6E493C9</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260930-g6e493c9/MemDBG_vnightly-20260930-g6e493c9.elf</link>
       <description>Memory debugging and inspection suite.</description>
-      <pubDate>nightly-20260922-g6e493c9</pubDate>
+      <pubDate>nightly-20260930-g6e493c9</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Hwinfo V0.1</title>

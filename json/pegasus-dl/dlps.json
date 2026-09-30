@@ -3,6 +3,380 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03671",
+      "title": "Marvels Wolverine",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1QCPlQ"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/DWB4C"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/HY1vk"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1YG7UW"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/ZoKfY"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1UEGcy"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/dqBX6"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/1iSiZM"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 9",
+          "url": "https://www.rootz.so/d/LZsnI"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/marvels-wolverine-ps5/"
+    },
+    {
+      "titleId": "PPSA29642",
+      "title": "South of Midnight",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/gXeGOAdaP3Aa/file"
+        },
+        {
+          "name": "USA 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0rpmvpR6DzRg/file"
+        },
+        {
+          "name": "USA 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/N2p3DP6qx3Ma/file"
+        },
+        {
+          "name": "USA 11.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/QN9mEqOaom6d/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1sPNk8"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/fj92u"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1wREbg"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/jkzuS"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29642_ec39ed0b5dfc696672a98c91a2bdd92b9e01e6a59143fecd467eee1b0406f335/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/south-of-midnight-ps5/"
+    },
+    {
+      "titleId": "PPSA26136",
+      "title": "Avowed",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/rk9zKWgl4z0l/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/l5YzMZBx9GyO/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/l76mZreVxman/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/qw1zeb69pGXy/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/qPez44RBqzOY/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/E1x3AWXgdGyk/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1nrfCi"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/rIptY"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/23z4am"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/nGz20"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/1cHyM4"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/Pbjai"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26136_ad570b89f0ea0682e7c04d514a6b56f57da4a6579308445722fde211c0361161/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/avowed-ps5/"
+    },
+    {
+      "titleId": "PPSA12544",
+      "title": "Hollow Knight Silksong",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/0JgG757Nn3oY/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/ArPyS"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/yFp3IDkAFn"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA12544_c63518642bfc43da85a9e3b010bf8aaeaa08b8449dad4dba2eb860af5046e88c/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/hollow-knight-silksong-ps5/"
+    },
+    {
+      "titleId": "PPSA25991",
+      "title": "Senuas Saga Hellblade 2",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/jar3Xly0g32d/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/dZxG5o7593Vj/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/LJlGn7Mr4m15/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/7d5GLZQpL3xR/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/vKgl6"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/2niFM"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1BS69A"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/6pZ6u"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25991_c7480709f4e69dbe3cdbddefaf8924b10dda06af1be5993555e51f3a859da1d1/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/senuas-saga-hellblade-2-ps5/"
+    },
+    {
+      "titleId": "PPSA27581",
+      "title": "Hellblade Senuas Sacrifice",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akia",
+          "url": "https://akirabox.com/XkrzoKZJkzBO/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/MwyZ6"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27581_9be93597f23c54bd0523a880cf09ab442018292275da51ce137b51a220d3c74f/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/hellblade-senuas-sacrific-ps5/"
+    },
+    {
+      "titleId": "PPSA18605",
+      "title": "Ready or Not",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/7E6ZG6YeKB"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18605_5bb41b247f6d0c974095594fb97f1574e24dcd4ceefeb090171579d835561906/icon0.webp",
+      "description": "Region: USA\nRelease note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky",
+      "downloadSource": "https://dlpsgame.com/ready-or-not-ps5/"
+    },
+    {
+      "titleId": "PPSA34063",
+      "title": "NHL 27",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/2WVGrdex43kx/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/vgKGxX8P2G8Q/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/EL73g7dXE39B/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/Z9dzBPyMnmk1/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/vacb2"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/28GrIG"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/2KMPsu"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/13eKK8"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34063_9d20075c763e2b7ac70ee5c2ccef791912d935bdf522bfab3a20055e166ccfda/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/nhl-27-ps5/"
+    },
+    {
+      "titleId": "PPSA18083",
+      "title": "Megaton Musashi W Wired",
+      "downloadLinks": [
+        {
+          "name": "EUR 7.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/9AqGQZyPbmMn/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/gXeGOAyjP3Aa/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/BnkmWvyKdGR0/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/F9Cfw"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1NnaZk"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/NCuP2"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18083_9e03698cdbfb021391a55f942da911742072381550138cfbbf105f688b4d8acb/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/megaton-musashi-w-wired-ps5/"
+    },
+    {
+      "titleId": "PPSA36082",
+      "title": "Hades 2",
+      "downloadLinks": [
+        {
+          "name": "12.xx Base - Akirabox",
+          "url": "https://akirabox.com/l5YzMZyn9GyO/file"
+        },
+        {
+          "name": "12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1XkFkW"
+        },
+        {
+          "name": "12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/01Hd1ekRsp"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA36082_65071fc893d7ff9a389c9962204350413dca2c8a8b20a4989f91ed1bdf15c76b/icon0.webp",
+      "description": "Release note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/hades-2-ps5/"
+    },
+    {
+      "titleId": "PPSA22207",
+      "title": "Inazuma Eleven Victory Road",
+      "downloadLinks": [
+        {
+          "name": "JPN 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/Zvqzl7keO3aD/file"
+        },
+        {
+          "name": "JPN 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/gXeGOAyEJ3Aa/file"
+        },
+        {
+          "name": "JPN 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/qLQ36q7ydm19/file"
+        },
+        {
+          "name": "JPN 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1CZG52"
+        },
+        {
+          "name": "JPN 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1Gb6wa"
+        },
+        {
+          "name": "JPN 11.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/2LDdui"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22207_36f6a67288e892ba85e8079b8bd3747553596afb63ffdf2d7b872625bd001334/icon0.webp",
+      "description": "Region: JPN\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/inazuma-eleven-victory-road-ps5/"
+    },
+    {
       "titleId": "PPSA11386",
       "title": "007 First Light",
       "downloadLinks": [
@@ -37,6 +411,10 @@
         {
           "name": "EUR 12.xx Base - Rootz part 4",
           "url": "https://www.rootz.so/d/qH6PY"
+        },
+        {
+          "name": "EUR 12.xx Base - Viki",
+          "url": "https://vikingfile.com/f/fXRfgdKLM1"
         }
       ],
       "category": "game",
@@ -151,7 +529,7 @@
       "title": "Kunitsu Gami Path of The Goddess",
       "downloadLinks": [
         {
-          "name": "EUR 8.xx Base - Transit",
+          "name": "EUR 8.xx Base - Transfer.it",
           "url": "https://transfer.it/t/TeTs2CoHgRgY"
         },
         {
@@ -161,6 +539,22 @@
         {
           "name": "EUR 8.xx Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/dDM8QKJqtD"
+        },
+        {
+          "name": "EUR 8.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/rk9zKWgDqz0l/file"
+        },
+        {
+          "name": "EUR 8.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/l76mZre79man/file"
+        },
+        {
+          "name": "EUR 8.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2IjOD2"
+        },
+        {
+          "name": "EUR 8.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1A50NM"
         }
       ],
       "category": "game",
@@ -173,7 +567,7 @@
       "title": "Assassins Creed Black Flag Resynced",
       "downloadLinks": [
         {
-          "name": "EUR 12.xx Base - Transit",
+          "name": "EUR 12.xx Base - Transfer.it",
           "url": "https://transfer.it/t/2cm0afw1lbzQ"
         },
         {
@@ -400,64 +794,6 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png?w=260",
       "description": "Region: JPN\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/no-sleep-for-kaname-date-from-ai-the-somnium-files-ps5/"
-    },
-    {
-      "titleId": "PPSA25217",
-      "title": "Super Robot Wars Y",
-      "downloadLinks": [
-        {
-          "name": "ASIA 9.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/k0embby1JmVb/file"
-        },
-        {
-          "name": "ASIA 9.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/Pbe3PaBVJzlX/file"
-        },
-        {
-          "name": "ASIA 9.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/1uEeYq"
-        },
-        {
-          "name": "ASIA 9.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/laGjA"
-        },
-        {
-          "name": "ASIA 9.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/1X8fHvCQSP"
-        },
-        {
-          "name": "ASIA 9.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/ozpTj8IBbC"
-        },
-        {
-          "name": "ASIA 9.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/0Kezk7pJ1zD1/file"
-        },
-        {
-          "name": "ASIA 9.xx Base - Akirabox part 4",
-          "url": "https://akirabox.com/Pbe3PalZezlX/file"
-        },
-        {
-          "name": "ASIA 9.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/1tXaLI"
-        },
-        {
-          "name": "ASIA 9.xx Base - Rootz part 4",
-          "url": "https://www.rootz.so/d/cpUmW"
-        },
-        {
-          "name": "ASIA 9.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/qfS0gxf4jG"
-        },
-        {
-          "name": "ASIA 9.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/K5zlRMEsAQ"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0121/c135c3a9e59194c92eab0932fd3994ccb3c32f9c8122fe82.png?w=260",
-      "description": "Region: ASIA\nRelease note: Works on 9.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/super-robot-wars-y-ps5/"
     },
     {
       "titleId": "PPSA13934",
@@ -1586,6 +1922,64 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/3102/8ff786c1eabe992daa21976e07b7dd94d77f6a0a18fc3e1e.png?w=260",
       "description": "Region: HK\nRelease note: Works on 10.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/atelier-ryza-2-lost-legends-and-the-secret-fairy-dx-ps5/"
+    },
+    {
+      "titleId": "PPSA25217",
+      "title": "Super Robot Wars Y",
+      "downloadLinks": [
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/k0embby1JmVb/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Pbe3PaBVJzlX/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1uEeYq"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/laGjA"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/1X8fHvCQSP"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/ozpTj8IBbC"
+        },
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/0Kezk7pJ1zD1/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/Pbe3PalZezlX/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1tXaLI"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/cpUmW"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/qfS0gxf4jG"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/K5zlRMEsAQ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0121/c135c3a9e59194c92eab0932fd3994ccb3c32f9c8122fe82.png?w=260",
+      "description": "Region: ASIA\nRelease note: Works on 9.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/super-robot-wars-y-ps5/"
     },
     {
       "titleId": "PPSA23732",
@@ -120957,6 +121351,36 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0617/F7z6c9GM1VGoqfYxHorvMjzL.png?w=260",
       "description": "Variant: Release 1\nContributor: pkg.games\n\nVariant: USA exFAT 01.004\nRegion: USA\nRelease note: exFAT format — FW 01.004 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
+    },
+    {
+      "titleId": "PPSA18605",
+      "title": "[exFAT] Ready or Not Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidm1jY2RvMnovRGZ4OFhBZnI2OEdKZHRrelpUU1RtSWRLVTZjVkR0SFI1bDFHTFl0MzIyc1JpK1NOb1AxME1KdzJsemtlcWFKcUg3eFFvdVNLY2F1K29ka0pHQSsiLCJpIjoia200SGtsT1ZKZ01hdDhTViIsIm4iOiJEYXRhIn0="
+        }
+      ],
+      "version": "01.001.008",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18605_5bb41b247f6d0c974095594fb97f1574e24dcd4ceefeb090171579d835561906/icon0.webp",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.001.008 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
+      "titleId": "PPSA11386",
+      "title": "[exFAT] 007 First Light Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibkpvY3RaRGs4U1l1VXBiY2tYWkNpUFJ3a1gzclRDdDFucXdzTEpSNnBvTnQ0RE90SmdkVlIzRmI3UFV1WVFwU1BqSm1KQXpIekl1MCtoNnppSDFVeHhpMFE2OHYiLCJpIjoiNytLU0JKVUtkRkpmNXRwcSIsIm4iOiJEYXRhIn0="
+        }
+      ],
+      "version": "01.018",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png?w=260",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.018 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
       "titleId": "PPSA01341",

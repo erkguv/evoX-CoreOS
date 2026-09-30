@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 30/09/2026 à 11:53
+* **PAYLOADS**
+  * `Ps5Upload V5.40.0` (v5.40.0) - *Nouveau*
+  * `Pegasus-Dl V1.10.1` (v1.10.1) - *Nouveau*
+  * `Memdbg Vnightly-20260930-G6E493C9` (nightly-20260930-g6e493c9) - *Nouveau*
+
 ## Build du 30/09/2026 à 03:51
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.5.1` (v0.5.1) - *Nouveau*

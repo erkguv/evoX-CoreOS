@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28997",
+      "title": "God of War Sons of Sparta",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/79ff87061a2r"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/M2BGwPMPPmj4/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/9N2oVutCz5"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/230ck2qgl9tu"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/uvv89sm0974z"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha32/14c071712746d8cf0211/PPSA28997-Compressed.7z"
+        }
+      ],
+      "version": "v01.008.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0519/7260437aae9056d5bd34225e4fce98ca8bb0ef1cd8e6471f.png?w=260",
+      "description": "Builds: Fpkg\nTags: PPSA28997, v01.008.001, USA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 25769803776
+    },
+    {
       "titleId": "PPSA18605",
       "title": "Ready or Not Deluxe Edition",
       "downloadLinks": [
@@ -9435,7 +9471,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4533148,
+      "id": 4554951,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -13001,7 +13037,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4533251,
+      "id": 4555054,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.30-0351)
+### 🚀 Synthèse de la mise à jour (v2026.09.30-1153)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -48,12 +48,12 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v5.39.1.elf`
+  * `ps5upload_v5.40.0.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `Ghostpad_v1.0.0.elf`
-  * `PoorDS4-status_v0.1.0-rc51.elf`
   * `PoorDS4-stop_v0.1.0-rc51.elf`
+  * `PoorDS4-status_v0.1.0-rc51.elf`
   * `PoorDS4rc51_v0.1.0-rc51.elf`
   * `PS_Game_State_Lib_v0.1.elf`
   * `PS-DiscordPresence_v0.01.elf`
@@ -65,7 +65,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-Unpack_v0.1.elf`
   * `ghost-toothAPI.elf`
   * `Spectrum-Library_v1.4.7.bin`
-  * `pegasus-dl_v1.10.0.elf`
+  * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent_v0.2.55.elf`
   * `bfplayer-standalone_v0.1.0-alpha.44.elf`
@@ -97,7 +97,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-self-pager_v1.2.elf`
   * `PS5-SELF-Decrypter_v0.5.2.elf`
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
-  * `MemDBG_vnightly-20260922-g6e493c9.elf`
+  * `MemDBG_vnightly-20260930-g6e493c9.elf`
   * `ps5-hwinfo_v0.1.elf`
   * `CheatRunner_v0.17.elf`
   * `kylin-core-community-lite-v131-global-release.elf`
