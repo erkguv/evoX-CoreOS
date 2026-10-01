@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 01/10/2026 à 03:59
+* **PAYLOADS**
+  * `Ps5Upload V5.41.0` (v5.41.0) - *Nouveau*
+* **APPS**
+  * `Kodi-Ps5-Ppsa99420-0.9` (0.9) - *Nouveau*
+
 ## Build du 30/09/2026 à 21:53
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.5.2` (v0.5.2) - *Nouveau*
