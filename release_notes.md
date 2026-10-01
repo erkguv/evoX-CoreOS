@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.01-1227)
+### 🚀 Synthèse de la mise à jour (v2026.10.01-2220)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -62,7 +62,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-PlayPods_v1.0.elf`
   * `FGG-Unpack_v0.1.elf`
   * `ghost-toothAPI.elf`
-  * `Spectrum-Library_v1.4.7.bin`
   * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent_v0.2.55.elf`
@@ -95,7 +94,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
   * `MemDBG_vnightly-20260930-g6e493c9.elf`
   * `ps5-hwinfo_v0.1.elf`
-  * `CheatRunner_v0.17.1.elf`
+  * `CheatRunner_v0.17.2.elf`
   * `kylin-core-community-lite-v131-global-release.elf`
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.11.elf`

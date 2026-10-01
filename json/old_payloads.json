@@ -109,7 +109,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "42913ac145d674e86e0eec56109984b6e730a859e6ef652b94f4359466afa3c8"
+            "checksum": "dabb9cd9e4ba591452957544fac218ee2852c869416f43a80054c864b82eb243"
         },
         {
             "name": "A53-Kstuff-Smp",
@@ -119,7 +119,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "89917fb774c29611a81b87c0e90b91604bcd60836d86804e724008840a94cd07"
+            "checksum": "d577991eee17d1396e6a0c86b0fa2409a979ef1c21454016004ed07abc6890c5"
         },
         {
             "name": "Kstuff-Ng V1.00",
@@ -129,7 +129,7 @@
             "description": "Experimental Kstuff NG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "246687bb8611a7096d21723dddcc76c0fdaedb0ec71ec3166acb292a74c4a230"
+            "checksum": "8a39111a9f368c2a8b18d0f7ea2213d2daf9d7f2613a70d4c91abc7e13c89ea5"
         },
         {
             "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
             "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "ee34b831ceaccfd03e20469bfe866c1f4ab437b0ae242d4e84a2b26de52caf3e"
+            "checksum": "dd75ea31f1233fa9cb1fb3543c4d073ccc789d1917b445921dfcb74417d30ffa"
         },
         {
             "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
             "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "304b904e5d85db752a8bf7b0b4798a62c069a41e98233e0db7c998b2856a448c"
+            "checksum": "fa3f32091318e04baf9f07a6a34afed2da34eb12dab64ad6cd97748b7381f333"
         },
         {
             "name": "A53 Ppr Install 1160 20.09",
@@ -169,7 +169,7 @@
             "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "defd0efaddc7bfa91c59cbf30c921562d211a87453b318aefc2f544cd49a334e"
+            "checksum": "551066fc2389c41ba4ef41bf11878bc6a2f6c2928b85853910cb430a8dbb25ed"
         },
         {
             "name": "Webkit-Autoloader-Installer V0.5.2",
@@ -449,17 +449,7 @@
             "description": "ghost-toothAPI.",
             "version": "Source-Fixe",
             "category": "PS5 Utility",
-            "checksum": "e21f1134ac6df1c61baf95cf2b536a587fcb8a12916064c19ad690f41f66c8ff"
-        },
-        {
-            "name": "Spectrum-Library V1.4.7",
-            "filename": "Spectrum-Library_v1.4.7.bin",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin",
-            "local_path": "payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin",
-            "description": "free store webadmin http://your-ps5-ip:7575.",
-            "version": "1.4.7",
-            "category": "PS5 Freeshop",
-            "checksum": "9c7b60380153cda2eb4a6f20ddc46774a621706388714d0fd97b492a6152f751"
+            "checksum": "07915060d69b2b2856aaae6ab8dbcf6e3f1faec2142fffd343f018a10f071855"
         },
         {
             "name": "Pegasus-Dl V1.10.1",
@@ -782,14 +772,14 @@
             "checksum": "4514bdbc0c556df1a66544615942d5087d1cbee5c2026b3b66e688ba01e5a5b0"
         },
         {
-            "name": "Cheatrunner V0.17.1",
-            "filename": "CheatRunner_v0.17.1.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.1/CheatRunner_v0.17.1.elf",
-            "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17.1/CheatRunner_v0.17.1.elf",
+            "name": "Cheatrunner V0.17.2",
+            "filename": "CheatRunner_v0.17.2.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf",
+            "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf",
             "description": "CheatRunner.",
-            "version": "v0.17.1",
+            "version": "v0.17.2",
             "category": "PS5 Cheat",
-            "checksum": "6863f06cb6ff41f846d84a0542c21469b52cacf55c9e6a0e2c74c114b3a55212"
+            "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
         },
         {
             "name": "Kylin-Core-Community-Lite-V131-Global-Release",

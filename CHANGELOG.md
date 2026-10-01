@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 01/10/2026 à 22:20
+* **PAYLOADS**
+  * `Cheatrunner V0.17.2` (v0.17.2) - *Nouveau*
+* **FFPFSC**
+  * `Prospero Radio` (01.000.046) - *Mise à jour (Précédent: 01.000.042)*
+
 ## Build du 01/10/2026 à 03:59
 * **PAYLOADS**
   * `Ps5Upload V5.41.0` (v5.41.0) - *Nouveau*

@@ -275,12 +275,6 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Spectrum-Library V1.4.7</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.7/Spectrum-Library_v1.4.7.bin</link>
-      <description>free store webadmin http://your-ps5-ip:7575.</description>
-      <pubDate>1.4.7</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Pegasus-Dl V1.10.1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf</link>
       <description>free store webadmin http://your-ps5-ip:6970.</description>
@@ -473,10 +467,10 @@
       <pubDate>0.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Cheatrunner V0.17.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.1/CheatRunner_v0.17.1.elf</link>
+      <title>[Payloads] Cheatrunner V0.17.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf</link>
       <description>CheatRunner.</description>
-      <pubDate>v0.17.1</pubDate>
+      <pubDate>v0.17.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Kylin-Core-Community-Lite-V131-Global-Release</title>
@@ -648,9 +642,9 @@
     </item>
     <item>
       <title>[Fichiers FFPFSC] Prospero Radio</title>
-      <link>https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.042/PROSPERO_RADIO.ffpfsc</link>
+      <link>https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.046/PROSPERO_RADIO.ffpfsc</link>
       <description>An internet radio for PS5 with a real radio face — rendered with Vulkan.</description>
-      <pubDate>01.000.042</pubDate>
+      <pubDate>01.000.046</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa99004</title>

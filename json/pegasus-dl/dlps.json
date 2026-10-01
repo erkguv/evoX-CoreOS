@@ -3,6 +3,132 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA21725",
+      "title": "RIDE 6",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/vgKGxXZM4G8Q/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Z9dzBP5OOmk1/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/RMKGJKrBPm1o/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/obj3j7wEAzDx/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/b5OzdVLq4mB8/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/27vqW8"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/2BxhNg"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/vFbou"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1FOs4W"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/2idNI"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/7v9YQp9CqW"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/kjmRroLCWY"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/kVWggYZH7k"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/xL8MplPmTy"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/wolGqyBYFK"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1010/f3e1293fd32c6d4ab71d9d2b8150c84c669dfa9204acf79e.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ride-6-ps5/"
+    },
+    {
+      "titleId": "PPSA23123",
+      "title": "For The King 2",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.com/gXeGOAdM63Aa/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/QtkUS"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/2PCU4Qd41H"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/1903/f216054fbf08303c26316b88addf091caacfd1146c90dd45.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/for-the-king-2-ps5/"
+    },
+    {
+      "titleId": "PPSA34502",
+      "title": "Call of Duty Black Ops 2 (DLC)",
+      "downloadLinks": [
+        {
+          "name": "USA 13.60 Game (v01.010.000) (All DLC) - Akirabox part 1",
+          "url": "https://akirabox.com/APVmabY603Xo/file"
+        },
+        {
+          "name": "USA 13.60 Game (v01.010.000) (All DLC) - Akirabox part 2",
+          "url": "https://akirabox.com/0JgG75KX53oY/file"
+        },
+        {
+          "name": "USA 13.60 Game (v01.010.000) (All DLC) - Rootz part 1",
+          "url": "https://www.rootz.so/d/1RUQfA"
+        },
+        {
+          "name": "USA 13.60 Game (v01.010.000) (All DLC) - Rootz part 2",
+          "url": "https://www.rootz.so/d/Mrtcu"
+        },
+        {
+          "name": "USA 13.60 Game (v01.010.000) (All DLC) - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/PNzyPjiSNm"
+        },
+        {
+          "name": "USA 13.60 Game (v01.010.000) (All DLC) - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/G6OJkqdUK2"
+        }
+      ],
+      "category": "dlc",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2619/c4ce7fe379aa05dd3f6ecc11e8fa38dfea03d4b4a8bad73a.png?w=260",
+      "description": "Region: USA\nRelease note: Credited by @DED_FR Works on 13.60 and higher All DLCs included (Season Pass + Camo)\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/call-of-duty-black-ops-2-ps5/"
+    },
+    {
       "titleId": "PPSA24913",
       "title": "Ace Combat 8 Wings of Theve",
       "downloadLinks": [
@@ -85,6 +211,46 @@
         {
           "name": "EUR 12.xx Base - Rootz part 10",
           "url": "https://www.rootz.so/d/1Zo4EC"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/VIFykwr0NZ"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/jcnq0SFvde"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/lMDiL7DREO"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/vCzDK34HlA"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/yIjlBtXjky"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/w7AecPH6Ar"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/qjuNG03QXy"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/7qY3hIWg4Z"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/3J3PZ9jL6b"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 10",
+          "url": "https://vikingfile.com/f/TKv67Za5Fw"
         }
       ],
       "category": "game",
@@ -209,6 +375,22 @@
         {
           "name": "EUR 12.xx Base - Rootz part 4",
           "url": "https://www.rootz.so/d/AWPCK"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/8CUHONVTuN"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/64YbaPtNwn"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/yToMLYkP1Z"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/nfWnPBa9lf"
         }
       ],
       "category": "game",
@@ -1143,6 +1325,40 @@
       "downloadSource": "https://dlpsgame.com/nhl-27-ps5/"
     },
     {
+      "titleId": "PPSA18083",
+      "title": "Megaton Musashi W Wired",
+      "downloadLinks": [
+        {
+          "name": "EUR 7.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/9AqGQZyPbmMn/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/gXeGOAyjP3Aa/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/BnkmWvyKdGR0/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/F9Cfw"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1NnaZk"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/NCuP2"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18083_9e03698cdbfb021391a55f942da911742072381550138cfbbf105f688b4d8acb/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/megaton-musashi-w-wired-ps5/"
+    },
+    {
       "titleId": "PPSA36082",
       "title": "Hades 2",
       "downloadLinks": [
@@ -1942,40 +2158,6 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2509/00c1e572d0de4274a103a5b96a0693b22100a082875ae186.png?w=260",
       "description": "Region: EUR\nRelease note: DLCs Merged.\nContributor: Thanks to Dunaevnick for the Files, DecKerr97 for the BackPort and drakmor for dlc-emu.\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/the-smurfs-dreams-ps5/"
-    },
-    {
-      "titleId": "PPSA18083",
-      "title": "Megaton Musashi W Wired",
-      "downloadLinks": [
-        {
-          "name": "EUR 7.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/9AqGQZyPbmMn/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/gXeGOAyjP3Aa/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/BnkmWvyKdGR0/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/F9Cfw"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/1NnaZk"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/NCuP2"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18083_9e03698cdbfb021391a55f942da911742072381550138cfbbf105f688b4d8acb/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/megaton-musashi-w-wired-ps5/"
     },
     {
       "titleId": "PPSA07286",
