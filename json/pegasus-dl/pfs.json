@@ -3,6 +3,54 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA12544",
+      "title": "Hollow Knight: Silksong",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/moThjWD3sg"
+        }
+      ],
+      "version": "01.000.010",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA12544_c63518642bfc43da85a9e3b010bf8aaeaa08b8449dad4dba2eb860af5046e88c/icon0.webp",
+      "description": "As the lethal hunter Hornet, adventure through a kingdom ruled by silk and song! Captured and taken to this unfamiliar world, prepare to battle mighty foes and solve ancient mysteries as you ascend on a deadly pilgrimage to the kingdom’s peak. Hollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. Journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover secrets tied to your nature and your past.\nRegion: EUR\nUpdated: 2026-10-01T08:03:28.131Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 2426656522
+    },
+    {
+      "titleId": "PPSA03671",
+      "title": "Marvel's Wolverine",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/PdaIyF1kww"
+        }
+      ],
+      "version": "01.001.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
+      "description": "Created in collaboration with Marvel Games, it delivers an all-new original story based on the legendary comic book character. Logan thought he was finished being Wolverine, but the past wasn’t finished with him yet. Three years after walking out on his team, Wolverine rejoins the mutant task force, Team X, in their darkest hour. Driven by his fanatical belief in human superiority, Bolivar Trask is kidnapping mutants. Only Wolverine has what it takes to save them. In his fight for the future, Wolverine must team up with fellow mutants across the globe through locations like Canada, Japan, and the Marvel island nation of Madripoor. With the fate of humans and mutants hanging in the balance, Logan knows the world needs a hero; however, they’ll have to settle for Wolverine. Play as Wolverine Ravage enemies with explosive brutality and unleash razor-sharp adamantium claws to deploy fast, fluid attacks and overcome impossible odds. Evolve with unique, swappable Techniques and Adaptations to stalk, ambush, or overpower foes from Bolivar Trask’s guns-for-hire Reavers to iconic villains like the boorish Omega Red. Build aggressive momentum to gain Rage and eviscerate the opposition, because what he does isn’t very nice. An Original, Emotionally Charged Story Beneath Wolverine’s gruff exterior and violent temperament is a man fighting for a cause greater than himself. Mutants face the threat of annihilation and he’s the best chance they’ve got. Confront a dark past and experience an emotionally charged story driven by identity, loyalty, and the struggle within to uncover the truth of Wolverine’s forgotten past. A Global, Adrenaline-Fueled Journey Slice into enemies across detailed locales such as the frosted Canadian Wilderness, the narrow streets of Tokyo, and the high and low districts of the island nation of Madripoor. Experience thrilling set pieces throughout Wolverine’s journey in this global fight for mutant survival.\nRegion: USA\nUpdated: 2026-10-01T04:51:52.607Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 101683350733
+    },
+    {
+      "titleId": "PPSA03671",
+      "title": "Marvel's Wolverine",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/cTTqnPQbih"
+        }
+      ],
+      "version": "01.001.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
+      "description": "Created in collaboration with Marvel Games, it delivers an all-new original story based on the legendary comic book character. Logan thought he was finished being Wolverine, but the past wasn’t finished with him yet. Three years after walking out on his team, Wolverine rejoins the mutant task force, Team X, in their darkest hour. Driven by his fanatical belief in human superiority, Bolivar Trask is kidnapping mutants. Only Wolverine has what it takes to save them. In his fight for the future, Wolverine must team up with fellow mutants across the globe through locations like Canada, Japan, and the Marvel island nation of Madripoor. With the fate of humans and mutants hanging in the balance, Logan knows the world needs a hero; however, they’ll have to settle for Wolverine. Play as Wolverine Ravage enemies with explosive brutality and unleash razor-sharp adamantium claws to deploy fast, fluid attacks and overcome impossible odds. Evolve with unique, swappable Techniques and Adaptations to stalk, ambush, or overpower foes from Bolivar Trask’s guns-for-hire Reavers to iconic villains like the boorish Omega Red. Build aggressive momentum to gain Rage and eviscerate the opposition, because what he does isn’t very nice. An Original, Emotionally Charged Story Beneath Wolverine’s gruff exterior and violent temperament is a man fighting for a cause greater than himself. Mutants face the threat of annihilation and he’s the best chance they’ve got. Confront a dark past and experience an emotionally charged story driven by identity, loyalty, and the struggle within to uncover the truth of Wolverine’s forgotten past. A Global, Adrenaline-Fueled Journey Slice into enemies across detailed locales such as the frosted Canadian Wilderness, the narrow streets of Tokyo, and the high and low districts of the island nation of Madripoor. Experience thrilling set pieces throughout Wolverine’s journey in this global fight for mutant survival.\nRegion: USA\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-01T03:01:32.768Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 110595407872
+    },
+    {
       "titleId": "PPSA28183",
       "title": "Assassin's Creed Black Flag Resynced",
       "downloadLinks": [

@@ -3,6 +3,254 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8 Wings of Theve",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/LJlGn7BBjm15/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/5pVzNAJJp37w/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/APVmabYYj3Xo/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/wgWGq7jja34o/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/0JgG75KKN3oY/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/jJD3VDMJEGa5/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 7",
+          "url": "https://akirabox.com/0PdzyXKK83eA/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 8",
+          "url": "https://akirabox.com/ex5z25bxl3Kq/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 9",
+          "url": "https://akirabox.com/BnkmWvZdqGR0/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 10",
+          "url": "https://akirabox.com/9AqGQZppNmMn/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/70Q4m"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1Fenya"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/B2GwK"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1Jgem0"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/1NiVdY"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/J5ybI"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/1RkMV6"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/1VmDMe"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 9",
+          "url": "https://www.rootz.so/d/N7pSq"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 10",
+          "url": "https://www.rootz.so/d/1Zo4EC"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24913_cb77f30e7f4741cb373a7ce34b5511d31a28c52fbcc90acbb8b8d5bea40a6a41/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ace-combat-8-wings-of-theve-ps5/"
+    },
+    {
+      "titleId": "PPSA34015",
+      "title": "EA SPORTS FC 27",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/l5YzMZBX9GyO/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/1RgzR9PXZ3bp/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/rk9zKWg84z0l/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/l76mZreLxman/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/E1x3AWXMdGyk/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/qw1zeb6QpGXy/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/Mbxmy"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1VGLce"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/QdoeW"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1ZICUC"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/1rYVI8"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/aqPfE"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/uosVMNyxTM"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/I0dVPWJpnU"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/Khokx82Ner"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/xVoVyRZfGl"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/4vLgtwJG4C"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/I8GXQw3yaM"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34015_6a434915290a6abec6c41584108a610be84d7c2f675678dd06732e4343f8cba6/icon0.webp",
+      "description": "Region: EUR\nRelease note: By @notnotzecoxao Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ea-sports-fc-27-ps5/"
+    },
+    {
+      "titleId": "PPSA28000",
+      "title": "The Blood of Dawnwalker",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/2WVGrdlxg3kx/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/M2BGwPMppmj4/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/QN9mEqOAQm6d/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/EL73g7DXa39B/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/25X1KS"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/2ShTE"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1B75N2"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/AWPCK"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28000_9d586427627b83f4596b9b71c48e94483b9c095e4230baf9d78592569d29c144/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/the-blood-of-dawnwalker-ps5/"
+    },
+    {
+      "titleId": "PPSA27836",
+      "title": "Onimusha Way of The Sword",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/9AqGQZpWrmMn/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0PdzyXKb03eA/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/jJD3VDMX7Ga5/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/kn4u8"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/oovlg"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/sqmZ6"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27836_9fe408eba29a243b9d2d71e8979ff7fbbf29a3356d822dc8f7e5d1ba503b46da/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/onimusha-way-of-the-sword-ps5/"
+    },
+    {
       "titleId": "PPSA30601",
       "title": "Resonance A Plague Tale Legacy",
       "downloadLinks": [
@@ -65,7 +313,7 @@
       "title": "Captain Tsubasa 2 World Fighters",
       "downloadLinks": [
         {
-          "name": "Viki",
+          "name": "Vikingfile",
           "url": "https://vikingfile.com/f/kl3VZIJAz9#CAPTAIN"
         }
       ],
@@ -79,7 +327,7 @@
       "title": "Darwins Paradox",
       "downloadLinks": [
         {
-          "name": "USA 10.xx Base - Akia",
+          "name": "USA 10.xx Base - Akirabox",
           "url": "https://akirabox.com/jar3XlKAQ32d/file"
         },
         {
@@ -159,6 +407,42 @@
         {
           "name": "EUR 12.xx Base - Vikingfile part 12",
           "url": "https://vikingfile.com/f/qkzA8Ur9u6#Mortal"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/ex5z25b7b3Kq/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/jJD3VDMyyGa5/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/BnkmWvZydGR0/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/GRDZg"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/11QM2C"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1T7SGu"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 13",
+          "url": "https://vikingfile.com/f/n6SOgyl0kw"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 14",
+          "url": "https://vikingfile.com/f/MsOA7IUQsj"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 15",
+          "url": "https://vikingfile.com/f/1mz61lHTVY"
         }
       ],
       "category": "game",
@@ -171,7 +455,7 @@
       "title": "Silent Hill Townfall",
       "downloadLinks": [
         {
-          "name": "Viki",
+          "name": "Vikingfile",
           "url": "https://vikingfile.com/f/2HRdNjGpTD#Silent"
         }
       ],
@@ -331,6 +615,102 @@
         {
           "name": "EUR 12.xx Base - Vikingfile part 37",
           "url": "https://vikingfile.com/f/Hz5ianDv6H#CONTROL"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/gXeGOAdQj3Aa/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/N2p3DP6A23Ma/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/0rpmvpRdyzRg/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/QN9mEqOeQm6d/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/N2p3DP6Ax3Ma/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/0rpmvpRdDzRg/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 7",
+          "url": "https://akirabox.com/QN9mEqOeom6d/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 8",
+          "url": "https://akirabox.com/2WVGrdlgA3kx/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1bR5pw"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/Okr8i"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/Kj0HA"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1jUnZ2"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/WoYng"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/IKB1M"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/1Mwi3c"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/1QyYvA"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 38",
+          "url": "https://vikingfile.com/f/TPB9WWCS56"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 39",
+          "url": "https://vikingfile.com/f/ghLWZxNwlS"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 40",
+          "url": "https://vikingfile.com/f/0gAUuRTfbO"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 41",
+          "url": "https://vikingfile.com/f/hSCgzKZ0Gc"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 42",
+          "url": "https://vikingfile.com/f/pF24LowFs4"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 43",
+          "url": "https://vikingfile.com/f/rl9Htaqi1X"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 44",
+          "url": "https://vikingfile.com/f/NfmAPvOXh4"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 45",
+          "url": "https://vikingfile.com/f/FYjblwmqZn"
         }
       ],
       "category": "game",
@@ -509,11 +889,19 @@
         {
           "name": "USA 13.xx Base - Vikingfile part 9",
           "url": "https://vikingfile.com/f/420J0Iwpcz"
+        },
+        {
+          "name": "USA exFAT 01.001.005 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoickJFM0ZyRXp0N0hvUnRNWmZCVVpQWVVQWk1Mb214aVZ5UTNkVkNVbHcxV0dTWXE4b280N3ZUS0U4aXkzQlRYVzBWcGJWaDU2OGM1M0duL0pnaWVrK0NJU3ppZ3JKSUhwcTBXRitQM25mdEExdEE9PSIsImkiOiJ4QXJWckRvMFZEdUV5OEVSIiwibiI6IkRhdGEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.001.005 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS1p0Uzh0M0M3MGdhWStpNzU1TG9iT3AzTTl0S2hhRGs5Z3dhdWV3dlJteGI3Q1dPY2tYUG1JbGZuU0N2YWRWbmRDbHk2N2xyUGN3TzhTZjBFU2NPWU9YTG5udWF0RjQ9IiwiaSI6IlhyV3RjOWM5SmFqSlFjeFkiLCJuIjoiRmlsZUsifQ=="
         }
       ],
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 13.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 13.xx\nRegion: USA\nRelease note: Works on 13.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.001.005\nRegion: USA\nRelease note: exFAT format — FW 01.001.005 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/marvels-wolverine-ps5/"
     },
     {
@@ -753,40 +1141,6 @@
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34063_9d20075c763e2b7ac70ee5c2ccef791912d935bdf522bfab3a20055e166ccfda/icon0.webp",
       "description": "Region: USA\nRelease note: Works on 13.xx and higher\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/nhl-27-ps5/"
-    },
-    {
-      "titleId": "PPSA18083",
-      "title": "Megaton Musashi W Wired",
-      "downloadLinks": [
-        {
-          "name": "EUR 7.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/9AqGQZyPbmMn/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/gXeGOAyjP3Aa/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/BnkmWvyKdGR0/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/F9Cfw"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/1NnaZk"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/NCuP2"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18083_9e03698cdbfb021391a55f942da911742072381550138cfbbf105f688b4d8acb/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/megaton-musashi-w-wired-ps5/"
     },
     {
       "titleId": "PPSA36082",
@@ -1147,6 +1501,52 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/3101/2ba9c1b910e2d5544ffa9d2dc648bf5c16008e4244e4b5f2.png?w=260",
       "description": "Variant: v01.008\nRelease note: DYNASTY WARRIORS ORIGINS (v01.008) – BP 4.xx – PPSA15972 – FPKG\nContributor: Thanks to DecKerr97 for the Files with BackPort and drakmor for ampr-emu.\n\nVariant: JPN exFAT 01.008\nRegion: JPN\nRelease note: exFAT format — FW 01.008 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/dynasty-warriors-origins-ps5/"
+    },
+    {
+      "titleId": "PPSA09826",
+      "title": "Gothic 1 Remake",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/k0embbX8lmVb/file"
+        },
+        {
+          "name": "USA 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Pbe3PajwEzlX/file"
+        },
+        {
+          "name": "USA 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/0Kezk7r8JzD1/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/OvMWm"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/KtVfE"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1TXtUu"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/sHdT0PlKsA"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/ccXrHOq6r8"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/hqC4h4UZhl"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09826_b477ed052c954b7edf42c93213251d6ef991ca16fc5c85f1b9e9fdea8b741dba/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher",
+      "downloadSource": "https://dlpsgame.com/gothic-1-remake-ps5/"
     },
     {
       "titleId": "PPSA32310",
@@ -1542,6 +1942,40 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2509/00c1e572d0de4274a103a5b96a0693b22100a082875ae186.png?w=260",
       "description": "Region: EUR\nRelease note: DLCs Merged.\nContributor: Thanks to Dunaevnick for the Files, DecKerr97 for the BackPort and drakmor for dlc-emu.\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/the-smurfs-dreams-ps5/"
+    },
+    {
+      "titleId": "PPSA18083",
+      "title": "Megaton Musashi W Wired",
+      "downloadLinks": [
+        {
+          "name": "EUR 7.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/9AqGQZyPbmMn/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/gXeGOAyjP3Aa/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/BnkmWvyKdGR0/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/F9Cfw"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1NnaZk"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/NCuP2"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18083_9e03698cdbfb021391a55f942da911742072381550138cfbbf105f688b4d8acb/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/megaton-musashi-w-wired-ps5/"
     },
     {
       "titleId": "PPSA07286",
@@ -70905,7 +71339,7 @@
           "url": "https://gofile.io/d/G8MRnR"
         },
         {
-          "name": "JPN 7.xx Base - 1File",
+          "name": "JPN 7.xx Base - 1fichier part 3",
           "url": "https://1fichier.com/?l249sk5kh6piirtv99y6"
         },
         {
@@ -72063,11 +72497,11 @@
           "url": "https://www.mediafire.com/file/ro957t6i7fcrb3y/[DLPSGAME.COM]-PPSA05887-DUPLEX.part09.rar/file"
         },
         {
-          "name": "7.xx Base - Akia",
+          "name": "7.xx Base - Akirabox part 10",
           "url": "https://akirabox.com/vgKGxXW14G8Q/file"
         },
         {
-          "name": "7.xx Base - Viki",
+          "name": "7.xx Base - Vikingfile part 10",
           "url": "https://vikingfile.com/f/tjI7YnjdDr"
         },
         {
@@ -72821,7 +73255,7 @@
       "title": "Dragon Age The Veilguard",
       "downloadLinks": [
         {
-          "name": "9.xx Base - Akirabox",
+          "name": "9.xx Base - Akirabox part 1",
           "url": "https://akirabox.com/BnkmWE97rzR0/file"
         },
         {
@@ -72829,11 +73263,11 @@
           "url": "https://vikingfile.com/f/Ost9HEa3ce"
         },
         {
-          "name": "9.xx Base - 1fichier",
+          "name": "9.xx Base - 1fichier part 1",
           "url": "https://1fichier.com/?jau5cw1g6v2radgk8pdm"
         },
         {
-          "name": "9.xx Base - Rootz",
+          "name": "9.xx Base - Rootz part 1",
           "url": "https://www.rootz.so/d/2H6bia"
         },
         {
@@ -72843,6 +73277,134 @@
         {
           "name": "9.xx Base - Gofile part 2",
           "url": "https://gofile.io/d/CIajrR"
+        },
+        {
+          "name": "9.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/b5OzdVBbOmB8/file"
+        },
+        {
+          "name": "9.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/Z9dzBPkAgmk1/file"
+        },
+        {
+          "name": "9.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/RMKGJKXYlm1o/file"
+        },
+        {
+          "name": "9.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/qPez44rgpzOY/file"
+        },
+        {
+          "name": "9.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/XkrzoKr9PzBO/file"
+        },
+        {
+          "name": "9.xx Base - Akirabox part 7",
+          "url": "https://akirabox.com/Y2xm0ojvKGRO/file"
+        },
+        {
+          "name": "9.xx Base - Akirabox part 8",
+          "url": "https://akirabox.com/obj3j7bD2zDx/file"
+        },
+        {
+          "name": "9.xx Base - Akirabox part 9",
+          "url": "https://akirabox.com/9QWmpAYxL3EB/file"
+        },
+        {
+          "name": "9.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/271fhSaGjK"
+        },
+        {
+          "name": "9.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/HMxW3uNFxG"
+        },
+        {
+          "name": "9.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/hwrBWrKOyB"
+        },
+        {
+          "name": "9.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/g2pg3O9fnW"
+        },
+        {
+          "name": "9.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/1KPrdjlXko"
+        },
+        {
+          "name": "9.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/j9t0kBZgWD"
+        },
+        {
+          "name": "9.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/tA6thA4Gev"
+        },
+        {
+          "name": "9.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/hYp4lJLL7b"
+        },
+        {
+          "name": "9.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?7veya3dbmtxs0d94vxld"
+        },
+        {
+          "name": "9.xx Base - 1fichier part 3",
+          "url": "https://1fichier.com/?cxnfcnjyrefdjhal0ka1"
+        },
+        {
+          "name": "9.xx Base - 1fichier part 4",
+          "url": "https://1fichier.com/?8k5r2riasx73rx5ocod0"
+        },
+        {
+          "name": "9.xx Base - 1fichier part 5",
+          "url": "https://1fichier.com/?ctalbaswokess5k1aqyp"
+        },
+        {
+          "name": "9.xx Base - 1fichier part 6",
+          "url": "https://1fichier.com/?bdaostrkhy0m6ot27lb2"
+        },
+        {
+          "name": "9.xx Base - 1fichier part 7",
+          "url": "https://1fichier.com/?7rty5jqsnyetpm0t1i2r"
+        },
+        {
+          "name": "9.xx Base - 1fichier part 8",
+          "url": "https://1fichier.com/?6cxouo6zb6yprbtjd40r"
+        },
+        {
+          "name": "9.xx Base - 1fichier part 9",
+          "url": "https://1fichier.com/?2wp81bktbepglnns1eoj"
+        },
+        {
+          "name": "9.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/de8Zs"
+        },
+        {
+          "name": "9.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1uMECm"
+        },
+        {
+          "name": "9.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1qKNLE"
+        },
+        {
+          "name": "9.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/ZcHiK"
+        },
+        {
+          "name": "9.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/VaQuu"
+        },
+        {
+          "name": "9.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/1iGfc8"
+        },
+        {
+          "name": "9.xx Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/1yO50C"
+        },
+        {
+          "name": "9.xx Base - Rootz part 9",
+          "url": "https://www.rootz.so/d/1mIWTg"
         },
         {
           "name": "9.xx DLC (@Pkykzhack) - Akirabox",
@@ -72861,43 +73423,43 @@
           "url": "https://rootz.so/d/91DDU"
         },
         {
-          "name": "9.xx BackPort 4.xx - Mediafire",
+          "name": "9.xx BackPort 4.xx - Mediafire part 1",
           "url": "https://www.mediafire.com/file/q1dsk5qk8m1gbd7/4_XX+PPSA01390_01_00_Dragon_Age_The_Veilguard_Backport__By_BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
-          "name": "9.xx BackPort 4.xx - Akirabox",
+          "name": "9.xx BackPort 4.xx - Akirabox part 1",
           "url": "https://akirabox.com/9QWmpgbYAGEB/file"
         },
         {
-          "name": "9.xx BackPort 4.xx - Vikingfile",
+          "name": "9.xx BackPort 4.xx - Vikingfile part 1",
           "url": "https://vikingfile.com/f/sa6YUW38BB"
         },
         {
-          "name": "9.xx BackPort 4.xx - 1fichier",
+          "name": "9.xx BackPort 4.xx - 1fichier part 1",
           "url": "https://1fichier.com/?3c2ogq1bo8k49k7j2fy2"
         },
         {
-          "name": "9.xx BackPort 4.xx - Rootz",
+          "name": "9.xx BackPort 4.xx - Rootz part 1",
           "url": "https://www.rootz.so/d/nn5tI"
         },
         {
-          "name": "9.xx BackPort 5.xx - Mediafire",
+          "name": "9.xx BackPort 4.xx - Mediafire part 2",
           "url": "https://www.mediafire.com/file/u839p3hig6jxqf8/5_XX+PPSA01390_01_00_Dragon_Age_The_Veilguard_Backport__By_BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
-          "name": "9.xx BackPort 5.xx - Akirabox",
+          "name": "9.xx BackPort 4.xx - Akirabox part 2",
           "url": "https://akirabox.com/obj3jvBbd3Dx/file"
         },
         {
-          "name": "9.xx BackPort 5.xx - Vikingfile",
+          "name": "9.xx BackPort 4.xx - Vikingfile part 2",
           "url": "https://vikingfile.com/f/FVskUHYBV8"
         },
         {
-          "name": "9.xx BackPort 5.xx - 1fichier",
+          "name": "9.xx BackPort 4.xx - 1fichier part 2",
           "url": "https://1fichier.com/?g9x7e6oicjks43c3fyp5"
         },
         {
-          "name": "9.xx BackPort 5.xx - Rootz",
+          "name": "9.xx BackPort 4.xx - Rootz part 2",
           "url": "https://www.rootz.so/d/20TKaW"
         },
         {
@@ -122233,6 +122795,21 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0617/F7z6c9GM1VGoqfYxHorvMjzL.png?w=260",
       "description": "Variant: Release 1\nContributor: pkg.games\n\nVariant: USA exFAT 01.004\nRegion: USA\nRelease note: exFAT format — FW 01.004 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
+    },
+    {
+      "titleId": "PPSA15595",
+      "title": "[exFAT] Marvels Tokon Fighting Souls",
+      "downloadLinks": [
+        {
+          "name": "DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiazlEeU1FS0Z6V01SU2d5RisxSjVqY1kwbnJTeHQxam80eVV5bkpDc3lWOUVER3huVUpCZGxzNWJ4SkV5bWgwdnhGVk0xeXNLZnBNVzkxRGMydTlXb1NiWFU5OTEiLCJpIjoiV3Q5QzNzL0RBekdGZDdlNSIsIm4iOiJEYXRhIn0="
+        }
+      ],
+      "version": "01.002.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0407/ace9ff730b9916b1c491de681758cdbbdcdce172e0f36147.png?w=260",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 01.002.003 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
       "titleId": "PPSA28183",
