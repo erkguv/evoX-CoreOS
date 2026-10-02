@@ -26,14 +26,11 @@ def clean_latest_versions_only(flat_list):
         if not isinstance(item, dict):
             continue
         name = item.get("name", "")
-        # Normaliser le nom pour regrouper les versions d'un même outil (ex: CheatRunner)
         base_key = name.lower().split('_v')[0].split(' v')[0].strip()
         
-        # On privilégie l'élément qui a la version la plus récente ou le fichier le plus récent
         if base_key not in latest_map:
             latest_map[base_key] = item
         else:
-            # Simple logique de comparaison de version / nom de fichier
             existing_filename = latest_map[base_key].get("filename", "")
             current_filename = item.get("filename", "")
             if current_filename > existing_filename:
@@ -54,7 +51,6 @@ def recover_local_orphans(category_name, flat_list, allowed_exts):
     recovered_count = 0
 
     for dirpath, _, filenames in os.walk(root_dir):
-        # Ignorer le dossier d'archives s'il se trouve par erreur dedans
         if "archives" in dirpath.split(os.sep):
             continue
 
@@ -103,7 +99,6 @@ def recover_local_orphans(category_name, flat_list, allowed_exts):
     if recovered_count > 0:
         print(f"    ✅ {recovered_count} élément(s) local(aux) préservé(s) pour {category_name}.")
     
-    # Ne garder que la dernière version de chaque outil pour éviter le spam dans le JSON
     flat_list = clean_latest_versions_only(flat_list)
     return flat_list
 
@@ -128,13 +123,13 @@ def generate_release_notes(data_store_by_cat):
     content += "#### 📂 Fichiers inclus / mis à jour :\n"
     content += "📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)\n\n"
 
-    content += "#### 🛠️ Détail des Packs & Contenu\n"
+    content += "#### 🛠️️ Détail des Packs & Contenu\n"
     
     icons = {
         "payloads": "⚡",
         "pkg": "🎮",
         "ffpfsc": "📄",
-        "apps": "🛠️️"
+        "apps": "🛠"
     }
 
     for cat_key in categories:
@@ -195,10 +190,8 @@ def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
                 file_path = item.get("local_path") if isinstance(item, dict) else None
                 if file_path and os.path.exists(file_path):
                     norm_path = os.path.abspath(file_path)
-                    # Sécurité absolue : ignorer tout fichier situé dans un dossier 'archives' ou 'json'
                     if "archives" in norm_path.split(os.sep) or "json" in norm_path.split(os.sep):
                         continue
-                    
                     zf.write(norm_path, arcname=os.path.basename(norm_path))
                     
         size_bytes = os.path.getsize(zip_path) if os.path.exists(zip_path) else 0
@@ -260,7 +253,7 @@ def main():
     print("🎯 [2.5/5] Génération du catalogue Pegasus-DL...")
     generate_pegasus_catalog(pkg_flat, ffpfsc_flat)
 
-    print("📡 [3/5] Génération des flux RSS et OPML...")
+    print("📡 [3/5] Génération des flux RSS et OPML... ")
     build_rss_feed(data_store_flat)
 
     print("📝 [4/4] Mise à jour du README.md, des Crédits, du Changelog et des Notes de Release...")
