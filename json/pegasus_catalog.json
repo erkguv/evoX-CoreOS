@@ -179,8 +179,9 @@
             "version": "v1.000.040",
             "checksum": "6f794bb48cc3fababefc48b0d74621e2a942dd3d533e5c3bef1643abef6db67a",
             "category": "FFPFSC",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "titleId": "PPSA99008",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ProsperoEden.png",
+            "title": "ProsperoEden"
         },
         {
             "name": "Ppsa99002",

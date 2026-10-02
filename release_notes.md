@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-2033)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-2103)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -165,6 +165,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `dump_installer.zip`
   * `dump_runner.zip`
   * `kodi-ps5-PPSA99420-0.9.zip`
+  * `EmulatorPack.zip`
+  * `ProsperoMultiTools.zip`
+  * `ProsperoExplorer-v1.zip`
 
 </details>
 

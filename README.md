@@ -380,7 +380,10 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Castation-0.4.0](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `6b17a8feaf3a...` | Dreamcast emulator based on Flycast PlayStation 5 homebrew |
 | [Dump Installer](https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip) | 1.07 | `5096f5775236...` | Dump installer howmebrew |
 | [Dump Runner](https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip) | v1.02 | `0ffc4af70b23...` | Dump runner howmebrew |
+| [Emulatorpack](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip) | v1 | `1107bc5a546a...` | Backup manager for PS5 |
 | [Kodi-Ps5-Ppsa99420-0.9](https://github.com/VivaLaVent/kodi-ps5/releases/download/0.9/kodi-ps5-PPSA99420-0.9.zip) | 0.9 | `2cd23e792952...` | kodi-ps5 |
+| [Prosperoexplorer-V1](https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip) | v1.0 | `3eaee706e8ac...` | File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network |
+| [Prosperomultitools](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip) | v1 | `0e7c60d0e860...` | Backup manager for PS5 |
 
 ---
 
@@ -433,6 +436,8 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **StonedModder** : [PS-DiscordPresence](https://github.com/StonedModder/PS-DiscordPresence)
 - **StonedModder** : [ghost-toothAPI](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/ps5_utility/ghost-toothAPI/ghost-toothAPI.elf)
 - **StonedModder** : [savemnt-offset-dumper](https://github.com/StonedModder/savemnt-offset-dumper)
+- **SvenGDK** : [Prospero Explorer](https://github.com/SvenGDK/Prospero-Explorer)
+- **SvenGDK** : [Prospero Multi Tools](https://github.com/SvenGDK/Prospero-Multi-Tools)
 - **VivaLaVent** : [kodi-ps5](https://github.com/VivaLaVent/kodi-ps5)
 - **aydencharles** : [kylin-core](https://github.com/aydencharles/kylin-core-release)
 - **aydencharles** : [onionHEN](https://github.com/aydencharles/onionHEN)

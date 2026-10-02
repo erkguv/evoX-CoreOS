@@ -128,6 +128,8 @@
       <outline text="dump_installer" title="dump_installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer" description="Dump installer howmebrew"/>
       <outline text="dump_runner" title="dump_runner" type="rss" xmlUrl="https://github.com/EchoStretch/dump_runner" description="Dump runner howmebrew"/>
       <outline text="kodi-ps5" title="kodi-ps5" type="rss" xmlUrl="https://github.com/VivaLaVent/kodi-ps5" description="kodi-ps5"/>
+      <outline text="Prospero Multi Tools" title="Prospero Multi Tools" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Multi-Tools" description="Backup manager for PS5"/>
+      <outline text="Prospero Explorer" title="Prospero Explorer" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Explorer" description="File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network"/>
     </outline>
   </body>
 </opml>

@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 21:03
+* **APPS**
+  * `Emulatorpack` (v1) - *Nouveau*
+  * `Prosperomultitools` (v1) - *Nouveau*
+  * `Prosperoexplorer-V1` (v1.0) - *Nouveau*
+
 ## Build du 02/10/2026 à 20:33
 * **FFPFSC**
   * `Prosperoeden-V1.000.040` (v1.000.040) - *Nouveau*

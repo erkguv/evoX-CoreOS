@@ -50,6 +50,36 @@
       "version": "0.9",
       "checksum": "2cd23e79295291ce065e1bc986fd055e6340267a9b946ed8f7e6018f3c33f016",
       "category": "Applications"
+    },
+    {
+      "name": "Emulatorpack",
+      "filename": "EmulatorPack.zip",
+      "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip",
+      "local_path": "apps/Prospero_Multi_Tools/v1/EmulatorPack.zip",
+      "description": "Backup manager for PS5",
+      "version": "v1",
+      "checksum": "1107bc5a546a332b921f532c8cdde977c3598714b075286d3911cd0c717b6b02",
+      "category": "Applications"
+    },
+    {
+      "name": "Prosperomultitools",
+      "filename": "ProsperoMultiTools.zip",
+      "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip",
+      "local_path": "apps/Prospero_Multi_Tools/v1/ProsperoMultiTools.zip",
+      "description": "Backup manager for PS5",
+      "version": "v1",
+      "checksum": "0e7c60d0e860cd0cafb939f668ccae57f53503f2c2371b4193a81ab306346d6b",
+      "category": "Applications"
+    },
+    {
+      "name": "Prosperoexplorer-V1",
+      "filename": "ProsperoExplorer-v1.zip",
+      "url": "https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip",
+      "local_path": "apps/Prospero_Explorer/v1.0/ProsperoExplorer-v1.zip",
+      "description": "File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network",
+      "version": "v1.0",
+      "checksum": "3eaee706e8aca772fce734b494e56729ddedec218597ab9baf940094a0cdfc7e",
+      "category": "Applications"
     }
   ]
 }
