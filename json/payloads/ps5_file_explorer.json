@@ -42,16 +42,6 @@
       "checksum": "7a6369489143c2b8887331a7235a6a77dd5667c794c4234973f8159fed92fe24"
     },
     {
-      "name": "Wfm-7Zip-Helper V1.9",
-      "filename": "wfm-7zip-helper_v1.9.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/wfm-7zip-helper_v1.9.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/wfm-7zip-helper_v1.9.elf",
-      "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.9",
-      "category": "PS5 File Explorer",
-      "checksum": "7a6369489143c2b8887331a7235a6a77dd5667c794c4234973f8159fed92fe24"
-    },
-    {
       "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",
       "filename": "PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf",

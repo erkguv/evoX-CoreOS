@@ -30,6 +30,16 @@
       "version": "1.2-dr-test1",
       "category": "PS5 Kstuff",
       "checksum": "9c1b242eaed3704ef18be45d001a2c4ebf2d9222cfe3cbb0f0c3db33309abac9"
+    },
+    {
+      "name": "Kstuff-A53 Sonic V1.4",
+      "filename": "kstuff-a53_SoNic_v1.4.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf",
+      "local_path": "payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf",
+      "description": "SoNic variant of kstuff-a53.",
+      "version": "1.4",
+      "category": "PS5 Kstuff",
+      "checksum": "675bef691b1bd1ee14956409aa3947ef9fd52dc36034dbd18d7c55d469e08d23"
     }
   ]
 }

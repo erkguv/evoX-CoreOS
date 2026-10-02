@@ -18,7 +18,7 @@
       <outline text="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" title="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-Kstuff-ShadowMountPlus-3in1.elf" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
       <outline text="A53-kstuff-SMP_SoNic-AIO_Experimental" title="A53-kstuff-SMP_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-kstuff-SMP.elf" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
       <outline text="Kstuff-NG_EchoStrech_Experimental" title="Kstuff-NG_EchoStrech_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/PS5_Beta/Kstuff-NG/Kstuff-NG_v1.00.elf" description="Experimental Kstuff NG"/>
-      <outline text="kstuff_Darkmor_Experimental" title="kstuff_Darkmor_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/PS5_Beta/Kstuff-Darkmor/kstuff-1.13-fpkg-dr-test3.elf" description="Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3"/>
+      <outline text="kstuff_Darkmor_Experimental" title="kstuff_Darkmor_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/PS5_Beta/Kstuff-Darkmor/kstuff-1.13-fpkg-dr-test5.elf" description="Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3"/>
       <outline text="A53 1.00-11.40 Experimental KS-D" title="A53 1.00-11.40 Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1140_20.09.elf" description="a53_ppr_install_1140_20.09.elf - support 1.00-11.40"/>
       <outline text="A53 11.60 only Experimental KS-D" title="A53 11.60 only Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1160_20.09.elf" description="a53_ppr_install_1160_20.09.elf - 11.60 only"/>
       <outline text="ps5-webkit-autoloader" title="ps5-webkit-autoloader" type="rss" xmlUrl="https://github.com/itsPLK/ps5-webkit-autoloader" description="Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00."/>
@@ -87,6 +87,7 @@
       <outline text="kstuff-lite_EchoStretch" title="kstuff-lite_EchoStretch" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff-lite" description="Lightweight version of kstuff."/>
       <outline text="kstuff-toggle" title="kstuff-toggle" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff-toggle" description="Utility to toggle kstuff features."/>
       <outline text="kstuff-lite_drakmor" title="kstuff-lite_drakmor" type="rss" xmlUrl="https://github.com/drakmor/kstuff-lite" description="Drakmor's variant of kstuff-lite."/>
+      <outline text="kstuff-a53_SoNic" title="kstuff-a53_SoNic" type="rss" xmlUrl="https://github.com/Soonniicc/kstuff-a53" description="SoNic variant of kstuff-a53."/>
       <outline text="nanoDNS" title="nanoDNS" type="rss" xmlUrl="https://github.com/drakmor/nanoDNS" description="Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d'exploits."/>
       <outline text="Chukei DNS" title="Chukei DNS" type="rss" xmlUrl="https://github.com/Al-Azif/chukei-dns" description="Serveur DNS de redirection d'envergure conçu spécifiquement pour bloquer les mises à jour de Sony et rediriger le guide de l'utilisateur."/>
       <outline text="PS5-Game-Compressor" title="PS5-Game-Compressor" type="rss" xmlUrl="https://github.com/juma-sayeh/PS5-Game-Compressor" description="Tool to compress PS5 games."/>
@@ -116,6 +117,7 @@
       <outline text="Spectrum-Library" title="Spectrum-Library" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library" description="Spectrum-Library FreeShop."/>
     </outline>
     <outline text="Ffpfsc" title="Ffpfsc">
+      <outline text="ProsperoEden" title="ProsperoEden" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoEden" description="PS5 Switch emulator"/>
       <outline text="ProsperoLight" title="ProsperoLight" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoLight" description="PS5 Moonlight"/>
       <outline text="ProsperoRadio" title="ProsperoRadio" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoRadio" description="PS5 Radio Player"/>
       <outline text="ProsperoTV" title="ProsperoTV" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoTV" description="PS5 IPTV"/>

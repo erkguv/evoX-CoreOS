@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 02:35
+* **PAYLOADS**
+  * `Kstuff-1.13-Fpkg-Dr-Test5` (Source-Fixe) - *Nouveau*
+  * `Zhttp V1.6.0` (v1.6.0) - *Nouveau*
+  * `Zftpd V1.6.0` (v1.6.0) - *Nouveau*
+  * `Kstuff-A53 Sonic V1.4` (1.4) - *Nouveau*
+
 ## Build du 02/10/2026 à 01:53
 * **PAYLOADS**
   * `Spectrum-Library V1.4.8` (1.4.8) - *Nouveau*

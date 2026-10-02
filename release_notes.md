@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-0153)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-0235)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -25,13 +25,13 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `lapy_jb_daemon.elf`
   * `web-file-mgr_v1.9.elf`
   * `wfm-7zip-helper.elf`
-  * `wfm-7zip-helper_v1.9.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
   * `A53-kstuff-SMP.elf`
   * `Kstuff-NG_v1.00.elf`
   * `kstuff_v1.12-dr-test8.elf`
   * `kstuff-1.13-fpkg-dr-test3.elf`
+  * `kstuff-1.13-fpkg-dr-test5.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
   * `webkit-autoloader-installer_v0.5.2.elf`
@@ -39,6 +39,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
+  * `zhttp_v1.6.0.elf`
+  * `zftpd_v1.6.0.elf`
   * `elfldr_v0.26.elf`
   * `ftpsrv_ps5-payload_v0.21.1.elf`
   * `websrv_v0.34.elf`
@@ -101,6 +103,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.11.elf`
   * `kstuff-lite_drakmor_v1.2-dr-test1.elf`
+  * `kstuff-a53_SoNic_v1.4.elf`
   * `nanoDNS_v0.4.elf`
   * `Chukei_DNS_v0.9.0.elf`
   * `PS5-Game-Compressor_v1.0.4.elf`
@@ -149,7 +152,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 * **apps**
   * `PPSA99004.zip`
   * `castation-0.4.0.zip`
-  * `dump_installer.zip`
   * `dump_runner.zip`
   * `kodi-ps5-PPSA99420-0.9.zip`
 
