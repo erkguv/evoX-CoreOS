@@ -134,7 +134,7 @@ def generate_release_notes(data_store_by_cat):
         "payloads": "⚡",
         "pkg": "🎮",
         "ffpfsc": "📄",
-        "apps": "🛠️"
+        "apps": "🛠️️"
     }
 
     for cat_key in categories:
@@ -184,19 +184,23 @@ def generate_release_notes(data_store_by_cat):
     print("    ✅ Fichier release_notes.md généré avec succès !")
 
 def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
-    print("📦 [Bonus] Génération des archives AIO ZIP dans le dossier 'archives'...")
+    print("📦 [Bonus] Génération des archives AIO ZIP dans le dossier 'archives' uniquement...")
     archives_dir = PATHS.get("archives_dir", "archives")
     os.makedirs(archives_dir, exist_ok=True)
 
     def create_zip(zip_name, items):
-        zip_path = os.path.join(archives_dir, zip_name)
+        zip_path = os.path.abspath(os.path.join(archives_dir, zip_name))
         with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zf:
             for item in items:
                 file_path = item.get("local_path") if isinstance(item, dict) else None
                 if file_path and os.path.exists(file_path):
-                    # Éviter d'ajouter une archive dans sa propre création
-                    if "archives" not in file_path.split(os.sep):
-                        zf.write(file_path, arcname=os.path.basename(file_path))
+                    norm_path = os.path.abspath(file_path)
+                    # Sécurité absolue : ignorer tout fichier situé dans un dossier 'archives' ou 'json'
+                    if "archives" in norm_path.split(os.sep) or "json" in norm_path.split(os.sep):
+                        continue
+                    
+                    zf.write(norm_path, arcname=os.path.basename(norm_path))
+                    
         size_bytes = os.path.getsize(zip_path) if os.path.exists(zip_path) else 0
         print(f"    ➔ Archive générée : {zip_path} ({size_bytes} octets)")
 
