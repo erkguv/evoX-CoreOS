@@ -193,6 +193,20 @@ REPO_RULES = {
             ]
         },
 
+        # --- Dépôt SvenGDK/Prospero-Multi-Tools (Apps ZIP) ---
+        "SvenGDK/Prospero-Multi-Tools": {
+            "release_channel": "stable",
+            "allowed_extensions": [".zip"],
+            "keep_original": True,
+            "strict_clean": True,
+            "targets": [
+                {
+                    "match": "EmulatorPack",
+                    "rename": "ProsperoMultiTools_EmulatorPack.zip"
+                }
+            ]
+        },
+
         # --- 5. Dépôts avec mappings spécifiques et règles poussées ---
         "seregonwar/zftpd": {
             "release_channel": "stable",
