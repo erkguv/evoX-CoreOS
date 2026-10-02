@@ -207,6 +207,18 @@ REPO_RULES = {
             ]
         },
 
+        # --- Dépôt StonedModder/ActRemoteLink-13.x (Multi-ELF) ---
+        "StonedModder/ActRemoteLink-13.x": {
+            "release_channel": "stable",
+            "allowed_extensions": [".elf"],
+            "keep_original": True,
+            "strict_clean": True,
+            "targets": [
+                {"match": "actremotelink_agent", "rename": "actremotelink_agent_v{version}.elf"},
+                {"match": "actremotelink_pin_notify", "rename": "actremotelink_pin_notify_v{version}.elf"}
+            ]
+        },
+
         # --- 5. Dépôts avec mappings spécifiques et règles poussées ---
         "seregonwar/zftpd": {
             "release_channel": "stable",
