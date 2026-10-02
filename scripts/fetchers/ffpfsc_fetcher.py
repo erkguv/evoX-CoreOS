@@ -1,4 +1,3 @@
-# scripts/fetchers/ffpfsc_fetcher.py
 import os
 from scripts.config_rules import PATHS
 from scripts.fetchers.utils import parse_opml_file, fetch_assets_from_url
@@ -22,11 +21,11 @@ def fetch_ffpfsc_category(credits_set):
             desc = entry.get('description', '')
             if not xml_url: continue
 
+            # Appel avec l'extension .ffpfsc autorisée par défaut
             assets = fetch_assets_from_url(xml_url, title, desc, author, ('.ffpfsc',), category_folder="ffpfsc")
             
             for item in assets:
-                # 🛑 FILTRAGE STRICT : On s'assure de ne garder que les fichiers .ffpfsc et d'ignorer les .zip
-                file_url = item.get("url", "") or item.get("file_name", "")
+                file_url = item.get("url", "") or item.get("filename", "")
                 if not file_url.lower().endswith('.ffpfsc'):
                     continue
 
