@@ -220,6 +220,16 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Pkg-Manager V1.4.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf) | v1.4.1 | `09adaff13b85...` | A clean and intuitive package manager for PlayStation 5 |
 | [Pkg-Receiver V1.2.8](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.8/pkg-receiver_v1.2.8.elf) | v1.2.8 | `6946d52c6c04...` | A package manager for PlayStation 5 need PkgSender android app or windows app |
 
+### 📂 PS5 Remote
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/PS5_Remote.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| [Actremotelink Agent V2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf) | v2.0 | `c3a4195b86ea...` | ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play |
+| [Actremotelink Pin Notify V2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_pin_notify_v2.0.elf) | v2.0 | `707ea60d186b...` | ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play |
+
 ### 📂 PS5 Saves
 
 > **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_saves.json`
@@ -431,6 +441,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **SoNic-AIO** : [A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-Kstuff-ShadowMountPlus-3in1.elf)
 - **SoNic-AIO** : [A53-kstuff-SMP_SoNic-AIO_Experimental](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-kstuff-SMP.elf)
 - **SonicIso** : [ELF Arsenal](https://git.etawen.dev/soniciso/elf-arsenal)
+- **StonedModder** : [ActRemoteLink-13.x](https://github.com/StonedModder/ActRemoteLink-13.x)
 - **StonedModder** : [ChronicLoader-PS5-Payload](https://github.com/StonedModder/ChronicLoader-PS5-Payload)
 - **StonedModder** : [PS Game State Lib](https://github.com/StonedModder/ps-game-state-lib)
 - **StonedModder** : [PS-DiscordPresence](https://github.com/StonedModder/PS-DiscordPresence)

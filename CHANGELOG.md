@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 21:34
+* **PAYLOADS**
+  * `Actremotelink Agent V2.0` (v2.0) - *Nouveau*
+  * `Actremotelink Pin Notify V2.0` (v2.0) - *Nouveau*
+
 ## Build du 02/10/2026 à 21:03
 * **APPS**
   * `Emulatorpack` (v1) - *Nouveau*

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-2103)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-2134)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -68,6 +68,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent-0.2.55.elf`
+  * `actremotelink_agent_v2.0.elf`
+  * `actremotelink_pin_notify_v2.0.elf`
   * `bfplayer-standalone.elf`
   * `ProsperoPlayer_v1.0.elf`
   * `svtplay_v0.3.elf`
