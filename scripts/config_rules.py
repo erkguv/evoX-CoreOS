@@ -5,7 +5,7 @@ GITHUB_REPO_ENV = os.environ.get('GITHUB_REPOSITORY', '')
 if '/' in GITHUB_REPO_ENV:
     GITHUB_USER, REPO_NAME = GITHUB_REPO_ENV.split('/', 1)
 else:
-    GITHUB_USER, REPO_NAME = 'nexgen999', 'PS5-Super-PLDMGR-Auto-Updater-Core_OS' 
+    GITHUB_USER, REPO_NAME = 'nexgen999', 'PS5-Super-PLDMGR-Auto-Updater-Core_OS'  
 BASE_URL = f"https://{GITHUB_USER}.github.io/{REPO_NAME}"
 
 PATHS = {
@@ -26,6 +26,10 @@ PATHS = {
 # MOTEUR DE RÈGLES UNIFIÉ ET GRANULAIRE PAR DÉPÔT
 # =========================================================================
 REPO_RULES = {
+    # Option globale pour activer la détection automatique des pré-releases en cas d'absence de release stable
+    "global_settings": {
+        "auto_fallback_pre_release": True
+    },
     "custom_payload_rules": {
         
         # --- 1. Dépôts avec conservation du nom d'origine ---
@@ -56,10 +60,20 @@ REPO_RULES = {
             "release_channel": "stable"
         },
 
-        # --- 2. Dépôts avec extraction de ZIP ---
+        # --- 2. Dépôts avec extraction de ZIP ou fichiers ELF récents ---
+        "drakmor/shadowmountplus": {
+            "extract_zip": False,
+            "release_channel": "pre-release",
+            "allowed_extensions": [".elf", ".zip"],
+            "keep_original": True,
+            "strict_clean": False
+        },
         "shadowmountplus": {
-            "extract_zip": True,
-            "release_channel": "stable"
+            "extract_zip": False,
+            "release_channel": "pre-release",
+            "allowed_extensions": [".elf", ".zip"],
+            "keep_original": True,
+            "strict_clean": False
         },
         "fan_target": {
             "extract_zip": True,
@@ -87,7 +101,13 @@ REPO_RULES = {
             "release_channel": "stable"
         },
 
-        # --- 4. Dépôts en Pre-Release configurés ---
+        # --- 4. Dépôts en Pre-Release configurés (dont ProsperoEden & ShadowMountPlus) ---
+        "blackbearreloaded/prosperoeden": {
+            "release_channel": "pre-release",
+            "allowed_extensions": [".elf", ".bin", ".ffpfsc"],
+            "strict_clean": True,
+            "keep_original": True
+        },
         "rdiol12/ps5library": {
             "release_channel": "pre-release",
             "allowed_extensions": [".elf"],
