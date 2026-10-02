@@ -45,7 +45,7 @@ def get_repo_config(repo_lower):
     return config
 
 def fetch_github_release_data(repo, config):
-    """Interroge l'API GitHub via l'API REST standard (plus robuste que la CLI gh)."""
+    """Interroge l'API GitHub en gérant proprement le canal pre-release et le fallback 404."""
     channel = config.get("release_channel", "stable")
     try:
         url = f"https://api.github.com/repos/{repo}/releases"
@@ -67,23 +67,45 @@ def fetch_github_release_data(repo, config):
             elif isinstance(data, dict):
                 return data
                 
+    except urllib.error.HTTPError as e:
+        # Fallback de secours si /latest renvoie 404 (cas fréquent des pre-releases pures)
+        if e.code == 404 and channel != "pre-release":
+            try:
+                fallback_url = f"https://api.github.com/repos/{repo}/releases"
+                req = urllib.request.Request(fallback_url, headers={
+                    'User-Agent': 'Mozilla/5.0',
+                    'Accept': 'application/vnd.github.v3+json'
+                })
+                if os.environ.get('GITHUB_TOKEN'):
+                    req.add_header('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}")
+                with urllib.request.urlopen(req) as resp:
+                    fallback_data = json.loads(resp.read().decode())
+                    if isinstance(fallback_data, list) and fallback_data:
+                        return fallback_data[0]
+            except Exception:
+                pass
+        print(f"    ⚠️ Erreur de récupération GitHub pour {repo}: {e}")
     except Exception as e:
         print(f"    ⚠️ Erreur de récupération GitHub pour {repo}: {e}")
     
     return None
 
 def fetch_forgejo_release_data(domain, repo, config):
-    """Interroge l'API Forgejo / Gitea sans token (gère les erreurs 401 proprement)."""
+    """Interroge l'API Forgejo / Gitea en injectant le token d'accès s'il est présent."""
     api_url = f"https://{domain}/api/v1/repos/{repo}/releases"
     try:
         req = urllib.request.Request(api_url, headers={'User-Agent': 'Mozilla/5.0'})
+        token = os.environ.get('FORGEJO_TOKEN')
+        if token:
+            req.add_header('Authorization', f"token {token}")
+            
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode())
             if data and isinstance(data, list):
                 return data[0]
     except urllib.error.HTTPError as e:
         if e.code == 401:
-            print(f"    ⚠️ Dépôt Forgejo privé ou restreint ({repo} sur {domain}) : Accès non autorisé (401). Ignoré.")
+            print(f"    ⚠️ Dépôt Forgejo privé ou restreint ({repo} sur {domain}) : Accès non autorisé (401). Vérifie ton token.")
         else:
             print(f"    ⚠️ Erreur HTTP {e.code} pour Forgejo ({repo} sur {domain}) : {e.reason}")
     except Exception as e:
@@ -189,8 +211,16 @@ def fetch_assets_from_url(xml_url, title, description, author, default_allowed_e
 
                     opener = urllib.request.build_opener()
                     opener.addheaders = [('User-Agent', 'Mozilla/5.0'), ('Accept', 'application/octet-stream')]
-                    if not is_forgejo and os.environ.get('GITHUB_TOKEN'):
-                        opener.addheaders.append(('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}"))
+                    
+                    # Injection des tokens d'authentification pour le téléchargement des assets
+                    if is_forgejo:
+                        token = os.environ.get('FORGEJO_TOKEN')
+                        if token:
+                            opener.addheaders.append(('Authorization', f"token {token}"))
+                    else:
+                        if os.environ.get('GITHUB_TOKEN'):
+                            opener.addheaders.append(('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}"))
+                            
                     urllib.request.install_opener(opener)
                     urllib.request.urlretrieve(asset_url, local_file_path)
 
