@@ -1,4 +1,3 @@
-# scripts/fetchers/utils.py
 import os
 import re
 import json
@@ -46,7 +45,7 @@ def get_repo_config(repo_lower):
     return config
 
 def fetch_github_release_data(repo, config):
-    """Interroge l'API GitHub en tenant compte du canal de release (stable / pre-release)."""
+    """Interroge l'API GitHub standard."""
     channel = config.get("release_channel", "stable")
     try:
         if channel == "pre-release":
@@ -58,11 +57,25 @@ def fetch_github_release_data(repo, config):
             release_json_str = subprocess.check_output(f"gh api repos/{repo}/releases/latest", shell=True).decode().strip()
             return json.loads(release_json_str)
     except Exception as e:
-        print(f"    ⚠️ Erreur lors de la récupération de la release pour {repo}: {e}")
+        print(f"    ⚠️ Erreur lors de la récupération de la release GitHub pour {repo}: {e}")
+    return None
+
+def fetch_forgejo_release_data(domain, repo, config):
+    """Interroge l'API des instances Forgejo / Gitea (ex: git.etawen.dev)."""
+    api_url = f"https://{domain}/api/v1/repos/{repo}/releases"
+    try:
+        req = urllib.request.Request(api_url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req) as response:
+            data = json.loads(response.read().decode())
+            if data and isinstance(data, list):
+                # Forgejo renvoie une liste de releases triées par date
+                return data[0]
+    except Exception as e:
+        print(f"    ⚠️ Erreur lors de la récupération Forgejo pour {repo} sur {domain}: {e}")
     return None
 
 def fetch_assets_from_url(xml_url, title, description, author, default_allowed_exts, category_folder="pkg"):
-    """Moteur générique unifié compatible avec les appels des fetchers."""
+    """Moteur générique unifié compatible GitHub, Forgejo/Gitea et sources fixes."""
     if not xml_url or "ps4" in title.lower() or "ps4" in description.lower():
         return []
 
@@ -71,7 +84,7 @@ def fetch_assets_from_url(xml_url, title, description, author, default_allowed_e
     processed_items = []
     category_root_path = category_folder
 
-    # Source fixe directe
+    # Source fixe directe (.elf, .bin, .ffpfsc)
     if clean_xml_url.endswith(default_allowed_exts):
         try:
             version = "Source-Fixe"
@@ -93,7 +106,7 @@ def fetch_assets_from_url(xml_url, title, description, author, default_allowed_e
                 processed_items.append({
                     "name": display_name.replace('_', ' ').title(),
                     "filename": f_name,
-                    "url": xml_url,  # <-- URL d'origine directe
+                    "url": xml_url,
                     "local_path": local_file_path,
                     "description": description if description else f"Fichier {display_name}",
                     "version": version,
@@ -103,94 +116,85 @@ def fetch_assets_from_url(xml_url, title, description, author, default_allowed_e
             print(f"    ⚠️ Échec source fixe ({title}) : {e}")
         return processed_items
 
-    # Dépôt GitHub
-    if "github.com" in xml_url:
-        repo_match = re.search(r'github\.com/([^/]+/[^/]+)', xml_url)
-        if repo_match:
-            repo = repo_match.group(1).rstrip('/')
-            repo_lower = repo.lower()
-            rules = get_repo_config(repo_lower)
-            
-            allowed_exts = rules.get("allowed_extensions", default_allowed_exts)
-            exclude_exts = rules.get("exclude_extensions", [])
-            exclude_keys = rules.get("exclude_keywords", [])
+    # Détection Forgejo / Gitea (ex: git.etawen.dev)
+    is_forgejo = False
+    forgejo_domain = ""
+    repo_path = ""
+    
+    if "git.etawen.dev" in xml_url:
+        is_forgejo = True
+        forgejo_domain = "git.etawen.dev"
+        match = re.search(r'git\.etawen\.dev/([^/]+/[^/]+)', xml_url)
+        if match:
+            repo_path = match.group(1).rstrip('/')
 
-            try:
+    # Dépôt GitHub ou Forgejo
+    if "github.com" in xml_url or is_forgejo:
+        repo_match = re.search(r'github\.com/([^/]+/[^/]+)', xml_url) if not is_forgejo else None
+        repo = repo_match.group(1).rstrip('/') if repo_match else repo_path
+        repo_lower = repo.lower()
+        rules = get_repo_config(repo_lower)
+        
+        allowed_exts = rules.get("allowed_extensions", default_allowed_exts)
+        exclude_exts = rules.get("exclude_extensions", [])
+        exclude_keys = rules.get("exclude_keywords", [])
+
+        try:
+            if is_forgejo:
+                release_data = fetch_forgejo_release_data(forgejo_domain, repo, rules)
+            else:
                 release_data = fetch_github_release_data(repo, rules)
-                if release_data:
-                    version = release_data.get('tag_name', 'v1.0.0')
-                    version_clean = re.sub(r'[^a-zA-Z0-9._-]', '', version)
-                    target_dir = os.path.join(category_root_path, title.replace(" ", "_"), version_clean)
-                    os.makedirs(target_dir, exist_ok=True)
 
-                    if rules.get("strict_clean") and os.path.exists(target_dir):
-                        for existing_file in os.listdir(target_dir):
-                            f_path = os.path.join(target_dir, existing_file)
-                            if os.path.isfile(f_path):
-                                os.remove(f_path)
+            if release_data:
+                version = release_data.get('tag_name', release_data.get('name', 'v1.0.0'))
+                version_clean = re.sub(r'[^a-zA-Z0-9._-]', '', version)
+                target_dir = os.path.join(category_root_path, title.replace(" ", "_"), version_clean)
+                os.makedirs(target_dir, exist_ok=True)
 
-                    for asset in release_data.get('assets', []):
-                        asset_url = asset.get('browser_download_url', '')
-                        asset_name = asset.get('name', '')
+                if rules.get("strict_clean") and os.path.exists(target_dir):
+                    for existing_file in os.listdir(target_dir):
+                        f_path = os.path.join(target_dir, existing_file)
+                        if os.path.isfile(f_path):
+                            os.remove(f_path)
 
-                        if not any(asset_name.lower().endswith(ext) for ext in allowed_exts):
-                            continue
-                        if any(asset_name.lower().endswith(ext) for ext in exclude_exts):
-                            continue
-                        if any(kw in asset_name.lower() for kw in exclude_keys):
-                            continue
+                for asset in release_data.get('assets', []):
+                    asset_url = asset.get('browser_download_url', '')
+                    asset_name = asset.get('name', '')
 
-                        should_download = False
-                        target_filename = asset_name
-                        targets_list = rules.get("targets", [])
-                        custom_mapping = rules.get("mapping", {})
+                    if not any(asset_name.lower().endswith(ext) for ext in allowed_exts):
+                        continue
+                    if any(asset_name.lower().endswith(ext) for ext in exclude_exts):
+                        continue
+                    if any(kw in asset_name.lower() for kw in exclude_keys):
+                        continue
 
-                        if targets_list:
-                            for t in targets_list:
-                                if t["match"] in asset_name:
-                                    should_download = True
-                                    v_numeric = version_clean.lstrip('v')
-                                    target_filename = t["rename"].format(version=v_numeric)
-                                    break
-                        elif custom_mapping:
-                            matched_mapping = False
-                            for orig_pat, target_pat in custom_mapping.items():
-                                if orig_pat in asset_name:
-                                    should_download = True
-                                    v_numeric = version_clean.lstrip('v')
-                                    target_filename = target_pat.format(version=v_numeric) if "{version}" in target_pat else target_pat
-                                    matched_mapping = True
-                                    break
-                            if not matched_mapping and not rules.get("keep_original"):
-                                should_download = True
-                        else:
-                            should_download = True
+                    should_download = True
+                    target_filename = asset_name
+                    local_file_path = os.path.join(target_dir, target_filename)
 
-                        if should_download:
-                            local_file_path = os.path.join(target_dir, target_filename)
-                            opener = urllib.request.build_opener()
-                            opener.addheaders = [('User-Agent', 'Mozilla/5.0'), ('Accept', 'application/octet-stream')]
-                            if os.environ.get('GITHUB_TOKEN'):
-                                opener.addheaders.append(('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}"))
-                            urllib.request.install_opener(opener)
-                            urllib.request.urlretrieve(asset_url, local_file_path)
+                    opener = urllib.request.build_opener()
+                    opener.addheaders = [('User-Agent', 'Mozilla/5.0'), ('Accept', 'application/octet-stream')]
+                    if not is_forgejo and os.environ.get('GITHUB_TOKEN'):
+                        opener.addheaders.append(('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}"))
+                    urllib.request.install_opener(opener)
+                    urllib.request.urlretrieve(asset_url, local_file_path)
 
-                            hasher = hashlib.sha256()
-                            with open(local_file_path, 'rb') as fb:
-                                for chunk in iter(lambda: fb.read(4096), b""): hasher.update(chunk)
+                    hasher = hashlib.sha256()
+                    with open(local_file_path, 'rb') as fb:
+                        for chunk in iter(lambda: fb.read(4096), b""): hasher.update(chunk)
 
-                            display_name = os.path.splitext(target_filename)[0]
-                            processed_items.append({
-                                "name": display_name.replace('_', ' ').title(),
-                                "filename": target_filename,
-                                "url": asset_url,  # <-- Conserve l'URL GitHub d'origine
-                                "local_path": local_file_path,
-                                "description": description if description else f"Élément {display_name}",
-                                "version": version,
-                                "checksum": hasher.hexdigest()
-                            })
+                    display_name = os.path.splitext(target_filename)[0]
+                    processed_items.append({
+                        "name": display_name.replace('_', ' ').title(),
+                        "filename": target_filename,
+                        "url": asset_url,
+                        "local_path": local_file_path,
+                        "description": description if description else f"Élément {display_name}",
+                        "version": version,
+                        "checksum": hasher.hexdigest()
+                    })
 
-            except Exception as e:
-                print(f"    ⚠️ Échec de récupération GitHub pour {repo}: {e}")
+        except Exception as e:
+            print(f"    ⚠️ Échec de récupération pour {repo}: {e}")
 
     return processed_items
