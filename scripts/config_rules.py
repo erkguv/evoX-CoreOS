@@ -144,16 +144,16 @@ REPO_RULES = {
             "extract_zip": False,
             "download_source_archive": False,
             "mapping": {
-                "zftpd-ps5-v1.5.0.elf": "zftpd_v{version}.elf",
-                "zftpd-ps5-zhttp-v1.5.0.elf": "zhttp_v{version}.elf"
+                "zftpd-ps5-v{version}.elf": "zftpd_v{version}.elf",
+                "zftpd-ps5-zhttp-v{version}.elf": "zhttp_v{version}.elf"
             },
             "targets": [
                 {
-                    "match": "zftpd-ps5-v1.5.0.elf",
+                    "match": "zftpd-ps5-v{version}.elf",
                     "rename": "zftpd_v{version}.elf"
                 },
                 {
-                    "match": "zftpd-ps5-zhttp-v1.5.0.elf",
+                    "match": "zftpd-ps5-zhttp-v{version}.elf",
                     "rename": "zhttp_v{version}.elf"
                 }
             ]
