@@ -71,7 +71,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Np-Fake-Signin V1.4](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin_v1.4.elf) | v1.4 | `d375e0ad450e...` | Fake activate PS5 without PSN. |
+| [Np-Fake-Signin-Ps5](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf) | v1.4 | `9ec8562b3e3f...` | Fake activate PS5 without PSN. |
 
 ### 📂 PS5 Beta
 
@@ -242,8 +242,14 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Ps5-Fw-Spoof](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof.elf) | 26616621599 | `f1754521caa9...` | Firmware spoofer utility for PS5. |
 | [Ps5-Hwinfo V0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-hwinfo/0.1/ps5-hwinfo_v0.1.elf) | 0.1 | `4514bdbc0c55...` | PS5 payload for collecting hardware and runtime telemetry. |
 | [Ps5-Remoteplay-Get-Pin V0.1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-remoteplay-get-pin/v0.1.1/ps5-remoteplay-get-pin_v0.1.1.elf) | v0.1.1 | `1d611c1856dd...` | Utility to get Remote Play PIN. |
-| [Ps5-Self-Decrypter V0.5.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/PS5-SELF-Decrypter_v0.5.2.elf) | v0.5.2 | `46340d3048a9...` | SELF decrypter tool for PS5 binaries. |
-| [Ps5-Self-Pager V1.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager_v1.2.elf) | v1.2 | `2b500bc356b5...` | SELF pager payload tool. |
+| [Ps5-Self-Decrypter-Full-System](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf) | v0.5.2 | `46340d3048a9...` | SELF decrypter tool for PS5 binaries. |
+| [Ps5-Self-Decrypter-Game](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf) | v0.5.2 | `190b350759b4...` | SELF decrypter tool for PS5 binaries. |
+| [Ps5-Self-Decrypter-Shellcore](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf) | v0.5.2 | `15050c691c21...` | SELF decrypter tool for PS5 binaries. |
+| [Ps5-Self-Decrypter-System-Common-Lib](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-system-common-lib.elf) | v0.5.2 | `6a16c6457c60...` | SELF decrypter tool for PS5 binaries. |
+| [Ps5-Self-Pager-Full-System](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-full-system.elf) | v1.2 | `fb498d411261...` | SELF pager payload tool. |
+| [Ps5-Self-Pager-Game](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-game.elf) | v1.2 | `73d94fea5de9...` | SELF pager payload tool. |
+| [Ps5-Self-Pager-Shellcore](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf) | v1.2 | `2b500bc356b5...` | SELF pager payload tool. |
+| [Ps5-Self-Pager-System-Common-Lib](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-system-common-lib.elf) | v1.2 | `a86c3e69ed38...` | SELF pager payload tool. |
 | [Ps5Debug-Ng V1.3.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5debug-NG/1.3.2/ps5debug-NG_v1.3.2.elf) | 1.3.2 | `949b0e6e0fe3...` | Next generation debugger payload for PS5. |
 
 ### 📂 PS5 Server
@@ -349,7 +355,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Ppsa99002](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | 01.000.060 | `6e92e8f862cf...` | PS5 Moonlight |
 | [Ppsa99003](https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc) | 01.000.015 | `4d5ea7fd048d...` | PS5 IPTV |
 | [Prospero Radio](https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.046/PROSPERO_RADIO.ffpfsc) | 01.000.046 | `26b77747f914...` | An internet radio for PS5 with a real radio face — rendered with Vulkan. |
-| [Prosperoeden-V1.000.040](https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.000.040/ProsperoEden-v1.000.040.ffpfsc) | v1.000.040 | `6f794bb48cc3...` | PS5 Switch emulator |
 
 ---
 
@@ -433,7 +438,6 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **barisyild** : [airpsx](https://github.com/barisyild/airpsx)
 - **bizkut** : [unrar-ps5](https://github.com/bizkut/unrar-ps5)
 - **blackbearreloaded** : [ProsperoAI](https://github.com/blackbearreloaded/ProsperoAI)
-- **blackbearreloaded** : [ProsperoEden](https://github.com/blackbearreloaded/ProsperoEden/releases.atom)
 - **blackbearreloaded** : [ProsperoLight](https://github.com/blackbearreloaded/ProsperoLight)
 - **blackbearreloaded** : [ProsperoRadio](https://github.com/blackbearreloaded/ProsperoRadio)
 - **blackbearreloaded** : [ProsperoTV](https://github.com/blackbearreloaded/ProsperoTV)

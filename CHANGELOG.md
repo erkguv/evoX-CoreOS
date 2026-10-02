@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 19:13
+* **PAYLOADS**
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Nouveau*
+  * `Ps5-Self-Pager-System-Common-Lib` (v1.2) - *Nouveau*
+  * `Ps5-Self-Pager-Game` (v1.2) - *Nouveau*
+  * `Ps5-Self-Pager-Full-System` (v1.2) - *Nouveau*
+  * `Ps5-Self-Pager-Shellcore` (v1.2) - *Nouveau*
+  * `Ps5-Self-Decrypter-Game` (v0.5.2) - *Nouveau*
+  * `Ps5-Self-Decrypter-System-Common-Lib` (v0.5.2) - *Nouveau*
+  * `Ps5-Self-Decrypter-Shellcore` (v0.5.2) - *Nouveau*
+  * `Ps5-Self-Decrypter-Full-System` (v0.5.2) - *Nouveau*
+
 ## Build du 02/10/2026 à 18:28
 * **PAYLOADS**
   * `Elf Arsenal V1.6.23` (v1.6.23) - *Nouveau*

@@ -3,6 +3,46 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03671",
+      "title": "Marvels Wolverine",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/19k4qhtjwozf"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://filekeeper.net/k29x25ov0nts"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/QN9mEq1Axm6d/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/yQtwqOjSNt"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/cusxhplrz5na"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/txsy5bq000q8"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha33/af9469aafc18f63096b3/PPSA03671-Compressed.7z"
+        }
+      ],
+      "version": "v01.001.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG is 13.xx, separated BackPort PKG for 4.xx with Pro Fix included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 196494753792
+    },
+    {
       "titleId": "PPSA16833",
       "title": "LEGO Batman Legacy of The Dark Knight Deluxe Edition",
       "downloadLinks": [
@@ -105,46 +145,6 @@
       "description": "Builds: DLC, Fpkg\nTags: PPSA34015, v01.00.004, USA, BackPort\nSize: 175GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. DLCs (Unlocker) is mandatory in order to play.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 187904819200
-    },
-    {
-      "titleId": "PPSA03671",
-      "title": "Marvels Wolverine",
-      "downloadLinks": [
-        {
-          "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/i7k5srbbha2d/PPSA03671.7z"
-        },
-        {
-          "name": "Dump - Filek",
-          "url": "https://filekeeper.net/00kuc65e55aa"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/E9Qz9XelW3OL/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/qBIICH547P"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/n25kduu9uekp"
-        },
-        {
-          "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/enlx2jgat4rz"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/balpha24/76190aaba13bbd78cafb/PPSA03671-Compressed.7z"
-        }
-      ],
-      "version": "v01.001.005",
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "sizeBytes": 196494753792
     },
     {
       "titleId": "PPSA15595",
@@ -9695,7 +9695,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4695234,
+      "id": 4697403,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -13261,7 +13261,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4695337,
+      "id": 4697506,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

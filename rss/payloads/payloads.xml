@@ -401,8 +401,8 @@
       <pubDate>v1.1</pubDate>
     </item>
     <item>
-      <title>Np-Fake-Signin V1.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin_v1.4.elf</link>
+      <title>Np-Fake-Signin-Ps5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
       <description>Fake activate PS5 without PSN.</description>
       <pubDate>v1.4</pubDate>
     </item>
@@ -479,14 +479,50 @@
       <pubDate>26616621599</pubDate>
     </item>
     <item>
-      <title>Ps5-Self-Pager V1.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager_v1.2.elf</link>
+      <title>Ps5-Self-Pager-System-Common-Lib</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-system-common-lib.elf</link>
       <description>SELF pager payload tool.</description>
       <pubDate>v1.2</pubDate>
     </item>
     <item>
-      <title>Ps5-Self-Decrypter V0.5.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/PS5-SELF-Decrypter_v0.5.2.elf</link>
+      <title>Ps5-Self-Pager-Game</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-game.elf</link>
+      <description>SELF pager payload tool.</description>
+      <pubDate>v1.2</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Self-Pager-Full-System</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-full-system.elf</link>
+      <description>SELF pager payload tool.</description>
+      <pubDate>v1.2</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Self-Pager-Shellcore</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf</link>
+      <description>SELF pager payload tool.</description>
+      <pubDate>v1.2</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Self-Decrypter-Game</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf</link>
+      <description>SELF decrypter tool for PS5 binaries.</description>
+      <pubDate>v0.5.2</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Self-Decrypter-System-Common-Lib</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-system-common-lib.elf</link>
+      <description>SELF decrypter tool for PS5 binaries.</description>
+      <pubDate>v0.5.2</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Self-Decrypter-Shellcore</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf</link>
+      <description>SELF decrypter tool for PS5 binaries.</description>
+      <pubDate>v0.5.2</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Self-Decrypter-Full-System</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf</link>
       <description>SELF decrypter tool for PS5 binaries.</description>
       <pubDate>v0.5.2</pubDate>
     </item>

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-1828)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-1913)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -83,7 +83,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
-  * `np-fake-signin_v1.4.elf`
+  * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
@@ -96,8 +96,14 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-wallpaper-modd_v1.0.elf`
   * `ps5debug-NG_v1.3.2.elf`
   * `ps5-fw-spoof.elf`
-  * `ps5-self-pager_v1.2.elf`
-  * `PS5-SELF-Decrypter_v0.5.2.elf`
+  * `ps5-self-pager-system-common-lib.elf`
+  * `ps5-self-pager-game.elf`
+  * `ps5-self-pager-full-system.elf`
+  * `ps5-self-pager-shellcore.elf`
+  * `ps5-self-decrypter-game.elf`
+  * `ps5-self-decrypter-system-common-lib.elf`
+  * `ps5-self-decrypter-shellcore.elf`
+  * `ps5-self-decrypter-full-system.elf`
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
   * `MemDBG_vnightly-20260930-g6e493c9.elf`
   * `ps5-hwinfo_v0.1.elf`
@@ -141,7 +147,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>📄 Pack FFPFSC</b></summary>
 
 * **files**
-  * `ProsperoEden-v1.000.040.ffpfsc`
   * `PPSA99002.ffpfsc`
   * `PPSA99001.ffpfsc`
   * `PPSA99003.ffpfsc`
