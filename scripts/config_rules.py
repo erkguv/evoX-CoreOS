@@ -187,13 +187,6 @@ REPO_RULES = {
                 "wfm-7zip-helper.elf": "wfm-7zip-helper.elf"
             },
             "targets": []
-        },
-        "x-f1reball-x/elf-launcher": {
-            "release_channel": "stable",
-            "allowed_extensions": [".elf"],
-            "exclude_extensions": [".zip"],
-            "keep_original": True,
-            "strict_clean": True
         }
     }
 }
