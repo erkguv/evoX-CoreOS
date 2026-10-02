@@ -45,30 +45,31 @@ def get_repo_config(repo_lower):
     return config
 
 def fetch_github_release_data(repo, config):
-    """Interroge l'API GitHub avec gestion de repli robuste."""
+    """Interroge l'API GitHub via l'API REST standard (plus robuste que la CLI gh)."""
     channel = config.get("release_channel", "stable")
     try:
-        if channel == "pre-release":
-            releases_json_str = subprocess.check_output(f"gh api repos/{repo}/releases", shell=True, stderr=subprocess.DEVNULL).decode().strip()
-            releases_data = json.loads(releases_json_str)
-            if releases_data and isinstance(releases_data, list):
-                return releases_data[0]
-        else:
-            release_json_str = subprocess.check_output(f"gh api repos/{repo}/releases/latest", shell=True, stderr=subprocess.DEVNULL).decode().strip()
-            return json.loads(release_json_str)
-    except Exception:
-        # Fallback si `gh api` échoue : on essaie l'API REST publique de GitHub
-        try:
-            fallback_url = f"https://api.github.com/repos/{repo}/releases"
-            req = urllib.request.Request(fallback_url, headers={'User-Agent': 'Mozilla/5.0'})
-            if os.environ.get('GITHUB_TOKEN'):
-                req.add_header('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}")
-            with urllib.request.urlopen(req) as response:
-                data = json.loads(response.read().decode())
-                if data and isinstance(data, list):
-                    return data[0]
-        except Exception as e:
-            print(f"    ⚠️ Impossible de récupérer la release GitHub pour {repo}: {e}")
+        url = f"https://api.github.com/repos/{repo}/releases"
+        if channel != "pre-release":
+            url = f"https://api.github.com/repos/{repo}/releases/latest"
+            
+        req = urllib.request.Request(url, headers={
+            'User-Agent': 'Mozilla/5.0',
+            'Accept': 'application/vnd.github.v3+json'
+        })
+        
+        if os.environ.get('GITHUB_TOKEN'):
+            req.add_header('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}")
+            
+        with urllib.request.urlopen(req) as response:
+            data = json.loads(response.read().decode())
+            if isinstance(data, list) and data:
+                return data[0]
+            elif isinstance(data, dict):
+                return data
+                
+    except Exception as e:
+        print(f"    ⚠️ Erreur de récupération GitHub pour {repo}: {e}")
+    
     return None
 
 def fetch_forgejo_release_data(domain, repo, config):
