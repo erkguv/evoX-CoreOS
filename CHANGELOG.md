@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 18:28
+* **PAYLOADS**
+  * `Elf Arsenal V1.6.23` (v1.6.23) - *Nouveau*
+  * `Np-Fake-Signin V1.4` (v1.4) - *Nouveau*
+* **FFPFSC**
+  * `Prosperoeden-V1.000.040` (v1.000.040) - *Nouveau*
+  * `Ppsa99002` (01.000.060) - *Nouveau*
+  * `Ppsa99001` (01.000.005) - *Nouveau*
+  * `Ppsa99003` (01.000.015) - *Nouveau*
+  * `Evoplayer-V0.10.0-Ppsa99039` (v0.10.0) - *Nouveau*
+  * `Prospero Radio` (01.000.046) - *Nouveau*
+
 ## Build du 02/10/2026 à 17:25
 * **PAYLOADS**
   * `Pkg-Manager V1.4.1` (v1.4.1) - *Mise à jour (Précédent: ps5-pkg-manager)*

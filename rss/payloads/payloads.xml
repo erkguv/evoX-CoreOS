@@ -365,6 +365,12 @@
       <pubDate>v0.5.2</pubDate>
     </item>
     <item>
+      <title>Elf Arsenal V1.6.23</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
+      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.</description>
+      <pubDate>v1.6.23</pubDate>
+    </item>
+    <item>
       <title>Kura V1.6.50</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf</link>
       <description>Un loader de payloads moderne et épuré conçu pour optimiser l</description>
@@ -393,6 +399,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf</link>
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5</description>
       <pubDate>v1.1</pubDate>
+    </item>
+    <item>
+      <title>Np-Fake-Signin V1.4</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin_v1.4.elf</link>
+      <description>Fake activate PS5 without PSN.</description>
+      <pubDate>v1.4</pubDate>
     </item>
     <item>
       <title>Ps5-Linux-Loader V2.5</title>

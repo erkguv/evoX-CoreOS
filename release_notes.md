@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-1808)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-1828)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -77,11 +77,13 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
   * `pldmgr_v0.5.2.elf`
+  * `ELF_Arsenal_v1.6.23.elf`
   * `Kura_v1.6.50.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
+  * `np-fake-signin_v1.4.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
@@ -139,6 +141,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>📄 Pack FFPFSC</b></summary>
 
 * **files**
+  * `ProsperoEden-v1.000.040.ffpfsc`
   * `PPSA99002.ffpfsc`
   * `PPSA99001.ffpfsc`
   * `PPSA99003.ffpfsc`

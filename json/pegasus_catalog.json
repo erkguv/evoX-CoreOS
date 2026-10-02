@@ -171,6 +171,18 @@
             "title": "God of War Betrayal"
         },
         {
+            "name": "Prosperoeden-V1.000.040",
+            "filename": "ProsperoEden-v1.000.040.ffpfsc",
+            "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.000.040/ProsperoEden-v1.000.040.ffpfsc",
+            "local_path": "ffpfsc/ProsperoEden/v1.000.040/ProsperoEden-v1.000.040.ffpfsc",
+            "description": "PS5 Switch emulator",
+            "version": "v1.000.040",
+            "checksum": "6f794bb48cc3fababefc48b0d74621e2a942dd3d533e5c3bef1643abef6db67a",
+            "category": "FFPFSC",
+            "titleId": "CUSA00000",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+        },
+        {
             "name": "Ppsa99002",
             "filename": "PPSA99002.ffpfsc",
             "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc",

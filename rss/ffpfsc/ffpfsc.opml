@@ -4,6 +4,7 @@
     <title>PS5 Store Feeds - Fichiers FFPFSC</title>
   </head>
   <body>
+    <outline text="Prosperoeden-V1.000.040" title="Prosperoeden-V1.000.040" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.000.040/ProsperoEden-v1.000.040.ffpfsc" description="PS5 Switch emulator"/>
     <outline text="Ppsa99002" title="Ppsa99002" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc" description="PS5 Moonlight"/>
     <outline text="Ppsa99001" title="Ppsa99001" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc" description="PS5 Radio Player"/>
     <outline text="Ppsa99003" title="Ppsa99003" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc" description="PS5 IPTV"/>

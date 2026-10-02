@@ -1,0 +1,65 @@
+{
+    "name": "AIO Store FFPFSC",
+    "files": [
+        {
+            "name": "Prosperoeden-V1.000.040",
+            "filename": "ProsperoEden-v1.000.040.ffpfsc",
+            "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.000.040/ProsperoEden-v1.000.040.ffpfsc",
+            "local_path": "ffpfsc/ProsperoEden/v1.000.040/ProsperoEden-v1.000.040.ffpfsc",
+            "description": "PS5 Switch emulator",
+            "version": "v1.000.040",
+            "checksum": "6f794bb48cc3fababefc48b0d74621e2a942dd3d533e5c3bef1643abef6db67a",
+            "category": "FFPFSC"
+        },
+        {
+            "name": "Ppsa99002",
+            "filename": "PPSA99002.ffpfsc",
+            "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc",
+            "local_path": "ffpfsc/ProsperoLight/01.000.060/PPSA99002.ffpfsc",
+            "description": "PS5 Moonlight",
+            "version": "01.000.060",
+            "checksum": "6e92e8f862cf75f3527ff0210a7470aca4b5dc453a6f7f00bb3a26a01bf3fe40",
+            "category": "FFPFSC"
+        },
+        {
+            "name": "Ppsa99001",
+            "filename": "PPSA99001.ffpfsc",
+            "url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc",
+            "local_path": "ffpfsc/ProsperoRadio/01.000.005/PPSA99001.ffpfsc",
+            "description": "PS5 Radio Player",
+            "version": "01.000.005",
+            "checksum": "0f82072f1e8a4cc0dd56e6b0831fb068b68540530f78c93f9825c5c5bca21a6a",
+            "category": "FFPFSC"
+        },
+        {
+            "name": "Ppsa99003",
+            "filename": "PPSA99003.ffpfsc",
+            "url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc",
+            "local_path": "ffpfsc/ProsperoTV/01.000.015/PPSA99003.ffpfsc",
+            "description": "PS5 IPTV",
+            "version": "01.000.015",
+            "checksum": "4d5ea7fd048d299b4ce11462d1fb6264908f21ad3743ee3df3792c96ac08648d",
+            "category": "FFPFSC"
+        },
+        {
+            "name": "Evoplayer-V0.10.0-Ppsa99039",
+            "filename": "EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+            "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+            "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+            "description": "A media player for jailbroken PS5",
+            "version": "v0.10.0",
+            "checksum": "a2b14616a2662a5e8401aad9012ba1c0d3df68211e5b70039eedfb9a0845a0be",
+            "category": "FFPFSC"
+        },
+        {
+            "name": "Prospero Radio",
+            "filename": "PROSPERO_RADIO.ffpfsc",
+            "url": "https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.046/PROSPERO_RADIO.ffpfsc",
+            "local_path": "ffpfsc/ProsperoRadio_Vulkan_Edition/01.000.046/PROSPERO_RADIO.ffpfsc",
+            "description": "An internet radio for PS5 with a real radio face — rendered with Vulkan.",
+            "version": "01.000.046",
+            "checksum": "26b77747f9142472b0213b33e14ffad435cb3a6b3b06157caad0848ade4b8940",
+            "category": "FFPFSC"
+        }
+    ]
+}
