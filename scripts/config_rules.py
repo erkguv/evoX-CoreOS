@@ -104,9 +104,8 @@ REPO_RULES = {
         # --- 4. Dépôts configurés (Stables & Pre-Releases) ---
         "blackbearreloaded/ProsperoEden": {
             "release_channel": "pre-release",
-            "allowed_extensions": [".elf", ".bin", ".ffpfsc"],
+            "allowed_extensions": [".ffpfsc"],
             "strict_clean": True,
-            "keep_original": True
         },
         "rdiol12/ps5library": {
             "release_channel": "pre-release",
