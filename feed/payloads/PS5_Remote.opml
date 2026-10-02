@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>PS5_Remote</title>
+  </head>
+  <body>
+    <outline title="PS5_Remote">
+      <outline text="ActRemoteLink-13.x" title="ActRemoteLink-13.x" type="rss" xmlUrl="https://github.com/StonedModder/ActRemoteLink-13.x" author="StonedModder" description="ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play"/>
+    </outline>
+  </body>
+</opml>
