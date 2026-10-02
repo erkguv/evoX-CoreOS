@@ -151,6 +151,32 @@ REPO_RULES = {
                 }
             ]
         },
+        
+        # --- Nouveaux dépôts idlesauce (Multi-ELF avec nom d'origine + tag version) ---
+        "idlesauce/ps5-self-decrypter": {
+            "release_channel": "stable",
+            "allowed_extensions": [".elf"],
+            "keep_original": True,
+            "strict_clean": True,
+            "targets": [
+                {"match": "ps5-self-decrypter-full-system", "rename": "ps5-self-decrypter-full-system_v{version}.elf"},
+                {"match": "ps5-self-decrypter-game", "rename": "ps5-self-decrypter-game_v{version}.elf"},
+                {"match": "ps5-self-decrypter-shellcore", "rename": "ps5-self-decrypter-shellcore_v{version}.elf"},
+                {"match": "ps5-self-decrypter-system-common-lib", "rename": "ps5-self-decrypter-system-common-lib_v{version}.elf"}
+            ]
+        },
+        "idlesauce/ps5-self-pager": {
+            "release_channel": "stable",
+            "allowed_extensions": [".elf"],
+            "keep_original": True,
+            "strict_clean": True,
+            "targets": [
+                {"match": "ps5-self-pager-full-system", "rename": "ps5-self-pager-full-system_v{version}.elf"},
+                {"match": "ps5-self-pager-game", "rename": "ps5-self-pager-game_v{version}.elf"},
+                {"match": "ps5-self-pager-shellcore", "rename": "ps5-self-pager-shellcore_v{version}.elf"},
+                {"match": "ps5-self-pager-system-common-lib", "rename": "ps5-self-pager-system-common-lib_v{version}.elf"}
+            ]
+        },
 
         # --- 5. Dépôts avec mappings spécifiques et règles poussées ---
         "seregonwar/zftpd": {
