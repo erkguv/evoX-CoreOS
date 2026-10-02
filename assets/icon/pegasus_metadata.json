@@ -88,5 +88,10 @@
         "titleId": "PPSA99001",
         "title": "ProsperoRadio Vulkan Edition",
         "icon": "ProsperoRadio.png"
+    },
+    "ProsperoEden-v1.000.040.ffpfsc": {
+        "titleId": "PPSA99008",
+        "title": "ProsperoEden",
+        "icon": "ProsperoEden.png"
     }
 }
