@@ -35,8 +35,6 @@
       <outline text="ps5upload" title="ps5upload" type="rss" xmlUrl="https://github.com/phantomptr/ps5upload" description="PS5 Upload server / tool. Port: 9025"/>
       <outline text="airpsx" title="airpsx" type="rss" xmlUrl="https://github.com/barisyild/airpsx" description="AirPSX server tool for PS5 ecosystem."/>
       <outline text="ChronicLoader-PS5-Payload" title="ChronicLoader-PS5-Payload" type="rss" xmlUrl="https://github.com/StonedModder/ChronicLoader-PS5-Payload" description="ChronicLoader utility payload for PS5."/>
-      <outline text="Ghostpad" title="Ghostpad" type="rss" xmlUrl="https://github.com/StonedModder/Ghostpad" description="Ghostpad controller input utility."/>
-      <outline text="Ghostcontrol-PS5-USB-Controller-Patcher" title="Ghostcontrol-PS5-USB-Controller-Patcher" type="rss" xmlUrl="https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher" description="USB Controller patcher tool for PS5."/>
       <outline text="PoorDS4" title="PoorDS4" type="rss" xmlUrl="https://github.com/ItsBlurf/PoorDS4" description="PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5."/>
       <outline text="PS Game State Lib" title="PS Game State Lib" type="rss" xmlUrl="https://github.com/StonedModder/ps-game-state-lib" description="Standalone PS5 game-state detection payload - webui ps5ip:9877 ."/>
       <outline text="PS-DiscordPresence" title="PS-DiscordPresence" type="rss" xmlUrl="https://github.com/StonedModder/PS-DiscordPresence" description="PS5 game activity service with a local status endpoint and a Python Discord RPC bridge."/>
@@ -66,7 +64,6 @@
       <outline text="onionHEN" title="onionHEN" type="rss" xmlUrl="https://github.com/aydencharles/onionHEN" description="An all-in-one HEN and Toolbox for PlayStation 5."/>
       <outline text="etaHEN-Beta" title="etaHEN-Beta" type="rss" xmlUrl="https://github.com/zecoxao/zecoxao.github.io/raw/refs/heads/main/luasauce/payloads/etaHEN-2.6B.bin" description="etahen beta version experimental."/>
       <outline text="ProsperoMgr" title="ProsperoMgr" type="rss" xmlUrl="https://github.com/notmaj0r/ProsperoMgr" description="A Web-Based All-In-One homebrew manager for your PlayStation 5"/>
-      <outline text="elf-launcher" title="elf-launcher" type="rss" xmlUrl="https://github.com/X-F1REBALL-X/elf-launcher" description="PS5 launcher for ELF payloads."/>
       <outline text="np-fake-signin" title="np-fake-signin" type="rss" xmlUrl="https://git.etawen.dev/earthonion/np-fake-signin" description="Fake activate PS5 without PSN."/>
       <outline text="ps5-linux-loader" title="ps5-linux-loader" type="rss" xmlUrl="https://github.com/ps5-linux/ps5-linux-loader" description="Linux loader payload for the PS5."/>
       <outline text="ps5-fan-control" title="ps5-fan-control" type="rss" xmlUrl="https://github.com/owendswang/ps5-fan-control" description="Small PS5 daemon payload ELF that sets the system fan temperature."/>

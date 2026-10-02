@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-1548)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-1635)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -29,16 +29,14 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
   * `A53-kstuff-SMP.elf`
   * `Kstuff-NG_v1.00.elf`
-  * `kstuff_v1.12-dr-test8.elf`
-  * `kstuff-1.13-fpkg-dr-test3.elf`
   * `kstuff-1.13-fpkg-dr-test5.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
   * `webkit-autoloader-installer_v0.5.2.elf`
-  * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
+  * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `zhttp_v1.6.0.elf`
   * `zftpd_v1.6.0.elf`
   * `elfldr_v0.26.elf`
@@ -51,9 +49,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5upload_v5.41.0.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
-  * `Ghostpad_v1.0.0.elf`
-  * `PoorDS4-stop_v0.1.0-rc51.elf`
   * `PoorDS4-status_v0.1.0-rc51.elf`
+  * `PoorDS4-stop_v0.1.0-rc51.elf`
   * `PoorDS4rc51_v0.1.0-rc51.elf`
   * `PS_Game_State_Lib_v0.1.elf`
   * `PS-DiscordPresence_v0.01.elf`
@@ -65,7 +62,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-Unpack_v0.1.elf`
   * `ghost-toothAPI.elf`
   * `Spectrum-Library_v1.4.8.elf`
-  * `pegasus-dl_v1.9.0.elf`
+  * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent_v0.2.55.elf`
   * `bfplayer-standalone_v0.1.0-alpha.44.elf`
@@ -81,7 +78,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
-  * `ProsperoMgr_vbeta.elf`
+  * `ProsperoMgr_v1.1.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
@@ -98,7 +95,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
   * `MemDBG_vnightly-20260930-g6e493c9.elf`
   * `ps5-hwinfo_v0.1.elf`
-  * `CheatRunner_v0.17.elf`
+  * `CheatRunner_v0.17.2.elf`
   * `kylin-core_v2.0.0-community-lite.elf`
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.11.elf`
@@ -109,23 +106,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Game-Compressor_v1.0.4.elf`
   * `ps5-app-dumper_v2.00.elf`
   * `shadowmountplus.elf`
-  * `ShadowMountPlus_1.7beta3.zip`
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
-  * `ELF_Arsenal_v1.6.23.elf`
-  * `elf-launcher_v1.0.3.elf`
-  * `elf-launcher-install.elf`
-  * `a53_ppr_install_fast_v15.09.elf`
-  * `kstuff-echostrech_v1.11expermiental.elf`
-  * `a53_exploit-experimental.elf`
-  * `ps5-web-file-manager_v1.8.elf`
-  * `garlic-worker_v1.1.7.elf`
-  * `garlic-savemgr_v1.13.elf`
-  * `Ghostcontrol-PS5-USB-Controller-Patcher_v1.0.5.elf`
-  * `PoorDS4rc38_v0.1.0-rc38.elf`
-  * `PoorDS4rc44_v0.1.0-rc44.elf`
-  * `np-fake-signin_v1.3.elf`
-  * `pkgmgr_v1.2.2.elf`
 
 </details>
 

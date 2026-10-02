@@ -32,26 +32,6 @@
       "checksum": "77c7a96783de94201417630cf57bdec3d7eebd047dfb96d8f144c3590359256f"
     },
     {
-      "name": "Kstuff V1.12-Dr-Test8",
-      "filename": "kstuff_v1.12-dr-test8.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf",
-      "local_path": "payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf",
-      "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
-      "version": "Source-Fixe",
-      "category": "PS5 Beta",
-      "checksum": "c5794137788abf5d85a78345b00601ad3b156f1d0d5d9569b597177beb242d4a"
-    },
-    {
-      "name": "Kstuff-1.13-Fpkg-Dr-Test3",
-      "filename": "kstuff-1.13-fpkg-dr-test3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf",
-      "local_path": "payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf",
-      "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
-      "version": "Source-Fixe",
-      "category": "PS5 Beta",
-      "checksum": "319feb92d71dfdf5fa7569a3656d617d3450aa023860b5272e9cf17387b48e77"
-    },
-    {
       "name": "Kstuff-1.13-Fpkg-Dr-Test5",
       "filename": "kstuff-1.13-fpkg-dr-test5.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf",

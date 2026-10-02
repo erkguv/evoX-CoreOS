@@ -77,18 +77,6 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Kstuff V1.12-Dr-Test8</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf</link>
-      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Kstuff-1.13-Fpkg-Dr-Test3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf</link>
-      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Kstuff-1.13-Fpkg-Dr-Test5</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf</link>
       <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3</description>
@@ -113,12 +101,6 @@
       <pubDate>v0.5.2</pubDate>
     </item>
     <item>
-      <title>[Payloads] Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf</link>
-      <description>Host-PSM pooP2JB.</description>
-      <pubDate>v1.2.0</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf</link>
       <description>Host-PSM pooP2JB.</description>
@@ -133,6 +115,12 @@
     <item>
       <title>[Payloads] Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen-En V1.2.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf</link>
+      <description>Host-PSM pooP2JB.</description>
+      <pubDate>v1.2.0</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf</link>
       <description>Host-PSM pooP2JB.</description>
       <pubDate>v1.2.0</pubDate>
     </item>
@@ -209,20 +197,14 @@
       <pubDate>0.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ghostpad V1.0.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/Ghostpad/v1.0.0/Ghostpad_v1.0.0.elf</link>
-      <description>Ghostpad controller input utility.</description>
-      <pubDate>v1.0.0</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Poords4-Stop V0.1.0-Rc51</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf</link>
+      <title>[Payloads] Poords4-Status V0.1.0-Rc51</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf</link>
       <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
       <pubDate>v0.1.0-rc51</pubDate>
     </item>
     <item>
-      <title>[Payloads] Poords4-Status V0.1.0-Rc51</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf</link>
+      <title>[Payloads] Poords4-Stop V0.1.0-Rc51</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf</link>
       <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
       <pubDate>v0.1.0-rc51</pubDate>
     </item>
@@ -293,10 +275,10 @@
       <pubDate>1.4.8</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pegasus-Dl V1.9.0</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>pegasus-dl</pubDate>
+      <title>[Payloads] Pegasus-Dl V1.10.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf</link>
+      <description>free store webadmin http://your-ps5-ip:6970.</description>
+      <pubDate>v1.10.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5Shopappkg-Dpi</title>
@@ -389,10 +371,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Prosperomgr Vbeta</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ProsperoMgr</pubDate>
+      <title>[Payloads] Prosperomgr V1.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf</link>
+      <description>A Web-Based All-In-One homebrew manager for your PlayStation 5</description>
+      <pubDate>v1.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Linux-Loader V2.5</title>
@@ -491,10 +473,10 @@
       <pubDate>0.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Cheatrunner V0.17</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>CheatRunner</pubDate>
+      <title>[Payloads] Cheatrunner V0.17.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf</link>
+      <description>CheatRunner.</description>
+      <pubDate>v0.17.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Kylin-Core V2.0.0-Community-Lite</title>
@@ -557,12 +539,6 @@
       <pubDate>1.7beta3</pubDate>
     </item>
     <item>
-      <title>[Payloads] Shadowmountplus 1.7Beta3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta3/ShadowMountPlus_1.7beta3.zip</link>
-      <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.7beta3</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Backpork V0.1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf</link>
       <description>BackPork PS5 tool.</description>
@@ -573,90 +549,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf</link>
       <description>APR Emu Updater must always be loaded.</description>
       <pubDate>v2.0.6</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Elf Arsenal V1.6.23</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ELF_Arsenal</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Elf-Launcher V1.0.3</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>elf-launcher</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Elf-Launcher-Install</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>elf-launcher</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] A53 Ppr Install Fast V15.09</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>A53_Experimental_KS-D</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Kstuff-Echostrech V1.11Expermiental</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>Kstuff_EchoStrech_Experimental</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] A53 Exploit-Experimental</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>A53_Experimental_KS-E</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Ps5-Web-File-Manager V1.8</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ps5-web-file-manager</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Worker V1.1.7</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-worker</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Savemgr V1.13</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-savemgr</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Ghostcontrol-Ps5-Usb-Controller-Patcher V1.0.5</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>Ghostcontrol-PS5-USB-Controller-Patcher</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Poords4Rc38 V0.1.0-Rc38</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PoorDS4</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Poords4Rc44 V0.1.0-Rc44</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PoorDS4</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Np-Fake-Signin V1.3</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>np-fake-signin</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Pkgmgr V1.2.2</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ps5-pkg-manager</pubDate>
     </item>
     <item>
       <title>[Packages PKG] Ps5Pkg Avatar-Changer V1.00</title>
