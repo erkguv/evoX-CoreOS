@@ -16,21 +16,48 @@ from scripts.changelog_builder import generate_build_changelog
 from scripts.pegasus_builder import generate_pegasus_catalog
 from scripts.download_pegasus_catalogs import download_catalogs
 
+def clean_latest_versions_only(flat_list):
+    """
+    Filtre la liste pour ne garder que la version la plus récente (latest) 
+    pour chaque application/payload, en se basant sur le nom de base.
+    """
+    latest_map = {}
+    for item in flat_list:
+        if not isinstance(item, dict):
+            continue
+        name = item.get("name", "")
+        # Normaliser le nom pour regrouper les versions d'un même outil (ex: CheatRunner)
+        base_key = name.lower().split('_v')[0].split(' v')[0].strip()
+        
+        # On privilégie l'élément qui a la version la plus récente ou le fichier le plus récent
+        if base_key not in latest_map:
+            latest_map[base_key] = item
+        else:
+            # Simple logique de comparaison de version / nom de fichier
+            existing_filename = latest_map[base_key].get("filename", "")
+            current_filename = item.get("filename", "")
+            if current_filename > existing_filename:
+                latest_map[base_key] = item
+
+    return list(latest_map.values())
+
 def recover_local_orphans(category_name, flat_list, allowed_exts):
     """
     Scanne le dossier physique de la catégorie pour récupérer les fichiers orphelins 
-    qui existent déjà en local (au cas où un dépôt distant aurait sauté ou échoué).
+    présents en local (notamment les fichiers internes ou les sources en échec 503).
     """
     root_dir = PATHS.get("categories", {}).get(category_name, {}).get("root", category_name)
     if not os.path.exists(root_dir):
         return flat_list
 
-    # Récupérer la liste des filenames déjà connus par le fetch en ligne
     known_filenames = {item.get("filename") for item in flat_list if isinstance(item, dict)}
     recovered_count = 0
 
-    # Parcours récursif du dossier de la catégorie
     for dirpath, _, filenames in os.walk(root_dir):
+        # Ignorer le dossier d'archives s'il se trouve par erreur dedans
+        if "archives" in dirpath.split(os.sep):
+            continue
+
         for filename in filenames:
             if not filename.lower().endswith(tuple(allowed_exts)):
                 continue
@@ -38,7 +65,6 @@ def recover_local_orphans(category_name, flat_list, allowed_exts):
             if filename not in known_filenames:
                 local_path = os.path.join(dirpath, filename)
                 
-                # Calculer le checksum SHA256 du fichier local existant
                 hasher = hashlib.sha256()
                 try:
                     with open(local_path, 'rb') as fb:
@@ -48,7 +74,6 @@ def recover_local_orphans(category_name, flat_list, allowed_exts):
                 except Exception:
                     checksum = ""
 
-                # Déduire un nom propre et une version potentielle depuis le dossier/fichier
                 display_name = os.path.splitext(filename)[0].replace('_', ' ').title()
                 version = "Local-Backup"
                 
@@ -63,9 +88,9 @@ def recover_local_orphans(category_name, flat_list, allowed_exts):
                 orphan_item = {
                     "name": display_name,
                     "filename": filename,
-                    "url": "",  # Pas d'URL distante dispo puisque le dépôt a pu sauter
+                    "url": "",
                     "local_path": local_path,
-                    "description": f"Récupéré depuis le stockage local (Backup de secours)",
+                    "description": f"Récupéré depuis le stockage local (Interne / Fallback)",
                     "version": version,
                     "checksum": checksum
                 }
@@ -77,6 +102,9 @@ def recover_local_orphans(category_name, flat_list, allowed_exts):
 
     if recovered_count > 0:
         print(f"    ✅ {recovered_count} élément(s) local(aux) préservé(s) pour {category_name}.")
+    
+    # Ne garder que la dernière version de chaque outil pour éviter le spam dans le JSON
+    flat_list = clean_latest_versions_only(flat_list)
     return flat_list
 
 def generate_release_notes(data_store_by_cat):
@@ -90,7 +118,7 @@ def generate_release_notes(data_store_by_cat):
     content = f"### 🚀 Synthèse de la mise à jour ({date_str})\n\n"
     content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
     
-    content += "#### 📦 Archives AIO Disponibles :\n"
+    content += "#### 📦 Archives AIO Disponibles (Dossier `archives/`) :\n"
     content += "- `PS5_payloads_aio_latest.zip`\n"
     content += "- `PS5_pkg_aio_latest.zip`\n"
     content += "- `PS5_ffpfsc_aio_latest.zip`\n"
@@ -100,7 +128,7 @@ def generate_release_notes(data_store_by_cat):
     content += "#### 📂 Fichiers inclus / mis à jour :\n"
     content += "📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)\n\n"
 
-    content += "#### 🛠️ Détail des Packs & Contenu des Archives\n"
+    content += "#### 🛠️ Détail des Packs & Contenu\n"
     
     icons = {
         "payloads": "⚡",
@@ -156,7 +184,7 @@ def generate_release_notes(data_store_by_cat):
     print("    ✅ Fichier release_notes.md généré avec succès !")
 
 def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
-    print("📦 [Bonus] Génération des archives AIO ZIP...")
+    print("📦 [Bonus] Génération des archives AIO ZIP dans le dossier 'archives'...")
     archives_dir = PATHS.get("archives_dir", "archives")
     os.makedirs(archives_dir, exist_ok=True)
 
@@ -166,7 +194,9 @@ def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
             for item in items:
                 file_path = item.get("local_path") if isinstance(item, dict) else None
                 if file_path and os.path.exists(file_path):
-                    zf.write(file_path, arcname=os.path.basename(file_path))
+                    # Éviter d'ajouter une archive dans sa propre création
+                    if "archives" not in file_path.split(os.sep):
+                        zf.write(file_path, arcname=os.path.basename(file_path))
         size_bytes = os.path.getsize(zip_path) if os.path.exists(zip_path) else 0
         print(f"    ➔ Archive générée : {zip_path} ({size_bytes} octets)")
 
