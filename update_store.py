@@ -181,20 +181,21 @@ def generate_release_notes(data_store_by_cat):
 def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
     print("📦 [Bonus] Génération des archives AIO ZIP dans le dossier 'archives' uniquement...")
     
-    # Récupère le chemin absolu de la racine du projet (là où se trouve update_store.py)
-    base_workspace = os.path.dirname(os.path.abspath(__file__))
+    # Chemin absolu strict de la racine du dépôt
+    base_workspace = os.path.abspath(os.getcwd())
     archives_dir = os.path.join(base_workspace, "archives")
     os.makedirs(archives_dir, exist_ok=True)
 
     def create_zip(zip_name, items):
-        # Force le chemin cible STRICTEMENT dans le dossier /archives/ à la racine
+        # Force le chemin cible DIRECTEMENT dans /archives/ à la racine, jamais ailleurs
         zip_path = os.path.join(archives_dir, zip_name)
+        
         with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zf:
             for item in items:
                 file_path = item.get("local_path") if isinstance(item, dict) else None
                 if file_path and os.path.exists(file_path):
                     norm_path = os.path.abspath(file_path)
-                    # Sécurité : ne jamais inclure de zips ou de json
+                    # Sécurité absolue : on ignore tout ce qui touche de près ou de loin à un dossier archives ou json
                     if "archives" in norm_path.split(os.sep) or "json" in norm_path.split(os.sep):
                         continue
                     zf.write(norm_path, arcname=os.path.basename(norm_path))
