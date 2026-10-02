@@ -1,8 +1,8 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-1151)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-1548)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
-#### 📦 Archives AIO Disponibles :
+#### 📦 Archives AIO Disponibles (Dossier `archives/`) :
 - `PS5_payloads_aio_latest.zip`
 - `PS5_pkg_aio_latest.zip`
 - `PS5_ffpfsc_aio_latest.zip`
@@ -12,7 +12,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 #### 📂 Fichiers inclus / mis à jour :
 📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)
 
-#### 🛠️ Détail des Packs & Contenu des Archives
+#### 🛠️️ Détail des Packs & Contenu
 <details>
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
@@ -65,7 +65,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-Unpack_v0.1.elf`
   * `ghost-toothAPI.elf`
   * `Spectrum-Library_v1.4.8.elf`
-  * `pegasus-dl_v1.10.1.elf`
+  * `pegasus-dl_v1.9.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent_v0.2.55.elf`
   * `bfplayer-standalone_v0.1.0-alpha.44.elf`
@@ -81,7 +81,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
-  * `ProsperoMgr_v1.1.elf`
+  * `ProsperoMgr_vbeta.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
@@ -98,7 +98,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
   * `MemDBG_vnightly-20260930-g6e493c9.elf`
   * `ps5-hwinfo_v0.1.elf`
-  * `CheatRunner_v0.17.2.elf`
+  * `CheatRunner_v0.17.elf`
   * `kylin-core_v2.0.0-community-lite.elf`
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.11.elf`
@@ -108,9 +108,24 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Chukei_DNS_v0.9.0.elf`
   * `PS5-Game-Compressor_v1.0.4.elf`
   * `ps5-app-dumper_v2.00.elf`
-  * `ShadowMountPlus_v1.7beta2.elf`
+  * `shadowmountplus.elf`
+  * `ShadowMountPlus_1.7beta3.zip`
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
+  * `ELF_Arsenal_v1.6.23.elf`
+  * `elf-launcher_v1.0.3.elf`
+  * `elf-launcher-install.elf`
+  * `a53_ppr_install_fast_v15.09.elf`
+  * `kstuff-echostrech_v1.11expermiental.elf`
+  * `a53_exploit-experimental.elf`
+  * `ps5-web-file-manager_v1.8.elf`
+  * `garlic-worker_v1.1.7.elf`
+  * `garlic-savemgr_v1.13.elf`
+  * `Ghostcontrol-PS5-USB-Controller-Patcher_v1.0.5.elf`
+  * `PoorDS4rc38_v0.1.0-rc38.elf`
+  * `PoorDS4rc44_v0.1.0-rc44.elf`
+  * `np-fake-signin_v1.3.elf`
+  * `pkgmgr_v1.2.2.elf`
 
 </details>
 
@@ -147,7 +162,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 </details>
 
 <details>
-<summary><b>🛠️ Pack APPS</b></summary>
+<summary><b>🛠 Pack APPS</b></summary>
 
 * **apps**
   * `PPSA99004.zip`

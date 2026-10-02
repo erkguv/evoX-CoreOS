@@ -1,5 +1,27 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 15:48
+* **PAYLOADS**
+  * `Pegasus-Dl V1.9.0` (pegasus-dl) - *Nouveau*
+  * `Prosperomgr Vbeta` (ProsperoMgr) - *Nouveau*
+  * `Cheatrunner V0.17` (CheatRunner) - *Nouveau*
+  * `Shadowmountplus` (1.7beta3) - *Nouveau*
+  * `Shadowmountplus 1.7Beta3` (1.7beta3) - *Nouveau*
+  * `Elf Arsenal V1.6.23` (ELF_Arsenal) - *Nouveau*
+  * `Elf-Launcher V1.0.3` (elf-launcher) - *Nouveau*
+  * `Elf-Launcher-Install` (elf-launcher) - *Nouveau*
+  * `A53 Ppr Install Fast V15.09` (A53_Experimental_KS-D) - *Nouveau*
+  * `Kstuff-Echostrech V1.11Expermiental` (Kstuff_EchoStrech_Experimental) - *Nouveau*
+  * `A53 Exploit-Experimental` (A53_Experimental_KS-E) - *Nouveau*
+  * `Ps5-Web-File-Manager V1.8` (ps5-web-file-manager) - *Nouveau*
+  * `Garlic-Worker V1.1.7` (garlic-worker) - *Nouveau*
+  * `Garlic-Savemgr V1.13` (garlic-savemgr) - *Nouveau*
+  * `Ghostcontrol-Ps5-Usb-Controller-Patcher V1.0.5` (Ghostcontrol-PS5-USB-Controller-Patcher) - *Nouveau*
+  * `Poords4Rc38 V0.1.0-Rc38` (PoorDS4) - *Nouveau*
+  * `Poords4Rc44 V0.1.0-Rc44` (PoorDS4) - *Nouveau*
+  * `Np-Fake-Signin V1.3` (np-fake-signin) - *Nouveau*
+  * `Pkgmgr V1.2.2` (ps5-pkg-manager) - *Nouveau*
+
 ## Build du 02/10/2026 à 02:52
 * **PAYLOADS**
   * `Kylin-Core V2.0.0-Community-Lite` (v2.0.0-community-lite) - *Nouveau*

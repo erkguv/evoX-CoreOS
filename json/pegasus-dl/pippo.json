@@ -3,6 +3,62 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16833",
+      "title": "LEGO Batman Legacy of The Dark Knight Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - Filek",
+          "url": "https://filekeeper.net/j6lq57mjorlo"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/rwawlea1kwxx"
+        },
+        {
+          "name": "4.xx BackPort - Filek",
+          "url": "https://filekeeper.net/xn0vgdl960rj"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/rmbx07va0qhp"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/xewgfwa5sihw"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/dff5nj77eg68"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/XkrzoKOjZzBO/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/lP4bHlS1cx"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/d0ww91yq21y6"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/02ydxylnva9d"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha33/42a029bc7913b92647f5/PPSA16833-Compressed.7z"
+        }
+      ],
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16833_1010611e5083bf9c0738ba6f1cbf56a3622368a0a6211b94c6a7fbd50f6a3b6e/icon0.webp",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg\nTags: PPSA16833, v01.010, USA, Standard (5.xx) + 4.xx BackPort\nSize: 110GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. BP 4 Ver only on 4.xx FW. Base FPKG is 12.xx, separated BackPort PKG for 4.xx Only and 5.xx included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 118111600640
+    },
+    {
       "titleId": "PPSA34015",
       "title": "EA SPORTS FC 27",
       "downloadLinks": [
@@ -46,7 +102,7 @@
       "version": "v01.00.004",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34015_6a434915290a6abec6c41584108a610be84d7c2f675678dd06732e4343f8cba6/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA34015, v01.00.004, USA, 4.xx BackPort\nSize: 175GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. DLCs (Unlocker) is mandatory in order to play.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA34015, v01.00.004, USA, BackPort\nSize: 175GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. DLCs (Unlocker) is mandatory in order to play.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 187904819200
     },
@@ -86,7 +142,7 @@
       "version": "v01.001.005",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 196494753792
     },
@@ -122,7 +178,7 @@
       "version": "v01.002.003",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0407/ace9ff730b9916b1c491de681758cdbbdcdce172e0f36147.png?w=260",
-      "description": "Builds: Fpkg\nTags: PPSA15595, v01.002.003, JPN, 4.xx BackPort\nSize: 97GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA15595, v01.002.003, JPN, BackPort\nSize: 97GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 104152956928
     },
@@ -166,7 +222,7 @@
       "version": "v01.006.038",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28183_1c6bfa7627489bbb191b6dc143f1cd58e8a802db1534968519f040b9ab1b256c/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA28183, v01.006.038, EUR, 4.xx BackPort\nSize: 122GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA28183, v01.006.038, EUR, BackPort\nSize: 122GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 130996502528
     },
@@ -202,7 +258,7 @@
       "version": "v01.008.001",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0519/7260437aae9056d5bd34225e4fce98ca8bb0ef1cd8e6471f.png?w=260",
-      "description": "Builds: Fpkg\nTags: PPSA28997, v01.008.001, USA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA28997, v01.008.001, USA, BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 25769803776
     },
@@ -246,7 +302,7 @@
       "version": "v01.001.008",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18605_5bb41b247f6d0c974095594fb97f1574e24dcd4ceefeb090171579d835561906/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, 4.xx BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 77309411328
     },
@@ -290,7 +346,7 @@
       "version": "v01.018",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png?w=260",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 86973087744
     },
@@ -342,7 +398,7 @@
       "version": "v01.000.016",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2217/7fb7a918a4b9dd1c98de342ec3adfe1421d06627f60397b9.png?w=260",
-      "description": "Builds: Fpkg\nTags: PPSA19534, v01.000.016, USA, 4.xx BackPort\nSize: 234GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: ShadowMountPlus beta16 is recommended for exFAT, FPKG fixed for make it work with ShadowMountPlus 1.7beta1+, thx to DecKerr97 & drakmor for suggestion. FPKG atm is only working up to 11.60, use exFAT if you are above. This Content is now Multi-Langs based on Console Language.",
+      "description": "Builds: Fpkg\nTags: PPSA19534, v01.000.016, USA, BackPort\nSize: 234GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: ShadowMountPlus beta16 is recommended for exFAT, FPKG fixed for make it work with ShadowMountPlus 1.7beta1+, thx to DecKerr97 & drakmor for suggestion. FPKG atm is only working up to 11.60, use exFAT if you are above. This Content is now Multi-Langs based on Console Language.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 251255586816
     },
@@ -394,7 +450,7 @@
       "version": "v01.013",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02015_d9bbc0973ca57b68f21b837e4773bca1c9845b51ad50d77607be2e487cd9f69f/icon0.webp",
-      "description": "Builds: Fpkg\nTags: PPSA02015, v01.013, USA, 4.xx BackPork\nSize: 159GB\nCredits: Files: High-Speed007; Backport: Kira & BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA02015, v01.013, USA, BackPork\nSize: 159GB\nCredits: Files: High-Speed007; Backport: Kira & BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 170724950016
     },
@@ -446,7 +502,7 @@
       "version": "v01.005",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01969_44a112b87f094c2db74b7632441f091e4cbf0114798ae4e2817fe5ba0613392a/icon0.webp",
-      "description": "Builds: Fpkg\nTags: PPSA01969, v01.005, USA, DLCs Merged, 4.xx BackPort\nSize: 116GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA01969, v01.005, USA, DLCs Merged, BackPort\nSize: 116GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 124554051584
     },
@@ -490,7 +546,7 @@
       "version": "v01.007",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01341_6964f84d513b49d27571f322b137b434dc937c0d623579750997bdcf3e6df063/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA01341, v01.007, EUR, 4.xx BackPort\nSize: 96GB\nCredits: Files: Pandatwig; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA01341, v01.007, EUR, BackPort\nSize: 96GB\nCredits: Files: Pandatwig; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 103079215104
     },
@@ -542,7 +598,7 @@
       "version": "v02.001.010",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15508_6774a2dd01056c2280ca529a0c79dd2a1d782a243a4fed8b18d803f3622cfd85/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA15508, v02.001.010, EUR, 4.xx BackPork\nSize: 155GB\nCredits: Files: SiESPTA; Backport: BestPig & DecKerr97; DLC: Pippo & Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA15508, v02.001.010, EUR, BackPork\nSize: 155GB\nCredits: Files: SiESPTA; Backport: BestPig & DecKerr97; DLC: Pippo & Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 166429982720
     },
@@ -594,7 +650,7 @@
       "version": "v02.000",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03396_757b62553266362f4260588a26ed231386e9b229aad9a61fe8340194ad95ffbf/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA03396, v02.000, USA to EUR Langs, 4.xx BackPork\nSize: 127GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pippo & Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA03396, v02.000, USA to EUR Langs, BackPork\nSize: 127GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pippo & Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 136365211648
     },
@@ -646,7 +702,7 @@
       "version": "v01.013",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07783_2fad2829f4a18fb4734372c0d89b587ae38170fd89c9c419bdb345e2da51da51/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA07783, v01.013, USA to EUR Langs, 4.xx BackPork\nSize: 311GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pippo & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA07783, v01.013, USA to EUR Langs, BackPork\nSize: 311GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pippo & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 333933707264
     },
@@ -682,7 +738,7 @@
       "version": "v01.008",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/3101/2ba9c1b910e2d5544ffa9d2dc648bf5c16008e4244e4b5f2.png?w=260",
-      "description": "Builds: Fpkg\nTags: PPSA15972, v01.008, JPN, 4.xx BackPort\nSize: 78GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA15972, v01.008, JPN, BackPort\nSize: 78GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 83751862272
     },
@@ -703,15 +759,15 @@
           "url": "https://datanodes.to/gazdhz79vj3f"
         },
         {
-          "name": "4.xx BackPort - AkiraBox",
+          "name": "BackPort - AkiraBox",
           "url": "https://akirabox.com/gXeGOoarkGAa/file"
         },
         {
-          "name": "4.xx BackPort - VikingFile",
+          "name": "BackPort - VikingFile",
           "url": "https://vikingfile.com/f/nYVxoizay8"
         },
         {
-          "name": "4.xx BackPort - DataNodes",
+          "name": "BackPort - DataNodes",
           "url": "https://datanodes.to/ga29nprhm75p"
         },
         {
@@ -738,7 +794,7 @@
       "version": "v01.014.001",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13195_f13c7d8067d7eaa6ed9b91dbf63f8aa2f7d9526a16da7603d5bac9e843751d2e/icon0.webp",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA13195, v01.014.001, JPN, DLCs Merged, Standard (9.xx) + 4.xx BackPork\nSize: 90GB\nCredits: Files: SiESPta; Backport: BestPig; DLC: Pippo & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Standard 9.xx, BackPort, Fpkg Backport\nTags: PPSA13195, v01.014.001, JPN, DLCs Merged, Standard (9.xx) + BackPork\nSize: 90GB\nCredits: Files: SiESPta; Backport: BestPig; DLC: Pippo & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 96636764160
     },
@@ -782,7 +838,7 @@
       "version": "v01.013",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2406/1aa1badf590e91360c963cf8b421208002b397dbcb6c9e5b.png?w=260",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA15186, v01.013, USA, 4.xx BackPort\nSize: 19GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA15186, v01.013, USA, BackPort\nSize: 19GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 20401094656
     },
@@ -834,7 +890,7 @@
       "version": "v01.003.004",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10665_b9fbc0e37ca60e56c7fb66c4007b27938478e64025b467407ef879d149dcae15/icon0.webp",
-      "description": "Builds: Fpkg\nTags: PPSA10665, v01.003.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 296GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA10665, v01.003.004, EUR, DLCs Merged, BackPort\nSize: 296GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 317827579904
     },
@@ -878,7 +934,7 @@
       "version": "v01.685.672",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22327_332d734000ebc69c9865c225d9b2c056e0525ce029686815b8904d049d27fa26/icon0.webp",
-      "description": "Builds: Fpkg\nTags: PPSA22327, v01.685.672, USA, DLCs Merged, 4.xx BackPork\nSize: 266GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: • Ignore if you already have account with fake sign in - Download offact by ps5-payload-dev and active the account (better if is a new one) then download np-fake-signin by earthonion, send the .elf to your PS5 and before restart the console on your connection add this DNS 127.0.0.1 or turn off the connection. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA22327, v01.685.672, USA, DLCs Merged, BackPork\nSize: 266GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: • Ignore if you already have account with fake sign in - Download offact by ps5-payload-dev and active the account (better if is a new one) then download np-fake-signin by earthonion, send the .elf to your PS5 and before restart the console on your connection add this DNS 127.0.0.1 or turn off the connection. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 285615325184
     },
@@ -930,7 +986,7 @@
       "version": "v01.000.003",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16951_674d5cd754e2ddd417cfb731a98c630aeaaef0beadb3ccf1366ec5e73b7ad3aa/icon0.webp",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA16951, v01.000.003, ASIA to EUR Langs, 4.xx BackPort\nSize: 18GB\nCredits: Files: Yue Lingfeng; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16951, v01.000.003, ASIA to EUR Langs, BackPort\nSize: 18GB\nCredits: Files: Yue Lingfeng; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 19327352832
     },
@@ -982,7 +1038,7 @@
       "version": "v01.002",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png?w=260",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA24662, v01.002, JPN, 4.xx BackPort\nSize: 10GB\nCredits: Files: Yue Lingfeng & Lai Qi Xiao; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24662, v01.002, JPN, BackPort\nSize: 10GB\nCredits: Files: Yue Lingfeng & Lai Qi Xiao; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 10737418240
     },
@@ -1046,7 +1102,7 @@
       "version": "v01.036.178",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png?w=260",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28180, v01.036.178, Region Bypass, 4.xx BackPork\nSize: 67GB\nCredits: Files: High-Speed007; Backport: BestPig & DecKerr97; DLC: Pippo (Lapy05575948 Tool)\nHow to play: For make Region Bypass work i sacrifice French Audio Only, texts are fine. FPKG atm is only working up to 11.60, use exFAT/Dump if you are above.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28180, v01.036.178, Region Bypass, BackPork\nSize: 67GB\nCredits: Files: High-Speed007; Backport: BestPig & DecKerr97; DLC: Pippo (Lapy05575948 Tool)\nHow to play: For make Region Bypass work i sacrifice French Audio Only, texts are fine. FPKG atm is only working up to 11.60, use exFAT/Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 71940702208
     },
@@ -1110,7 +1166,7 @@
       "version": "v01.009",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/ZfPosZoz1CKZBHTIKUCQRy47.png?w=260",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA04539, v01.009, USA to EUR Langs, 4.xx BackPort\nSize: 219GB\nCredits: Files: DUPLEX; Backport: zhwenx; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA04539, v01.009, USA to EUR Langs, BackPort\nSize: 219GB\nCredits: Files: DUPLEX; Backport: zhwenx; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 235149459456
     },
@@ -1162,7 +1218,7 @@
       "version": "v01.018",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png?w=260",
-      "description": "Builds: Fpkg\nTags: PPSA24662, v01.018, USA, 4.xx BackPort\nSize: 75GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: Using HEN can cause crash. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA24662, v01.018, USA, BackPort\nSize: 75GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: Using HEN can cause crash. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 80530636800
     },
@@ -1254,7 +1310,7 @@
       "version": "v01.200",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA31246_4a51768cd8e2b0a499fb513a854f56bb4d6f233add400f73354ad8fccc4a0d47/icon0.webp",
-      "description": "Builds: Fpkg\nTags: PPSA31246, v01.200, EUR, DLCs Merged, 4.xx BackPork\nSize: 123GB\nCredits: Files: DUPLEX; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA31246, v01.200, EUR, DLCs Merged, BackPork\nSize: 123GB\nCredits: Files: DUPLEX; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 132070244352
     },
@@ -1283,23 +1339,23 @@
           "url": "https://datavaults.co/9pqdlrv8dso3"
         },
         {
-          "name": "4.xx BackPort - AkiraBox",
+          "name": "BackPort - AkiraBox",
           "url": "https://akirabox.com/b5OzdV1AymB8/file"
         },
         {
-          "name": "4.xx BackPort - VikingFile",
+          "name": "BackPort - VikingFile",
           "url": "https://vikingfile.com/f/St2TyW3tuD"
         },
         {
-          "name": "4.xx BackPort - DataNodes",
+          "name": "BackPort - DataNodes",
           "url": "https://datanodes.to/1yom709esew4"
         },
         {
-          "name": "4.xx BackPort - Filek",
+          "name": "BackPort - Filek",
           "url": "https://filekeeper.net/0of783zxs2ie"
         },
         {
-          "name": "4.xx BackPort - Vault",
+          "name": "BackPort - Vault",
           "url": "https://datavaults.co/1m2f8bpdcc4z"
         },
         {
@@ -1326,7 +1382,7 @@
       "version": "v01.017",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28420_e8013dea79d62e0328521a809680268c84c8d7afd410bb341b29dc1fd1baebcf/icon0.webp",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA28420, v01.017, EUR, Standard (7.xx) + 4.xx BackPort\nSize: 377GB\nCredits: Files: SiESPTA; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Standard 7.xx, BackPort, Fpkg Backport\nTags: PPSA28420, v01.017, EUR, Standard (7.xx) + BackPort\nSize: 377GB\nCredits: Files: SiESPTA; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 404800667648
     },
@@ -1378,7 +1434,7 @@
       "version": "v06.006",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08330_8251a11b47c7fba734914a25481b1f738ad0de8bfc69c6a71f4540828589bf15/icon0.webp",
-      "description": "Builds: Fpkg\nTags: PPSA08330, v06.006, EUR, DLCs Merged, 4.xx BackPort\nSize: 180GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA08330, v06.006, EUR, DLCs Merged, BackPort\nSize: 180GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 193273528320
     },
@@ -1407,23 +1463,23 @@
           "url": "https://datavaults.co/3oz80on0b0kv"
         },
         {
-          "name": "4.xx BackPort - AkiraBox",
+          "name": "BackPort - AkiraBox",
           "url": "https://akirabox.com/l76mZNdeZman/file"
         },
         {
-          "name": "4.xx BackPort - VikingFile",
+          "name": "BackPort - VikingFile",
           "url": "https://vikingfile.com/f/UhZqdLExAs"
         },
         {
-          "name": "4.xx BackPort - DataNodes",
+          "name": "BackPort - DataNodes",
           "url": "https://datanodes.to/9sgazl75tiqn"
         },
         {
-          "name": "4.xx BackPort - Filek",
+          "name": "BackPort - Filek",
           "url": "https://filekeeper.net/rgurrjkdfemf"
         },
         {
-          "name": "4.xx BackPort - Vault",
+          "name": "BackPort - Vault",
           "url": "https://datavaults.co/1yynzgsa4msq"
         },
         {
@@ -1450,7 +1506,7 @@
       "version": "v01.008.001",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0221/vC7trMorHJgbImp8PCQvpI0p.png?w=260",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA13427, v01.008.001, EUR, DLCs Merged, Standard (9.xx) + 4.xx BackPort\nSize: 135GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: SiESPTA\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Standard 9.xx, BackPort, Fpkg Backport\nTags: PPSA13427, v01.008.001, EUR, DLCs Merged, Standard (9.xx) + BackPort\nSize: 135GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: SiESPTA\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 144955146240
     },
@@ -1494,7 +1550,7 @@
       "version": "v01.041.040",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0506/aa5c40ba185302dfcc88edc276a876fdc6c516c4db07ec9d.png?w=260",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA07862, v01.041.040, USA, Progress Fix, 4.xx BackPort\nSize: 60GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. Chapter 1 is now fixed and is possible proceed. Special thx to the drakmor tool, FPKG make possible this fix.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA07862, v01.041.040, USA, Progress Fix, BackPort\nSize: 60GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. Chapter 1 is now fixed and is possible proceed. Special thx to the drakmor tool, FPKG make possible this fix.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 64424509440
     },
@@ -1554,7 +1610,7 @@
       "version": "v01.031",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01716_f9314973256cc2f152552f3a5098748b57859cd17820b9d1701855bc1ce07e23/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA01716, v01.031, USA, 4.xx BackPort\nSize: 31GB\nCredits: Files: dunaevnick; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA01716, v01.031, USA, BackPort\nSize: 31GB\nCredits: Files: dunaevnick; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 33285996544
     },
@@ -1618,7 +1674,7 @@
       "version": "v01.000.018",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27360_d11b5e89e9733352c37978c8e0c40e5f6838c87060ad84168bc2b9ddbacda027/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA27360, v01.000.018, USA, 4.xx BackPort\nSize: 182GB\nCredits: Files: DUPLEX; Backport: ManwonHp\nHow to play: Must be installed the DLC Unlock for play, mandatory. FPKG atm is only working up to 11.60, use exFAT if you are above. Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press Square button and yes on FC 26 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA27360, v01.000.018, USA, BackPort\nSize: 182GB\nCredits: Files: DUPLEX; Backport: ManwonHp\nHow to play: Must be installed the DLC Unlock for play, mandatory. FPKG atm is only working up to 11.60, use exFAT if you are above. Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press Square button and yes on FC 26 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 195421011968
     },
@@ -1682,7 +1738,7 @@
       "version": "v03.000.001",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1621/rCvLik1PKDSoCaEvTIx42H3Q.png?w=260",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA10595, v03.000.001, USA to EUR Langs, 4.xx BackPort\nSize: 180GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA10595, v03.000.001, USA to EUR Langs, BackPort\nSize: 180GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 193273528320
     },
@@ -1726,7 +1782,7 @@
       "version": "v01.005.003",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/DwVjpbKOsFOyPdNzmSTSWuxG.png?w=260",
-      "description": "Builds: Fpkg\nTags: PPSA01474, v01.005.003, EUR, 4.xx BackPork\nSize: 77GB\nCredits: Files: DUPLEX; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA01474, v01.005.003, EUR, BackPork\nSize: 77GB\nCredits: Files: DUPLEX; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 82678120448
     },
@@ -1747,15 +1803,15 @@
           "url": "https://datanodes.to/ywsurrfeqhj2"
         },
         {
-          "name": "4.xx BackPort - AkiraBox",
+          "name": "BackPort - AkiraBox",
           "url": "https://akirabox.com/rk9zKDZRQG0l/file"
         },
         {
-          "name": "4.xx BackPort - VikingFile",
+          "name": "BackPort - VikingFile",
           "url": "https://vikingfile.com/f/kvMjgdBGfI"
         },
         {
-          "name": "4.xx BackPort - DataNodes",
+          "name": "BackPort - DataNodes",
           "url": "https://datanodes.to/gyx1g34t36hl"
         },
         {
@@ -1782,7 +1838,7 @@
       "version": "v03.005",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/fkyAEGMueFssDbC4XQpITu6q.png?w=260",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Standard 7.xx, BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 154618822656
     },
@@ -1803,15 +1859,15 @@
           "url": "https://datanodes.to/awrebs8srq94"
         },
         {
-          "name": "4.xx BackPort - AkiraBox",
+          "name": "BackPort - AkiraBox",
           "url": "https://akirabox.com/Xkrzok7QkzBO/file"
         },
         {
-          "name": "4.xx BackPort - VikingFile",
+          "name": "BackPort - VikingFile",
           "url": "https://vikingfile.com/f/ytlAdbExPm"
         },
         {
-          "name": "4.xx BackPort - DataNodes",
+          "name": "BackPort - DataNodes",
           "url": "https://datanodes.to/w815mry9bvvk"
         },
         {
@@ -1838,7 +1894,7 @@
       "version": "v01.030",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17905_c72b96acb23b525856b138e191206f108ed85f4a4b825d1b1b945e5e8349a746/icon0.webp",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA17905, v01.030, USA to EUR Langs, DLCs Merged, Standard (7.xx) + 4.xx BackPork\nSize: 191GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: b0mba1992\nHow to play: Burning Shores EUR DLC Included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Standard 7.xx, BackPort, Fpkg Backport\nTags: PPSA17905, v01.030, USA to EUR Langs, DLCs Merged, Standard (7.xx) + BackPork\nSize: 191GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: b0mba1992\nHow to play: Burning Shores EUR DLC Included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 205084688384
     },
@@ -1859,23 +1915,23 @@
           "url": "https://datanodes.to/zjtm6430pbml"
         },
         {
-          "name": "4.xx BackPort - AkiraBox",
+          "name": "BackPort - AkiraBox",
           "url": "https://akirabox.com/qw1zedg4e3Xy/file"
         },
         {
-          "name": "4.xx BackPort - VikingFile",
+          "name": "BackPort - VikingFile",
           "url": "https://vikingfile.com/f/LvfTsdF12y"
         },
         {
-          "name": "4.xx BackPort - DataNodes",
+          "name": "BackPort - DataNodes",
           "url": "https://datanodes.to/hn0fa1dst1oe"
         },
         {
-          "name": "4.xx BackPort - Filek",
+          "name": "BackPort - Filek",
           "url": "https://filekeeper.net/78g40nyv2pkw"
         },
         {
-          "name": "4.xx BackPort - Vault",
+          "name": "BackPort - Vault",
           "url": "https://datavaults.co/a3bjisy24k6q"
         },
         {
@@ -1918,7 +1974,7 @@
       "version": "v01.200",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02530_510726de2d2770eb9a1b4bac6a7deef47d3feb29bcedf6d8ca250a34f2f8a42a/icon0.webp",
-      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Standard 5.xx, BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 91268055040
     },
@@ -1982,7 +2038,7 @@
       "version": "v01.512",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26344_64b41e265a7c7f2ed67c0f7fe285ebbc7674c657a18fdfa46fac9c81073c4e37/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 201863462912
     },
@@ -2042,7 +2098,7 @@
       "version": "v01.018",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png?w=260",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA21564, v01.018, USA, 4.xx BackPort\nSize: 152GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: romhunter & Pippo\nHow to play: Progress will be no lost from v01.007 (No need anymore Garlic Saves Manager) + DLCs by romhunter edited to make it work also on FPKG, enjoy. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA21564, v01.018, USA, BackPort\nSize: 152GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: romhunter & Pippo\nHow to play: Progress will be no lost from v01.007 (No need anymore Garlic Saves Manager) + DLCs by romhunter edited to make it work also on FPKG, enjoy. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 163208757248
     },
@@ -2094,7 +2150,7 @@
       "version": "v01.021",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png?w=260",
-      "description": "Builds: Fpkg\nTags: PPSA23226, v01.021, EUR, DLCs Merged, 4.xx BackPort\nSize: 168GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA23226, v01.021, EUR, DLCs Merged, BackPort\nSize: 168GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 180388626432
     },
@@ -2146,7 +2202,7 @@
       "version": "v01.200.007",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02572_25d7e68bc899aa7555fcb8efc5129831a75001aa7c56790bfb74e9d3099b971c/icon0.webp",
-      "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack\nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack\nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 147102629888
     },
@@ -2210,7 +2266,7 @@
       "version": "v01.008",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14251_4d87dc8355baccd31e232d414774db308c9b6344b7e88e8ea253ee7f58c92325/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 75161927680
     },
@@ -2274,7 +2330,7 @@
       "version": "v01.019.076",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20397_ab966e5f7d833e56a3490f2143f4355870270405c5d816879d251f06d4dd6eb6/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: Audio 3D must be OFF or will crash on initial Settings. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: Audio 3D must be OFF or will crash on initial Settings. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 315680096256
     },
@@ -2326,7 +2382,7 @@
       "version": "v01.004.003",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png?w=260",
-      "description": "Builds: Fpkg\nTags: PPSA03016, v01.004.003, USA to EUR Langs, DLCs Merged, 4.xx BackPork\nSize: 254GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA03016, v01.004.003, USA to EUR Langs, DLCs Merged, BackPork\nSize: 254GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 272730423296
     },
@@ -2378,7 +2434,7 @@
       "version": "v01.006",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2617/7d34370effa78b3d662f03900e7934d577d48b030d192f97.png?w=260",
-      "description": "Builds: Fpkg\nTags: PPSA34299, v01.006, USA, DLCs Merged, 4.xx BackPort\nSize: 286GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: Ringside Pass DLCs require Internet Connection instead all other DLCs are unlocked, included Pre-Order. Commentary now is working with v01.006+. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA34299, v01.006, USA, DLCs Merged, BackPort\nSize: 286GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: Ringside Pass DLCs require Internet Connection instead all other DLCs are unlocked, included Pre-Order. Commentary now is working with v01.006+. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 307090161664
     },
@@ -2399,15 +2455,15 @@
           "url": "https://datanodes.to/czmjw3g4yv0o"
         },
         {
-          "name": "4.xx BackPort - AkiraBox",
+          "name": "BackPort - AkiraBox",
           "url": "https://akirabox.com/vgKGxLZ74G8Q/file"
         },
         {
-          "name": "4.xx BackPort - VikingFile",
+          "name": "BackPort - VikingFile",
           "url": "https://vikingfile.com/f/RLex2QDQ84"
         },
         {
-          "name": "4.xx BackPort - DataNodes",
+          "name": "BackPort - DataNodes",
           "url": "https://datanodes.to/jhl00nkysf9e"
         },
         {
@@ -2446,7 +2502,7 @@
       "version": "v01.010.001",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/1cc63f4f4b2c9a9852fabefba4ca7eea936b1ef7867811a5.png?w=260",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA07570, v01.010.001, USA, DLC Merged, Standard (9.xx) + 4.xx BackPork\nSize: 306GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack\nHow to play: Khaos Reign DLC now is Merged. FPKG atm is only working up to 11.60, use exFAT (Standard & BackPort) if you are above.",
+      "description": "Builds: Standard 9.xx, BackPort, DLC, Fpkg Backport\nTags: PPSA07570, v01.010.001, USA, DLC Merged, Standard (9.xx) + BackPork\nSize: 306GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack\nHow to play: Khaos Reign DLC now is Merged. FPKG atm is only working up to 11.60, use exFAT (Standard & BackPort) if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 328564998144
     },
@@ -9639,7 +9695,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4682229,
+      "id": 4690896,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -13205,7 +13261,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4682332,
+      "id": 4690999,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

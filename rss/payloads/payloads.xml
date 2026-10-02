@@ -293,10 +293,10 @@
       <pubDate>1.4.8</pubDate>
     </item>
     <item>
-      <title>Pegasus-Dl V1.10.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf</link>
-      <description>free store webadmin http://your-ps5-ip:6970.</description>
-      <pubDate>v1.10.1</pubDate>
+      <title>Pegasus-Dl V1.9.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>pegasus-dl</pubDate>
     </item>
     <item>
       <title>Ps5Shopappkg-Dpi</title>
@@ -389,10 +389,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Prosperomgr V1.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf</link>
-      <description>A Web-Based All-In-One homebrew manager for your PlayStation 5</description>
-      <pubDate>v1.1</pubDate>
+      <title>Prosperomgr Vbeta</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ProsperoMgr</pubDate>
     </item>
     <item>
       <title>Ps5-Linux-Loader V2.5</title>
@@ -491,10 +491,10 @@
       <pubDate>0.1</pubDate>
     </item>
     <item>
-      <title>Cheatrunner V0.17.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf</link>
-      <description>CheatRunner.</description>
-      <pubDate>v0.17.2</pubDate>
+      <title>Cheatrunner V0.17</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>CheatRunner</pubDate>
     </item>
     <item>
       <title>Kylin-Core V2.0.0-Community-Lite</title>
@@ -551,10 +551,16 @@
       <pubDate>v2.00</pubDate>
     </item>
     <item>
-      <title>Shadowmountplus V1.7Beta2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta2/ShadowMountPlus_v1.7beta2.elf</link>
+      <title>Shadowmountplus</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta3/shadowmountplus.elf</link>
       <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.7beta2</pubDate>
+      <pubDate>1.7beta3</pubDate>
+    </item>
+    <item>
+      <title>Shadowmountplus 1.7Beta3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta3/ShadowMountPlus_1.7beta3.zip</link>
+      <description>ShadowMountPlus payload for game mounting.</description>
+      <pubDate>1.7beta3</pubDate>
     </item>
     <item>
       <title>Backpork V0.1</title>
@@ -567,6 +573,90 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf</link>
       <description>APR Emu Updater must always be loaded.</description>
       <pubDate>v2.0.6</pubDate>
+    </item>
+    <item>
+      <title>Elf Arsenal V1.6.23</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ELF_Arsenal</pubDate>
+    </item>
+    <item>
+      <title>Elf-Launcher V1.0.3</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>elf-launcher</pubDate>
+    </item>
+    <item>
+      <title>Elf-Launcher-Install</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>elf-launcher</pubDate>
+    </item>
+    <item>
+      <title>A53 Ppr Install Fast V15.09</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>A53_Experimental_KS-D</pubDate>
+    </item>
+    <item>
+      <title>Kstuff-Echostrech V1.11Expermiental</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>Kstuff_EchoStrech_Experimental</pubDate>
+    </item>
+    <item>
+      <title>A53 Exploit-Experimental</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>A53_Experimental_KS-E</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Web-File-Manager V1.8</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Worker V1.1.7</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-worker</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Savemgr V1.13</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-savemgr</pubDate>
+    </item>
+    <item>
+      <title>Ghostcontrol-Ps5-Usb-Controller-Patcher V1.0.5</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>Ghostcontrol-PS5-USB-Controller-Patcher</pubDate>
+    </item>
+    <item>
+      <title>Poords4Rc38 V0.1.0-Rc38</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PoorDS4</pubDate>
+    </item>
+    <item>
+      <title>Poords4Rc44 V0.1.0-Rc44</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PoorDS4</pubDate>
+    </item>
+    <item>
+      <title>Np-Fake-Signin V1.3</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>np-fake-signin</pubDate>
+    </item>
+    <item>
+      <title>Pkgmgr V1.2.2</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-pkg-manager</pubDate>
     </item>
   </channel>
 </rss>
