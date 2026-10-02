@@ -2,24 +2,24 @@
   "name": "PS5 Server",
   "payloads": [
     {
-      "name": "Zhttp V1.6.0",
-      "filename": "zhttp_v1.6.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zhttp_v1.6.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.6.0/zhttp_v1.6.0.elf",
-      "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.6.0",
-      "category": "PS5 Server",
-      "checksum": "fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497"
-    },
-    {
-      "name": "Zftpd V1.6.0",
-      "filename": "zftpd_v1.6.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd_v1.6.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd_v1.6.0.elf",
+      "name": "Zftpd-Ps5-V1.6.0",
+      "filename": "zftpd-ps5-v1.6.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
       "description": "FTP server payload for PS5. Port: 21",
       "version": "v1.6.0",
       "category": "PS5 Server",
       "checksum": "39ed57bef579282418f822da2e58ea5d56acfa5aa4cd38816744b1f610bfa14d"
+    },
+    {
+      "name": "Zftpd-Ps5-Zhttp-V1.6.0",
+      "filename": "zftpd-ps5-zhttp-v1.6.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf",
+      "description": "FTP server payload for PS5. Port: 21",
+      "version": "v1.6.0",
+      "category": "PS5 Server",
+      "checksum": "fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497"
     },
     {
       "name": "Elfldr V0.26",

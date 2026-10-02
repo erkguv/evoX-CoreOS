@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-1635)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-1706)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -17,6 +17,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
+  * `garlic-savemgr_v1.13.1.elf`
+  * `garlic-worker_v1.1.7.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `Common_FPS_PS5_v1.2.1.elf`
   * `ps5_overlay.elf`
@@ -24,6 +26,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BFpilot_v0.4.4.elf`
   * `lapy_jb_daemon.elf`
   * `web-file-mgr_v1.9.elf`
+  * `web-file-mgr-v1.9.elf`
   * `wfm-7zip-helper.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
@@ -33,12 +36,12 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
   * `webkit-autoloader-installer_v0.5.2.elf`
+  * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
-  * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
-  * `zhttp_v1.6.0.elf`
-  * `zftpd_v1.6.0.elf`
+  * `zftpd-ps5-v1.6.0.elf`
+  * `zftpd-ps5-zhttp-v1.6.0.elf`
   * `elfldr_v0.26.elf`
   * `ftpsrv_ps5-payload_v0.21.1.elf`
   * `websrv_v0.34.elf`
@@ -49,8 +52,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5upload_v5.41.0.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
-  * `PoorDS4-status_v0.1.0-rc51.elf`
   * `PoorDS4-stop_v0.1.0-rc51.elf`
+  * `PoorDS4-status_v0.1.0-rc51.elf`
   * `PoorDS4rc51_v0.1.0-rc51.elf`
   * `PS_Game_State_Lib_v0.1.elf`
   * `PS-DiscordPresence_v0.01.elf`
@@ -64,12 +67,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Spectrum-Library_v1.4.8.elf`
   * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
-  * `ps5library-agent_v0.2.55.elf`
-  * `bfplayer-standalone_v0.1.0-alpha.44.elf`
+  * `ps5library-agent-0.2.55.elf`
+  * `bfplayer-standalone.elf`
   * `ProsperoPlayer_v1.0.elf`
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
-  * `pkg-manager_v1.4.1.elf`
   * `pkg-receiver_v1.2.8.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
@@ -78,10 +80,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
-  * `ProsperoMgr_v1.1.elf`
+  * `ProsperoMgr.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
+  * `fan_target_v0.1.elf`
   * `fan_target_75c_v0.1.elf`
   * `fan_target_70c_v0.1.elf`
   * `fan_target_65c_v0.1.elf`
@@ -89,7 +92,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Custom-Tool-Manager-_vCustom.elf`
   * `ps5-wallpaper-modd_v1.0.elf`
   * `ps5debug-NG_v1.3.2.elf`
-  * `ps5-fw-spoof_v26616621599.elf`
+  * `ps5-fw-spoof.elf`
   * `ps5-self-pager_v1.2.elf`
   * `PS5-SELF-Decrypter_v0.5.2.elf`
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
@@ -108,6 +111,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `shadowmountplus.elf`
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
+  * `pkg-manager_v1.4.1.elf`
 
 </details>
 

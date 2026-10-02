@@ -12,10 +12,10 @@
       "checksum": "949b0e6e0fe3f24f4a820319fd76d9ccb92f9770cbb1a64b09a8eca5c1fc9ff3"
     },
     {
-      "name": "Ps5-Fw-Spoof V26616621599",
-      "filename": "ps5-fw-spoof_v26616621599.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof_v26616621599.elf",
-      "local_path": "payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof_v26616621599.elf",
+      "name": "Ps5-Fw-Spoof",
+      "filename": "ps5-fw-spoof.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof.elf",
+      "local_path": "payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof.elf",
       "description": "Firmware spoofer utility for PS5.",
       "version": "26616621599",
       "category": "PS5 Sdk Debug",

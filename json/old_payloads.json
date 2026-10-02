@@ -2,6 +2,26 @@
     "name": "AIO Store Payloads",
     "payloads": [
         {
+            "name": "Garlic-Savemgr V1.13.1",
+            "filename": "garlic-savemgr_v1.13.1.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
+            "local_path": "payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
+            "description": "Save manager utility hosted on Forgejo.",
+            "version": "v1.13.1",
+            "category": "PS5 Saves",
+            "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5"
+        },
+        {
+            "name": "Garlic-Worker V1.1.7",
+            "filename": "garlic-worker_v1.1.7.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
+            "local_path": "payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
+            "description": "Garlic worker payload component.",
+            "version": "v1.1.7",
+            "category": "PS5 Saves",
+            "checksum": "2643f35cdfe9969cf775220dc4a65bc4ff0d08750c39bfb714b74dbbf29cd396"
+        },
+        {
             "name": "Savemnt-Offset-Dumper V1.0.0",
             "filename": "savemnt-offset-dumper_v1.0.0.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf",
@@ -66,6 +86,16 @@
             "filename": "web-file-mgr_v1.9.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr_v1.9.elf",
             "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr_v1.9.elf",
+            "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
+            "version": "v1.9",
+            "category": "PS5 File Explorer",
+            "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
+        },
+        {
+            "name": "Web-File-Mgr-V1.9",
+            "filename": "web-file-mgr-v1.9.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr-v1.9.elf",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr-v1.9.elf",
             "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
             "version": "v1.9",
             "category": "PS5 File Explorer",
@@ -162,6 +192,16 @@
             "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a"
         },
         {
+            "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
+            "filename": "Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
+            "local_path": "payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
+            "description": "Host-PSM pooP2JB.",
+            "version": "v1.2.0",
+            "category": "Ps5-Webkit-Autoloader",
+            "checksum": "3ccc45938dcc1bb6ee766195106c928049fd632993828bcf73b5368fdebfc496"
+        },
+        {
             "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0",
             "filename": "Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf",
@@ -192,34 +232,24 @@
             "checksum": "90f1ec197e66bbf4fa1a3bce040d6a5d04d571c4f8290f608401e8f7c2e9e0a4"
         },
         {
-            "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
-            "filename": "Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
-            "local_path": "payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
-            "description": "Host-PSM pooP2JB.",
-            "version": "v1.2.0",
-            "category": "Ps5-Webkit-Autoloader",
-            "checksum": "3ccc45938dcc1bb6ee766195106c928049fd632993828bcf73b5368fdebfc496"
-        },
-        {
-            "name": "Zhttp V1.6.0",
-            "filename": "zhttp_v1.6.0.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zhttp_v1.6.0.elf",
-            "local_path": "payloads/ps5_server/zftpd/v1.6.0/zhttp_v1.6.0.elf",
-            "description": "FTP server payload for PS5. Port: 21",
-            "version": "v1.6.0",
-            "category": "PS5 Server",
-            "checksum": "fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497"
-        },
-        {
-            "name": "Zftpd V1.6.0",
-            "filename": "zftpd_v1.6.0.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd_v1.6.0.elf",
-            "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd_v1.6.0.elf",
+            "name": "Zftpd-Ps5-V1.6.0",
+            "filename": "zftpd-ps5-v1.6.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
+            "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
             "description": "FTP server payload for PS5. Port: 21",
             "version": "v1.6.0",
             "category": "PS5 Server",
             "checksum": "39ed57bef579282418f822da2e58ea5d56acfa5aa4cd38816744b1f610bfa14d"
+        },
+        {
+            "name": "Zftpd-Ps5-Zhttp-V1.6.0",
+            "filename": "zftpd-ps5-zhttp-v1.6.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf",
+            "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf",
+            "description": "FTP server payload for PS5. Port: 21",
+            "version": "v1.6.0",
+            "category": "PS5 Server",
+            "checksum": "fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497"
         },
         {
             "name": "Elfldr V0.26",
@@ -322,16 +352,6 @@
             "checksum": "3561120f85e0ec32de5de15cdd61a1fe8d5146eb4c6aa99ee88209914a2774b1"
         },
         {
-            "name": "Poords4-Status V0.1.0-Rc51",
-            "filename": "PoorDS4-status_v0.1.0-rc51.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
-            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
-            "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-            "version": "v0.1.0-rc51",
-            "category": "PS5 Utility",
-            "checksum": "d47bb84a6ae05117f095c05b75dfee15d9fbf07864a3e52d0e2e626eab613440"
-        },
-        {
             "name": "Poords4-Stop V0.1.0-Rc51",
             "filename": "PoorDS4-stop_v0.1.0-rc51.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
@@ -340,6 +360,16 @@
             "version": "v0.1.0-rc51",
             "category": "PS5 Utility",
             "checksum": "ffdce4964f0d34a2b9be7cb65e6ad345d5beb582dcdf94d0214cde6bc79acd0d"
+        },
+        {
+            "name": "Poords4-Status V0.1.0-Rc51",
+            "filename": "PoorDS4-status_v0.1.0-rc51.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
+            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
+            "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
+            "version": "v0.1.0-rc51",
+            "category": "PS5 Utility",
+            "checksum": "d47bb84a6ae05117f095c05b75dfee15d9fbf07864a3e52d0e2e626eab613440"
         },
         {
             "name": "Poords4Rc51 V0.1.0-Rc51",
@@ -472,20 +502,20 @@
             "checksum": "c4672cfa909463843c537f67d5f2df9eb3456d4036d26a4fb81fc34d7853170b"
         },
         {
-            "name": "Ps5Library-Agent V0.2.55",
-            "filename": "ps5library-agent_v0.2.55.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent_v0.2.55.elf",
-            "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent_v0.2.55.elf",
+            "name": "Ps5Library-Agent-0.2.55",
+            "filename": "ps5library-agent-0.2.55.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf",
+            "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf",
             "description": "You need PS5Library.pkg.",
             "version": "v0.2.55",
             "category": "PS5 Freeshop",
             "checksum": "1efb53f018dc79803da3041c24bac6cc5dec31617fbd0eb09f5c53cfee27625d"
         },
         {
-            "name": "Bfplayer-Standalone V0.1.0-Alpha.44",
-            "filename": "bfplayer-standalone_v0.1.0-alpha.44.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone_v0.1.0-alpha.44.elf",
-            "local_path": "payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone_v0.1.0-alpha.44.elf",
+            "name": "Bfplayer-Standalone",
+            "filename": "bfplayer-standalone.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf",
+            "local_path": "payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf",
             "description": "BFplayer is a native media library and player for jailbroken PlayStation 5 consoles.",
             "version": "v0.1.0-alpha.44",
             "category": "PS5 Video Player",
@@ -520,16 +550,6 @@
             "version": "2.1",
             "category": "PS5 Video Player",
             "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
-        },
-        {
-            "name": "Pkg-Manager V1.4.1",
-            "filename": "pkg-manager_v1.4.1.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
-            "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
-            "description": "A clean and intuitive package manager for PlayStation 5",
-            "version": "v1.4.1",
-            "category": "PS5 Pkg Tool",
-            "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
         },
         {
             "name": "Pkg-Receiver V1.2.8",
@@ -612,10 +632,10 @@
             "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
         },
         {
-            "name": "Prosperomgr V1.1",
-            "filename": "ProsperoMgr_v1.1.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf",
-            "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf",
+            "name": "Prosperomgr",
+            "filename": "ProsperoMgr.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf",
+            "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf",
             "description": "A Web-Based All-In-One homebrew manager for your PlayStation 5",
             "version": "v1.1",
             "category": "PS5 HEN Loader",
@@ -650,6 +670,16 @@
             "version": "0.1",
             "category": "PS5 Fan",
             "checksum": "c37019c351c1c5b05b43adbac29d85bfd25f8c0ab9d94371cacab1945d8e0fd0"
+        },
+        {
+            "name": "Fan Target V0.1",
+            "filename": "fan_target_v0.1.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_v0.1.elf",
+            "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_v0.1.elf",
+            "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
+            "version": "0.1",
+            "category": "PS5 Fan",
+            "checksum": "a9ad8502123799d58f8ddd9882d842f524c4ecc3ea6743a73c6dcdffd0bf30e0"
         },
         {
             "name": "Fan Target 75C V0.1",
@@ -722,10 +752,10 @@
             "checksum": "949b0e6e0fe3f24f4a820319fd76d9ccb92f9770cbb1a64b09a8eca5c1fc9ff3"
         },
         {
-            "name": "Ps5-Fw-Spoof V26616621599",
-            "filename": "ps5-fw-spoof_v26616621599.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof_v26616621599.elf",
-            "local_path": "payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof_v26616621599.elf",
+            "name": "Ps5-Fw-Spoof",
+            "filename": "ps5-fw-spoof.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof.elf",
+            "local_path": "payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof.elf",
             "description": "Firmware spoofer utility for PS5.",
             "version": "26616621599",
             "category": "PS5 Sdk Debug",
@@ -910,6 +940,15 @@
             "version": "v2.0.6",
             "category": "PS5 Game Dump",
             "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
+        },
+        {
+            "name": "Pkg-Manager V1.4.1",
+            "filename": "pkg-manager_v1.4.1.elf",
+            "url": "",
+            "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "ps5-pkg-manager",
+            "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
         }
     ]
 }

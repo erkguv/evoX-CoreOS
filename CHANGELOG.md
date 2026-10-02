@@ -1,5 +1,19 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 17:06
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.13.1` (v1.13.1) - *Nouveau*
+  * `Garlic-Worker V1.1.7` (v1.1.7) - *Nouveau*
+  * `Web-File-Mgr-V1.9` (v1.9) - *Nouveau*
+  * `Zftpd-Ps5-V1.6.0` (v1.6.0) - *Nouveau*
+  * `Zftpd-Ps5-Zhttp-V1.6.0` (v1.6.0) - *Nouveau*
+  * `Ps5Library-Agent-0.2.55` (v0.2.55) - *Nouveau*
+  * `Bfplayer-Standalone` (v0.1.0-alpha.44) - *Nouveau*
+  * `Prosperomgr` (v1.1) - *Nouveau*
+  * `Fan Target V0.1` (0.1) - *Nouveau*
+  * `Ps5-Fw-Spoof` (26616621599) - *Nouveau*
+  * `Pkg-Manager V1.4.1` (ps5-pkg-manager) - *Mise à jour (Précédent: v1.4.1)*
+
 ## Build du 02/10/2026 à 16:35
 * **PAYLOADS**
   * `Savemnt-Offset-Dumper V1.0.0` (1.0.0) - *Nouveau*

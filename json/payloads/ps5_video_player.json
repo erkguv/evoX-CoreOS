@@ -2,10 +2,10 @@
   "name": "PS5 Video Player",
   "payloads": [
     {
-      "name": "Bfplayer-Standalone V0.1.0-Alpha.44",
-      "filename": "bfplayer-standalone_v0.1.0-alpha.44.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone_v0.1.0-alpha.44.elf",
-      "local_path": "payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone_v0.1.0-alpha.44.elf",
+      "name": "Bfplayer-Standalone",
+      "filename": "bfplayer-standalone.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf",
+      "local_path": "payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf",
       "description": "BFplayer is a native media library and player for jailbroken PlayStation 5 consoles.",
       "version": "v0.1.0-alpha.44",
       "category": "PS5 Video Player",
