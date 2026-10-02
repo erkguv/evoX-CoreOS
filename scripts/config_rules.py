@@ -152,7 +152,7 @@ REPO_RULES = {
             ]
         },
         
-        # --- Nouveaux dépôts idlesauce (Multi-ELF avec nom d'origine + tag version) ---
+        # --- Dépôts idlesauce (Multi-ELF) ---
         "idlesauce/ps5-self-decrypter": {
             "release_channel": "stable",
             "allowed_extensions": [".elf"],
@@ -175,6 +175,21 @@ REPO_RULES = {
                 {"match": "ps5-self-pager-game", "rename": "ps5-self-pager-game_v{version}.elf"},
                 {"match": "ps5-self-pager-shellcore", "rename": "ps5-self-pager-shellcore_v{version}.elf"},
                 {"match": "ps5-self-pager-system-common-lib", "rename": "ps5-self-pager-system-common-lib_v{version}.elf"}
+            ]
+        },
+
+        # --- Dépôt Forgejo earthonion/np-fake-signin (Version PS5 uniquement) ---
+        "earthonion/np-fake-signin": {
+            "release_channel": "stable",
+            "allowed_extensions": [".elf"],
+            "exclude_keywords": ["ps4"],
+            "keep_original": True,
+            "strict_clean": True,
+            "targets": [
+                {
+                    "match": "np-fake-signin-ps5",
+                    "rename": "np-fake-signin_v{version}.elf"
+                }
             ]
         },
 
