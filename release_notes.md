@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-1913)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-2033)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -147,6 +147,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>📄 Pack FFPFSC</b></summary>
 
 * **files**
+  * `ProsperoEden-v1.000.040.ffpfsc`
   * `PPSA99002.ffpfsc`
   * `PPSA99001.ffpfsc`
   * `PPSA99003.ffpfsc`

@@ -355,6 +355,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Ppsa99002](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | 01.000.060 | `6e92e8f862cf...` | PS5 Moonlight |
 | [Ppsa99003](https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc) | 01.000.015 | `4d5ea7fd048d...` | PS5 IPTV |
 | [Prospero Radio](https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.046/PROSPERO_RADIO.ffpfsc) | 01.000.046 | `26b77747f914...` | An internet radio for PS5 with a real radio face — rendered with Vulkan. |
+| [Prosperoeden-V1.000.040](https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.000.040/ProsperoEden-v1.000.040.ffpfsc) | v1.000.040 | `6f794bb48cc3...` | PS5 Switch emulator |
 
 ---
 
@@ -438,6 +439,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **barisyild** : [airpsx](https://github.com/barisyild/airpsx)
 - **bizkut** : [unrar-ps5](https://github.com/bizkut/unrar-ps5)
 - **blackbearreloaded** : [ProsperoAI](https://github.com/blackbearreloaded/ProsperoAI)
+- **blackbearreloaded** : [ProsperoEden](https://github.com/blackbearreloaded/ProsperoEden/releases.atom)
 - **blackbearreloaded** : [ProsperoLight](https://github.com/blackbearreloaded/ProsperoLight)
 - **blackbearreloaded** : [ProsperoRadio](https://github.com/blackbearreloaded/ProsperoRadio)
 - **blackbearreloaded** : [ProsperoTV](https://github.com/blackbearreloaded/ProsperoTV)
