@@ -22,6 +22,16 @@
       "category": "Applications"
     },
     {
+      "name": "Dump Installer",
+      "filename": "dump_installer.zip",
+      "url": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
+      "local_path": "apps/dump_installer/1.07/dump_installer.zip",
+      "description": "Dump installer howmebrew",
+      "version": "1.07",
+      "checksum": "5096f5775236758803d2a4fc3c257973d27e0fb1429ecd5f75b0c74382c1403c",
+      "category": "Applications"
+    },
+    {
       "name": "Dump Runner",
       "filename": "dump_runner.zip",
       "url": "https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip",

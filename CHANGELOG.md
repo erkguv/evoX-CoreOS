@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 02:52
+* **PAYLOADS**
+  * `Kylin-Core V2.0.0-Community-Lite` (v2.0.0-community-lite) - *Nouveau*
+* **APPS**
+  * `Dump Installer` (1.07) - *Nouveau*
+
 ## Build du 02/10/2026 à 02:35
 * **PAYLOADS**
   * `Kstuff-1.13-Fpkg-Dr-Test5` (Source-Fixe) - *Nouveau*

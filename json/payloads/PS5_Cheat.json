@@ -12,14 +12,14 @@
       "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
     },
     {
-      "name": "Kylin-Core-Community-Lite-V131-Global-Release",
-      "filename": "kylin-core-community-lite-v131-global-release.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/kylin-core/Source-Fixe/kylin-core-community-lite-v131-global-release.elf",
-      "local_path": "payloads/PS5_Cheat/kylin-core/Source-Fixe/kylin-core-community-lite-v131-global-release.elf",
+      "name": "Kylin-Core V2.0.0-Community-Lite",
+      "filename": "kylin-core_v2.0.0-community-lite.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/kylin-core/v2.0.0-community-lite/kylin-core_v2.0.0-community-lite.elf",
+      "local_path": "payloads/PS5_Cheat/kylin-core/v2.0.0-community-lite/kylin-core_v2.0.0-community-lite.elf",
       "description": "kylin-core",
-      "version": "Source-Fixe",
+      "version": "v2.0.0-community-lite",
       "category": "PS5 Cheat",
-      "checksum": "2b731fc60b3d7996667b372bb8e31df7125d209ecacbb6838312a51b24b65c29"
+      "checksum": "7f5245f2db67b131c6f9e991b731117c2c730923a9dd65a2d82b36f2e2b91545"
     }
   ]
 }

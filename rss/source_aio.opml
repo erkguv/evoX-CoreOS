@@ -82,7 +82,7 @@
       <outline text="ps5-hwinfo" title="ps5-hwinfo" type="rss" xmlUrl="https://github.com/drakmor/ps5-hwinfo" description="PS5 payload for collecting hardware and runtime telemetry."/>
       <outline text="PS5 Debugger GUI" title="PS5 Debugger GUI" type="rss" xmlUrl="https://github.com/boazvdwansem/ps5-debugger" description="Graphical user interface for interacting with the debugger payload."/>
       <outline text="CheatRunner" title="CheatRunner" type="rss" xmlUrl="https://github.com/notmaj0r/CheatRunner" description="CheatRunner."/>
-      <outline text="kylin-core" title="kylin-core" type="rss" xmlUrl="https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/kylin-core-community-lite-v131-global-release.elf" description="kylin-core"/>
+      <outline text="kylin-core" title="kylin-core" type="rss" xmlUrl="https://github.com/aydencharles/kylin-core-release" description="kylin-core"/>
       <outline text="kstuff_EchoStretch" title="kstuff_EchoStretch" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff" description="Fnd Kstuff payload for PS5."/>
       <outline text="kstuff-lite_EchoStretch" title="kstuff-lite_EchoStretch" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff-lite" description="Lightweight version of kstuff."/>
       <outline text="kstuff-toggle" title="kstuff-toggle" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff-toggle" description="Utility to toggle kstuff features."/>

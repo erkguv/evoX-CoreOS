@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-0235)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-0252)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -99,7 +99,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `MemDBG_vnightly-20260930-g6e493c9.elf`
   * `ps5-hwinfo_v0.1.elf`
   * `CheatRunner_v0.17.2.elf`
-  * `kylin-core-community-lite-v131-global-release.elf`
+  * `kylin-core_v2.0.0-community-lite.elf`
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.11.elf`
   * `kstuff-lite_drakmor_v1.2-dr-test1.elf`
@@ -152,6 +152,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 * **apps**
   * `PPSA99004.zip`
   * `castation-0.4.0.zip`
+  * `dump_installer.zip`
   * `dump_runner.zip`
   * `kodi-ps5-PPSA99420-0.9.zip`
 

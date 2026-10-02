@@ -99,7 +99,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "83f3f887e9e5b328e4e27d15bf8d89935e788bf9eaf54160020df60d976946de"
+      "checksum": "9e19deac24cc554d297edd003275e5b2fa284e95a882d7c0ba46f338cf1271bf"
     },
     {
       "name": "A53-Kstuff-Smp",
@@ -109,7 +109,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "d66652c63d9f7b970c26c5cf451667fabb36fc468f0d32ad879497005c92b160"
+      "checksum": "3f237557592899cac346117ec4c68ae403fadb3336f26a97e88d48921e378ac7"
     },
     {
       "name": "Kstuff-Ng V1.00",
@@ -119,7 +119,7 @@
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "81056f825d10116bbaf2053db20242c4eb0a78a3f437776e0f105c8e1f3cdaa8"
+      "checksum": "8c85b7b368228f36800a771adcd2ce9ef2113f6604dd5ca47d9e2a0138afaa14"
     },
     {
       "name": "Kstuff V1.12-Dr-Test8",
@@ -149,7 +149,7 @@
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "3531abce1f7cd0a59c50eadfbf73a656815f0ab2ce8e80a68d72dbf8a8976a8a"
+      "checksum": "41505704f59dc095fa8b2c2aa323d4afadb8ee9ee6a6703cc8b0cb4e97e00097"
     },
     {
       "name": "A53 Ppr Install 1140 20.09",
@@ -159,7 +159,7 @@
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "43c8bf722d72044faa34d6ee26e49b51cdbf765dec3338b774d7c5eccfab7519"
+      "checksum": "574d64010fc2bf7f3dd2eb7207310da283da22d07fcb18637a584a213a5c6d94"
     },
     {
       "name": "A53 Ppr Install 1160 20.09",
@@ -169,7 +169,7 @@
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "85ffdd726a5a87697b8224adfa57d365da3584b1e2871525b2382a327da451a8"
+      "checksum": "4a4d76d7815374b9e7ccd134758f85c96d1e6ce22d631c32feb4acd3d03ea2fe"
     },
     {
       "name": "Webkit-Autoloader-Installer V0.5.2",
@@ -469,7 +469,7 @@
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "6522cc6e423797cd6f912e69e871ab0523989764c325ee4d3ddf1ee6f25f5983"
+      "checksum": "8819d520e67f054e4474c1688652634604caa26f03702d36804ada11c3d9e27f"
     },
     {
       "name": "Spectrum-Library V1.4.8",
@@ -822,14 +822,14 @@
       "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
     },
     {
-      "name": "Kylin-Core-Community-Lite-V131-Global-Release",
-      "filename": "kylin-core-community-lite-v131-global-release.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/kylin-core/Source-Fixe/kylin-core-community-lite-v131-global-release.elf",
-      "local_path": "payloads/PS5_Cheat/kylin-core/Source-Fixe/kylin-core-community-lite-v131-global-release.elf",
+      "name": "Kylin-Core V2.0.0-Community-Lite",
+      "filename": "kylin-core_v2.0.0-community-lite.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/kylin-core/v2.0.0-community-lite/kylin-core_v2.0.0-community-lite.elf",
+      "local_path": "payloads/PS5_Cheat/kylin-core/v2.0.0-community-lite/kylin-core_v2.0.0-community-lite.elf",
       "description": "kylin-core",
-      "version": "Source-Fixe",
+      "version": "v2.0.0-community-lite",
       "category": "PS5 Cheat",
-      "checksum": "2b731fc60b3d7996667b372bb8e31df7125d209ecacbb6838312a51b24b65c29"
+      "checksum": "7f5245f2db67b131c6f9e991b731117c2c730923a9dd65a2d82b36f2e2b91545"
     },
     {
       "name": "Kstuff Echostretch V1.6.7",
