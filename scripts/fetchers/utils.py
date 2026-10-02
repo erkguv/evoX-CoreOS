@@ -45,31 +45,46 @@ def get_repo_config(repo_lower):
     return config
 
 def fetch_github_release_data(repo, config):
-    """Interroge l'API GitHub standard."""
+    """Interroge l'API GitHub avec gestion de repli robuste."""
     channel = config.get("release_channel", "stable")
     try:
         if channel == "pre-release":
-            releases_json_str = subprocess.check_output(f"gh api repos/{repo}/releases", shell=True).decode().strip()
+            releases_json_str = subprocess.check_output(f"gh api repos/{repo}/releases", shell=True, stderr=subprocess.DEVNULL).decode().strip()
             releases_data = json.loads(releases_json_str)
             if releases_data and isinstance(releases_data, list):
                 return releases_data[0]
         else:
-            release_json_str = subprocess.check_output(f"gh api repos/{repo}/releases/latest", shell=True).decode().strip()
+            release_json_str = subprocess.check_output(f"gh api repos/{repo}/releases/latest", shell=True, stderr=subprocess.DEVNULL).decode().strip()
             return json.loads(release_json_str)
-    except Exception as e:
-        print(f"    ⚠️ Erreur lors de la récupération de la release GitHub pour {repo}: {e}")
+    except Exception:
+        # Fallback si `gh api` échoue : on essaie l'API REST publique de GitHub
+        try:
+            fallback_url = f"https://api.github.com/repos/{repo}/releases"
+            req = urllib.request.Request(fallback_url, headers={'User-Agent': 'Mozilla/5.0'})
+            if os.environ.get('GITHUB_TOKEN'):
+                req.add_header('Authorization', f"token {os.environ.get('GITHUB_TOKEN')}")
+            with urllib.request.urlopen(req) as response:
+                data = json.loads(response.read().decode())
+                if data and isinstance(data, list):
+                    return data[0]
+        except Exception as e:
+            print(f"    ⚠️ Impossible de récupérer la release GitHub pour {repo}: {e}")
     return None
 
 def fetch_forgejo_release_data(domain, repo, config):
-    """Interroge l'API des instances Forgejo / Gitea (ex: git.etawen.dev)."""
+    """Interroge l'API Forgejo / Gitea sans token (gère les erreurs 401 proprement)."""
     api_url = f"https://{domain}/api/v1/repos/{repo}/releases"
     try:
         req = urllib.request.Request(api_url, headers={'User-Agent': 'Mozilla/5.0'})
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode())
             if data and isinstance(data, list):
-                # Forgejo renvoie une liste de releases triées par date
                 return data[0]
+    except urllib.error.HTTPError as e:
+        if e.code == 401:
+            print(f"    ⚠️ Dépôt Forgejo privé ou restreint ({repo} sur {domain}) : Accès non autorisé (401). Ignoré.")
+        else:
+            print(f"    ⚠️ Erreur HTTP {e.code} pour Forgejo ({repo} sur {domain}) : {e.reason}")
     except Exception as e:
         print(f"    ⚠️ Erreur lors de la récupération Forgejo pour {repo} sur {domain}: {e}")
     return None
@@ -168,7 +183,6 @@ def fetch_assets_from_url(xml_url, title, description, author, default_allowed_e
                     if any(kw in asset_name.lower() for kw in exclude_keys):
                         continue
 
-                    should_download = True
                     target_filename = asset_name
                     local_file_path = os.path.join(target_dir, target_filename)
 
