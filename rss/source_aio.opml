@@ -114,7 +114,7 @@
       <outline text="Spectrum-Library" title="Spectrum-Library" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library" description="Spectrum-Library FreeShop."/>
     </outline>
     <outline text="Ffpfsc" title="Ffpfsc">
-      <outline text="ProsperoEden" title="ProsperoEden" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoEden" description="PS5 Switch emulator"/>
+      <outline text="ProsperoEden" title="ProsperoEden" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoEden/releases.atom" description="PS5 Switch emulator"/>
       <outline text="ProsperoLight" title="ProsperoLight" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoLight" description="PS5 Moonlight"/>
       <outline text="ProsperoRadio" title="ProsperoRadio" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoRadio" description="PS5 Radio Player"/>
       <outline text="ProsperoTV" title="ProsperoTV" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoTV" description="PS5 IPTV"/>
