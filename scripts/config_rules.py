@@ -64,14 +64,14 @@ REPO_RULES = {
         "drakmor/shadowmountplus": {
             "extract_zip": False,
             "release_channel": "pre-release",
-            "allowed_extensions": [".elf", ".zip"],
+            "allowed_extensions": [".elf"],
             "keep_original": True,
             "strict_clean": False
         },
         "shadowmountplus": {
             "extract_zip": False,
             "release_channel": "pre-release",
-            "allowed_extensions": [".elf", ".zip"],
+            "allowed_extensions": [".elf"],
             "keep_original": True,
             "strict_clean": False
         },
