@@ -320,6 +320,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | [Bfplayer-Standalone](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf) | v0.1.0-alpha.44 | `0d028deb145d...` | BFplayer is a native media library and player for jailbroken PlayStation 5 consoles. |
+| [Nuvio-Ps5 V1.7.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.7.2/Nuvio-PS5_v1.7.2.elf) | v1.7.2 | `3fdadd2a6394...` | Nuvio, at home on the PlayStation 5 |
 | [Prosperoplayer V1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf) | v1.0 | `40b995527398...` | A homebrew media player for jailbroken PS5. |
 | [Ps-Play V2.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf) | 2.1 | `e3392379d5bc...` | All-in-one media hub for jailbroken PlayStation 5 |
 | [Svtplay V0.3](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf) | v0.3 | `31f2caac7d53...` | This is an unofficial 10-foot UI for SVT Play, the Swedish public service television broadcaster. |
@@ -364,7 +365,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Ppsa99001](https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc) | 01.000.005 | `0f82072f1e8a...` | PS5 Radio Player |
 | [Ppsa99002](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | 01.000.060 | `6e92e8f862cf...` | PS5 Moonlight |
 | [Ppsa99003](https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc) | 01.000.015 | `4d5ea7fd048d...` | PS5 IPTV |
-| [Prospero Radio](https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.046/PROSPERO_RADIO.ffpfsc) | 01.000.046 | `26b77747f914...` | An internet radio for PS5 with a real radio face — rendered with Vulkan. |
+| [Prospero Radio](https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.050/PROSPERO_RADIO.ffpfsc) | 02.000.050 | `e519f3dfa3c8...` | An internet radio for PS5 with a real radio face — rendered with Vulkan. |
 | [Prosperoeden-V1.000.040](https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.000.040/ProsperoEden-v1.000.040.ffpfsc) | v1.000.040 | `6f794bb48cc3...` | PS5 Switch emulator |
 
 ---
@@ -509,6 +510,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **seregonwar** : [MemDBG](https://github.com/seregonwar/MemDBG)
 - **seregonwar** : [zftpd](https://github.com/seregonwar/zftpd)
 - **smoxa** : [ps5-new-overlay](https://github.com/smoxa/ps5-new-overlay)
+- **theghostonline** : [Nuvio-PS5](https://github.com/theghostonline/Nuvio-PS5)
 - **tsuramatsu1** : [apr-emu-updater](https://github.com/tsuramatsu1/apr-emu-updater)
 - **zecoxao - LightningMods** : [etaHEN-Beta](https://github.com/zecoxao/zecoxao.github.io/raw/refs/heads/main/luasauce/payloads/etaHEN-2.6B.bin)
 

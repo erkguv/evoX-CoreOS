@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 22:54
+* **PAYLOADS**
+  * `Nuvio-Ps5 V1.7.2` (v1.7.2) - *Nouveau*
+* **FFPFSC**
+  * `Prospero Radio` (02.000.050) - *Mise à jour (Précédent: 01.000.046)*
+
 ## Build du 02/10/2026 à 21:34
 * **PAYLOADS**
   * `Actremotelink Agent V2.0` (v2.0) - *Nouveau*

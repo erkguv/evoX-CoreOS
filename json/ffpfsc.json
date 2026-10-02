@@ -54,11 +54,11 @@
     {
       "name": "Prospero Radio",
       "filename": "PROSPERO_RADIO.ffpfsc",
-      "url": "https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.046/PROSPERO_RADIO.ffpfsc",
-      "local_path": "ffpfsc/ProsperoRadio_Vulkan_Edition/01.000.046/PROSPERO_RADIO.ffpfsc",
+      "url": "https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.050/PROSPERO_RADIO.ffpfsc",
+      "local_path": "ffpfsc/ProsperoRadio_Vulkan_Edition/02.000.050/PROSPERO_RADIO.ffpfsc",
       "description": "An internet radio for PS5 with a real radio face — rendered with Vulkan.",
-      "version": "01.000.046",
-      "checksum": "26b77747f9142472b0213b33e14ffad435cb3a6b3b06157caad0848ade4b8940",
+      "version": "02.000.050",
+      "checksum": "e519f3dfa3c8f94d00666df71bc179b3e972c37ef5165749fd7ab2656d0c264a",
       "category": "FFPFSC"
     }
   ]

@@ -347,6 +347,12 @@
       <pubDate>2.1</pubDate>
     </item>
     <item>
+      <title>[Payloads] Nuvio-Ps5 V1.7.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.7.2/Nuvio-PS5_v1.7.2.elf</link>
+      <description>Nuvio, at home on the PlayStation 5</description>
+      <pubDate>v1.7.2</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Pkg-Manager V1.4.1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf</link>
       <description>A clean and intuitive package manager for PlayStation 5</description>
@@ -744,9 +750,9 @@
     </item>
     <item>
       <title>[Fichiers FFPFSC] Prospero Radio</title>
-      <link>https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/01.000.046/PROSPERO_RADIO.ffpfsc</link>
+      <link>https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.050/PROSPERO_RADIO.ffpfsc</link>
       <description>An internet radio for PS5 with a real radio face — rendered with Vulkan.</description>
-      <pubDate>01.000.046</pubDate>
+      <pubDate>02.000.050</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa99004</title>

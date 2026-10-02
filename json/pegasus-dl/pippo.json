@@ -3,6 +3,54 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA11386",
+      "title": "007 First Light Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/6n4fm3zbakno"
+        },
+        {
+          "name": "Filek",
+          "url": "https://filekeeper.net/p3kbr0tiirlg"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/1lmxofuurtsq"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/zsn3hv8snbtb"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/qw1zeb060GXy/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/3oNajZWxOL"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/5xqmkgrkf9vx"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/2sh9em356kon"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha33/9ac7f4849935373d5a68/PPSA11386-Compressed.7z"
+        }
+      ],
+      "version": "v01.018",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png?w=260",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. Base FPKG is 13.xx, separated BackPort PKG for 4.xx with Pro Fix included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 86973087744
+    },
+    {
       "titleId": "PPSA03671",
       "title": "Marvels Wolverine",
       "downloadLinks": [
@@ -305,50 +353,6 @@
       "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, 4.xx BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 77309411328
-    },
-    {
-      "titleId": "PPSA11386",
-      "title": "007 First Light Deluxe Edition",
-      "downloadLinks": [
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/69czbsmdqyg7"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/1lmxofuurtsq"
-        },
-        {
-          "name": "DLC - Vault",
-          "url": "https://datavaults.co/zsn3hv8snbtb"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/2WVGrdePB3kx/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/NSVJ7pp9me"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/dz8sizpspx8d"
-        },
-        {
-          "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/xcsxt3l31iui"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/alpha32/74fdbe90560222fc3953/PPSA11386-Compressed.7z"
-        }
-      ],
-      "version": "v01.018",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png?w=260",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "sizeBytes": 86973087744
     },
     {
       "titleId": "PPSA19534",
@@ -9695,7 +9699,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4703910,
+      "id": 4706079,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -13261,7 +13265,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4704013,
+      "id": 4706182,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

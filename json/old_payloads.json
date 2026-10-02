@@ -572,6 +572,16 @@
             "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
         },
         {
+            "name": "Nuvio-Ps5 V1.7.2",
+            "filename": "Nuvio-PS5_v1.7.2.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.7.2/Nuvio-PS5_v1.7.2.elf",
+            "local_path": "payloads/ps5_video_player/Nuvio-PS5/v1.7.2/Nuvio-PS5_v1.7.2.elf",
+            "description": "Nuvio, at home on the PlayStation 5",
+            "version": "v1.7.2",
+            "category": "PS5 Video Player",
+            "checksum": "3fdadd2a6394a526fa3c631056a8a2ef443bc535e45cc332215679ed5dab823a"
+        },
+        {
             "name": "Pkg-Manager V1.4.1",
             "filename": "pkg-manager_v1.4.1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
