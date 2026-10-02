@@ -207,6 +207,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
+| [Pkg-Manager V1.4.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf) | v1.4.1 | `09adaff13b85...` | A clean and intuitive package manager for PlayStation 5 |
 | [Pkg-Receiver V1.2.8](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.8/pkg-receiver_v1.2.8.elf) | v1.2.8 | `6946d52c6c04...` | A package manager for PlayStation 5 need PkgSender android app or windows app |
 
 ### 📂 PS5 Saves
@@ -438,6 +439,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **illusionyy** : [ps5-fw-spoof](https://github.com/illusionyy/ps5-fw-spoof)
 - **itsPLK** : [PS5 Payload Manager](https://github.com/itsPLK/ps5-payload-manager)
 - **itsPLK** : [PS5 Unified Autoloader](https://github.com/itsPLK/ps5-unified-autoloader)
+- **itsPLK** : [ps5-pkg-manager](https://github.com/itsPLK/ps5-pkg-manager)
 - **itsPLK** : [ps5-webkit-autoloader](https://github.com/itsPLK/ps5-webkit-autoloader)
 - **juma-sayeh** : [PS5-File-Explorer](https://github.com/juma-sayeh/PS5-File-Explorer)
 - **juma-sayeh** : [PS5-Game-Compressor](https://github.com/juma-sayeh/PS5-Game-Compressor)

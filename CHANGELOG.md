@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 17:25
+* **PAYLOADS**
+  * `Pkg-Manager V1.4.1` (v1.4.1) - *Mise à jour (Précédent: ps5-pkg-manager)*
+
 ## Build du 02/10/2026 à 17:06
 * **PAYLOADS**
   * `Garlic-Savemgr V1.13.1` (v1.13.1) - *Nouveau*

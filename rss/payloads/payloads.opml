@@ -59,6 +59,7 @@
     <outline text="Prosperoplayer V1.0" title="Prosperoplayer V1.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf" description="A homebrew media player for jailbroken PS5."/>
     <outline text="Svtplay V0.3" title="Svtplay V0.3" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf" description="This is an unofficial 10-foot UI for SVT Play, the Swedish public service television broadcaster."/>
     <outline text="Ps-Play V2.1" title="Ps-Play V2.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf" description="All-in-one media hub for jailbroken PlayStation 5"/>
+    <outline text="Pkg-Manager V1.4.1" title="Pkg-Manager V1.4.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf" description="A clean and intuitive package manager for PlayStation 5"/>
     <outline text="Pkg-Receiver V1.2.8" title="Pkg-Receiver V1.2.8" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.8/pkg-receiver_v1.2.8.elf" description="A package manager for PlayStation 5 need PkgSender android app or windows app"/>
     <outline text="Etahen V2.5B" title="Etahen V2.5B" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin" description="Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés."/>
     <outline text="Ps5 Unified Autoloader V0.1.5-915A65E" title="Ps5 Unified Autoloader V0.1.5-915A65E" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf" description="Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l"/>
@@ -98,6 +99,5 @@
     <outline text="Shadowmountplus" title="Shadowmountplus" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta3/shadowmountplus.elf" description="ShadowMountPlus payload for game mounting."/>
     <outline text="Backpork V0.1" title="Backpork V0.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf" description="BackPork PS5 tool."/>
     <outline text="Apr Emu Updater V2.0.6" title="Apr Emu Updater V2.0.6" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf" description="APR Emu Updater must always be loaded."/>
-    <outline text="Pkg-Manager V1.4.1" title="Pkg-Manager V1.4.1" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
   </body>
 </opml>

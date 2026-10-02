@@ -552,6 +552,16 @@
       "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
     },
     {
+      "name": "Pkg-Manager V1.4.1",
+      "filename": "pkg-manager_v1.4.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
+      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
+      "description": "A clean and intuitive package manager for PlayStation 5",
+      "version": "v1.4.1",
+      "category": "PS5 Pkg Tool",
+      "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
+    },
+    {
       "name": "Pkg-Receiver V1.2.8",
       "filename": "pkg-receiver_v1.2.8.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.8/pkg-receiver_v1.2.8.elf",
@@ -940,15 +950,6 @@
       "version": "v2.0.6",
       "category": "PS5 Game Dump",
       "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
-    },
-    {
-      "name": "Pkg-Manager V1.4.1",
-      "filename": "pkg-manager_v1.4.1.elf",
-      "url": "",
-      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
-      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-      "version": "ps5-pkg-manager",
-      "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
     }
   ]
 }
