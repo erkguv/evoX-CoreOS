@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.01-2220)
+### 🚀 Synthèse de la mise à jour (v2026.10.02-0153)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -62,6 +62,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-PlayPods_v1.0.elf`
   * `FGG-Unpack_v0.1.elf`
   * `ghost-toothAPI.elf`
+  * `Spectrum-Library_v1.4.8.elf`
   * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent_v0.2.55.elf`
@@ -70,6 +71,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
   * `pkg-manager_v1.4.1.elf`
+  * `pkg-receiver_v1.2.8.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
   * `pldmgr_v0.5.2.elf`

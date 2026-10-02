@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/10/2026 à 01:53
+* **PAYLOADS**
+  * `Spectrum-Library V1.4.8` (1.4.8) - *Nouveau*
+  * `Pkg-Receiver V1.2.8` (v1.2.8) - *Nouveau*
+
 ## Build du 01/10/2026 à 22:20
 * **PAYLOADS**
   * `Cheatrunner V0.17.2` (v0.17.2) - *Nouveau*
