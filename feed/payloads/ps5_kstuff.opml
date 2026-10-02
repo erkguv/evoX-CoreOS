@@ -8,5 +8,6 @@
     <outline text="kstuff-lite_EchoStretch" title="kstuff-lite_EchoStretch" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff-lite" author="EchoStretch" description="Lightweight version of kstuff." />
     <outline text="kstuff-toggle" title="kstuff-toggle" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff-toggle" author="EchoStretch" description="Utility to toggle kstuff features." />
     <outline text="kstuff-lite_drakmor" title="kstuff-lite_drakmor" type="rss" xmlUrl="https://github.com/drakmor/kstuff-lite" author="drakmor" description="Drakmor's variant of kstuff-lite." />
+    <outline text="kstuff-a53_SoNic" title="kstuff-a53_SoNic" type="rss" xmlUrl="https://github.com/Soonniicc/kstuff-a53" author="SoNic" description="SoNic variant of kstuff-a53." />
   </body>
 </opml>
