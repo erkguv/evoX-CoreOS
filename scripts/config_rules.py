@@ -102,7 +102,7 @@ REPO_RULES = {
         },
 
         # --- 4. Dépôts en Pre-Release configurés (dont ProsperoEden & ShadowMountPlus) ---
-        "blackbearreloaded/prosperoeden": {
+        "blackbearreloaded/ProsperoEden": {
             "release_channel": "pre-release",
             "allowed_extensions": [".elf", ".bin", ".ffpfsc"],
             "strict_clean": True,
