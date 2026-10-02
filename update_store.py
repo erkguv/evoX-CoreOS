@@ -1,6 +1,7 @@
 # update_store.py
 import os
 import json
+import hashlib
 import zipfile
 from datetime import datetime
 from scripts.config_rules import PATHS
@@ -14,6 +15,69 @@ from scripts.generate_readme import build_readme
 from scripts.changelog_builder import generate_build_changelog
 from scripts.pegasus_builder import generate_pegasus_catalog
 from scripts.download_pegasus_catalogs import download_catalogs
+
+def recover_local_orphans(category_name, flat_list, allowed_exts):
+    """
+    Scanne le dossier physique de la catégorie pour récupérer les fichiers orphelins 
+    qui existent déjà en local (au cas où un dépôt distant aurait sauté ou échoué).
+    """
+    root_dir = PATHS.get("categories", {}).get(category_name, {}).get("root", category_name)
+    if not os.path.exists(root_dir):
+        return flat_list
+
+    # Récupérer la liste des filenames déjà connus par le fetch en ligne
+    known_filenames = {item.get("filename") for item in flat_list if isinstance(item, dict)}
+    recovered_count = 0
+
+    # Parcours récursif du dossier de la catégorie
+    for dirpath, _, filenames in os.walk(root_dir):
+        for filename in filenames:
+            if not filename.lower().endswith(tuple(allowed_exts)):
+                continue
+            
+            if filename not in known_filenames:
+                local_path = os.path.join(dirpath, filename)
+                
+                # Calculer le checksum SHA256 du fichier local existant
+                hasher = hashlib.sha256()
+                try:
+                    with open(local_path, 'rb') as fb:
+                        for chunk in iter(lambda: fb.read(4096), b""):
+                            hasher.update(chunk)
+                    checksum = hasher.hexdigest()
+                except Exception:
+                    checksum = ""
+
+                # Déduire un nom propre et une version potentielle depuis le dossier/fichier
+                display_name = os.path.splitext(filename)[0].replace('_', ' ').title()
+                version = "Local-Backup"
+                
+                parts = dirpath.split(os.sep)
+                if len(parts) > 1:
+                    repo_or_title = parts[1]
+                    if len(parts) > 2:
+                        version = parts[2]
+                else:
+                    repo_or_title = display_name
+
+                orphan_item = {
+                    "name": display_name,
+                    "filename": filename,
+                    "url": "",  # Pas d'URL distante dispo puisque le dépôt a pu sauter
+                    "local_path": local_path,
+                    "description": f"Récupéré depuis le stockage local (Backup de secours)",
+                    "version": version,
+                    "checksum": checksum
+                }
+                
+                flat_list.append(orphan_item)
+                known_filenames.add(filename)
+                recovered_count += 1
+                print(f"    ♻️ [Fallback Local] Récupération de l'orphelin : {filename} ({category_name})")
+
+    if recovered_count > 0:
+        print(f"    ✅ {recovered_count} élément(s) local(aux) préservé(s) pour {category_name}.")
+    return flat_list
 
 def generate_release_notes(data_store_by_cat):
     print("📝 Génération des notes de version pour la Release...")
@@ -128,6 +192,12 @@ def main():
     pkg_by_cat, pkg_flat = fetch_pkg_category(credits_set)
     ffpfsc_by_cat, ffpfsc_flat = fetch_ffpfsc_category(credits_set)
     apps_by_cat, apps_flat = fetch_apps_category(credits_set)
+
+    print("🛡️ [1.5/5] Récupération de sécurité des fichiers locaux (Fallback anti-disparition)...")
+    payloads_flat = recover_local_orphans("payloads", payloads_flat, [".elf", ".bin"])
+    pkg_flat = recover_local_orphans("pkg", pkg_flat, [".pkg"])
+    ffpfsc_flat = recover_local_orphans("ffpfsc", ffpfsc_flat, [".ffpfsc", ".bin", ".elf"])
+    apps_flat = recover_local_orphans("apps", apps_flat, [".elf", ".zip"])
 
     data_store = {
         "payloads": (payloads_by_cat, payloads_flat),
