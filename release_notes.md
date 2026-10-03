@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.02-2254)
+### 🚀 Synthèse de la mise à jour (v2026.10.03-0342)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -119,7 +119,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `nanoDNS_v0.4.elf`
   * `Chukei_DNS_v0.9.0.elf`
   * `PS5-Game-Compressor_v1.0.4.elf`
-  * `ps5-app-dumper_v2.00.elf`
+  * `ps5-app-dumper_v2.10.elf`
   * `shadowmountplus.elf`
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
