@@ -42,14 +42,14 @@
       "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
     },
     {
-      "name": "Nuvio-Ps5 V1.7.2",
-      "filename": "Nuvio-PS5_v1.7.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.7.2/Nuvio-PS5_v1.7.2.elf",
-      "local_path": "payloads/ps5_video_player/Nuvio-PS5/v1.7.2/Nuvio-PS5_v1.7.2.elf",
+      "name": "Nuvio-Ps5 V1.7.3",
+      "filename": "Nuvio-PS5_v1.7.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.7.3/Nuvio-PS5_v1.7.3.elf",
+      "local_path": "payloads/ps5_video_player/Nuvio-PS5/v1.7.3/Nuvio-PS5_v1.7.3.elf",
       "description": "Nuvio, at home on the PlayStation 5",
-      "version": "v1.7.2",
+      "version": "v1.7.3",
       "category": "PS5 Video Player",
-      "checksum": "3fdadd2a6394a526fa3c631056a8a2ef443bc535e45cc332215679ed5dab823a"
+      "checksum": "a12758a431e94ff06430869a74dbae4e936503c5523fdfd5f5a2cafe3c89ebd2"
     }
   ]
 }

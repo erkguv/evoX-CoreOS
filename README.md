@@ -320,7 +320,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | [Bfplayer-Standalone](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf) | v0.1.0-alpha.44 | `0d028deb145d...` | BFplayer is a native media library and player for jailbroken PlayStation 5 consoles. |
-| [Nuvio-Ps5 V1.7.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.7.2/Nuvio-PS5_v1.7.2.elf) | v1.7.2 | `3fdadd2a6394...` | Nuvio, at home on the PlayStation 5 |
+| [Nuvio-Ps5 V1.7.3](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.7.3/Nuvio-PS5_v1.7.3.elf) | v1.7.3 | `a12758a431e9...` | Nuvio, at home on the PlayStation 5 |
 | [Prosperoplayer V1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf) | v1.0 | `40b995527398...` | A homebrew media player for jailbroken PS5. |
 | [Ps-Play V2.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf) | 2.1 | `e3392379d5bc...` | All-in-one media hub for jailbroken PlayStation 5 |
 | [Svtplay V0.3](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf) | v0.3 | `31f2caac7d53...` | This is an unofficial 10-foot UI for SVT Play, the Swedish public service television broadcaster. |

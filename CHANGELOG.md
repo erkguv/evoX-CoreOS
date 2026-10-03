@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 03/10/2026 à 20:37
+* **PAYLOADS**
+  * `Nuvio-Ps5 V1.7.3` (v1.7.3) - *Nouveau*
+
 ## Build du 03/10/2026 à 15:42
 * **PAYLOADS**
   * `Shadowmountplus` (1.7beta4) - *Mise à jour (Précédent: 1.7beta3)*
