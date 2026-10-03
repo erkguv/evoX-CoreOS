@@ -159,7 +159,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Backpork V0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf) | 0.1 | `d74e4cd119b2...` | BackPork PS5 tool. |
 | [Ps5-App-Dumper V2.10](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf) | v2.10 | `c850f1df6f27...` | PS5 App Dumper payload. |
 | [Ps5-Game-Compressor V1.0.4](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf) | v1.0.4 | `e55e90aaade1...` | Tool to compress PS5 games. |
-| [Shadowmountplus](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta3/shadowmountplus.elf) | 1.7beta3 | `2a7427e20ba7...` | ShadowMountPlus payload for game mounting. |
+| [Shadowmountplus](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/shadowmountplus.elf) | 1.7beta4 | `fc4e5f715e76...` | ShadowMountPlus payload for game mounting. |
 
 ### 📂 PS5 HEN Loader
 

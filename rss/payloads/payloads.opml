@@ -107,7 +107,7 @@
     <outline text="Chukei Dns V0.9.0" title="Chukei Dns V0.9.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf" description="Serveur DNS de redirection d"/>
     <outline text="Ps5-Game-Compressor V1.0.4" title="Ps5-Game-Compressor V1.0.4" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf" description="Tool to compress PS5 games."/>
     <outline text="Ps5-App-Dumper V2.10" title="Ps5-App-Dumper V2.10" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf" description="PS5 App Dumper payload."/>
-    <outline text="Shadowmountplus" title="Shadowmountplus" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta3/shadowmountplus.elf" description="ShadowMountPlus payload for game mounting."/>
+    <outline text="Shadowmountplus" title="Shadowmountplus" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/shadowmountplus.elf" description="ShadowMountPlus payload for game mounting."/>
     <outline text="Backpork V0.1" title="Backpork V0.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf" description="BackPork PS5 tool."/>
     <outline text="Apr Emu Updater V2.0.6" title="Apr Emu Updater V2.0.6" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf" description="APR Emu Updater must always be loaded."/>
   </body>

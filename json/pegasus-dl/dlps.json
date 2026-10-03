@@ -3,6 +3,134 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06142",
+      "title": "Super Mega Baseball 4",
+      "downloadLinks": [
+        {
+          "name": "Vikingfile",
+          "url": "https://vikingfile.com/f/OruZtBm75e"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06142_6ad870be81b28434f6e8725f105bf89a58527b5a44a56f981dea479c35a49508/icon0.webp",
+      "description": "Region: EUR\nRelease note: Dump & backport by Deckerr97 Works on 4.xx and higher Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/super-mega-baseball-4-ps5/"
+    },
+    {
+      "titleId": "PPSA14383",
+      "title": "Disney Pixar WALL E",
+      "downloadLinks": [
+        {
+          "name": "Vikingfile",
+          "url": "https://vikingfile.com/f/pPnak6Eogo"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14383_9f926ba544da5d2bb4d33212e4c99cee0e7a64279a13ecfd8e038fb297331455/icon0.webp",
+      "description": "Region: USA\nRelease note: Dump & backport by Deckerr97 Works on 4.xx and higher Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/disney-pixar-wall-e-ps5/"
+    },
+    {
+      "titleId": "PPSA16603",
+      "title": "Granblue Fantasy Versus Rising",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/APVmab4gw3Xo/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0JgG75kqK3oY/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/toSeDGzRJD"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/FfzP9sgfIw"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1iiIpU"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/W248G"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Zsn53XNGyN"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16603_5bb80fba8c4a5bfdcec4eb2988d2dbf6c137fe0eac2893d405de37c61432550a/icon0.webp",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump & backport by Deckerr97 Works on 4.xx and higher Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM\n\nVariant: EUR 4.xx\nRegion: EUR\nRelease note: Dump & backport by Deckerr97 Works on 4.xx and higher Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/granblue-fantasy-versus-rising/"
+    },
+    {
+      "titleId": "PPSA03073",
+      "title": "eFootball",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/APVmab4Dq3Xo/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0PdzyXjD63eA/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/9AqGQZgxnmMn/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/jJD3VDjWrGa5/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/vXawowjozf"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/bZNa2begR9"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/laO7xYlRoJ"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/aVEzejLcED"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1ypiHg"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1DqZpA"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/yF26y"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/12GsyW"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mvDgdz8z9Z"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03073_4b02b2940b2b358285f5bbe0f7cd33c8f4d3884caaff8c155babc681778daea0/icon0.webp",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump & backport by Deckerr97 Works on 4.xx and higher Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM\n\nVariant: EUR 4.xx\nRegion: EUR\nRelease note: Dump & backport by Deckerr97 Works on 4.xx and higher Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/efootball-ps5/"
+    },
+    {
       "titleId": "PPSA34501",
       "title": "Call of Duty Black Ops",
       "downloadLinks": [
@@ -94039,7 +94167,7 @@
           "url": "https://1fichier.com/?08nddah4vctxhv2i3i7d"
         },
         {
-          "name": "USA 7.xx Base - 1File",
+          "name": "USA 7.xx Base - 1fichier part 4",
           "url": "https://1fichier.com/?7dd1avxyxf6sixp4w1mo"
         },
         {
@@ -113872,7 +114000,7 @@
           "url": "https://1fichier.com/?6wkfedsspm3ploq71kty"
         },
         {
-          "name": "USA 10.01 Base - 1File",
+          "name": "USA 10.01 Base - 1fichier part 7",
           "url": "https://1fichier.com/?b78u5f1afi4tlpq0gojz"
         },
         {
@@ -119120,11 +119248,11 @@
           "url": "https://1fichier.com/?z0vjrdzfd8arvei0a3iz"
         },
         {
-          "name": "EUR 5.00 Base - Akia",
+          "name": "EUR 5.00 Base - Akirabox part 4",
           "url": "https://akirabox.com/QN9mEqW0Zm6d/file"
         },
         {
-          "name": "EUR 5.00 Base - Viki",
+          "name": "EUR 5.00 Base - Vikingfile part 4",
           "url": "https://vikingfile.com/f/04q0mQKhQy"
         },
         {
@@ -119132,7 +119260,7 @@
           "url": "https://www.rootz.so/d/1DH5BQ"
         },
         {
-          "name": "EUR 5.00 Base - 1File",
+          "name": "EUR 5.00 Base - 1fichier part 5",
           "url": "https://1fichier.com/?runu6hmgyzawg1twfbni"
         },
         {
@@ -121993,8 +122121,40 @@
       "title": "The Matrix Awakens An Unreal Engine 5 Experience Demo",
       "downloadLinks": [
         {
-          "name": "Filecrypt",
+          "name": "EUR Base - Filecrypt",
           "url": "https://filecrypt.cc/Container/7E389CB2D5.html"
+        },
+        {
+          "name": "EUR Base - Akirabox part 1",
+          "url": "https://akirabox.com/Zvqzl7x763aD/file"
+        },
+        {
+          "name": "EUR Base - Akirabox part 2",
+          "url": "https://akirabox.com/qLQ36qPqwm19/file"
+        },
+        {
+          "name": "EUR Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/IKaOW"
+        },
+        {
+          "name": "EUR Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1Z2fxI"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/ZD4FOgI9JG"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/Xe2UlZqtTf"
+        },
+        {
+          "name": "EUR Base - 1fichier part 1",
+          "url": "https://1fichier.com/?15cwrv29ywjnqvieabvc"
+        },
+        {
+          "name": "EUR Base - 1fichier part 2",
+          "url": "https://1fichier.com/?24o1ry08htttonljji9v"
         }
       ],
       "category": "game",
