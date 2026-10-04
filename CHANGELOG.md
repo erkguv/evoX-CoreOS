@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 04/10/2026 à 16:26
+* **FFPFSC**
+  * `Prospero Radio` (02.000.055) - *Mise à jour (Précédent: 02.000.054)*
+
 ## Build du 04/10/2026 à 11:46
 * **PAYLOADS**
   * `Pkg-Receiver V1.2.9` (v1.2.9) - *Nouveau*

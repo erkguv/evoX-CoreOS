@@ -3,7 +3,223 @@
   "version": 1,
   "packages": [
     {
-      "id": 4794313,
+      "titleId": "PPSA16603",
+      "title": "Granblue Fantasy Versus Rising",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/9w1arsywa3sn"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://filekeeper.net/lcrytdin217n"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/ex5z250OD3Kq/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/bba1e456505248021641/PPSA16603.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/j3Y1DSqy9A"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/XkrzoKP7kzBO/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/i9WUNDUTxL"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/79dfp8uf6m60"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/2bvs3c7iwiqt"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/d2a0363f5fe7fa31e6e8/PPSA16603-Compressed.7z"
+        }
+      ],
+      "version": "v02.610",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16603_5bb80fba8c4a5bfdcec4eb2988d2dbf6c137fe0eac2893d405de37c61432550a/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16603, v02.610, EUR, 4.xx BackPort\nSize: 99GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 6.xx, separated BackPort for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 106300440576
+    },
+    {
+      "titleId": "PPSA03073",
+      "title": "eFootball 2027",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/k7r04xi23s0y"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://filekeeper.net/y72qgq7ksply"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/2WVGrdwkB3kx/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/31403e92ecd8b90b30ed/PPSA03073.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/CFWxygYlZD"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/gXeGOAwZJ3Aa/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Nu47QBgW34"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/kqoq57ipxt2n"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/6vdi8at5agta"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/bb6a704128ed6a54fc79/PPSA03073-Compressed.7z"
+        }
+      ],
+      "version": "v06.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03073_4b02b2940b2b358285f5bbe0f7cd33c8f4d3884caaff8c155babc681778daea0/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03073, v06.000, EUR, 3.xx and beyond\nSize: 119GB\nCredits: Files: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 127775277056
+    },
+    {
+      "titleId": "PPSA14383",
+      "title": "Disney Pixar WALL-E",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/t92owarsf7bz"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://filekeeper.net/01ydi5klep8v"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/2WVGrdwa03kx/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/3946af6fb77cf543a6c7/PPSA14383.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/0oViO3KtSW"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/b5OzdV9aamB8/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/SeGYeqUnkm"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/cdtmid76ctaf"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/uezyajlq811c"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/5d3db6271dc816d13786/PPSA14383-Compressed.7z"
+        }
+      ],
+      "version": "v01.000.001",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14383_9f926ba544da5d2bb4d33212e4c99cee0e7a64279a13ecfd8e038fb297331455/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA14383, v01.000.001, USA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 9.xx, separated BackPort for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 25769803776
+    },
+    {
+      "titleId": "PPSA06142",
+      "title": "Super Mega Baseball 4 Ballpark Edition",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/0g5p2lu2k0s4"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/wafva7z97y3v"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/xyei0c79qaum"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://filekeeper.net/sicmsgc9porw"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/gXeGOAwpK3Aa/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/f0c960f6ed9101930ec4/PPSA06142.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/kOxTk7PFs8"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0JgG75kyj3oY/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/y14fG9v6If"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/phljzbygvgxe"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/x63kdbu83xmd"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/dafaaf6ff18e0869f91a/PPSA06142-Compressed.7z"
+        }
+      ],
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06142_6ad870be81b28434f6e8725f105bf89a58527b5a44a56f981dea479c35a49508/icon0.webp",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06142, v01.008, EUR, 4.xx BackPort\nSize: 18GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 6.xx, separated BackPort for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 19327352832
+    },
+    {
+      "id": 4808339,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -9977,7 +10193,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4794571,
+      "id": 4808597,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -13543,7 +13759,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4794674,
+      "id": 4808700,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",
