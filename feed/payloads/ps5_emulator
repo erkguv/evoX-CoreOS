@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ps5_emulator</title>
+  </head>
+  <body>
+    <outline text="snes9xPS5" title="snes9xPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/snes9xPS5" author="MisterTemaki" description="snes9x emulator"/>
+  </body>
+</opml>
