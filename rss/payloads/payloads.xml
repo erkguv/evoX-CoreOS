@@ -359,10 +359,10 @@
       <pubDate>v1.4.1</pubDate>
     </item>
     <item>
-      <title>Pkg-Receiver V1.2.8</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.8/pkg-receiver_v1.2.8.elf</link>
+      <title>Pkg-Receiver V1.2.9</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.9/pkg-receiver_v1.2.9.elf</link>
       <description>A package manager for PlayStation 5 need PkgSender android app or windows app</description>
-      <pubDate>v1.2.8</pubDate>
+      <pubDate>v1.2.9</pubDate>
     </item>
     <item>
       <title>Etahen V2.5B</title>
@@ -639,6 +639,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf</link>
       <description>APR Emu Updater must always be loaded.</description>
       <pubDate>v2.0.6</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Game-Compressor Fork V1.1.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf</link>
+      <description>Fork Tool to compress PS5 games.</description>
+      <pubDate>v1.1.1</pubDate>
     </item>
   </channel>
 </rss>

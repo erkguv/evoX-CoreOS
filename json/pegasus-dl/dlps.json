@@ -3,6 +3,44 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA99902",
+      "title": "Sonic Unleashed Recompiled (Unofficial Port)",
+      "downloadLinks": [
+        {
+          "name": "USA Base - Akirabox",
+          "url": "https://akirabox.com/0Kezk7N8RzD1/file"
+        },
+        {
+          "name": "USA Base - Rootz",
+          "url": "https://www.rootz.so/d/23dMjA"
+        },
+        {
+          "name": "USA Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Ni0uI6Ukkq"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTXJFS1hNRjF6S1M0ZE41dWhFUnFwNVh6Q1NoZ3pSTEpIclpJd0tmczNpWmZha3lweWx2MG5iSTJDRWVnUjlXYkpwSHhaTXJHNGRQQlcrMXNRSTdFVzUxZS9tRDNLRXZaWGZJPSIsImkiOiJiQmdBVnprMmNZY1RwU1E3IiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.003 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS1R1UzJhTG9VTnJDcE9QaGttYUdzU0t0ZDFNQ28zajMrdDZMa04vaitVQnlpcEFGWXI0eElaNUNjb3FKeW5sSmRscXFQaTlxMEprZDdmWkxPY1BFN25JUXhSZ1BuVWs9IiwiaSI6IkZhaUY5TlZlR2hJY1h6MjIiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS0ZFVnV0S0dVNVFLRTlmV3ZlZWgvZWZlMFI5OXpSa21NOUEyejF4WnBZWU9EbHp4ZmExaHZMWktDUEIwVUFrZ2txcmt5VCtqZmppS0M0T3pvZVhuVGI1ZHhzR3MiLCJpIjoiWC9sYUZCeHZpSUUySFY5bSIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.003 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicnZzenpPVEYwRlFOclBmVUd3ZCtLMTdVRG5HdmoxYjQ3NnJEWS83UEdFOU9jdlVZaFhZUXNwRWpIdG9oNkZuYUx0SVhXOWJRWWFtVkI3N1dEZDBQbUJNVFhJaXJJclU9IiwiaSI6IkJicGQ4eVcyUkZVVUdNcVkiLCJuIjoiRmlsZUsifQ=="
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/10/1-vdx-1-1.jpg",
+      "description": "Variant: USA\nRegion: USA\nContributor: Thanks to Nazky for the Files.\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.003\nRegion: USA\nRelease note: exFAT format — FW 01.003 — 4.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/sonic-unleashed-recompiled-unofficial-port-ps5/"
+    },
+    {
       "titleId": "PPSA18543",
       "title": "The Sinking City 2",
       "downloadLinks": [
@@ -21,6 +59,38 @@
         {
           "name": "EUR 12.xx Base - Vikingfile part 4",
           "url": "https://vikingfile.com/f/qPYoYdYfXV"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/Zvqzl7nKO3aD/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/jJD3VDj1OGa5/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/BnkmWvpbaGR0/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/qLQ36qbEdm19/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2BBCiG"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/yUxwu"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/3BC4"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1CjPtI"
         }
       ],
       "category": "game",
@@ -39,6 +109,22 @@
         {
           "name": "EUR 10.xx Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/wfGJ7D2Gy7"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/0PdzyXjJ43eA/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/9AqGQZg8EmMn/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1GlGkq"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/451zU"
         }
       ],
       "category": "game",
@@ -355,7 +441,7 @@
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2714/d7c627f0eea57ea147e8e209553e9167c3052ab3444f1a89.png?w=260",
-      "description": "Release note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM",
+      "description": "Release note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky\nContributor: Thanks to DecKerr97 for the Files with BackPort and drakmor for ampr-emu.\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/poppy-playtime-chapter-4-ps5/"
     },
     {
@@ -390,27 +476,27 @@
       "title": "Poppy Playtime Chapter 5",
       "downloadLinks": [
         {
-          "name": "USA Base - Akirabox",
+          "name": "USA Base - Akirabox part 1",
           "url": "https://akirabox.com/9QWmpADRk3EB/file"
         },
         {
-          "name": "USA Base - Rootz",
+          "name": "USA Base - Rootz part 1",
           "url": "https://www.rootz.so/d/1HNG2C"
         },
         {
-          "name": "USA Base - Vikingfile",
+          "name": "USA Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/zRbb0Qvcqi"
         },
         {
-          "name": "USA Base - Akirabox",
+          "name": "USA Base - Akirabox part 2",
           "url": "https://akirabox.com/Pbe3PaEL9zlX/file"
         },
         {
-          "name": "USA Base - Rootz",
+          "name": "USA Base - Rootz part 2",
           "url": "https://www.rootz.so/d/8isCW"
         },
         {
-          "name": "USA Base - Vikingfile",
+          "name": "USA Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/JZDVobEpPN"
         },
         {
@@ -432,7 +518,7 @@
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1113/72efab551211b9a5d1c9cb6f178f9aeed55350fdca72b30a.png?w=260",
-      "description": "Variant: USA\nRegion: USA\nRelease note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM\n\nVariant: USA\nRegion: USA\nRelease note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 02.000\nRegion: USA\nRelease note: exFAT format — FW 02.000 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA\nRegion: USA\nRelease note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 02.000\nRegion: USA\nRelease note: exFAT format — FW 02.000 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/poppy-playtime-chapter-5-ps5/"
     },
     {
@@ -1006,6 +1092,54 @@
       "downloadSource": "https://dlpsgame.com/resonance-a-plague-tale-legacy-ps5/"
     },
     {
+      "titleId": "PPSA22728",
+      "title": "Captain Tsubasa 2 World Fighters",
+      "downloadLinks": [
+        {
+          "name": "Vikingfile",
+          "url": "https://vikingfile.com/f/kl3VZIJAz9#CAPTAIN"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2117/f63a320b26e428150344607bf30b9bc2bcfa0cd8edb15ed2.png?w=260",
+      "description": "Region: JPN\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/captain-tsubasa-2-world-fighters-ps5/"
+    },
+    {
+      "titleId": "PPSA28608",
+      "title": "Darwins Paradox",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.com/jar3XlKAQ32d/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2Al6zw"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/lDz72byKVF#Darwins"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/yDvTf2Ha7D#Darwins"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/cu0ihZGw7r#Darwins"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/1ggQjkG5aK#Darwins"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1223/3098be7ad1447bdc06bc6f855a7945efe6c16b99bcfc7d07.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/darwins-paradox-ps5/"
+    },
+    {
       "titleId": "PPSA34008",
       "title": "Mortal Shell 2",
       "downloadLinks": [
@@ -1382,15 +1516,11 @@
         {
           "name": "USA Base - Rootz",
           "url": "https://www.rootz.so/d/1aP0qG"
-        },
-        {
-          "name": "USA exFAT 01.008.001 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMXUwdzgzMFA3UDFnd3N6THZGNXN6YjEzNDNoMjJETHJrVFphc3Z3aXhKc2JGUURuNUlrclN6Z2ZuYlVtVU4vV1JwTXJGWDZNa1p5cU5VcWpVQ1hxYjNpek9FQTIiLCJpIjoiaW9COUg4dHowUFI3QVFjdSIsIm4iOiJEYXRhIn0="
         }
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0519/7260437aae9056d5bd34225e4fce98ca8bb0ef1cd8e6471f.png?w=260",
-      "description": "Variant: USA\nRegion: USA\nRelease note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.008.001\nRegion: USA\nRelease note: exFAT format — FW 01.008.001 — 4.xx BackPort\nContributor: pippo",
+      "description": "Region: USA\nRelease note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/god-of-war-sons-of-sparta-ps5/"
     },
     {
@@ -2028,54 +2158,6 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0407/ace9ff730b9916b1c491de681758cdbbdcdce172e0f36147.png?w=260",
       "description": "Region: JPN\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/marvel-tokon-fighting-souls-ps5/"
-    },
-    {
-      "titleId": "PPSA22728",
-      "title": "Captain Tsubasa 2 World Fighters",
-      "downloadLinks": [
-        {
-          "name": "Vikingfile",
-          "url": "https://vikingfile.com/f/kl3VZIJAz9#CAPTAIN"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2117/f63a320b26e428150344607bf30b9bc2bcfa0cd8edb15ed2.png?w=260",
-      "description": "Region: JPN\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/captain-tsubasa-2-world-fighters-ps5/"
-    },
-    {
-      "titleId": "PPSA28608",
-      "title": "Darwins Paradox",
-      "downloadLinks": [
-        {
-          "name": "USA 10.xx Base - Akirabox",
-          "url": "https://akirabox.com/jar3XlKAQ32d/file"
-        },
-        {
-          "name": "USA 10.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/2Al6zw"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/lDz72byKVF#Darwins"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/yDvTf2Ha7D#Darwins"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/cu0ihZGw7r#Darwins"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/1ggQjkG5aK#Darwins"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1223/3098be7ad1447bdc06bc6f855a7945efe6c16b99bcfc7d07.png?w=260",
-      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/darwins-paradox-ps5/"
     },
     {
       "titleId": "PPSA19577",
@@ -8252,6 +8334,22 @@
           "url": "https://1fichier.com/?pavwc2mf16a456uf577t"
         },
         {
+          "name": "HK 10.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/rAp96"
+        },
+        {
+          "name": "HK 10.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/Z9dzBPBMEmk1/file"
+        },
+        {
+          "name": "HK 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/xbrIDr0Yby"
+        },
+        {
+          "name": "HK 10.xx Base - 1fichier part 3",
+          "url": "https://1fichier.com/?elp4t7ojlkkk5wqvja27"
+        },
+        {
           "name": "ASIA exFAT 01.006.002 Base - AKIA (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibVh0dkxramROSWd1cElxNlcraEJ2ZzJmbjRFUVRrUU5EakxrU3JqRTFmcmZaNi9JTGM4MjJndGhNampzdmQ5T2ltSDFGVkFiOEM5U2Z5cytEeStzYVlGRXJHTkJBTmdjdUEwPSIsImkiOiJXTWpqYjhMazcwc3FnUUlKIiwibiI6IkFraWEifQ=="
         },
@@ -8275,6 +8373,20 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2314/e64e79300664769660cf4ec47a420f31785b3a768381c76a.png?w=260",
       "description": "Variant: HK 10.xx\nRegion: HK\nRelease note: Works on 10.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM\n\nVariant: ASIA exFAT 01.006.002\nRegion: ASIA\nRelease note: exFAT format — FW 01.006.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/mandragora-whispers-of-the-witch-tree-ps5/"
+    },
+    {
+      "titleId": "PPSA06960",
+      "title": "Mandragora Whispers of the Witch Tree",
+      "downloadLinks": [
+        {
+          "name": "1File",
+          "url": "https://1fichier.com/?v1l66d8t6x4wllj9ixey"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06960_1b3f0672fb29c8247738219443c5669bb625d8ec9a1cccdaa3257dcb21b03607/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher\nContributor: @DLPS Team",
       "downloadSource": "https://dlpsgame.com/mandragora-whispers-of-the-witch-tree-ps5/"
     },
     {
@@ -124961,6 +125073,36 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA15595",
+      "title": "[exFAT] Marvels Tokon Fighting Souls Definitive Edition",
+      "downloadLinks": [
+        {
+          "name": "DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiazlEeU1FS0Z6V01SU2d5RisxSjVqY1kwbnJTeHQxam80eVV5bkpDc3lWOUVER3huVUpCZGxzNWJ4SkV5bWgwdnhGVk0xeXNLZnBNVzkxRGMydTlXb1NiWFU5OTEiLCJpIjoiV3Q5QzNzL0RBekdGZDdlNSIsIm4iOiJEYXRhIn0="
+        }
+      ],
+      "version": "01.002.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0407/ace9ff730b9916b1c491de681758cdbbdcdce172e0f36147.png?w=260",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 01.002.003 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
+      "titleId": "PPSA28997",
+      "title": "[exFAT] God of War Sons of Sparta Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMXUwdzgzMFA3UDFnd3N6THZGNXN6YjEzNDNoMjJETHJrVFphc3Z3aXhKc2JGUURuNUlrclN6Z2ZuYlVtVU4vV1JwTXJGWDZNa1p5cU5VcWpVQ1hxYjNpek9FQTIiLCJpIjoiaW9COUg4dHowUFI3QVFjdSIsIm4iOiJEYXRhIn0="
+        }
+      ],
+      "version": "01.008.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0519/7260437aae9056d5bd34225e4fce98ca8bb0ef1cd8e6471f.png?w=260",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.008.001 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA35169",
       "title": "[exFAT] Trails in The Sky 2nd Chapter Deluxe Edition",
       "downloadLinks": [
@@ -125030,21 +125172,6 @@
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16833_1010611e5083bf9c0738ba6f1cbf56a3622368a0a6211b94c6a7fbd50f6a3b6e/icon0.webp",
       "description": "Region: USA\nRelease note: exFAT format — FW 01.010 — Standard (5.xx) + 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA15595",
-      "title": "[exFAT] Marvels Tokon Fighting Souls",
-      "downloadLinks": [
-        {
-          "name": "DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiazlEeU1FS0Z6V01SU2d5RisxSjVqY1kwbnJTeHQxam80eVV5bkpDc3lWOUVER3huVUpCZGxzNWJ4SkV5bWgwdnhGVk0xeXNLZnBNVzkxRGMydTlXb1NiWFU5OTEiLCJpIjoiV3Q5QzNzL0RBekdGZDdlNSIsIm4iOiJEYXRhIn0="
-        }
-      ],
-      "version": "01.002.003",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0407/ace9ff730b9916b1c491de681758cdbbdcdce172e0f36147.png?w=260",
-      "description": "Region: JPN\nRelease note: exFAT format — FW 01.002.003 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {

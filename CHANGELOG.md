@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 04/10/2026 à 11:46
+* **PAYLOADS**
+  * `Pkg-Receiver V1.2.9` (v1.2.9) - *Nouveau*
+  * `Ps5-Game-Compressor Fork V1.1.1` (v1.1.1) - *Nouveau*
+* **FFPFSC**
+  * `Evoplayer-V0.10.0-Ppsa99039` (v0.10.0) - *Nouveau*
+
 ## Build du 04/10/2026 à 04:10
 * **FFPFSC**
   * `Prospero Radio` (02.000.054) - *Mise à jour (Précédent: 02.000.050)*

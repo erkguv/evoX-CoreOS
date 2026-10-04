@@ -50,6 +50,16 @@
       "version": "v2.0.6",
       "category": "PS5 Game Dump",
       "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
+    },
+    {
+      "name": "Ps5-Game-Compressor Fork V1.1.1",
+      "filename": "PS5-Game-Compressor_fork_v1.1.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf",
+      "local_path": "payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf",
+      "description": "Fork Tool to compress PS5 games.",
+      "version": "v1.1.1",
+      "category": "PS5 Game Dump",
+      "checksum": "5fec05b8a3cb89bafbc97970d5d68d9f31e6fcde873b5523243890e50836592b"
     }
   ]
 }

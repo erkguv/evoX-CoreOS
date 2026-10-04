@@ -98,6 +98,7 @@
       <outline text="dlc_emu" title="dlc_emu" type="rss" xmlUrl="https://github.com/drakmor/dlc_emu" description="DLC Emulator for PS5."/>
       <outline text="pgo_stub" title="pgo_stub" type="rss" xmlUrl="https://github.com/drakmor/pgo_stub" description="PGO stub utility."/>
       <outline text="apr-emu-updater" title="apr-emu-updater" type="rss" xmlUrl="https://github.com/tsuramatsu1/apr-emu-updater" description="APR Emu Updater must always be loaded."/>
+      <outline text="PS5-Game-Compressor fork" title="PS5-Game-Compressor fork" type="rss" xmlUrl="https://github.com/gcoding97/PS5-Game-Compressor" description="Fork Tool to compress PS5 games."/>
     </outline>
     <outline text="Pkg" title="Pkg">
       <outline text="Avatar-Changer" title="Avatar-Changer" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg" description="Avatar-Changer."/>

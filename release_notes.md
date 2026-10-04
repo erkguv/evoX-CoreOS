@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.04-0410)
+### 🚀 Synthèse de la mise à jour (v2026.10.04-1146)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -76,7 +76,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS-Play_v2.1.elf`
   * `Nuvio-PS5_v1.7.3.elf`
   * `pkg-manager_v1.4.1.elf`
-  * `pkg-receiver_v1.2.8.elf`
+  * `pkg-receiver_v1.2.9.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
   * `pldmgr_v0.5.2.elf`
@@ -123,6 +123,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `shadowmountplus.elf`
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
+  * `PS5-Game-Compressor_fork_v1.1.1.elf`
 
 </details>
 
@@ -153,6 +154,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99002.ffpfsc`
   * `PPSA99001.ffpfsc`
   * `PPSA99003.ffpfsc`
+  * `EVOPlayer-v0.10.0-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
 
 </details>

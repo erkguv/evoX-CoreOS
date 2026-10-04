@@ -158,6 +158,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Apr Emu Updater V2.0.6](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf) | v2.0.6 | `4f04464283a6...` | APR Emu Updater must always be loaded. |
 | [Backpork V0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf) | 0.1 | `d74e4cd119b2...` | BackPork PS5 tool. |
 | [Ps5-App-Dumper V2.10](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf) | v2.10 | `c850f1df6f27...` | PS5 App Dumper payload. |
+| [Ps5-Game-Compressor Fork V1.1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf) | v1.1.1 | `5fec05b8a3cb...` | Fork Tool to compress PS5 games. |
 | [Ps5-Game-Compressor V1.0.4](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf) | v1.0.4 | `e55e90aaade1...` | Tool to compress PS5 games. |
 | [Shadowmountplus](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/shadowmountplus.elf) | 1.7beta4 | `fc4e5f715e76...` | ShadowMountPlus payload for game mounting. |
 
@@ -218,7 +219,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | [Pkg-Manager V1.4.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf) | v1.4.1 | `09adaff13b85...` | A clean and intuitive package manager for PlayStation 5 |
-| [Pkg-Receiver V1.2.8](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.8/pkg-receiver_v1.2.8.elf) | v1.2.8 | `6946d52c6c04...` | A package manager for PlayStation 5 need PkgSender android app or windows app |
+| [Pkg-Receiver V1.2.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.9/pkg-receiver_v1.2.9.elf) | v1.2.9 | `6946d52c6c04...` | A package manager for PlayStation 5 need PkgSender android app or windows app |
 
 ### 📂 PS5 Remote
 
@@ -361,6 +362,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
+| [Evoplayer-V0.10.0-Ppsa99039](https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc) | v0.10.0 | `a2b14616a266...` | A media player for jailbroken PS5 |
 | [Ppsa99001](https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc) | 01.000.005 | `0f82072f1e8a...` | PS5 Radio Player |
 | [Ppsa99002](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | 01.000.060 | `6e92e8f862cf...` | PS5 Moonlight |
 | [Ppsa99003](https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc) | 01.000.015 | `4d5ea7fd048d...` | PS5 IPTV |
@@ -466,6 +468,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **earthonion** : [garlic-savemgr](https://git.etawen.dev/earthonion/garlic-savemgr)
 - **earthonion** : [garlic-worker](https://git.etawen.dev/earthonion/garlic-worker)
 - **earthonion** : [np-fake-signin](https://git.etawen.dev/earthonion/np-fake-signin)
+- **gcoding97** : [PS5-Game-Compressor fork](https://github.com/gcoding97/PS5-Game-Compressor)
 - **hgr9519** : [ps5-wallpaper-modd](https://github.com/hgr9519/ps5-wallpaper-modd)
 - **idlesauce** : [PS5-SELF-Decrypter](https://github.com/idlesauce/PS5-SELF-Decrypter)
 - **idlesauce** : [ps5-remoteplay-get-pin](https://github.com/idlesauce/ps5-remoteplay-get-pin)
@@ -503,6 +506,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **ps5xploit** : [ps5shopappkg-dpi](https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/ps5shopappkg-dpi.elf)
 - **rdiol12** : [PS5Library](https://github.com/rdiol12/PS5Library)
 - **rdiol12** : [PS5Library](https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg)
+- **sainsaji** : [EVO-PLAYER-PS5](https://github.com/sainsaji/EVO-PLAYER-PS5)
 - **seregonwar** : [MemDBG](https://github.com/seregonwar/MemDBG)
 - **seregonwar** : [zftpd](https://github.com/seregonwar/zftpd)
 - **smoxa** : [ps5-new-overlay](https://github.com/smoxa/ps5-new-overlay)

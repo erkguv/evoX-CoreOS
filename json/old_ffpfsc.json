@@ -32,6 +32,16 @@
             "category": "FFPFSC"
         },
         {
+            "name": "Evoplayer-V0.10.0-Ppsa99039",
+            "filename": "EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+            "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+            "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+            "description": "A media player for jailbroken PS5",
+            "version": "v0.10.0",
+            "checksum": "a2b14616a2662a5e8401aad9012ba1c0d3df68211e5b70039eedfb9a0845a0be",
+            "category": "FFPFSC"
+        },
+        {
             "name": "Prospero Radio",
             "filename": "PROSPERO_RADIO.ffpfsc",
             "url": "https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.054/PROSPERO_RADIO.ffpfsc",

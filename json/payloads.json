@@ -592,12 +592,12 @@
       "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
     },
     {
-      "name": "Pkg-Receiver V1.2.8",
-      "filename": "pkg-receiver_v1.2.8.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.8/pkg-receiver_v1.2.8.elf",
-      "local_path": "payloads/ps5_pkg_tool/pkg-receiver/v1.2.8/pkg-receiver_v1.2.8.elf",
+      "name": "Pkg-Receiver V1.2.9",
+      "filename": "pkg-receiver_v1.2.9.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.9/pkg-receiver_v1.2.9.elf",
+      "local_path": "payloads/ps5_pkg_tool/pkg-receiver/v1.2.9/pkg-receiver_v1.2.9.elf",
       "description": "A package manager for PlayStation 5 need PkgSender android app or windows app",
-      "version": "v1.2.8",
+      "version": "v1.2.9",
       "category": "PS5 Pkg Tool",
       "checksum": "6946d52c6c04a3f43d3141a505394ba8e0c6923f17fe471054e11567c9a526c7"
     },
@@ -1060,6 +1060,16 @@
       "version": "v2.0.6",
       "category": "PS5 Game Dump",
       "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
+    },
+    {
+      "name": "Ps5-Game-Compressor Fork V1.1.1",
+      "filename": "PS5-Game-Compressor_fork_v1.1.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf",
+      "local_path": "payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf",
+      "description": "Fork Tool to compress PS5 games.",
+      "version": "v1.1.1",
+      "category": "PS5 Game Dump",
+      "checksum": "5fec05b8a3cb89bafbc97970d5d68d9f31e6fcde873b5523243890e50836592b"
     }
   ]
 }

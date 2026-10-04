@@ -359,10 +359,10 @@
       <pubDate>v1.4.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pkg-Receiver V1.2.8</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.8/pkg-receiver_v1.2.8.elf</link>
+      <title>[Payloads] Pkg-Receiver V1.2.9</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.9/pkg-receiver_v1.2.9.elf</link>
       <description>A package manager for PlayStation 5 need PkgSender android app or windows app</description>
-      <pubDate>v1.2.8</pubDate>
+      <pubDate>v1.2.9</pubDate>
     </item>
     <item>
       <title>[Payloads] Etahen V2.5B</title>
@@ -641,6 +641,12 @@
       <pubDate>v2.0.6</pubDate>
     </item>
     <item>
+      <title>[Payloads] Ps5-Game-Compressor Fork V1.1.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf</link>
+      <description>Fork Tool to compress PS5 games.</description>
+      <pubDate>v1.1.1</pubDate>
+    </item>
+    <item>
       <title>[Packages PKG] Ps5Pkg Avatar-Changer V1.00</title>
       <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg</link>
       <description>Avatar-Changer.</description>
@@ -735,6 +741,12 @@
       <link>https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc</link>
       <description>PS5 IPTV</description>
       <pubDate>01.000.015</pubDate>
+    </item>
+    <item>
+      <title>[Fichiers FFPFSC] Evoplayer-V0.10.0-Ppsa99039</title>
+      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc</link>
+      <description>A media player for jailbroken PS5</description>
+      <pubDate>v0.10.0</pubDate>
     </item>
     <item>
       <title>[Fichiers FFPFSC] Prospero Radio</title>
