@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>zip_archive_emulator_apps</title>
+  </head>
+  <body>
+    <outline text="flycast-ps5-libretro-core" title="flycast-ps5-libretro-core" type="rss" xmlUrl="https://github.com/rpf16rj/flycast-ps5-libretro-core" author="rpf16rj" description="flycast-ps5-libretro-core"/>
+    <outline text="PS5X360" title="PS5X360" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360" author="BrinooTk" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
+    <outline text="XPSemu" title="XPSemu" type="rss" xmlUrl="https://github.com/ZiZc3/XPSemu" author="ZiZc3" description="Xbox emulator (Xemu) port for the PS5"/>
+    <outline text="castation" title="castation" type="rss" xmlUrl="https://github.com/BrinooTk/castation" author="BrinooTk" description="Dreamcast flycast emu for ps5"/>
+    <outline text="Porpoise" title="Porpoise" type="rss" xmlUrl="https://github.com/elripalda/Porpoise" author="elripalda" description="GameCube and Wii Dolphin emu for ps5"/>
+    <outline text="xash3d-ps5" title="xash3d-ps5" type="rss" xmlUrl="https://github.com/GordonProsperoMan/xash3d-ps5" author="GordonProsperoMan" description="Half-Life (Xash3D FWGS) native homebrew port for PS5"/>
+    <outline text="ps5-doom" title="ps5-doom" type="rss" xmlUrl="https://github.com/lowbit/ps5-doom" author="lowbit" description="Native DOOM for PS5"/>
+    <outline text="pico8-ps5" title="pico8-ps5" type="rss" xmlUrl="https://github.com/RafaelNGP/pico8-ps5" author="RafaelNGP" description="PICO-8 for PS5"/>
+  </body>
+</opml>
