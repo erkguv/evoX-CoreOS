@@ -437,6 +437,18 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
+      <title>Snes9Xps5 V2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf</link>
+      <description>snes9x emulator</description>
+      <pubDate>v2.0</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Romm V1.0.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf</link>
+      <description>ps5-romm for ps5</description>
+      <pubDate>v1.0.2</pubDate>
+    </item>
+    <item>
       <title>Ps5-Fan-Control V0.3</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf</link>
       <description>Small PS5 daemon payload ELF that sets the system fan temperature.</description>

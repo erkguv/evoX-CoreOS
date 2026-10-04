@@ -80,6 +80,96 @@
             "version": "v1.0",
             "checksum": "3eaee706e8aca772fce734b494e56729ddedec218597ab9baf940094a0cdfc7e",
             "category": "Applications"
+        },
+        {
+            "name": "Ppsa99640",
+            "filename": "PPSA99640.zip",
+            "url": "https://github.com/TheRealRetro/ps5-homebrew-browser/releases/download/01.000.001/PPSA99640.zip",
+            "local_path": "apps/ps5-homebrew-browser/01.000.001/PPSA99640.zip",
+            "description": "Native PS5 app for browsing and installing homebrew from the homebrew.page catalog",
+            "version": "01.000.001",
+            "checksum": "7efa7a08beef4f915f43b689d9a6463d3e10eccea08fe0c42b649c81b281d015",
+            "category": "Applications"
+        },
+        {
+            "name": "Flycast-Ps5-2026.10.03",
+            "filename": "flycast-ps5-2026.10.03.zip",
+            "url": "https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip",
+            "local_path": "apps/flycast-ps5-libretro-core/v2026.10.03-run13/flycast-ps5-2026.10.03.zip",
+            "description": "flycast-ps5-libretro-core",
+            "version": "v2026.10.03-run13",
+            "checksum": "7c380da8030a97535ac44466ea727c72ab216a8c32669daacf9668cb028c06e2",
+            "category": "Applications"
+        },
+        {
+            "name": "Ps5X360-V0.1.0-Preview",
+            "filename": "PS5X360-v0.1.0-preview.zip",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.1.0-preview/PS5X360-v0.1.0-preview.zip",
+            "local_path": "apps/PS5X360/v0.1.0-preview/PS5X360-v0.1.0-preview.zip",
+            "description": "x360 emu for ps5, you need xpsemu_tools.elf",
+            "version": "v0.1.0-preview",
+            "checksum": "8e93400ce1a49007b5afd5326022a526f103ea9221346c7da042c179b5c5b427",
+            "category": "Applications"
+        },
+        {
+            "name": "Ppsa97358",
+            "filename": "PPSA97358.zip",
+            "url": "https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/PPSA97358.zip",
+            "local_path": "apps/XPSemu/alpha-1/PPSA97358.zip",
+            "description": "Xbox emulator (Xemu) port for the PS5",
+            "version": "alpha-1",
+            "checksum": "76656beeea24fe25db6d12dbe884f27680131f49ca0dd8f3d2bc232e7e38cc08",
+            "category": "Applications"
+        },
+        {
+            "name": "Xpsemu Tools",
+            "filename": "xpsemu_tools.elf",
+            "url": "https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/xpsemu_tools.elf",
+            "local_path": "apps/XPSemu/alpha-1/xpsemu_tools.elf",
+            "description": "Xbox emulator (Xemu) port for the PS5",
+            "version": "alpha-1",
+            "checksum": "16d32668fd57d46ab237fe39fec37a8156298081d7277b9a34b9f5ca28197c9f",
+            "category": "Applications"
+        },
+        {
+            "name": "Porpoise-1.5",
+            "filename": "Porpoise-1.5.zip",
+            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v1.5/Porpoise-1.5.zip",
+            "local_path": "apps/Porpoise/v1.5/Porpoise-1.5.zip",
+            "description": "GameCube and Wii Dolphin emu for ps5",
+            "version": "v1.5",
+            "checksum": "e5768829410213382c89fe31720c42e18a9c5d480ca2dd1cae52af475e8b1f08",
+            "category": "Applications"
+        },
+        {
+            "name": "Xashps5-V1.0-Ppsa99999",
+            "filename": "XashPS5-v1.0-PPSA99999.zip",
+            "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.0/XashPS5-v1.0-PPSA99999.zip",
+            "local_path": "apps/xash3d-ps5/v1.0/XashPS5-v1.0-PPSA99999.zip",
+            "description": "Half-Life (Xash3D FWGS) native homebrew port for PS5",
+            "version": "v1.0",
+            "checksum": "c054d3207676c695a94994d507e9c9a500fd657696cd1ada83b86d34fbfbdc32",
+            "category": "Applications"
+        },
+        {
+            "name": "Ppsa99666",
+            "filename": "PPSA99666.zip",
+            "url": "https://github.com/lowbit/ps5-doom/releases/download/v1.1.0/PPSA99666.zip",
+            "local_path": "apps/ps5-doom/v1.1.0/PPSA99666.zip",
+            "description": "Native DOOM for PS5",
+            "version": "v1.1.0",
+            "checksum": "71f79585e0e0abf16750c8501d4a686b06621777d2c2725134cd879b7cf19d6b",
+            "category": "Applications"
+        },
+        {
+            "name": "Ppsa99808",
+            "filename": "PPSA99808.zip",
+            "url": "https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip",
+            "local_path": "apps/pico8-ps5/v0.1.2/PPSA99808.zip",
+            "description": "PICO-8 for PS5",
+            "version": "v0.1.2",
+            "checksum": "d76e2bd55ea3cb465da4943938bbeb575abde54fdd3ecefa09fb251f58e1382d",
+            "category": "Applications"
         }
     ]
 }

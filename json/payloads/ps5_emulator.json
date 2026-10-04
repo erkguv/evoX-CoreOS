@@ -1,0 +1,25 @@
+{
+  "name": "PS5 Emulator",
+  "payloads": [
+    {
+      "name": "Snes9Xps5 V2.0",
+      "filename": "snes9xPS5_v2.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
+      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
+      "description": "snes9x emulator",
+      "version": "v2.0",
+      "category": "PS5 Emulator",
+      "checksum": "fa7d317ef132fdbcb085376ab4ee6bcf539a0edb23b8df7a34c236f2dc6f1ae6"
+    },
+    {
+      "name": "Ps5-Romm V1.0.2",
+      "filename": "ps5-romm_v1.0.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
+      "description": "ps5-romm for ps5",
+      "version": "v1.0.2",
+      "category": "PS5 Emulator",
+      "checksum": "210b85775b551ca1267a5a84998e3cc9c498f764fcb7bbdd66a98d1c4c5a420d"
+    }
+  ]
+}

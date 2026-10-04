@@ -107,6 +107,16 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Chukei Dns V0.9.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf) | 0.9.0 | `d69081b4a68a...` | Serveur DNS de redirection d |
 | [Nanodns V0.4](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf) | 0.4 | `fcfb7d47c3b2...` | Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d |
 
+### 📂 PS5 Emulator
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_emulator.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| [Ps5-Romm V1.0.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf) | v1.0.2 | `210b85775b55...` | ps5-romm for ps5 |
+| [Snes9Xps5 V2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf) | v2.0 | `fa7d317ef132...` | snes9x emulator |
+
 ### 📂 PS5 Fan
 
 > **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_fan.json`
@@ -375,6 +385,23 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ### 📂 Applications
 
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/apps/zip_archive_emulator_apps.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| [Castation-0.4.0](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `6b17a8feaf3a...` | Dreamcast flycast emu for ps5 |
+| [Flycast-Ps5-2026.10.03](https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip) | v2026.10.03-run13 | `7c380da8030a...` | flycast-ps5-libretro-core |
+| [Porpoise-1.5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v1.5/Porpoise-1.5.zip) | v1.5 | `e57688294102...` | GameCube and Wii Dolphin emu for ps5 |
+| [Ppsa97358](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/PPSA97358.zip) | alpha-1 | `76656beeea24...` | Xbox emulator (Xemu) port for the PS5 |
+| [Ppsa99666](https://github.com/lowbit/ps5-doom/releases/download/v1.1.0/PPSA99666.zip) | v1.1.0 | `71f79585e0e0...` | Native DOOM for PS5 |
+| [Ppsa99808](https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip) | v0.1.2 | `d76e2bd55ea3...` | PICO-8 for PS5 |
+| [Ps5X360-V0.1.0-Preview](https://github.com/BrinooTk/PS5X360/releases/download/v0.1.0-preview/PS5X360-v0.1.0-preview.zip) | v0.1.0-preview | `8e93400ce1a4...` | x360 emu for ps5, you need xpsemu_tools.elf |
+| [Xashps5-V1.0-Ppsa99999](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.0/XashPS5-v1.0-PPSA99999.zip) | v1.0 | `c054d3207676...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
+| [Xpsemu Tools](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/xpsemu_tools.elf) | alpha-1 | `16d32668fd57...` | Xbox emulator (Xemu) port for the PS5 |
+
+### 📂 Applications
+
 > **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/apps/zip_archive_ffpfsc_apps.json`
 
 
@@ -394,6 +421,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Dump Runner](https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip) | v1.02 | `0ffc4af70b23...` | Dump runner howmebrew |
 | [Emulatorpack](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip) | v1 | `1107bc5a546a...` | Backup manager for PS5 |
 | [Kodi-Ps5-Ppsa99420-0.9](https://github.com/VivaLaVent/kodi-ps5/releases/download/0.9/kodi-ps5-PPSA99420-0.9.zip) | 0.9 | `2cd23e792952...` | kodi-ps5 |
+| [Ppsa99640](https://github.com/TheRealRetro/ps5-homebrew-browser/releases/download/01.000.001/PPSA99640.zip) | 01.000.001 | `7efa7a08beef...` | Native PS5 app for browsing and installing homebrew from the homebrew.page catalog |
 | [Prosperoexplorer-V1](https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip) | v1.0 | `3eaee706e8ac...` | File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network |
 | [Prosperomultitools](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip) | v1 | `0e7c60d0e860...` | Backup manager for PS5 |
 
@@ -406,6 +434,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **Al-Azif** : [Chukei DNS](https://github.com/Al-Azif/chukei-dns)
 - **ArkSama** : [Lapy JB Daemon](https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf)
 - **BestPig** : [BackPork](https://github.com/BestPig/BackPork)
+- **BrinooTk** : [PS5X360](https://github.com/BrinooTk/PS5X360)
 - **BrinooTk** : [castation](https://github.com/BrinooTk/castation)
 - **Darkmor** : [A53 1.00-11.40 Experimental KS-D](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1140_20.09.elf)
 - **Darkmor** : [A53 11.60 only Experimental KS-D](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1160_20.09.elf)
@@ -420,6 +449,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **FGGstore** : [FGG-PlayPods](https://github.com/FGGstore/FGG-PlayPods)
 - **FGGstore** : [FGG-Unpack](https://github.com/FGGstore/FGG-Unpack)
 - **FGGstore** : [FGG-XSense](https://github.com/FGGstore/FGG-XSense)
+- **GordonProsperoMan** : [xash3d-ps5](https://github.com/GordonProsperoMan/xash3d-ps5)
 - **Itemzflow** : [Itemzflow_Game_Manager](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg)
 - **ItsBlurf** : [BFpilot](https://github.com/ItsBlurf/BFpilot)
 - **ItsBlurf** : [BFplayer-standalone](https://github.com/ItsBlurf/BFplayer)
@@ -433,11 +463,13 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **Master0** : [PS5Webit-Nexgen999_Installer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg)
 - **MasterPS0** : [PS5-Power-Payloads-Project](https://github.com/MasterPS0/PS5-Power-Payloads-Project)
 - **Michele-M-Media** : [PIZZA-HEN](https://github.com/Michele-M-Media/PIZZA-HEN)
+- **MisterTemaki** : [snes9xPS5](https://github.com/MisterTemaki/snes9xPS5)
 - **MounirHero** : [PS-Play](https://github.com/MounirHero/PS-Play)
 - **NikoBellikJR31** : [PS5-Custom-Tool-Manager-](https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-)
 - **NookieAI** : [Kura](https://github.com/NookieAI/kura)
 - **OpenSourcereR-dev** : [ps5debug-NG](https://github.com/OpenSourcereR-dev/ps5debug-NG)
 - **PratikHackTR** : [PS5-PHStore](https://github.com/PratikHackTR/PS5-PHStore)
+- **RafaelNGP** : [pico8-ps5](https://github.com/RafaelNGP/pico8-ps5)
 - **RastaFairy** : [ProsperoRadio Vulkan Edition](https://github.com/RastaFairy/Prospero_Radio_Vulkan)
 - **SoNic** : [kstuff-a53_SoNic](https://github.com/Soonniicc/kstuff-a53)
 - **SoNic-AIO** : [A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-Kstuff-ShadowMountPlus-3in1.elf)
@@ -451,7 +483,9 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **StonedModder** : [savemnt-offset-dumper](https://github.com/StonedModder/savemnt-offset-dumper)
 - **SvenGDK** : [Prospero Explorer](https://github.com/SvenGDK/Prospero-Explorer)
 - **SvenGDK** : [Prospero Multi Tools](https://github.com/SvenGDK/Prospero-Multi-Tools)
+- **TheRealRetro** : [ps5-homebrew-browser](https://github.com/TheRealRetro/ps5-homebrew-browser)
 - **VivaLaVent** : [kodi-ps5](https://github.com/VivaLaVent/kodi-ps5)
+- **ZiZc3** : [XPSemu](https://github.com/ZiZc3/XPSemu)
 - **aydencharles** : [kylin-core](https://github.com/aydencharles/kylin-core-release)
 - **aydencharles** : [onionHEN](https://github.com/aydencharles/onionHEN)
 - **barisyild** : [airpsx](https://github.com/barisyild/airpsx)
@@ -469,6 +503,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **earthonion** : [garlic-savemgr](https://git.etawen.dev/earthonion/garlic-savemgr)
 - **earthonion** : [garlic-worker](https://git.etawen.dev/earthonion/garlic-worker)
 - **earthonion** : [np-fake-signin](https://git.etawen.dev/earthonion/np-fake-signin)
+- **elripalda** : [Porpoise](https://github.com/elripalda/Porpoise)
 - **gcoding97** : [PS5-Game-Compressor fork](https://github.com/gcoding97/PS5-Game-Compressor)
 - **hgr9519** : [ps5-wallpaper-modd](https://github.com/hgr9519/ps5-wallpaper-modd)
 - **idlesauce** : [PS5-SELF-Decrypter](https://github.com/idlesauce/PS5-SELF-Decrypter)
@@ -482,6 +517,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **juma-sayeh** : [PS5-File-Explorer](https://github.com/juma-sayeh/PS5-File-Explorer)
 - **juma-sayeh** : [PS5-Game-Compressor](https://github.com/juma-sayeh/PS5-Game-Compressor)
 - **kerrdec97** : [ps5-date-time-sync](https://github.com/kerrdec97/ps5-date-time-sync)
+- **lowbit** : [ps5-doom](https://github.com/lowbit/ps5-doom)
 - **m0ur0ne** : [God Of War - Betrayal Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg)
 - **m0ur0ne** : [Mario Kart 64 Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg)
 - **notmaj0r** : [CheatRunner](https://github.com/notmaj0r/CheatRunner)
@@ -507,6 +543,8 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **ps5xploit** : [ps5shopappkg-dpi](https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/ps5shopappkg-dpi.elf)
 - **rdiol12** : [PS5Library](https://github.com/rdiol12/PS5Library)
 - **rdiol12** : [PS5Library](https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg)
+- **rpf16rj** : [flycast-ps5-libretro-core](https://github.com/rpf16rj/flycast-ps5-libretro-core)
+- **s0liton** : [ps5-romm](https://github.com/s0liton/ps5-romm)
 - **saawant12** : [orbit-store-ps5](https://github.com/saawant12/orbit-store-ps5)
 - **sainsaji** : [EVO-PLAYER-PS5](https://github.com/sainsaji/EVO-PLAYER-PS5)
 - **seregonwar** : [MemDBG](https://github.com/seregonwar/MemDBG)

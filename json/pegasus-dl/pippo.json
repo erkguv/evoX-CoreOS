@@ -3,6 +3,66 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06955",
+      "title": "Granblue Fantasy Relink Special Edition",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/5kfevwx2zu9h"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/as4ci996o84j"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/nd3rh8qdvxu1"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://filekeeper.net/d97zkkxpqj58"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/b5OzdVvdWmB8/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/96a12724991663b4cf91/PPSA06955.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/TjMDf60X3Y"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0rpmvpl2DzRg/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/zItK2nfEym"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/y1d40n3id4t7"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/4nm0sqmfl0sn"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/063250656a4ec73d6887/PPSA06955-Compressed.7z"
+        }
+      ],
+      "version": "v02.000.006",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0403/c72af8212e6bfbe853cb3769b3b6513d0685a497227c23ad.png?w=260",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06955, v02.000.006, EUR, 4.xx BackPort\nSize: 111GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 8.xx, separated BackPort for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 119185342464
+    },
+    {
       "titleId": "PPSA16603",
       "title": "Granblue Fantasy Versus Rising",
       "downloadLinks": [
@@ -219,7 +279,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 4816763,
+      "id": 4819571,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -4527,46 +4587,6 @@
       "description": "Tags: PPSA02058, v01.002, EUR, 1.xx and beyond\nSize: 30GB\nCredits: Files: BedroZen & SuperPSX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 32212254720
-    },
-    {
-      "titleId": "PPSA06955",
-      "title": "Granblue Fantasy Relink Special Edition",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/b5OzdVnOamB8/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/wsV4jS9pLA"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/wi0fqwxy4ghy"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/pxo4f7b1uk6p"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/4fjrayme8hw6"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/sc8t2gimxn6b"
-        },
-        {
-          "name": "DLC - Vault",
-          "url": "https://datavaults.co/gm7ngqdmtjqo"
-        }
-      ],
-      "version": "v01.003.002",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0403/c72af8212e6bfbe853cb3769b3b6513d0685a497227c23ad.png?w=260",
-      "description": "Builds: DLC\nTags: PPSA06955, v01.003.002, EUR, 4.xx BackPort\nSize: 90GB\nCredits: Files: DUPLEX & VanBuuren; Backport: Deckerr97; DLC: DUPLEX & VanBuuren",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "sizeBytes": 96636764160
     },
     {
       "titleId": "PPSA04489",
@@ -10193,7 +10213,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4817021,
+      "id": 4819829,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -13759,7 +13779,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4817124,
+      "id": 4819932,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

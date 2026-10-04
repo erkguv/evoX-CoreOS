@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 04/10/2026 à 20:44
+* **PAYLOADS**
+  * `Snes9Xps5 V2.0` (v2.0) - *Nouveau*
+  * `Ps5-Romm V1.0.2` (v1.0.2) - *Nouveau*
+* **APPS**
+  * `Ppsa99640` (01.000.001) - *Nouveau*
+  * `Flycast-Ps5-2026.10.03` (v2026.10.03-run13) - *Nouveau*
+  * `Ps5X360-V0.1.0-Preview` (v0.1.0-preview) - *Nouveau*
+  * `Ppsa97358` (alpha-1) - *Nouveau*
+  * `Xpsemu Tools` (alpha-1) - *Nouveau*
+  * `Porpoise-1.5` (v1.5) - *Nouveau*
+  * `Xashps5-V1.0-Ppsa99999` (v1.0) - *Nouveau*
+  * `Ppsa99666` (v1.1.0) - *Nouveau*
+  * `Ppsa99808` (v0.1.2) - *Nouveau*
+
 ## Build du 04/10/2026 à 19:38
 * **PAYLOADS**
   * `Orbit Store` (v0.6.0) - *Nouveau*

@@ -3,6 +3,22 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA07867",
+      "title": "Forever Skies",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/Id7hwkiS"
+        }
+      ],
+      "version": "2.10",
+      "category": "game",
+      "description": "Region: EUR\nFirmware: 13.xx+\nNotes: Genre: First-person survival/crafting adventure. Setting: A devastated, post-apocalyptic Earth covered by a massive layer of toxic dust. Player role: You return to Earth years after a global ecological disaster, searching for answers and trying to survive. Main base: Your high-tech airship acts as your mobile home and workshop. Exploration: Travel across the ruined surface and explore abandoned buildings, laboratories, and other locations. Survival: Manage resources, craft equipment, research technologies, and deal with environmental hazards. Airship: Upgrade and customize the ship with different rooms, equipment, utilities, and technologies. Threats: The world contains hostile organisms, environmental dangers, and other threats that become more significant as you explore. Story: The game focuses heavily on uncovering what happened to humanity and the events surrounding the catastrophe. Research: Collect samples and materials to unlock new technologies and equipment. Atmosphere: Strong emphasis on isolation, ruined environments, mystery, and exploration. Multiplayer: Supports cooperative play, allowing players to explore and survive together. Development: Developed by Far From Home.\nUpdated: 2026-10-04T20:13:06.426Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 17179869184,
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07867_63b9ddcec44ec0599955fda2d034a852b3dcbaaf8d867f9b5528a1d23072afa0/icon0.webp"
+    },
+    {
       "titleId": "PPSA32309",
       "title": "The Adventures of Elliot: The Millennium Tales",
       "downloadLinks": [

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.04-1938)
+### 🚀 Synthèse de la mise à jour (v2026.10.04-2044)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -89,6 +89,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ProsperoMgr.elf`
   * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
+  * `snes9xPS5_v2.0.elf`
+  * `ps5-romm_v1.0.2.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
   * `fan_target_v0.1.elf`
@@ -173,6 +175,15 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `EmulatorPack.zip`
   * `ProsperoMultiTools.zip`
   * `ProsperoExplorer-v1.zip`
+  * `PPSA99640.zip`
+  * `flycast-ps5-2026.10.03.zip`
+  * `PS5X360-v0.1.0-preview.zip`
+  * `PPSA97358.zip`
+  * `xpsemu_tools.elf`
+  * `Porpoise-1.5.zip`
+  * `XashPS5-v1.0-PPSA99999.zip`
+  * `PPSA99666.zip`
+  * `PPSA99808.zip`
 
 </details>
 
