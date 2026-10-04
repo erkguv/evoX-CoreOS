@@ -32,6 +32,22 @@ REPO_RULES = {
     },
     "custom_payload_rules": {
         
+        # --- Dépôt saawant12/orbit-store-ps5 (Bloquer le gros zip source bundle) ---
+        "saawant12/orbit-store-ps5": {
+            "release_channel": "stable",
+            "allowed_extensions": [".elf"],
+            "exclude_keywords": ["source-bundle", "source"],
+            "download_source_archive": False,
+            "keep_original": True,
+            "strict_clean": True,
+            "targets": [
+                {
+                    "match": "orbit_store",
+                    "rename": "orbit_store_v{version}.elf"
+                }
+            ]
+        },
+
         # --- 1. Dépôts avec conservation du nom d'origine ---
         "smoxa/ps5-new-overlay": {
             "keep_original": True,
