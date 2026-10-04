@@ -287,12 +287,6 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Spectrum-Library V1.4.8</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.8/Spectrum-Library_v1.4.8.elf</link>
-      <description>free store webadmin http://your-ps5-ip:7575.</description>
-      <pubDate>1.4.8</pubDate>
-    </item>
-    <item>
       <title>Pegasus-Dl V1.10.1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf</link>
       <description>free store webadmin http://your-ps5-ip:6970.</description>
@@ -309,6 +303,18 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf</link>
       <description>You need PS5Library.pkg.</description>
       <pubDate>v0.2.55</pubDate>
+    </item>
+    <item>
+      <title>Orbit Store</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.6.0/orbit_store.elf</link>
+      <description>A modern, no-BS download manager for PS5.</description>
+      <pubDate>v0.6.0</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Phstore Vphstore</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf</link>
+      <description>Free PH Store client for PS5.</description>
+      <pubDate>PHStore</pubDate>
     </item>
     <item>
       <title>Actremotelink Agent V2.0</title>
@@ -645,6 +651,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf</link>
       <description>Fork Tool to compress PS5 games.</description>
       <pubDate>v1.1.1</pubDate>
+    </item>
+    <item>
+      <title>Spectrum-Library V1.4.8</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>Spectrum-Library</pubDate>
     </item>
   </channel>
 </rss>

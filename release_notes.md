@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.04-1626)
+### 🚀 Synthèse de la mise à jour (v2026.10.04-1938)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -64,10 +64,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-PlayPods_v1.0.elf`
   * `FGG-Unpack_v0.1.elf`
   * `ghost-toothAPI.elf`
-  * `Spectrum-Library_v1.4.8.elf`
   * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent-0.2.55.elf`
+  * `orbit_store.elf`
+  * `PS5-PHStore_vPHStore.elf`
   * `actremotelink_agent_v2.0.elf`
   * `actremotelink_pin_notify_v2.0.elf`
   * `bfplayer-standalone.elf`
@@ -124,6 +125,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
+  * `Spectrum-Library_v1.4.8.elf`
 
 </details>
 

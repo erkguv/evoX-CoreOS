@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 04/10/2026 à 19:38
+* **PAYLOADS**
+  * `Orbit Store` (v0.6.0) - *Nouveau*
+  * `Ps5-Phstore Vphstore` (PHStore) - *Nouveau*
+  * `Spectrum-Library V1.4.8` (Spectrum-Library) - *Mise à jour (Précédent: 1.4.8)*
+
 ## Build du 04/10/2026 à 16:26
 * **FFPFSC**
   * `Prospero Radio` (02.000.055) - *Mise à jour (Précédent: 02.000.054)*
