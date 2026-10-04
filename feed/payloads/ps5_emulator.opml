@@ -6,5 +6,6 @@
   <body>
     <outline title="ps5_emulator">
     <outline text="snes9xPS5" title="snes9xPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/snes9xPS5" author="MisterTemaki" description="snes9x emulator"/>
+    <outline text="PS5X360" title="PS5X360" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360" author="BrinooTk" description="x360 emu for ps5, you need PPSA97358.zip"/>
   </body>
 </opml>
