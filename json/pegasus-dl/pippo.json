@@ -3,6 +3,230 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA21567",
+      "title": "ASTRO BOT Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/yBHq9HNp#DataNodes"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://link-vault.org/c/yBHq9HNp#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/4GaYdH2A#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/4GaYdH2A#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/4GaYdH2A#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/4GaYdH2A#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/4GaYdH2A#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/iJ_6BTVd#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/iJ_6BTVd#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/iJ_6BTVd#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/iJ_6BTVd#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/iJ_6BTVd#FileDitch"
+        }
+      ],
+      "version": "v01.019",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png?w=260",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA21567, v01.019, EUR, 4.xx BackPort\nSize: 149GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: romhunter & Pippo\nHow to play: DLCs by romhunter edited to make it work also on FPKG EUR, enjoy. FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 9.xx, separated BackPort for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 159987531776
+    },
+    {
+      "titleId": "PPSA30601",
+      "title": "Resonance A Plague Tale Legacy",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/u7bUZyNy#DataNodes"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://link-vault.org/c/u7bUZyNy#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/4823A2dH#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/4823A2dH#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/4823A2dH#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/4823A2dH#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/4823A2dH#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/PMg_NakC#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/PMg_NakC#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/PMg_NakC#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/PMg_NakC#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/PMg_NakC#FileDitch"
+        }
+      ],
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1510/346857c01378e194d77def3f3029d79489509c541aa761d6.png?w=260",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA30601, v01.002, EUR, 4.xx BackPort\nSize: 98GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 105226698752
+    },
+    {
+      "titleId": "PPSA21480",
+      "title": "Broken Sword Shadow of the Templars Reforged",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/9af3RcR-#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/9af3RcR-#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/9af3RcR-#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/9af3RcR-#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/9af3RcR-#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/l4Zmacml#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/l4Zmacml#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/l4Zmacml#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/l4Zmacml#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/l4Zmacml#FileDitch"
+        }
+      ],
+      "version": "v01.110.461",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21480_838e514dc78a2a797b3e8d21d921cdb91e90a25f1f7042d26a90182f9b232077/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA21480, v01.110.461, USA, 4.xx BackPort\nSize: 7GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 7516192768
+    },
+    {
+      "titleId": "PPSA02809",
+      "title": "Alfred Hitchcock Vertigo",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/6U1s_d4q#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/6U1s_d4q#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/6U1s_d4q#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/6U1s_d4q#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/6U1s_d4q#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/x_7-wKnE#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/x_7-wKnE#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/x_7-wKnE#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/x_7-wKnE#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/x_7-wKnE#FileDitch"
+        }
+      ],
+      "version": "v01.100",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02809_8729eea92b07ea06d57959f14b4a04d64829261705e45a0a62ff3a01c7ff128f/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA02809, v01.100, EUR, 4.xx and beyond\nSize: 19GB\nCredits: Files: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 20401094656
+    },
+    {
       "titleId": "PPSA28000",
       "title": "The Blood of Dawnwalker",
       "downloadLinks": [
@@ -439,15 +663,8 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 4864637,
-      "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
-      "version": "v01.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_Unleashed_Recompiled.jpg",
-      "description": "Builds: Fpkg\nTags: PPSA99902, v01.003, USA, 4.xx and beyond\nSize: 9GB\nCredits: Files: Nazky\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
           "name": "Filed",
@@ -468,28 +685,13 @@
         {
           "name": "Filek",
           "url": "https://filekeeper.net/fienhpjyhtfi"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/l76mZrkB9man/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/YsYPasYURp"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/o8v4cqlfw26t"
-        },
-        {
-          "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/443f44uyqc16"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/balpha25/4efb2cfc51561796f67a/PPSA99902-Compressed.7z"
         }
       ],
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_Unleashed_Recompiled.jpg",
+      "description": "Tags: PPSA99902, v01.003, USA, 4.xx and beyond\nSize: 9GB\nCredits: Files: Nazky\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 9663676416
     },
     {
@@ -2759,66 +2961,6 @@
       "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 201863462912
-    },
-    {
-      "titleId": "PPSA21564",
-      "title": "ASTRO BOT",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/RMKGJQVx2z1o/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/7eBJAT7RCh"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/s35gak8c0ptq"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/4s24if8lnrlr"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/65pvps8vcacl"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/u4hhlhq8ktes"
-        },
-        {
-          "name": "DLC - Vault",
-          "url": "https://datavaults.co/17lvay60dlv3"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/Zvqzl7qyO3aD/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/fPgOYm1ngu"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/grd2ruwme6j4"
-        },
-        {
-          "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/7f6gggbr0w4p"
-        },
-        {
-          "name": "Fpkg - Vault",
-          "url": "https://datavaults.co/bja4iw6cflx3"
-        }
-      ],
-      "version": "v01.018",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png?w=260",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA21564, v01.018, USA, 4.xx BackPort\nSize: 152GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: romhunter & Pippo\nHow to play: Progress will be no lost from v01.007 (No need anymore Garlic Saves Manager) + DLCs by romhunter edited to make it work also on FPKG, enjoy. FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "sizeBytes": 163208757248
     },
     {
       "titleId": "PPSA23226",
@@ -10373,7 +10515,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4864894,
+      "id": 4891968,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -13939,7 +14081,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4864997,
+      "id": 4892071,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

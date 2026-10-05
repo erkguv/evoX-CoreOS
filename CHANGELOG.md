@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 05/10/2026 à 23:45
+* **PAYLOADS**
+  * `Web-File-Mgr-V1.10` (v1.10) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.10) - *Mise à jour (Précédent: v1.9)*
+  * `Ps5Upload V6.1.0` (v6.1.0) - *Nouveau*
+  * `Orbit Store` (v0.7.0) - *Mise à jour (Précédent: v0.6.1)*
+  * `Web-File-Mgr V1.9` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.9)*
+  * `Web-File-Mgr-V1.9` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.9)*
+* **APPS**
+  * `Porpoise-2.0` (v2.0) - *Nouveau*
+
 ## Build du 05/10/2026 à 03:55
 * **PAYLOADS**
   * `Orbit Store` (v0.6.1) - *Mise à jour (Précédent: v0.6.0)*

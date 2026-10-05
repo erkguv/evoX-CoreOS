@@ -143,7 +143,7 @@
       <outline text="PS5X360" title="PS5X360" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
       <outline text="XPSemu" title="XPSemu" type="rss" xmlUrl="https://github.com/ZiZc3/XPSemu" description="Xbox emulator (Xemu) port for the PS5"/>
       <outline text="castation" title="castation" type="rss" xmlUrl="https://github.com/BrinooTk/castation" description="Dreamcast flycast emu for ps5"/>
-      <outline text="Porpoise" title="Porpoise" type="rss" xmlUrl="https://github.com/elripalda/Porpoise" description="GameCube and Wii Dolphin emu for ps5"/>
+      <outline text="Porpoise" title="Porpoise" type="rss" xmlUrl="https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5" description="GameCube and Wii Dolphin emu for ps5"/>
       <outline text="xash3d-ps5" title="xash3d-ps5" type="rss" xmlUrl="https://github.com/GordonProsperoMan/xash3d-ps5" description="Half-Life (Xash3D FWGS) native homebrew port for PS5"/>
       <outline text="ps5-doom" title="ps5-doom" type="rss" xmlUrl="https://github.com/lowbit/ps5-doom" description="Native DOOM for PS5"/>
       <outline text="pico8-ps5" title="pico8-ps5" type="rss" xmlUrl="https://github.com/RafaelNGP/pico8-ps5" description="PICO-8 for PS5"/>

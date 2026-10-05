@@ -53,22 +53,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Web-File-Mgr V1.9</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr_v1.9.elf</link>
+      <title>Web-File-Mgr-V1.10</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/web-file-mgr-v1.10.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.9</pubDate>
-    </item>
-    <item>
-      <title>Web-File-Mgr-V1.9</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr-v1.9.elf</link>
-      <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.9</pubDate>
+      <pubDate>v1.10</pubDate>
     </item>
     <item>
       <title>Wfm-7Zip-Helper</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/wfm-7zip-helper.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/wfm-7zip-helper.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.9</pubDate>
+      <pubDate>v1.10</pubDate>
     </item>
     <item>
       <title>Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
@@ -197,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>Ps5Upload V5.41.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.41.0/ps5upload_v5.41.0.elf</link>
+      <title>Ps5Upload V6.1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.1.0/ps5upload_v6.1.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.41.0</pubDate>
+      <pubDate>v6.1.0</pubDate>
     </item>
     <item>
       <title>Airpsx V0.19</title>
@@ -306,9 +300,9 @@
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.6.1/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.7.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v0.6.1</pubDate>
+      <pubDate>v0.7.0</pubDate>
     </item>
     <item>
       <title>Ps5-Phstore Vphstore</title>
@@ -669,6 +663,18 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf</link>
       <description>Fork Tool to compress PS5 games.</description>
       <pubDate>v1.1.1</pubDate>
+    </item>
+    <item>
+      <title>Web-File-Mgr V1.9</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>Web-File-Mgr-V1.9</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
       <title>Spectrum-Library V1.4.8</title>

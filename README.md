@@ -143,9 +143,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Bfpilot V0.4.4](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf) | v0.4.4 | `5a8237630260...` | BFpilot is a lightweight PS5 payload that serves a browser-based file manager. |
 | [Lapy Jb Daemon](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf) | Source-Fixe | `e8230ac4597b...` | Daemon pour le jailbreak de Lapy |
 | [Ps5-File-Explorer Vfile-Explorer-V0.2.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf) | file-explorer-v0.2.1 | `6d4b905b4272...` | PS5 File Explorer http://your-ps5-ip:5905. |
-| [Web-File-Mgr V1.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr_v1.9.elf) | v1.9 | `711cb076e887...` | PS5 Web File Manager http://your-ps5-ip:8888. |
-| [Web-File-Mgr-V1.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/web-file-mgr-v1.9.elf) | v1.9 | `711cb076e887...` | PS5 Web File Manager http://your-ps5-ip:8888. |
-| [Wfm-7Zip-Helper](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/wfm-7zip-helper.elf) | v1.9 | `7a6369489143...` | PS5 Web File Manager http://your-ps5-ip:8888. |
+| [Web-File-Mgr-V1.10](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/web-file-mgr-v1.10.elf) | v1.10 | `409145ec9a1c...` | PS5 Web File Manager http://your-ps5-ip:8888. |
+| [Wfm-7Zip-Helper](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/wfm-7zip-helper.elf) | v1.10 | `dc28dfd499a9...` | PS5 Web File Manager http://your-ps5-ip:8888. |
 
 ### 📂 PS5 Freeshop
 
@@ -154,7 +153,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Orbit Store](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.6.1/orbit_store.elf) | v0.6.1 | `cb548c8c39e4...` | A modern, no-BS download manager for PS5. |
+| [Orbit Store](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.7.0/orbit_store.elf) | v0.7.0 | `12f9f3b7cb66...` | A modern, no-BS download manager for PS5. |
 | [Pegasus-Dl V1.10.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf) | v1.10.1 | `b24fdc62fc6c...` | free store webadmin http://your-ps5-ip:6970. |
 | [Ps5-Phstore Vphstore](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf) | PHStore | `64d5c4605a06...` | Free PH Store client for PS5. |
 | [Ps5Library-Agent-0.2.55](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf) | v0.2.55 | `1efb53f018dc...` | You need PS5Library.pkg. |
@@ -289,7 +288,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Gdbsrv V0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | v0.9 | `80952d75f423...` | GDB Debugger server payload. Port: 1234 |
 | [Klogsrv V0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | v0.9 | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | [Ps5-Ezremote-Server V1.11](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf) | 1.11 | `0f36b7ea3c33...` | Easy remote server component. Port: 8080 |
-| [Ps5Upload V5.41.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.41.0/ps5upload_v5.41.0.elf) | v5.41.0 | `90db08434228...` | PS5 Upload server / tool. Port: 9025 |
+| [Ps5Upload V6.1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.1.0/ps5upload_v6.1.0.elf) | v6.1.0 | `39bb275892ad...` | PS5 Upload server / tool. Port: 9025 |
 | [Websrv V0.34](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | v0.34 | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | [Zftpd-Ps5-V1.6.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf) | v1.6.0 | `39ed57bef579...` | FTP server payload for PS5. Port: 21 |
 | [Zftpd-Ps5-Zhttp-V1.6.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf) | v1.6.0 | `fc59b60aab2d...` | FTP server payload for PS5. Port: 21 |
@@ -375,7 +374,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | [Evoplayer-V0.10.0-Ppsa99039](https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc) | v0.10.0 | `a2b14616a266...` | A media player for jailbroken PS5 |
-| [Ppsa99001](https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc) | 01.000.005 | `0f82072f1e8a...` | PS5 Radio Player |
 | [Ppsa99002](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | 01.000.060 | `6e92e8f862cf...` | PS5 Moonlight |
 | [Ppsa99003](https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc) | 01.000.015 | `4d5ea7fd048d...` | PS5 IPTV |
 | [Prospero Radio](https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.055/PROSPERO_RADIO.ffpfsc) | 02.000.055 | `7fc1350a7768...` | An internet radio for PS5 with a real radio face — rendered with Vulkan. |
@@ -393,7 +391,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | [Castation-0.4.0](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `6b17a8feaf3a...` | Dreamcast flycast emu for ps5 |
 | [Flycast-Ps5-2026.10.03](https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip) | v2026.10.03-run13 | `7c380da8030a...` | flycast-ps5-libretro-core |
-| [Porpoise-1.5.1](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v1.5.1/Porpoise-1.5.1.zip) | v1.5.1 | `15c04d083712...` | GameCube and Wii Dolphin emu for ps5 |
+| [Porpoise-2.0](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.0/Porpoise-2.0.zip) | v2.0 | `573a367dd331...` | GameCube and Wii Dolphin emu for ps5 |
 | [Ppsa50011](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PPSA50011.zip) | v0.5.3-preview | `d00830305804...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | [Ppsa97358](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/PPSA97358.zip) | alpha-1 | `76656beeea24...` | Xbox emulator (Xemu) port for the PS5 |
 | [Ppsa99666](https://github.com/lowbit/ps5-doom/releases/download/v1.1.0/PPSA99666.zip) | v1.1.0 | `71f79585e0e0...` | Native DOOM for PS5 |
@@ -492,7 +490,6 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **bizkut** : [unrar-ps5](https://github.com/bizkut/unrar-ps5)
 - **blackbearreloaded** : [ProsperoAI](https://github.com/blackbearreloaded/ProsperoAI)
 - **blackbearreloaded** : [ProsperoLight](https://github.com/blackbearreloaded/ProsperoLight)
-- **blackbearreloaded** : [ProsperoRadio](https://github.com/blackbearreloaded/ProsperoRadio)
 - **blackbearreloaded** : [ProsperoTV](https://github.com/blackbearreloaded/ProsperoTV)
 - **cy33hc** : [ps5-ezremote-server](https://github.com/cy33hc/ps5-ezremote-server)
 - **drakmor** : [ShadowMountPlus](https://github.com/drakmor/ShadowMountPlus)
@@ -503,7 +500,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **earthonion** : [garlic-savemgr](https://git.etawen.dev/earthonion/garlic-savemgr)
 - **earthonion** : [garlic-worker](https://git.etawen.dev/earthonion/garlic-worker)
 - **earthonion** : [np-fake-signin](https://git.etawen.dev/earthonion/np-fake-signin)
-- **elripalda** : [Porpoise](https://github.com/elripalda/Porpoise)
+- **elripalda** : [Porpoise](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5)
 - **gcoding97** : [PS5-Game-Compressor fork](https://github.com/gcoding97/PS5-Game-Compressor)
 - **hgr9519** : [ps5-wallpaper-modd](https://github.com/hgr9519/ps5-wallpaper-modd)
 - **idlesauce** : [PS5-SELF-Decrypter](https://github.com/idlesauce/PS5-SELF-Decrypter)

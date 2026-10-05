@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.05-1332)
+### 🚀 Synthèse de la mise à jour (v2026.10.05-2345)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -25,8 +25,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5_overlay_shellui.elf`
   * `BFpilot_v0.4.4.elf`
   * `lapy_jb_daemon.elf`
-  * `web-file-mgr_v1.9.elf`
-  * `web-file-mgr-v1.9.elf`
+  * `web-file-mgr-v1.10.elf`
   * `wfm-7zip-helper.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
@@ -49,7 +48,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v5.41.0.elf`
+  * `ps5upload_v6.1.0.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PoorDS4-stop_v0.1.0-rc51.elf`
@@ -128,6 +127,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
+  * `web-file-mgr_v1.9.elf`
+  * `web-file-mgr-v1.9.elf`
   * `Spectrum-Library_v1.4.8.elf`
 
 </details>
@@ -157,7 +158,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 
 * **files**
   * `PPSA99002.ffpfsc`
-  * `PPSA99001.ffpfsc`
   * `PPSA99003.ffpfsc`
   * `EVOPlayer-v0.10.0-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
@@ -181,7 +181,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5X360-AutoLog-v1.0.7-preview.elf`
   * `PPSA97358.zip`
   * `xpsemu_tools.elf`
-  * `Porpoise-1.5.1.zip`
+  * `Porpoise-2.0.zip`
   * `XashPS5-v1.0-PPSA99999.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`
