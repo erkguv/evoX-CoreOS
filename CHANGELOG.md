@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 05/10/2026 à 03:55
+* **PAYLOADS**
+  * `Orbit Store` (v0.6.1) - *Mise à jour (Précédent: v0.6.0)*
+  * `Ps5X360 V0.5.3-Preview` (v0.5.3-preview) - *Nouveau*
+* **APPS**
+  * `Ppsa50011` (v0.5.3-preview) - *Nouveau*
+  * `Ps5X360-Autolog-V1.0.7-Preview` (v0.5.3-preview) - *Nouveau*
+  * `Porpoise-1.5.1` (v1.5.1) - *Nouveau*
+
 ## Build du 04/10/2026 à 20:44
 * **PAYLOADS**
   * `Snes9Xps5 V2.0` (v2.0) - *Nouveau*

@@ -53,22 +53,22 @@
       <pubDate>v1.0</pubDate>
     </item>
     <item>
-      <title>Ppsa99640</title>
-      <link>https://github.com/TheRealRetro/ps5-homebrew-browser/releases/download/01.000.001/PPSA99640.zip</link>
-      <description>Native PS5 app for browsing and installing homebrew from the homebrew.page catalog</description>
-      <pubDate>01.000.001</pubDate>
-    </item>
-    <item>
       <title>Flycast-Ps5-2026.10.03</title>
       <link>https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip</link>
       <description>flycast-ps5-libretro-core</description>
       <pubDate>v2026.10.03-run13</pubDate>
     </item>
     <item>
-      <title>Ps5X360-V0.1.0-Preview</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.1.0-preview/PS5X360-v0.1.0-preview.zip</link>
+      <title>Ppsa50011</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PPSA50011.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.1.0-preview</pubDate>
+      <pubDate>v0.5.3-preview</pubDate>
+    </item>
+    <item>
+      <title>Ps5X360-Autolog-V1.0.7-Preview</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PS5X360-AutoLog-v1.0.7-preview.elf</link>
+      <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
+      <pubDate>v0.5.3-preview</pubDate>
     </item>
     <item>
       <title>Ppsa97358</title>
@@ -83,10 +83,10 @@
       <pubDate>alpha-1</pubDate>
     </item>
     <item>
-      <title>Porpoise-1.5</title>
-      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v1.5/Porpoise-1.5.zip</link>
+      <title>Porpoise-1.5.1</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v1.5.1/Porpoise-1.5.1.zip</link>
       <description>GameCube and Wii Dolphin emu for ps5</description>
-      <pubDate>v1.5</pubDate>
+      <pubDate>v1.5.1</pubDate>
     </item>
     <item>
       <title>Xashps5-V1.0-Ppsa99999</title>

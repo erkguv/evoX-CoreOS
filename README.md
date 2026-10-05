@@ -115,6 +115,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | [Ps5-Romm V1.0.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf) | v1.0.2 | `210b85775b55...` | ps5-romm for ps5 |
+| [Ps5X360 V0.5.3-Preview](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.3-preview/PS5X360_v0.5.3-preview.elf) | v0.5.3-preview | `1a2cce68e19f...` | x360 emu for ps5, you need PPSA97358.zip |
 | [Snes9Xps5 V2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf) | v2.0 | `fa7d317ef132...` | snes9x emulator |
 
 ### 📂 PS5 Fan
@@ -153,7 +154,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Orbit Store](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.6.0/orbit_store.elf) | v0.6.0 | `71ae6b84b164...` | A modern, no-BS download manager for PS5. |
+| [Orbit Store](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.6.1/orbit_store.elf) | v0.6.1 | `cb548c8c39e4...` | A modern, no-BS download manager for PS5. |
 | [Pegasus-Dl V1.10.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf) | v1.10.1 | `b24fdc62fc6c...` | free store webadmin http://your-ps5-ip:6970. |
 | [Ps5-Phstore Vphstore](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf) | PHStore | `64d5c4605a06...` | Free PH Store client for PS5. |
 | [Ps5Library-Agent-0.2.55](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf) | v0.2.55 | `1efb53f018dc...` | You need PS5Library.pkg. |
@@ -392,11 +393,12 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | [Castation-0.4.0](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `6b17a8feaf3a...` | Dreamcast flycast emu for ps5 |
 | [Flycast-Ps5-2026.10.03](https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip) | v2026.10.03-run13 | `7c380da8030a...` | flycast-ps5-libretro-core |
-| [Porpoise-1.5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v1.5/Porpoise-1.5.zip) | v1.5 | `e57688294102...` | GameCube and Wii Dolphin emu for ps5 |
+| [Porpoise-1.5.1](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v1.5.1/Porpoise-1.5.1.zip) | v1.5.1 | `15c04d083712...` | GameCube and Wii Dolphin emu for ps5 |
+| [Ppsa50011](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PPSA50011.zip) | v0.5.3-preview | `d00830305804...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | [Ppsa97358](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/PPSA97358.zip) | alpha-1 | `76656beeea24...` | Xbox emulator (Xemu) port for the PS5 |
 | [Ppsa99666](https://github.com/lowbit/ps5-doom/releases/download/v1.1.0/PPSA99666.zip) | v1.1.0 | `71f79585e0e0...` | Native DOOM for PS5 |
 | [Ppsa99808](https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip) | v0.1.2 | `d76e2bd55ea3...` | PICO-8 for PS5 |
-| [Ps5X360-V0.1.0-Preview](https://github.com/BrinooTk/PS5X360/releases/download/v0.1.0-preview/PS5X360-v0.1.0-preview.zip) | v0.1.0-preview | `8e93400ce1a4...` | x360 emu for ps5, you need xpsemu_tools.elf |
+| [Ps5X360-Autolog-V1.0.7-Preview](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PS5X360-AutoLog-v1.0.7-preview.elf) | v0.5.3-preview | `1a2cce68e19f...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | [Xashps5-V1.0-Ppsa99999](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.0/XashPS5-v1.0-PPSA99999.zip) | v1.0 | `c054d3207676...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
 | [Xpsemu Tools](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/xpsemu_tools.elf) | alpha-1 | `16d32668fd57...` | Xbox emulator (Xemu) port for the PS5 |
 
@@ -421,7 +423,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Dump Runner](https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip) | v1.02 | `0ffc4af70b23...` | Dump runner howmebrew |
 | [Emulatorpack](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip) | v1 | `1107bc5a546a...` | Backup manager for PS5 |
 | [Kodi-Ps5-Ppsa99420-0.9](https://github.com/VivaLaVent/kodi-ps5/releases/download/0.9/kodi-ps5-PPSA99420-0.9.zip) | 0.9 | `2cd23e792952...` | kodi-ps5 |
-| [Ppsa99640](https://github.com/TheRealRetro/ps5-homebrew-browser/releases/download/01.000.001/PPSA99640.zip) | 01.000.001 | `7efa7a08beef...` | Native PS5 app for browsing and installing homebrew from the homebrew.page catalog |
 | [Prosperoexplorer-V1](https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip) | v1.0 | `3eaee706e8ac...` | File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network |
 | [Prosperomultitools](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip) | v1 | `0e7c60d0e860...` | Backup manager for PS5 |
 
@@ -483,7 +484,6 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **StonedModder** : [savemnt-offset-dumper](https://github.com/StonedModder/savemnt-offset-dumper)
 - **SvenGDK** : [Prospero Explorer](https://github.com/SvenGDK/Prospero-Explorer)
 - **SvenGDK** : [Prospero Multi Tools](https://github.com/SvenGDK/Prospero-Multi-Tools)
-- **TheRealRetro** : [ps5-homebrew-browser](https://github.com/TheRealRetro/ps5-homebrew-browser)
 - **VivaLaVent** : [kodi-ps5](https://github.com/VivaLaVent/kodi-ps5)
 - **ZiZc3** : [XPSemu](https://github.com/ZiZc3/XPSemu)
 - **aydencharles** : [kylin-core](https://github.com/aydencharles/kylin-core-release)

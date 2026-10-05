@@ -12,6 +12,16 @@
       "checksum": "fa7d317ef132fdbcb085376ab4ee6bcf539a0edb23b8df7a34c236f2dc6f1ae6"
     },
     {
+      "name": "Ps5X360 V0.5.3-Preview",
+      "filename": "PS5X360_v0.5.3-preview.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.3-preview/PS5X360_v0.5.3-preview.elf",
+      "local_path": "payloads/ps5_emulator/PS5X360/v0.5.3-preview/PS5X360_v0.5.3-preview.elf",
+      "description": "x360 emu for ps5, you need PPSA97358.zip",
+      "version": "v0.5.3-preview",
+      "category": "PS5 Emulator",
+      "checksum": "1a2cce68e19feb96c998a7d676e21d19b379dd0ea49f98bf2b07ca59f2f3842c"
+    },
+    {
       "name": "Ps5-Romm V1.0.2",
       "filename": "ps5-romm_v1.0.2.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",

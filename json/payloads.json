@@ -504,12 +504,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.6.0/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v0.6.0/orbit_store.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.6.1/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v0.6.1/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v0.6.0",
+      "version": "v0.6.1",
       "category": "PS5 Freeshop",
-      "checksum": "71ae6b84b16461a07c9e883bf7e28829800022d08a7fde8d9815f3b7f2e3964b"
+      "checksum": "cb548c8c39e45d6a1b72bb81f0b7c74d569fd050aafdd9ce163fa3ac8e738bc2"
     },
     {
       "name": "Ps5-Phstore Vphstore",
@@ -730,6 +730,16 @@
       "version": "v2.0",
       "category": "PS5 Emulator",
       "checksum": "fa7d317ef132fdbcb085376ab4ee6bcf539a0edb23b8df7a34c236f2dc6f1ae6"
+    },
+    {
+      "name": "Ps5X360 V0.5.3-Preview",
+      "filename": "PS5X360_v0.5.3-preview.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.3-preview/PS5X360_v0.5.3-preview.elf",
+      "local_path": "payloads/ps5_emulator/PS5X360/v0.5.3-preview/PS5X360_v0.5.3-preview.elf",
+      "description": "x360 emu for ps5, you need PPSA97358.zip",
+      "version": "v0.5.3-preview",
+      "category": "PS5 Emulator",
+      "checksum": "1a2cce68e19feb96c998a7d676e21d19b379dd0ea49f98bf2b07ca59f2f3842c"
     },
     {
       "name": "Ps5-Romm V1.0.2",

@@ -82,16 +82,6 @@
             "category": "Applications"
         },
         {
-            "name": "Ppsa99640",
-            "filename": "PPSA99640.zip",
-            "url": "https://github.com/TheRealRetro/ps5-homebrew-browser/releases/download/01.000.001/PPSA99640.zip",
-            "local_path": "apps/ps5-homebrew-browser/01.000.001/PPSA99640.zip",
-            "description": "Native PS5 app for browsing and installing homebrew from the homebrew.page catalog",
-            "version": "01.000.001",
-            "checksum": "7efa7a08beef4f915f43b689d9a6463d3e10eccea08fe0c42b649c81b281d015",
-            "category": "Applications"
-        },
-        {
             "name": "Flycast-Ps5-2026.10.03",
             "filename": "flycast-ps5-2026.10.03.zip",
             "url": "https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip",
@@ -102,13 +92,23 @@
             "category": "Applications"
         },
         {
-            "name": "Ps5X360-V0.1.0-Preview",
-            "filename": "PS5X360-v0.1.0-preview.zip",
-            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.1.0-preview/PS5X360-v0.1.0-preview.zip",
-            "local_path": "apps/PS5X360/v0.1.0-preview/PS5X360-v0.1.0-preview.zip",
+            "name": "Ppsa50011",
+            "filename": "PPSA50011.zip",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PPSA50011.zip",
+            "local_path": "apps/PS5X360/v0.5.3-preview/PPSA50011.zip",
             "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-            "version": "v0.1.0-preview",
-            "checksum": "8e93400ce1a49007b5afd5326022a526f103ea9221346c7da042c179b5c5b427",
+            "version": "v0.5.3-preview",
+            "checksum": "d00830305804a2c8baf6601e9edc044c05343a1df0499af4e4304eeb6d392b40",
+            "category": "Applications"
+        },
+        {
+            "name": "Ps5X360-Autolog-V1.0.7-Preview",
+            "filename": "PS5X360-AutoLog-v1.0.7-preview.elf",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PS5X360-AutoLog-v1.0.7-preview.elf",
+            "local_path": "apps/PS5X360/v0.5.3-preview/PS5X360-AutoLog-v1.0.7-preview.elf",
+            "description": "x360 emu for ps5, you need xpsemu_tools.elf",
+            "version": "v0.5.3-preview",
+            "checksum": "1a2cce68e19feb96c998a7d676e21d19b379dd0ea49f98bf2b07ca59f2f3842c",
             "category": "Applications"
         },
         {
@@ -132,13 +132,13 @@
             "category": "Applications"
         },
         {
-            "name": "Porpoise-1.5",
-            "filename": "Porpoise-1.5.zip",
-            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v1.5/Porpoise-1.5.zip",
-            "local_path": "apps/Porpoise/v1.5/Porpoise-1.5.zip",
+            "name": "Porpoise-1.5.1",
+            "filename": "Porpoise-1.5.1.zip",
+            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v1.5.1/Porpoise-1.5.1.zip",
+            "local_path": "apps/Porpoise/v1.5.1/Porpoise-1.5.1.zip",
             "description": "GameCube and Wii Dolphin emu for ps5",
-            "version": "v1.5",
-            "checksum": "e5768829410213382c89fe31720c42e18a9c5d480ca2dd1cae52af475e8b1f08",
+            "version": "v1.5.1",
+            "checksum": "15c04d083712e551b77a83eb465c5fdd9f6bc9595ddfbecfd1aa6643dcad91ab",
             "category": "Applications"
         },
         {

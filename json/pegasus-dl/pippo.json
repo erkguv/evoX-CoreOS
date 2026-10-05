@@ -3,6 +3,58 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24003",
+      "title": "Dying Light The Beast",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/1pzbw7mppkig"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://filekeeper.net/h3bv06psomq5"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/BnkmWv9Q0GR0/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/f3dd9725b8b2e31ca379/PPSA24003.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/7WuLdf3NYF"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/2bJG8b5xD3OB/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Ir9RsgnopR"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/yqgbmg5vp64h"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/9ush5lx9gi2j"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/80b1f3772dc431f5cc6d/PPSA24003-Compressed.7z"
+        }
+      ],
+      "version": "v01.007.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/5e2a5dac13684c40c91545ab3a6fee50711e4e9eab9ed39e.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24003, v01.007.001, EUR, 4.xx BackPort\nSize: 53GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 56908316672
+    },
+    {
       "titleId": "PPSA06955",
       "title": "Granblue Fantasy Relink Special Edition",
       "downloadLinks": [
@@ -279,7 +331,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 4819571,
+      "id": 4839276,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -10213,7 +10265,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4819829,
+      "id": 4839533,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -13779,7 +13831,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4819932,
+      "id": 4839636,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

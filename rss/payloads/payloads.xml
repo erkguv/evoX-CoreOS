@@ -306,9 +306,9 @@
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.6.0/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.6.1/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v0.6.0</pubDate>
+      <pubDate>v0.6.1</pubDate>
     </item>
     <item>
       <title>Ps5-Phstore Vphstore</title>
@@ -441,6 +441,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf</link>
       <description>snes9x emulator</description>
       <pubDate>v2.0</pubDate>
+    </item>
+    <item>
+      <title>Ps5X360 V0.5.3-Preview</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.3-preview/PS5X360_v0.5.3-preview.elf</link>
+      <description>x360 emu for ps5, you need PPSA97358.zip</description>
+      <pubDate>v0.5.3-preview</pubDate>
     </item>
     <item>
       <title>Ps5-Romm V1.0.2</title>
