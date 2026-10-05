@@ -3,6 +3,416 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA36458",
+      "title": "Mafia Definitive Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/Zvqzl7d4a3aD/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/gXeGOAMnd3Aa/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/qLQ36qYB7m19/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/OpaV6"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/SrRMe"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1XTyKm"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/8hoKVlNBmT"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/qOz2E2VC3Z"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/s6XjuEHliZ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA36458_792f4015b5fb0c2eb9bf124f0f2cafa6840fc6bb548912c4bccd379d4dc3552f/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/mafia-definitive-edition-ps5/"
+    },
+    {
+      "titleId": "PPSA25636",
+      "title": "Echoes of The End",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/b5OzdVv48mB8/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/obj3j7BA9zDx/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/9QWmpAb1Q3EB/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/v4PLM"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/23inB2"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/z6G8m"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/m11yg8Qg3a"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/p7BEA5DAE1"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/BasZVZC03J"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25636_2588a1aa79d7327648e60573556c24da291b3ab2045c079d7d6d2c828ba0fccb/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/echoes-of-the-end-ps5/"
+    },
+    {
+      "titleId": "PPSA29264",
+      "title": "Duskfade",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/Z9dzBPw8Mmk1/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1rdEeW"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/zAJyBHn5Rc"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0314/34fb5fac51b180a67ab042ff240e0897efef9f00b087f467.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher",
+      "downloadSource": "https://dlpsgame.com/duskfade-ps5/"
+    },
+    {
+      "titleId": "PPSA16064",
+      "title": "Minecraft Dungeons 2",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.com/gXeGOAMDK3Aa/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/ewztA"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/xOe8R9zQNf"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1915/219f09639385755f13a1ed8475e789e255e9b0cda4d3d236.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/minecraft-dungeons-2-ps5/"
+    },
+    {
+      "titleId": "PPSA38474",
+      "title": "SAMSON A Tyndalston Story",
+      "downloadLinks": [
+        {
+          "name": "ASIA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/0rpmvplDZzRg/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/iyqki"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/UETaDlAvOB"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA38474_a2f160161001f7e20086e0be8fccdafef22905def679460ac89a7c2911e99bdc/icon0.webp",
+      "description": "Region: ASIA\nRelease note: Works on 13.xx and higher\nContributor: @DLPS Team",
+      "downloadSource": "https://dlpsgame.com/samson-a-tyndalston-story-ps5/"
+    },
+    {
+      "titleId": "PPSA38510",
+      "title": "The Walking Dead Streets of Survival",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/jJD3VD0BNGa5/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/267cQq"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ARKNzIambt"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0911/35622ecb4b2eb940502896b11e7d1ece85f5eb9f88d0cb40.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-walking-dead-streets-of-survival-ps5/"
+    },
+    {
+      "titleId": "PPSA25344",
+      "title": "Sword of The Sea",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.com/k0embbO6lmVb/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1nbNmy"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Uc0nuFAbGQ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25344_569663414daab66f257509f57054dbfe83f4652ef5d5af86b558b04826a7316a/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/sword-of-the-sea-ps5/"
+    },
+    {
+      "titleId": "PPSA26049",
+      "title": "Gothic Classic",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/2WVGrdRk03kx/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2A9TEG"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/rNOm5hayBv"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26049_31a3a8c2aa33ec7a30e74bd06612cd59e36f7a6a68e19c470981dd2c39a3105d/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nContributor: @DLPS Team",
+      "downloadSource": "https://dlpsgame.com/gothic-classic-ps5/"
+    },
+    {
+      "titleId": "PPSA27158",
+      "title": "Dispatch",
+      "downloadLinks": [
+        {
+          "name": "ASIA 5.xx Base - Akirabox",
+          "url": "https://akirabox.com/7d5GLZbyl3xR/file"
+        },
+        {
+          "name": "ASIA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/n0hcG"
+        },
+        {
+          "name": "ASIA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/FHmhPOxMWm"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27158_4b3ae45bc32daa103dca6bc7957a9fca186a00e834517e1665e5ccef279cb736/icon0.webp",
+      "description": "Region: ASIA\nRelease note: Works on 5.xx and higher",
+      "downloadSource": "https://dlpsgame.com/dispatch-ps5/"
+    },
+    {
+      "titleId": "PPSA23566",
+      "title": "EA Sports UFC 6",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/vgKGxX44RG8Q/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/b5OzdVvvlmB8/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/9QWmpAbbN3EB/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/Pbe3PaZZWzlX/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/obj3j7BBrzDx/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/0Kezk7JJ2zD1/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1q0Cye"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/ZI7Ps"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/VGGYK"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1lyM76"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/dJyHQ"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1u23qC"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/PoxDZDi4Tr"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/9JN7myVDxT"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/VaTAGbzrT5"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/p6XUUzt7zS"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/LZ8oxfkucI"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/wwWDlgGDXM"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/83baec5746075ec3e379c096dfe68111095c91cb7139a633.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: @DLPS Team and @MaikelSL\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ea-sports-ufc-6-ps5/"
+    },
+    {
+      "titleId": "PPSA28038",
+      "title": "Halo Campaign Evolved Premium Edition (DLC)",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 1",
+          "url": "https://akirabox.com/RMKGJKp6wm1o/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 2",
+          "url": "https://akirabox.com/vgKGxX4dVG8Q/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 3",
+          "url": "https://akirabox.com/Z9dzBPw1xmk1/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 4",
+          "url": "https://akirabox.com/qLQ36qYbKm19/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 5",
+          "url": "https://akirabox.com/b5OzdVv9pmB8/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 6",
+          "url": "https://akirabox.com/gXeGOAMwA3Aa/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 1",
+          "url": "https://www.rootz.so/d/1JVSIS"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 2",
+          "url": "https://www.rootz.so/d/1NXJA0"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 3",
+          "url": "https://www.rootz.so/d/2nMjg"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 4",
+          "url": "https://www.rootz.so/d/Ar4Oe"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 5",
+          "url": "https://www.rootz.so/d/6pDbE"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 6",
+          "url": "https://www.rootz.so/d/1FTbQu"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/TPgbFoyxmF"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/7BL77QxJUu"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/Glv9SPHuQu"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/C4MradgC9H"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/xajlD7mKYZ"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/rE0mT3FvYD"
+        }
+      ],
+      "category": "dlc",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28038_038d3b0e3b4c3b7958d3ba1902cef1c313f4cc174619c31916525dcfd7fd42c8/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/halo-campaign-evolved-premium-edition-ps5/"
+    },
+    {
       "titleId": "PPSA33016",
       "title": "Rayman 30th Anniversary Edition",
       "downloadLinks": [
@@ -217,8 +627,20 @@
       "title": "Disney Pixar WALL E",
       "downloadLinks": [
         {
-          "name": "USA 4.xx Base - Vikingfile",
+          "name": "USA 4.xx Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/pPnak6Eogo"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/2WVGrdwQq3kx/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/e5lrM"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/ae3zEbq3Is"
         },
         {
           "name": "USA exFAT 01.000.001 Base - DATA (exFAT)",
@@ -1090,11 +1512,31 @@
         {
           "name": "EUR 12.xx Base - Vikingfile part 4",
           "url": "https://vikingfile.com/f/nfWnPBa9lf"
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRnVDN3FkaHlUbmFIWVE0VkJzRlNDUDBTOEtKbXlXU2ZqdHUvbWdjWVVGemxXKzQzRThmMzdYeVZKbkxUWWlzaG5kRWVPWU5qazVtaWlpTUd0Vk1ka2N5alNNajAiLCJpIjoiYXVmY1pubDNTd1Jmdk02OSIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibWcrZUxXUXVHK3FpQTE4VjArdnMvZWRiU3R0Tk13ZCt3L0JoQTZCVy9oWHVQZTV2YWJsSmE3aU9NTkJiU0NXdHBrYmdVdm9aMmxGRFJ2ZzZQL2pIUzI3MGZDUE5HZkk9IiwiaSI6ImRIMlZIOVloWUhVM0wxTGoiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieXk1R2FjNWhvU05Sb3o2TFdpeFF1bnBQcndPaE4xU2ZCbUVpMDVidEpGUG9DTFVXVm40ZVdXVVBxTmJCWXlIWkxSTkxmQzZqS0pUSEoxd0pCV0N6OExXSFdoQlJuZUxpU0d3PSIsImkiOiJEUTI3WFpvYitGZk1EQm1kIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - Buzz (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiU0htMGFjdUlkTW9SK1RURFBlUXZFWWhwdVZIeUVGSEFLRStGZFlPNWpWR0VFc1orZkYvRFBpWkwwOTRYYnZJNWJxR1NrN2V2dUJuSkwyb2xpQmMrYmdqbmVDQmRyb0JIIiwiaSI6IjlhcnEyUVVNQ1o1SXZxc1YifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQ0NwUndGa3BVT1hWNzhnQ28zYThkb21CNVVKUnY4bzhITys5cjNya3lFTnV1S1BjZzFEbEFvNnpoazVBcjB0cmxnYjV6S0tBNExLbWVqbFA0Q2NWOWZJT0FDbVU5cTA9IiwiaSI6IjdLcWFiMGhWR2lHN2lNZWsiLCJuIjoiVmlraSJ9"
         }
       ],
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28000_9d586427627b83f4596b9b71c48e94483b9c095e4230baf9d78592569d29c144/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 12.xx\nRegion: EUR\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.005\nRegion: EUR\nRelease note: exFAT format — FW 01.005 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/the-blood-of-dawnwalker-ps5/"
     },
     {
@@ -2216,11 +2658,27 @@
         {
           "name": "EUR 11.xx Base - Rootz part 3",
           "url": "https://www.rootz.so/d/1lypU"
+        },
+        {
+          "name": "EUR exFAT 01.007.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSW9taldZazNjam1sMzl6d1ozSjg0czAzTlFXY3BqS0NZSi9LYmhTZGdzR1pQWVRSOFY2TDJSdTFwSnN6cGdTSlUvaGZXRnYzY3d2dUI1M2Fja3FEalVFM2c2czIiLCJpIjoidmhmclpEdzJhVElUVXo3RSIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.007.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNk91TjNyY3ZsNFJMZGhURUxmUHlpeFB2RnAydmswb0xiYllmZWtyR1F6amhIK01CWjl0MTBFWFNzYW5JSnRFYjVpQ1RNOWVJR0dJVStRUzJnZUxEWlBNUTJvTW5jOUk9IiwiaSI6IlZ1cDR6ejloU2g0YlR3aWUiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.007.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY1VyU3A2Y3VHeURoekdNa056a21TQXJuam5iNjRaVmF6U21rb3lSeHpxelhBNWpwTU5wMGNpaWtsVzZuV3MvWGtZUlR1ZlptVm5lem1zRmtVNGNrM2kwSkEvb0laamxjdUNRPSIsImkiOiJWZUhRL0NqcC9WMEdtc0piIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.007.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSE5URWQyMHVibWN6aUV3ZVNmNzMwWU0rc2ZCRnY3cEI3Unp6dXlCNllxVEdYQnhHWnJacW1iNnJFam54YTlCZnlvSmdSbzFWdDVkdG1jVFNaQlh6TC9ub004bjhCZG89IiwiaSI6InNqdEtIdEpVY0l3SDQ5dkUiLCJuIjoiVmlraSJ9"
         }
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1710/5e2a5dac13684c40c91545ab3a6fee50711e4e9eab9ed39e.png?w=260",
-      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 11.xx\nRegion: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.007.001\nRegion: EUR\nRelease note: exFAT format — FW 01.007.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/dying-light-the-beast-ps5/"
     },
     {
@@ -125169,6 +125627,33 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0617/F7z6c9GM1VGoqfYxHorvMjzL.png?w=260",
       "description": "Variant: Release 1\nContributor: pkg.games\n\nVariant: USA exFAT 01.004\nRegion: USA\nRelease note: exFAT format — FW 01.004 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
+    },
+    {
+      "titleId": "PPSA33286",
+      "title": "[exFAT] Silent Hill Townfall Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "JPN exFAT 02.003 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaUJ6UmgzYXhpeGZLSndZTy96TEpqYmJRWStFazJPS214T0QwWTNJQTF0eGpub0p0bGZhV2x1dlNnUldlU3E2QTNVV1grbEJsY3ZLcGZkanV1T0ZNaGxyc1Y3bFoiLCJpIjoiK2x6L2dMQTl3RzJkbzFzRSIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "JPN exFAT 02.003 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicG9oaDE3bFExM2ZGY05pVzlOQTE1ME5GTlhVcFZRcXBDOTZIaVY1K2hPYkxZTVpCVk1OUWxIcEl4T0RnMEY4akVPWklJQlpxRk5PSE82WHZYSldtNnBDTkQwZ0svTW89IiwiaSI6IlZXTnY1VFplb0UxazQrWWYiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "JPN exFAT 02.003 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidFZMZFRtOGp3QUdWUi81ZGc2QjZ6ekdEVno3U0tSb0dLYndvN2FUeG9xL2FvemhtVnAxa2xuMXNWTFpLaDFwYmdOSFNsWUErNENMRnJ6UUdkSmpsUTlLWFV4OVhILzloalJJPSIsImkiOiJ5ek1oMTNzS2kramZ0QVVKIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "JPN exFAT 02.003 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiR0V5eXYwRW95U1Nsd1hlWm82aE9Ub0xobXk4VkZzTlpIWWxsenlZR1cvWlVCSHlIdlE1STVCVVJPazhrS0hGZ28vZTlEd1lsWjlDTmczWFplZEJDQVR4K1FJLytkcXM9IiwiaSI6IlNDRHRnWW1kcXN4VWt4NGwiLCJuIjoiVmlraSJ9"
+        }
+      ],
+      "version": "02.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1407/420dcf45979ace1b7c97122a2dc0eb479428590ecab89c2b.png?w=260",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 02.003 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
       "titleId": "PPSA06955",
