@@ -5,7 +5,6 @@
   </head>
   <body>
     <outline text="PoorDS4" title="PoorDS4" type="rss" xmlUrl="https://github.com/ItsBlurf/PoorDS4" author="ItsBlurf" description="PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5."/>
-    <outline text="Any-Pad-ps5" title="Any-Pad-ps5" type="rss" xmlUrl="https://codeberg.org/elmonomalva0/Any-Pad-ps5" author="elmonomalva0" description="Connect your Bluetooth controllers to your PS5 console."/>
     <outline text="OmniPad-PS5" title="OmniPad-PS5" type="rss" xmlUrl="https://github.com/diegobarbosaa/OmniPad-PS5" author="diegobarbosaa" description="Universal controller engine & Web Dashboard for PlayStation 5 (FW 7.00 - 13.60)."/>
     <outline text="FGG-XSense" title="FGG-XSense" type="rss" xmlUrl="https://github.com/FGGstore/FGG-XSense" author="FGGstore" description="Use an Xbox controller on a jailbroken PlayStation 5."/>
     <outline text="ghost-toothAPI" title="ghost-toothAPI" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/ps5_utility/ghost-toothAPI/ghost-toothAPI.elf" author="StonedModder" description="ghost-toothAPI."/>
