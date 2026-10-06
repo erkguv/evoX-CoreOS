@@ -4,7 +4,7 @@ import json
 import hashlib
 import zipfile
 from datetime import datetime
-from scripts.config_rules import PATHS
+from scripts.config_rules import PATHS, BASE_URL
 from scripts.fetchers.payloads_fetcher import fetch_payloads_category
 from scripts.fetchers.pkg_fetcher import fetch_pkg_category
 from scripts.fetchers.ffpfsc_fetcher import fetch_ffpfsc_category
@@ -115,7 +115,6 @@ def generate_release_notes(data_store_by_cat):
     
     content += "#### 📦 Archives AIO Disponibles (Dossier `archives/`) :\n"
     
-    # Lister dynamiquement TOUTES les archives zip générées dans le dossier archives
     archives_dir = os.path.abspath("archives")
     if os.path.exists(archives_dir):
         all_archives = sorted([f for f in os.listdir(archives_dir) if f.endswith(".zip")])
@@ -172,7 +171,7 @@ def generate_release_notes(data_store_by_cat):
                                 content += f"  * `{fname}`\n"
         
         if not has_items:
-            content += "*Aucun élément dans ce pack.*\n"
+            content += "*Aucun élément dans este pack.*\n"
             
         content += "\n</details>\n\n"
 
@@ -187,7 +186,6 @@ def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
     archives_dir = os.path.join(base_workspace, "archives")
     os.makedirs(archives_dir, exist_ok=True)
 
-    # Nettoyage complet des anciennes archives pour repartir sur du propre
     for existing_f in os.listdir(archives_dir):
         if existing_f.endswith(".zip"):
             try:
@@ -195,7 +193,7 @@ def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
             except Exception:
                 pass
 
-    MAX_SIZE_BYTES = int(1.4 * 1024 * 1024 * 1024) # 1.4 Go de sécurité par fichier
+    MAX_SIZE_BYTES = int(1.4 * 1024 * 1024 * 1024)
 
     def create_dynamic_zips(base_name, items):
         if not items:
@@ -241,15 +239,57 @@ def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
             size_bytes = os.path.getsize(zip_path) if os.path.exists(zip_path) else 0
             print(f"    ➔ Archive générée : {zip_path} ({size_bytes / (1024*1024):.2f} Mo)")
 
-    # 1. Application de la règle dynamique sur chaque catégorie individuelle
     create_dynamic_zips("PS5_payloads_aio", payloads_flat)
     create_dynamic_zips("PS5_pkg_aio", pkg_flat)
     create_dynamic_zips("PS5_ffpfsc_aio", ffpfsc_flat)
     create_dynamic_zips("PS5_apps_aio", apps_flat)
     
-    # 2. Application de la règle dynamique sur le pack ultime global
     ultimate_items = payloads_flat + pkg_flat + ffpfsc_flat + apps_flat
     create_dynamic_zips("PS5_ultimate_pack", ultimate_items)
+
+def generate_pack_aio_json(github_releases_base):
+    print("📋 Génération du fichier d'index JSON des packs AIO (/json/pack/pack_aio.json)...")
+    pack_dir = os.path.join(PATHS.get("json_dir", "json"), "pack")
+    os.makedirs(pack_dir, exist_ok=True)
+    
+    archives_dir = os.path.abspath("archives")
+    packs_data = []
+
+    if os.path.exists(archives_dir):
+        for zip_file in sorted(os.listdir(archives_dir)):
+            if zip_file.endswith(".zip"):
+                zip_path = os.path.join(archives_dir, zip_file)
+                size_bytes = os.path.getsize(zip_path) if os.path.exists(zip_path) else 0
+                
+                pack_type = "unknown"
+                if "payloads" in zip_file:
+                    pack_type = "payloads"
+                elif "pkg" in zip_file:
+                    pack_type = "pkg"
+                elif "ffpfsc" in zip_file:
+                    pack_type = "ffpfsc"
+                elif "apps" in zip_file:
+                    pack_type = "apps"
+                elif "ultimate_pack" in zip_file:
+                    pack_type = "ultimate"
+
+                packs_data.append({
+                    "filename": zip_file,
+                    "display_name": zip_file.replace("_latest.zip", "").replace("_", " ").upper(),
+                    "pack_type": pack_type,
+                    "size_bytes": size_bytes,
+                    "size_mb": round(size_bytes / (1024 * 1024), 2),
+                    "url": f"{github_releases_base}/{zip_file}"
+                })
+
+    output_path = os.path.join(pack_dir, "pack_aio.json")
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump({
+            "updated_at": datetime.now().isoformat(),
+            "packs": packs_data
+        }, f, indent=4, ensure_ascii=False)
+    
+    print(f"    ✅ Fichier généré avec succès : {output_path}")
 
 def main():
     print("🚀 Démarrage de la mise à jour globale du store PS5...")
@@ -304,8 +344,18 @@ def main():
     print("📡 [3/5] Génération des flux RSS et OPML... ")
     build_rss_feed(data_store_flat)
 
-    # 1. Génération des archives ZIP d'abord pour qu'elles existent au moment de la création du README
+    # 1. Génération des archives ZIP d'abord
     build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat)
+
+    # 2. Construction de l'URL GitHub Releases pour les liens du fichier pack_aio.json
+    clean_url = BASE_URL.replace("https://", "").replace("http://", "")
+    url_parts = clean_url.split("/")
+    owner = url_parts[0].split(".")[0]
+    repo = url_parts[1] if len(url_parts) > 1 else "evoX-CoreOS"
+    github_releases_base = f"https://github.com/{owner}/{repo}/releases/download/latest"
+
+    # 3. Création du JSON pour la WebUI
+    generate_pack_aio_json(github_releases_base)
 
     print("📝 [4/4] Mise à jour du README.md, des Crédits, du Changelog et des Notes de Release...")
     build_readme(credits_set, data_store_by_cat)
