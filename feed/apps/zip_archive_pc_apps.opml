@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>zip_archive_pc_apps</title>
+  </head>
+  <body>
+    <outline text="pkg-viewer" title="pkg-viewer" type="rss" xmlUrl="https://github.com/Loopayeh/pkg-viewer" author="Loopayeh" description="view PS3/PS4/PS5 package info and cover art"/>
+    <outline text="Spectrum-Library-PC" title="Spectrum-Library-PC" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library-PC" author="Phoenixx1202" description="Spectrum-Library-PC"/>
+  </body>
+</opml>
