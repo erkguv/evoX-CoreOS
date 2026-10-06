@@ -16,6 +16,21 @@ def generate_readme(credits_list, data_store_by_cat=None):
     sorted_credits = sorted(list(set(credits_list)))
     credits_content = "\n".join(sorted_credits) if sorted_credits else "_Aucun crédit répertorié._"
 
+    # Détection dynamique des archives présentes dans le dossier archives/ pour les lister proprement
+    archives_dir = os.path.abspath("archives")
+    aio_links_content = ""
+    if os.path.exists(archives_dir):
+        all_zips = sorted([f for f in os.listdir(archives_dir) if f.endswith(".zip")])
+        if all_zips:
+            for zip_file in all_zips:
+                # Format d'affichage plus propre basé sur le nom du fichier
+                display_name = zip_file.replace("_latest.zip", "").replace("_", " ").upper()
+                aio_links_content += f"- **{display_name}** : [{github_releases_base}/{zip_file}]({github_releases_base}/{zip_file})\n"
+        else:
+            aio_links_content = "_Aucune archive AIO générée pour le moment._\n"
+    else:
+        aio_links_content = "_Dossier archives introuvable._\n"
+
     content = f"""<p align="center"><h1>evoX-CoreOS</h1></p>
 
 <p align="center">
@@ -60,13 +75,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ## 📦 Packs Latest à Télécharger (AIO)
 
-- **Pack Payloads AIO** : [{github_releases_base}/PS5_payloads_aio_latest.zip]({github_releases_base}/PS5_payloads_aio_latest.zip)
-- **Pack PKG AIO** : [{github_releases_base}/PS5_pkg_aio_latest.zip]({github_releases_base}/PS5_pkg_aio_latest.zip)
-- **Pack FFPFSC AIO** : [{github_releases_base}/PS5_ffpfsc_aio_latest.zip]({github_releases_base}/PS5_ffpfsc_aio_latest.zip)
-- **Pack Apps AIO** : [{github_releases_base}/PS5_apps_aio_latest.zip]({github_releases_base}/PS5_apps_aio_latest.zip)
-- **Ultimate Pack AIO (Partie 1)** : [{github_releases_base}/PS5_ultimate_pack_part1_latest.zip]({github_releases_base}/PS5_ultimate_pack_part1_latest.zip)
-- **Ultimate Pack AIO (Partie 2)** : [{github_releases_base}/PS5_ultimate_pack_part2_latest.zip]({github_releases_base}/PS5_ultimate_pack_part2_latest.zip)
-
+{aio_links_content}
 ---
 """
 
