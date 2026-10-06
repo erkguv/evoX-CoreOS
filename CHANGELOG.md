@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/10/2026 à 22:23
+* **PAYLOADS**
+  * `Genplusgxps5 V1.2` (v1.2) - *Nouveau*
+
 ## Build du 06/10/2026 à 17:13
 * **PAYLOADS**
   * `Orbit Store` (v0.8.0) - *Mise à jour (Précédent: v0.7.0)*
