@@ -13,5 +13,6 @@
     <outline text="ps5-doom" title="ps5-doom" type="rss" xmlUrl="https://github.com/lowbit/ps5-doom" author="lowbit" description="Native DOOM for PS5"/>
     <outline text="pico8-ps5" title="pico8-ps5" type="rss" xmlUrl="https://github.com/RafaelNGP/pico8-ps5" author="RafaelNGP" description="PICO-8 for PS5"/>
     <outline text="prospero-win" title="prospero-win" type="rss" xmlUrl="https://github.com/mpereiraesaa/prospero-win" author="mpereiraesaa" description="Wine for PS5"/>
+    <outline text="Vita3K-PS5" title="Vita3K-PS5" type="rss" xmlUrl="https://github.com/tsuramatsu1/Vita3K-PS5" author="tsuramatsu1" description="Vita3K for PS5"/>
   </body>
 </opml>
