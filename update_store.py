@@ -114,14 +114,15 @@ def generate_release_notes(data_store_by_cat):
     content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
     
     content += "#### 📦 Archives AIO Disponibles (Dossier `archives/`) :\n"
-    content += "- `PS5_payloads_aio_latest.zip`\n"
-    content += "- `PS5_pkg_aio_latest.zip`\n"
-    content += "- `PS5_ffpfsc_aio_latest.zip`\n"
-    content += "- `PS5_apps_aio_latest.zip`\n"
-    content += "- `PS5_ultimate_pack_part1_latest.zip`\n"
-    content += "- `PS5_ultimate_pack_part2_latest.zip`\n\n"
     
-    content += "#### 📂 Fichiers inclus / mis à jour :\n"
+    # Lister dynamiquement TOUTES les archives zip générées dans le dossier archives
+    archives_dir = os.path.abspath("archives")
+    if os.path.exists(archives_dir):
+        all_archives = sorted([f for f in os.listdir(archives_dir) if f.endswith(".zip")])
+        for arch in all_archives:
+            content += f"- `{arch}`\n"
+            
+    content += "\n#### 📂 Fichiers inclus / mis à jour :\n"
     content += "📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)\n\n"
 
     content += "#### 🛠 Détail des Packs & Contenu\n"
@@ -180,37 +181,80 @@ def generate_release_notes(data_store_by_cat):
     print("    ✅ Fichier release_notes.md généré avec succès !")
 
 def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
-    print("📦 [Bonus] Génération des archives AIO ZIP dans le dossier 'archives' uniquement...")
+    print("📦 [Bonus] Génération dynamique des archives AIO ZIP (< 1.4 Go par fichier)...")
     
     base_workspace = os.path.abspath(os.getcwd())
     archives_dir = os.path.join(base_workspace, "archives")
     os.makedirs(archives_dir, exist_ok=True)
 
-    def create_zip(zip_name, items):
-        zip_path = os.path.join(archives_dir, zip_name)
-        
-        with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zf:
-            for item in items:
-                file_path = item.get("local_path") if isinstance(item, dict) else None
-                if file_path and os.path.exists(file_path):
-                    norm_path = os.path.abspath(file_path)
-                    if "archives" in norm_path.split(os.sep) or "json" in norm_path.split(os.sep):
-                        continue
-                    zf.write(norm_path, arcname=os.path.basename(norm_path))
-                    
-        size_bytes = os.path.getsize(zip_path) if os.path.exists(zip_path) else 0
-        print(f"    ➔ Archive générée : {zip_path} ({size_bytes} octets)")
+    # Nettoyage complet des anciennes archives pour repartir sur du propre
+    for existing_f in os.listdir(archives_dir):
+        if existing_f.endswith(".zip"):
+            try:
+                os.remove(os.path.join(archives_dir, existing_f))
+            except Exception:
+                pass
 
-    create_zip("PS5_payloads_aio_latest.zip", payloads_flat)
-    create_zip("PS5_pkg_aio_latest.zip", pkg_flat)
-    create_zip("PS5_ffpfsc_aio_latest.zip", ffpfsc_flat)
-    create_zip("PS5_apps_aio_latest.zip", apps_flat)
+    MAX_SIZE_BYTES = int(1.4 * 1024 * 1024 * 1024) # 1.4 Go de sécurité par fichier
+
+    def create_dynamic_zips(base_name, items):
+        if not items:
+            return
+
+        current_chunk = []
+        current_size = 0
+        part_index = 1
+        
+        # Calculer le nombre total de parts potentielles pour ce pack
+        # (Optionnel pour le renommage, on utilise _partX si > 1 part ou si c'est un ultimate pack)
+        
+        # On commence par regrouper les items par taille
+        chunks = []
+        for item in items:
+            file_path = item.get("local_path") if isinstance(item, dict) else None
+            f_size = os.path.getsize(file_path) if file_path and os.path.exists(file_path) else 0
+            
+            if current_size + f_size > MAX_SIZE_BYTES and current_chunk:
+                chunks.append(current_chunk)
+                current_chunk = [item]
+                current_size = f_size
+            else:
+                current_chunk.append(item)
+                current_size += f_size
+        if current_chunk:
+            chunks.append(current_chunk)
+
+        total_parts = len(chunks)
+        
+        for idx, chunk in enumerate(chunks, start=1):
+            if total_parts > 1 or "ultimate_pack" in base_name:
+                zip_name = f"{base_name}_part{idx}_latest.zip"
+            else:
+                zip_name = f"{base_name}_latest.zip"
+                
+            zip_path = os.path.join(archives_dir, zip_name)
+            
+            with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zf:
+                for item in chunk:
+                    file_path = item.get("local_path") if isinstance(item, dict) else None
+                    if file_path and os.path.exists(file_path):
+                        norm_path = os.path.abspath(file_path)
+                        if "archives" in norm_path.split(os.sep) or "json" in norm_path.split(os.sep):
+                            continue
+                        zf.write(norm_path, arcname=os.path.basename(norm_path))
+                        
+            size_bytes = os.path.getsize(zip_path) if os.path.exists(zip_path) else 0
+            print(f"    ➔ Archive générée : {zip_path} ({size_bytes / (1024*1024):.2f} Mo)")
+
+    # 1. Application de la règle dynamique sur chaque catégorie individuelle
+    create_dynamic_zips("PS5_payloads_aio", payloads_flat)
+    create_dynamic_zips("PS5_pkg_aio", pkg_flat)
+    create_dynamic_zips("PS5_ffpfsc_aio", ffpfsc_flat)
+    create_dynamic_zips("PS5_apps_aio", apps_flat)
     
-    # Découpage du pack ultime en deux parties pour éviter la limite des 2 Go de GitHub
+    # 2. Application de la règle dynamique sur le pack ultime global
     ultimate_items = payloads_flat + pkg_flat + ffpfsc_flat + apps_flat
-    mid_index = len(ultimate_items) // 2
-    create_zip("PS5_ultimate_pack_part1_latest.zip", ultimate_items[:mid_index])
-    create_zip("PS5_ultimate_pack_part2_latest.zip", ultimate_items[mid_index:])
+    create_dynamic_zips("PS5_ultimate_pack", ultimate_items)
 
 def main():
     print("🚀 Démarrage de la mise à jour globale du store PS5...")
