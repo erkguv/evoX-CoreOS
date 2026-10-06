@@ -1,1 +1,4 @@
     <outline text="ps5-homebrew-browser" title="ps5-homebrew-browser" type="rss" xmlUrl="https://github.com/TheRealRetro/ps5-homebrew-browser" author="TheRealRetro" description="Native PS5 app for browsing and installing homebrew from the homebrew.page catalog"/>
+
+
+    <outline text="Any-Pad-ps5" title="Any-Pad-ps5" type="rss" xmlUrl="https://codeberg.org/elmonomalva0/Any-Pad-ps5" author="elmonomalva0" description="Connect your Bluetooth controllers to your PS5 console."/>
