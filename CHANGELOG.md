@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/10/2026 à 14:15
+* **PAYLOADS**
+  * `Pad2C V0.2.1` (v0.2.1) - *Nouveau*
+  * `Anypad-Ps5 V0.6.0` (Source-Fixe) - *Nouveau*
+  * `Fgg-Playpods-Gui V0.1.5` (v0.1.5) - *Nouveau*
+
 ## Build du 06/10/2026 à 09:55
 * **PAYLOADS**
   * `Garlic-Savemgr V1.13.1` (v1.13.1) - *Mise à jour (Précédent: garlic-savemgr)*

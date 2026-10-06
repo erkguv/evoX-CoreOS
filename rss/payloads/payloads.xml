@@ -239,12 +239,6 @@
       <pubDate>v1.0.0</pubDate>
     </item>
     <item>
-      <title>Fgg-Playpods V1.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf</link>
-      <description>Hear your PlayStation 5 on an ordinary Bluetooth headset.</description>
-      <pubDate>1.0</pubDate>
-    </item>
-    <item>
       <title>Fgg-Unpack V0.1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf</link>
       <description>Extract .zip and .7z archives directly on a jailbroken PlayStation 5.</description>
@@ -425,6 +419,18 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
+      <title>Pad2C V0.2.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v0.2.1/pad2c_v0.2.1.elf</link>
+      <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
+      <pubDate>v0.2.1</pubDate>
+    </item>
+    <item>
+      <title>Anypad-Ps5 V0.6.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf</link>
+      <description>Connect your Bluetooth controllers to your PS5 console.</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
       <title>Np-Fake-Signin-Ps5</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
       <description>Fake activate PS5 without PSN.</description>
@@ -501,6 +507,18 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf</link>
       <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
       <pubDate>0.1</pubDate>
+    </item>
+    <item>
+      <title>Fgg-Playpods-Gui V0.1.5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods-GUI/v0.1.5/FGG-PlayPods-GUI_v0.1.5.elf</link>
+      <description>AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem.</description>
+      <pubDate>v0.1.5</pubDate>
+    </item>
+    <item>
+      <title>Fgg-Playpods V1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf</link>
+      <description>Hear your PlayStation 5 on an ordinary Bluetooth headset.</description>
+      <pubDate>1.0</pubDate>
     </item>
     <item>
       <title>Ps5-Custom-Tool-Manager- Vcustom</title>

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.06-1244)
+### 🚀 Synthèse de la mise à jour (v2026.10.06-1415)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -57,7 +57,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `unrar-ps5_v1.4.0.elf`
   * `PS5-Power-Payloads-Project_v1.0.elf`
   * `ps5-date-time-sync_v1.0.0.elf`
-  * `FGG-PlayPods_v1.0.elf`
   * `FGG-Unpack_v0.1.elf`
   * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
@@ -88,6 +87,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `OmniPad-PS5_v1.0.4-hotfix1.elf`
   * `FGG-XSense_v1.1.elf`
   * `ghost-toothAPI.elf`
+  * `pad2c_v0.2.1.elf`
+  * `AnyPad-PS5_v0.6.0.elf`
   * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `snes9xPS5_v2.0.elf`
@@ -101,6 +102,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `fan_target_70c_v0.1.elf`
   * `fan_target_65c_v0.1.elf`
   * `fan_target_80c_v0.1.elf`
+  * `FGG-PlayPods-GUI_v0.1.5.elf`
+  * `FGG-PlayPods_v1.0.elf`
   * `PS5-Custom-Tool-Manager-_vCustom.elf`
   * `ps5-wallpaper-modd_v1.0.elf`
   * `ps5debug-NG_v1.3.2.elf`

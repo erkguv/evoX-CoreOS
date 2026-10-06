@@ -62,16 +62,6 @@
       "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849"
     },
     {
-      "name": "Fgg-Playpods V1.0",
-      "filename": "FGG-PlayPods_v1.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
-      "local_path": "payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
-      "description": "Hear your PlayStation 5 on an ordinary Bluetooth headset.",
-      "version": "1.0",
-      "category": "PS5 Utility",
-      "checksum": "9ee1958ec24e4a927992fea9ee202f5a173756091bd3abc02ebf4d2d686211a4"
-    },
-    {
       "name": "Fgg-Unpack V0.1",
       "filename": "FGG-Unpack_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf",

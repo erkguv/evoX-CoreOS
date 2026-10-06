@@ -74,6 +74,16 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | Np-Fake-Signin-Ps5 | [v1.4](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf) | `9ec8562b3e3f...` | Fake activate PS5 without PSN. |
 
+### 📂 PS5 Audio Utility
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_audio_utility.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| Fgg-Playpods V1.0 | [1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf) | `9ee1958ec24e...` | Hear your PlayStation 5 on an ordinary Bluetooth headset. |
+| Fgg-Playpods-Gui V0.1.5 | [v0.1.5](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods-GUI/v0.1.5/FGG-PlayPods-GUI_v0.1.5.elf) | `af438dbd138d...` | AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem. |
+
 ### 📂 PS5 Beta
 
 > **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/PS5_Beta.json`
@@ -231,9 +241,11 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `84b6dd1ceeb1...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
+| Pad2C V0.2.1 | [v0.2.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v0.2.1/pad2c_v0.2.1.elf) | `45357888ad9f...` | Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth. |
 | Poords4-Status V0.1.0-Rc51 | [v0.1.0-rc51](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf) | `d47bb84a6ae0...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | Poords4-Stop V0.1.0-Rc51 | [v0.1.0-rc51](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf) | `ffdce4964f0d...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | Poords4Rc51 V0.1.0-Rc51 | [v0.1.0-rc51](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf) | `e1b9f257f516...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
@@ -327,7 +339,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | Chronicloader-Ps5-Payload V0.1 | [0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf) | `3561120f85e0...` | ChronicLoader utility payload for PS5. |
-| Fgg-Playpods V1.0 | [1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf) | `9ee1958ec24e...` | Hear your PlayStation 5 on an ordinary Bluetooth headset. |
 | Fgg-Unpack V0.1 | [v0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf) | `e8c8e57bbda3...` | Extract .zip and .7z archives directly on a jailbroken PlayStation 5. |
 | Ps Game State Lib V0.1 | [v0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf) | `a550e1494b0f...` | Standalone PS5 game-state detection payload - webui ps5ip:9877 . |
 | Ps-Discordpresence V0.01 | [v0.01](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS-DiscordPresence/v0.01/PS-DiscordPresence_v0.01.elf) | `375cf619ea6f...` | PS5 game activity service with a local status endpoint and a Python Discord RPC bridge. |
@@ -527,6 +538,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **earthonion** : [garlic-savemgr](https://git.etawen.dev/earthonion/garlic-savemgr)
 - **earthonion** : [garlic-worker](https://git.etawen.dev/earthonion/garlic-worker)
 - **earthonion** : [np-fake-signin](https://git.etawen.dev/earthonion/np-fake-signin)
+- **elmonomalva0** : [Any-Pad-ps5](https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf)
 - **elripalda** : [Porpoise](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5)
 - **gcoding97** : [PS5-Game-Compressor fork](https://github.com/gcoding97/PS5-Game-Compressor)
 - **hgr9519** : [ps5-wallpaper-modd](https://github.com/hgr9519/ps5-wallpaper-modd)
@@ -544,6 +556,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **lowbit** : [ps5-doom](https://github.com/lowbit/ps5-doom)
 - **m0ur0ne** : [God Of War - Betrayal Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg)
 - **m0ur0ne** : [Mario Kart 64 Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg)
+- **menfis911** : [FGG-PlayPods-GUI](https://github.com/menfis911/FGG-PlayPods-GUI)
 - **mpereiraesaa** : [prospero-win](https://github.com/mpereiraesaa/prospero-win)
 - **notmaj0r** : [CheatRunner](https://github.com/notmaj0r/CheatRunner)
 - **notmaj0r** : [ProsperoMgr](https://github.com/notmaj0r/ProsperoMgr)
@@ -575,6 +588,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **seregonwar** : [MemDBG](https://github.com/seregonwar/MemDBG)
 - **seregonwar** : [zftpd](https://github.com/seregonwar/zftpd)
 - **smoxa** : [ps5-new-overlay](https://github.com/smoxa/ps5-new-overlay)
+- **sub0x00001** : [pad2c](https://github.com/sub0x00001/pad2c)
 - **theghostonline** : [Nuvio-PS5](https://github.com/theghostonline/Nuvio-PS5)
 - **tsuramatsu1** : [Vita3K-PS5](https://github.com/tsuramatsu1/Vita3K-PS5)
 - **tsuramatsu1** : [apr-emu-updater](https://github.com/tsuramatsu1/apr-emu-updater)

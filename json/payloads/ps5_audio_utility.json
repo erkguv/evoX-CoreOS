@@ -1,0 +1,25 @@
+{
+  "name": "PS5 Audio Utility",
+  "payloads": [
+    {
+      "name": "Fgg-Playpods-Gui V0.1.5",
+      "filename": "FGG-PlayPods-GUI_v0.1.5.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods-GUI/v0.1.5/FGG-PlayPods-GUI_v0.1.5.elf",
+      "local_path": "payloads/ps5_audio_utility/FGG-PlayPods-GUI/v0.1.5/FGG-PlayPods-GUI_v0.1.5.elf",
+      "description": "AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem.",
+      "version": "v0.1.5",
+      "category": "PS5 Audio Utility",
+      "checksum": "af438dbd138d34ea452db94057d6594b61eafb0692a1bc95d029adfbdc9a61fa"
+    },
+    {
+      "name": "Fgg-Playpods V1.0",
+      "filename": "FGG-PlayPods_v1.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
+      "local_path": "payloads/ps5_audio_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
+      "description": "Hear your PlayStation 5 on an ordinary Bluetooth headset.",
+      "version": "1.0",
+      "category": "PS5 Audio Utility",
+      "checksum": "9ee1958ec24e4a927992fea9ee202f5a173756091bd3abc02ebf4d2d686211a4"
+    }
+  ]
+}
