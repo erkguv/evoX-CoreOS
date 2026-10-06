@@ -3,6 +3,54 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03671",
+      "title": "Marvels Wolverine Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/JWKlVoPN#DataNodes"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://link-vault.org/c/JWKlVoPN#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/gaZafw96#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/gaZafw96#FileKeeper"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/0cJLlERL#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/0cJLlERL#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/0cJLlERL#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/0cJLlERL#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/0cJLlERL#FileDitch"
+        }
+      ],
+      "version": "v01.001.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Fubc\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG is 13.xx, separated BackPort PKG for 4.xx with Pro Fix included. DLCs available after the prologue, after the first suit and unlock the gear tab.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 196494753792
+    },
+    {
       "titleId": "PPSA21567",
       "title": "ASTRO BOT Deluxe Edition",
       "downloadLinks": [
@@ -232,43 +280,43 @@
       "downloadLinks": [
         {
           "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/n2p54wqwti62"
+          "url": "https://link-vault.org/c/oSl-LbWa#DataNodes"
         },
         {
           "name": "Dump - Filek",
-          "url": "https://filekeeper.net/s7sjgzylwncv"
+          "url": "https://link-vault.org/c/oSl-LbWa#FileKeeper"
         },
         {
           "name": "Dump - AkiraBox",
-          "url": "https://akirabox.com/RMKGJKpZWm1o/file"
+          "url": "https://link-vault.org/c/oSl-LbWa#AkiraBox"
         },
         {
           "name": "Dump - BuzzHeavier",
-          "url": "https://buzzheavier.com/4q80a3eir5so"
+          "url": "https://link-vault.org/c/oSl-LbWa#FuckingFast"
         },
         {
           "name": "Dump - VikingFile",
-          "url": "https://vikingfile.com/f/oxFf1xXwJk"
+          "url": "https://link-vault.org/c/oSl-LbWa#VikingFile"
         },
         {
           "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/Z9dzBPwbPmk1/file"
+          "url": "https://link-vault.org/c/odZT4iBD#AkiraBox"
         },
         {
           "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/WmAmGKZaht"
+          "url": "https://link-vault.org/c/odZT4iBD#VikingFile"
         },
         {
           "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/kv7fp2kgitad"
+          "url": "https://link-vault.org/c/odZT4iBD#DataNodes"
         },
         {
           "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/2vsybqqwo18u"
+          "url": "https://link-vault.org/c/odZT4iBD#FileKeeper"
         },
         {
           "name": "Fpkg - BuzzHeavier",
-          "url": "https://buzzheavier.com/f8pskz2eu6et"
+          "url": "https://link-vault.org/c/odZT4iBD#FuckingFast"
         }
       ],
       "version": "v01.005",
@@ -284,47 +332,47 @@
       "downloadLinks": [
         {
           "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/z3y42erd6ph7"
+          "url": "https://link-vault.org/c/mkHZ1CUb#DataNodes"
         },
         {
           "name": "DLC - Vault",
-          "url": "https://datavaults.co/pq3r2z3chesj"
+          "url": "https://link-vault.org/c/mkHZ1CUb#DataVaults"
         },
         {
           "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/tco0y7a6wksy"
+          "url": "https://link-vault.org/c/uF6VuB0s#DataNodes"
         },
         {
           "name": "Dump - Filek",
-          "url": "https://filekeeper.net/dj05w4vgnz5h"
+          "url": "https://link-vault.org/c/uF6VuB0s#FileKeeper"
         },
         {
           "name": "Dump - AkiraBox",
-          "url": "https://akirabox.com/k0embbOqJmVb/file"
+          "url": "https://link-vault.org/c/uF6VuB0s#AkiraBox"
         },
         {
           "name": "Dump - VikingFile",
-          "url": "https://vikingfile.com/f/x88jKIp9D3"
+          "url": "https://link-vault.org/c/uF6VuB0s#VikingFile"
         },
         {
           "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/E1x3AWEKWGyk/file"
+          "url": "https://link-vault.org/c/CU-UB-Zl#AkiraBox"
         },
         {
           "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/luu9SDAKZg"
+          "url": "https://link-vault.org/c/CU-UB-Zl#VikingFile"
         },
         {
           "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/o2l499oy4r13"
+          "url": "https://link-vault.org/c/CU-UB-Zl#DataNodes"
         },
         {
           "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/odg96glm9drb"
+          "url": "https://link-vault.org/c/CU-UB-Zl#FileKeeper"
         },
         {
           "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/alpha34/2f1109379afffe7cb0c4/PPSA33286-Compressed.7z"
+          "url": "https://link-vault.org/c/CU-UB-Zl#FileDitch"
         }
       ],
       "version": "v02.003",
@@ -340,43 +388,43 @@
       "downloadLinks": [
         {
           "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/1pzbw7mppkig"
+          "url": "https://link-vault.org/c/jdR44xvK#DataNodes"
         },
         {
           "name": "Dump - Filek",
-          "url": "https://filekeeper.net/h3bv06psomq5"
+          "url": "https://link-vault.org/c/jdR44xvK#FileKeeper"
         },
         {
           "name": "Dump - AkiraBox",
-          "url": "https://akirabox.com/BnkmWv9Q0GR0/file"
+          "url": "https://link-vault.org/c/jdR44xvK#AkiraBox"
         },
         {
           "name": "Dump - Filed",
-          "url": "https://fileditchfiles.st/alpha34/f3dd9725b8b2e31ca379/PPSA24003.7z"
+          "url": "https://link-vault.org/c/jdR44xvK#FileDitch"
         },
         {
           "name": "Dump - VikingFile",
-          "url": "https://vikingfile.com/f/7WuLdf3NYF"
+          "url": "https://link-vault.org/c/jdR44xvK#VikingFile"
         },
         {
           "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/2bJG8b5xD3OB/file"
+          "url": "https://link-vault.org/c/UPwG3zLU#AkiraBox"
         },
         {
           "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/Ir9RsgnopR"
+          "url": "https://link-vault.org/c/UPwG3zLU#VikingFile"
         },
         {
           "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/yqgbmg5vp64h"
+          "url": "https://link-vault.org/c/UPwG3zLU#DataNodes"
         },
         {
           "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/9ush5lx9gi2j"
+          "url": "https://link-vault.org/c/UPwG3zLU#FileKeeper"
         },
         {
           "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/alpha34/80b1f3772dc431f5cc6d/PPSA24003-Compressed.7z"
+          "url": "https://link-vault.org/c/UPwG3zLU#FileDitch"
         }
       ],
       "version": "v01.007.001",
@@ -392,51 +440,51 @@
       "downloadLinks": [
         {
           "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/5kfevwx2zu9h"
+          "url": "https://link-vault.org/c/lRcbI70D#DataNodes"
         },
         {
           "name": "DLC - Vault",
-          "url": "https://datavaults.co/as4ci996o84j"
+          "url": "https://link-vault.org/c/lRcbI70D#DataVaults"
         },
         {
           "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/nd3rh8qdvxu1"
+          "url": "https://link-vault.org/c/8DrXAsrQ#DataNodes"
         },
         {
           "name": "Dump - Filek",
-          "url": "https://filekeeper.net/d97zkkxpqj58"
+          "url": "https://link-vault.org/c/8DrXAsrQ#FileKeeper"
         },
         {
           "name": "Dump - AkiraBox",
-          "url": "https://akirabox.com/b5OzdVvdWmB8/file"
+          "url": "https://link-vault.org/c/8DrXAsrQ#AkiraBox"
         },
         {
           "name": "Dump - Filed",
-          "url": "https://fileditchfiles.st/alpha34/96a12724991663b4cf91/PPSA06955.7z"
+          "url": "https://link-vault.org/c/8DrXAsrQ#FileDitch"
         },
         {
           "name": "Dump - VikingFile",
-          "url": "https://vikingfile.com/f/TjMDf60X3Y"
+          "url": "https://link-vault.org/c/8DrXAsrQ#VikingFile"
         },
         {
           "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/0rpmvpl2DzRg/file"
+          "url": "https://link-vault.org/c/VeMGtE47#AkiraBox"
         },
         {
           "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/zItK2nfEym"
+          "url": "https://link-vault.org/c/VeMGtE47#VikingFile"
         },
         {
           "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/y1d40n3id4t7"
+          "url": "https://link-vault.org/c/VeMGtE47#DataNodes"
         },
         {
           "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/4nm0sqmfl0sn"
+          "url": "https://link-vault.org/c/VeMGtE47#FileKeeper"
         },
         {
           "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/alpha34/063250656a4ec73d6887/PPSA06955-Compressed.7z"
+          "url": "https://link-vault.org/c/VeMGtE47#FileDitch"
         }
       ],
       "version": "v02.000.006",
@@ -663,8 +711,15 @@
       "sizeBytes": 19327352832
     },
     {
+      "id": 4905928,
+      "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_Unleashed_Recompiled.jpg",
+      "description": "Tags: PPSA99902, v01.003, USA, 4.xx and beyond\nSize: 9GB\nCredits: Files: Nazky\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
           "name": "Filed",
@@ -687,11 +742,6 @@
           "url": "https://filekeeper.net/fienhpjyhtfi"
         }
       ],
-      "version": "v01.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_Unleashed_Recompiled.jpg",
-      "description": "Tags: PPSA99902, v01.003, USA, 4.xx and beyond\nSize: 9GB\nCredits: Files: Nazky\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 9663676416
     },
     {
@@ -1037,46 +1087,6 @@
       "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. Base FPKG is 13.xx, separated BackPort PKG for 4.xx with Pro Fix included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 86973087744
-    },
-    {
-      "titleId": "PPSA03671",
-      "title": "Marvels Wolverine",
-      "downloadLinks": [
-        {
-          "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/19k4qhtjwozf"
-        },
-        {
-          "name": "Dump - Filek",
-          "url": "https://filekeeper.net/k29x25ov0nts"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/QN9mEq1Axm6d/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/yQtwqOjSNt"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/cusxhplrz5na"
-        },
-        {
-          "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/txsy5bq000q8"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/alpha33/af9469aafc18f63096b3/PPSA03671-Compressed.7z"
-        }
-      ],
-      "version": "v01.001.005",
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG is 13.xx, separated BackPort PKG for 4.xx with Pro Fix included.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "sizeBytes": 196494753792
     },
     {
       "titleId": "PPSA16833",
@@ -10515,7 +10525,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4891968,
+      "id": 4906183,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -14081,7 +14091,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4892071,
+      "id": 4906286,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

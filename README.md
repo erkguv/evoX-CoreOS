@@ -115,7 +115,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | [Ps5-Romm V1.0.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf) | v1.0.2 | `210b85775b55...` | ps5-romm for ps5 |
-| [Ps5X360 V0.5.3-Preview](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.3-preview/PS5X360_v0.5.3-preview.elf) | v0.5.3-preview | `1a2cce68e19f...` | x360 emu for ps5, you need PPSA97358.zip |
+| [Ps5X360 V0.5.6](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.6/PS5X360_v0.5.6.elf) | v0.5.6 | `5da64c23263e...` | x360 emu for ps5, you need PPSA97358.zip |
 | [Snes9Xps5 V2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf) | v2.0 | `fa7d317ef132...` | snes9x emulator |
 
 ### 📂 PS5 Fan
@@ -249,8 +249,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [Garlic-Savemgr V1.13.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf) | v1.13.1 | `b0fc2fcdda97...` | Save manager utility hosted on Forgejo. |
-| [Garlic-Worker V1.1.7](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf) | v1.1.7 | `2643f35cdfe9...` | Garlic worker payload component. |
 | [Savemnt-Offset-Dumper V1.0.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf) | 1.0.0 | `946328551f74...` | Offset dumper for save mounting utilities. |
 
 ### 📂 PS5 Sdk Debug
@@ -288,7 +286,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Gdbsrv V0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | v0.9 | `80952d75f423...` | GDB Debugger server payload. Port: 1234 |
 | [Klogsrv V0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | v0.9 | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | [Ps5-Ezremote-Server V1.11](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf) | 1.11 | `0f36b7ea3c33...` | Easy remote server component. Port: 8080 |
-| [Ps5Upload V6.1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.1.0/ps5upload_v6.1.0.elf) | v6.1.0 | `39bb275892ad...` | PS5 Upload server / tool. Port: 9025 |
+| [Ps5Upload V6.1.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.1.2/ps5upload_v6.1.2.elf) | v6.1.2 | `1fdf0a79687a...` | PS5 Upload server / tool. Port: 9025 |
 | [Websrv V0.34](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | v0.34 | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | [Zftpd-Ps5-V1.6.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf) | v1.6.0 | `39ed57bef579...` | FTP server payload for PS5. Port: 21 |
 | [Zftpd-Ps5-Zhttp-V1.6.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf) | v1.6.0 | `fc59b60aab2d...` | FTP server payload for PS5. Port: 21 |
@@ -391,12 +389,12 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | [Castation-0.4.0](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `6b17a8feaf3a...` | Dreamcast flycast emu for ps5 |
 | [Flycast-Ps5-2026.10.03](https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip) | v2026.10.03-run13 | `7c380da8030a...` | flycast-ps5-libretro-core |
-| [Porpoise-2.0](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.0/Porpoise-2.0.zip) | v2.0 | `573a367dd331...` | GameCube and Wii Dolphin emu for ps5 |
-| [Ppsa50011](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PPSA50011.zip) | v0.5.3-preview | `d00830305804...` | x360 emu for ps5, you need xpsemu_tools.elf |
+| [Porpoise-2.1](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1/Porpoise-2.1.zip) | v2.1 | `c4b2424825e1...` | GameCube and Wii Dolphin emu for ps5 |
+| [Ppsa50011](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PPSA50011.zip) | v0.5.6 | `10de45ac6aab...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | [Ppsa97358](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/PPSA97358.zip) | alpha-1 | `76656beeea24...` | Xbox emulator (Xemu) port for the PS5 |
 | [Ppsa99666](https://github.com/lowbit/ps5-doom/releases/download/v1.1.0/PPSA99666.zip) | v1.1.0 | `71f79585e0e0...` | Native DOOM for PS5 |
 | [Ppsa99808](https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip) | v0.1.2 | `d76e2bd55ea3...` | PICO-8 for PS5 |
-| [Ps5X360-Autolog-V1.0.7-Preview](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PS5X360-AutoLog-v1.0.7-preview.elf) | v0.5.3-preview | `1a2cce68e19f...` | x360 emu for ps5, you need xpsemu_tools.elf |
+| [Ps5X360-Autolog-V1.0.9-Preview](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PS5X360-AutoLog-v1.0.9-preview.elf) | v0.5.6 | `5da64c23263e...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | [Xashps5-V1.0-Ppsa99999](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.0/XashPS5-v1.0-PPSA99999.zip) | v1.0 | `c054d3207676...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
 | [Xpsemu Tools](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/xpsemu_tools.elf) | alpha-1 | `16d32668fd57...` | Xbox emulator (Xemu) port for the PS5 |
 
@@ -497,8 +495,6 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **drakmor** : [ftpsrv_drakmor](https://github.com/drakmor/ftpsrv)
 - **drakmor** : [kstuff-lite_drakmor](https://github.com/drakmor/kstuff-lite)
 - **drakmor** : [ps5-hwinfo](https://github.com/drakmor/ps5-hwinfo)
-- **earthonion** : [garlic-savemgr](https://git.etawen.dev/earthonion/garlic-savemgr)
-- **earthonion** : [garlic-worker](https://git.etawen.dev/earthonion/garlic-worker)
 - **earthonion** : [np-fake-signin](https://git.etawen.dev/earthonion/np-fake-signin)
 - **elripalda** : [Porpoise](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5)
 - **gcoding97** : [PS5-Game-Compressor fork](https://github.com/gcoding97/PS5-Game-Compressor)

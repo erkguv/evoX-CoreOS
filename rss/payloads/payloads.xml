@@ -5,18 +5,6 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Payloads</description>
     <item>
-      <title>Garlic-Savemgr V1.13.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf</link>
-      <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.13.1</pubDate>
-    </item>
-    <item>
-      <title>Garlic-Worker V1.1.7</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf</link>
-      <description>Garlic worker payload component.</description>
-      <pubDate>v1.1.7</pubDate>
-    </item>
-    <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf</link>
       <description>Offset dumper for save mounting utilities.</description>
@@ -191,10 +179,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>Ps5Upload V6.1.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.1.0/ps5upload_v6.1.0.elf</link>
+      <title>Ps5Upload V6.1.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.1.2/ps5upload_v6.1.2.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.1.0</pubDate>
+      <pubDate>v6.1.2</pubDate>
     </item>
     <item>
       <title>Airpsx V0.19</title>
@@ -437,10 +425,10 @@
       <pubDate>v2.0</pubDate>
     </item>
     <item>
-      <title>Ps5X360 V0.5.3-Preview</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.3-preview/PS5X360_v0.5.3-preview.elf</link>
+      <title>Ps5X360 V0.5.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.6/PS5X360_v0.5.6.elf</link>
       <description>x360 emu for ps5, you need PPSA97358.zip</description>
-      <pubDate>v0.5.3-preview</pubDate>
+      <pubDate>v0.5.6</pubDate>
     </item>
     <item>
       <title>Ps5-Romm V1.0.2</title>
@@ -675,6 +663,18 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Worker V1.1.7</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-worker</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Savemgr V1.13.1</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-savemgr</pubDate>
     </item>
     <item>
       <title>Spectrum-Library V1.4.8</title>

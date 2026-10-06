@@ -60,15 +60,15 @@
     </item>
     <item>
       <title>Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PPSA50011.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PPSA50011.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.3-preview</pubDate>
+      <pubDate>v0.5.6</pubDate>
     </item>
     <item>
-      <title>Ps5X360-Autolog-V1.0.7-Preview</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PS5X360-AutoLog-v1.0.7-preview.elf</link>
+      <title>Ps5X360-Autolog-V1.0.9-Preview</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PS5X360-AutoLog-v1.0.9-preview.elf</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.3-preview</pubDate>
+      <pubDate>v0.5.6</pubDate>
     </item>
     <item>
       <title>Ppsa97358</title>
@@ -83,10 +83,10 @@
       <pubDate>alpha-1</pubDate>
     </item>
     <item>
-      <title>Porpoise-2.0</title>
-      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.0/Porpoise-2.0.zip</link>
+      <title>Porpoise-2.1</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1/Porpoise-2.1.zip</link>
       <description>GameCube and Wii Dolphin emu for ps5</description>
-      <pubDate>v2.0</pubDate>
+      <pubDate>v2.1</pubDate>
     </item>
     <item>
       <title>Xashps5-V1.0-Ppsa99999</title>

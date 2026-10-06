@@ -5,18 +5,6 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Flux RSS global de toutes les mises à jour du store PS5</description>
     <item>
-      <title>[Payloads] Garlic-Savemgr V1.13.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf</link>
-      <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.13.1</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Worker V1.1.7</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf</link>
-      <description>Garlic worker payload component.</description>
-      <pubDate>v1.1.7</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf</link>
       <description>Offset dumper for save mounting utilities.</description>
@@ -191,10 +179,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V6.1.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.1.0/ps5upload_v6.1.0.elf</link>
+      <title>[Payloads] Ps5Upload V6.1.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.1.2/ps5upload_v6.1.2.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.1.0</pubDate>
+      <pubDate>v6.1.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -437,10 +425,10 @@
       <pubDate>v2.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5X360 V0.5.3-Preview</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.3-preview/PS5X360_v0.5.3-preview.elf</link>
+      <title>[Payloads] Ps5X360 V0.5.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.6/PS5X360_v0.5.6.elf</link>
       <description>x360 emu for ps5, you need PPSA97358.zip</description>
-      <pubDate>v0.5.3-preview</pubDate>
+      <pubDate>v0.5.6</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Romm V1.0.2</title>
@@ -677,6 +665,18 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
+      <title>[Payloads] Garlic-Worker V1.1.7</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-worker</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Garlic-Savemgr V1.13.1</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-savemgr</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Spectrum-Library V1.4.8</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -840,15 +840,15 @@
     </item>
     <item>
       <title>[Applications] Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PPSA50011.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PPSA50011.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.3-preview</pubDate>
+      <pubDate>v0.5.6</pubDate>
     </item>
     <item>
-      <title>[Applications] Ps5X360-Autolog-V1.0.7-Preview</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.3-preview/PS5X360-AutoLog-v1.0.7-preview.elf</link>
+      <title>[Applications] Ps5X360-Autolog-V1.0.9-Preview</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PS5X360-AutoLog-v1.0.9-preview.elf</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.3-preview</pubDate>
+      <pubDate>v0.5.6</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa97358</title>
@@ -863,10 +863,10 @@
       <pubDate>alpha-1</pubDate>
     </item>
     <item>
-      <title>[Applications] Porpoise-2.0</title>
-      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.0/Porpoise-2.0.zip</link>
+      <title>[Applications] Porpoise-2.1</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1/Porpoise-2.1.zip</link>
       <description>GameCube and Wii Dolphin emu for ps5</description>
-      <pubDate>v2.0</pubDate>
+      <pubDate>v2.1</pubDate>
     </item>
     <item>
       <title>[Applications] Xashps5-V1.0-Ppsa99999</title>

@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/10/2026 à 04:46
+* **PAYLOADS**
+  * `Ps5Upload V6.1.2` (v6.1.2) - *Nouveau*
+  * `Ps5X360 V0.5.6` (v0.5.6) - *Nouveau*
+  * `Garlic-Worker V1.1.7` (garlic-worker) - *Mise à jour (Précédent: v1.1.7)*
+  * `Garlic-Savemgr V1.13.1` (garlic-savemgr) - *Mise à jour (Précédent: v1.13.1)*
+* **APPS**
+  * `Ppsa50011` (v0.5.6) - *Mise à jour (Précédent: v0.5.3-preview)*
+  * `Ps5X360-Autolog-V1.0.9-Preview` (v0.5.6) - *Nouveau*
+  * `Porpoise-2.1` (v2.1) - *Nouveau*
+
 ## Build du 05/10/2026 à 23:45
 * **PAYLOADS**
   * `Web-File-Mgr-V1.10` (v1.10) - *Nouveau*
