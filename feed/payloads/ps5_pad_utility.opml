@@ -9,5 +9,6 @@
     <outline text="FGG-XSense" title="FGG-XSense" type="rss" xmlUrl="https://github.com/FGGstore/FGG-XSense" author="FGGstore" description="Use an Xbox controller on a jailbroken PlayStation 5."/>
     <outline text="ghost-toothAPI" title="ghost-toothAPI" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/ps5_utility/ghost-toothAPI/ghost-toothAPI.elf" author="StonedModder" description="ghost-toothAPI."/>
     <outline text="pad2c" title="pad2c" type="rss" xmlUrl="https://github.com/sub0x00001/pad2c" author="sub0x00001" description="Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth."/>
+    <outline text="Any-Pad-ps5" title="Any-Pad-ps5" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf" author="elmonomalva0" description="Connect your Bluetooth controllers to your PS5 console."/>
   </body>
 </opml>
