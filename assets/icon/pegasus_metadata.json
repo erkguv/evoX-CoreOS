@@ -93,5 +93,15 @@
         "titleId": "PPSA99008",
         "title": "ProsperoEden",
         "icon": "ProsperoEden.png"
+    },
+    "Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg": {
+        "titleId": "KILL00095",
+        "title": "Killer Instinct - Arcade Collection",
+        "icon": "Killer.Instinct-Arcade.Collection.png"
+    },
+    "Markus_PHU-EmuPack-Paprium-Port.PS5.pkg": {
+        "titleId": "PAPR00095",
+        "title": "Paprium",
+        "icon": "Markus_PHU-EmuPack-Paprium-Port.PS5.png"
     }
 }
