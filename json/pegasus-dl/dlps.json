@@ -3,6 +3,377 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA18653",
+      "title": "Age of Mythology Retold (DLC)",
+      "downloadLinks": [
+        {
+          "name": "Gofile",
+          "url": "https://gofile.io/d/v6eAlalp"
+        }
+      ],
+      "version": "DLC",
+      "category": "dlc",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18653_07bcff97fdbaf5eb067bcb78621f6430e64e9bbd716cfb11a36fd0f86877f4e6/icon0.webp",
+      "description": "Region: USA\nRelease note: Working 13.xx to 10.xx Unlocked All DLC\nContributor: @High-Speed007",
+      "downloadSource": "https://dlpsgame.com/age-of-mythology-retold-ps5/"
+    },
+    {
+      "titleId": "PPSA06488",
+      "title": "The Dark Pictures Anthology Man of Medan",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/1RgzR9RdZ3bp/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/l5YzMZjr9GyO/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1xtPJg"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/pF1Ps"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/Z5BZbKt1dG"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/X5m7uNx5WE"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06488_fe53ef0c295fe59db01d0c251e840485069f21abae454902dde694ef3886f1b6/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/the-dark-pictures-anthology-man-of-medan-ps5/"
+    },
+    {
+      "titleId": "PPSA06487",
+      "title": "The Dark Pictures Anthology Little Hope",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/Z9dzBPOe5mk1/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/RMKGJKBvLm1o/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1pphaa"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/lDAYK"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/hXviLr7CjU"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/nOsPl7RX6W"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06487_5e745b69a12f4627bfd3358dabd65c03b23920bdad3d86d78b11f73b5e6114a4/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/the-dark-pictures-anthology-little-hope-ps5/"
+    },
+    {
+      "titleId": "PPSA34356",
+      "title": "Marsupilami 2 Salsa Palombia",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.com/gXeGOAPxj3Aa/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/d9StM"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EMJdrXGMIO"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2609/228450248e648e3815821da87cabb721e7239b00203076df.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/marsupilami-2-salsa-palombia-ps5/"
+    },
+    {
+      "titleId": "PPSA17373",
+      "title": "Jet Kave Adventure",
+      "downloadLinks": [
+        {
+          "name": "EUR 7.xx Base - Akirabox",
+          "url": "https://akirabox.com/b5OzdVqyOmB8/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1hlzrU"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/nicZmCKJMC"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1615/1807ca138f28237bdc91b156fa0c8c37d2971cd51fe72c28.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/jet-kave-adventure-ps5/"
+    },
+    {
+      "titleId": "PPSA08242",
+      "title": "Marsupilami Hoobadventure",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox",
+          "url": "https://akirabox.com/Z9dzBPOegmk1/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/V5lAG"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/OiPhHaPlwW"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0414/3G5DKQNvOxUkyo0Wu0fM0frd.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher",
+      "downloadSource": "https://dlpsgame.com/marsupilami-hoobadventure-ps5/"
+    },
+    {
+      "titleId": "PPSA28502",
+      "title": "Pure Pool Pro",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/vgKGxXMy6G8Q/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/EL73g7Oy839B/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1ZiICW"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/R3uIi"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/ksHh2j1LUO"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/byEO2Ew4Hw"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28502_91c3a4fe6fbd0ecc066b7402b08bddaacf6c16acdaeebf6fc08347efe7ca6faa/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/pure-pool-pro-ps5/"
+    },
+    {
+      "titleId": "PPSA07485",
+      "title": "Project Wingman Frontline 59",
+      "downloadLinks": [
+        {
+          "name": "EUR 7.xx Base - Akirabox",
+          "url": "https://akirabox.com/QN9mEqE07m6d/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1VgRKy"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/jVUj4WNSlv"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2415/1e7411603e0e62a850d6e81d171aa817dbc34e650a2ca2fd.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/project-wingman-frontline-59-ps5/"
+    },
+    {
+      "titleId": "PPSA18305",
+      "title": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+      "downloadLinks": [
+        {
+          "name": "JPN 9.xx Base - Akirabox",
+          "url": "https://akirabox.com/qLQ36q9JEm19/file"
+        },
+        {
+          "name": "JPN 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/8nbYu"
+        },
+        {
+          "name": "JPN 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/qv17cEIG3W"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18305_97b92087924a7ef39eb1d24f8df11bbb96fd0d373d9a4618b4111d5b3713f9ad/icon0.webp",
+      "description": "Region: JPN\nRelease note: Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/suikoden-iii-hd-remaster-gate-rune-and-dunan-unification-wars-ps5/"
+    },
+    {
+      "titleId": "PPSA12508",
+      "title": "Drums Rock",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/Zvqzl7ryK3aD/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1HRzOa"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/9SzCH2o1SV"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1910/Zv29zw5hFClSCmJOnJBRaaAk.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/drums-rock-ps5/"
+    },
+    {
+      "titleId": "PPSA13481",
+      "title": "Ultrawings 2",
+      "downloadLinks": [
+        {
+          "name": "EUR 8.xx Base - Akirabox",
+          "url": "https://akirabox.com/0PdzyXZyq3eA/file"
+        },
+        {
+          "name": "EUR 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/jtpo"
+        },
+        {
+          "name": "EUR 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/qHggLMEMUg"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0518/50338b7187ad1759daf08cda51ef0d35060d2a2f64f7c22d.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 8.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ultrawings-2-ps5/"
+    },
+    {
+      "titleId": "PPSA10698",
+      "title": "FPV Simulator",
+      "downloadLinks": [
+        {
+          "name": "EUR 8.xx Base - Akirabox",
+          "url": "https://akirabox.com/qPez44obpzOY/file"
+        },
+        {
+          "name": "EUR 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/19OHjc"
+        },
+        {
+          "name": "EUR 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/1rLIZhNEYj"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1009/JgkKJCIdV30HUWJBGhnTKP03.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 8.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/fpv-simulator-ps5-pkg/"
+    },
+    {
+      "titleId": "PPSA21402",
+      "title": "Balatro",
+      "downloadLinks": [
+        {
+          "name": "EUR 8.xx Base - Akirabox",
+          "url": "https://akirabox.com/N2p3DPv283Ma/file"
+        },
+        {
+          "name": "EUR 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2E0ohk"
+        },
+        {
+          "name": "EUR 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/x23Vo1c9gQ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21402_8b5b2e8927be1b9d2af5fe63fdc9299aa35d030536664100fdf13316feb5568d/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/balatro-ps5/"
+    },
+    {
+      "titleId": "PPSA19155",
+      "title": "Nobody Wants to Die",
+      "downloadLinks": [
+        {
+          "name": "EUR 8.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/ex5z25ep53Kq/file"
+        },
+        {
+          "name": "EUR 8.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/BnkmWve26GR0/file"
+        },
+        {
+          "name": "EUR 8.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/25x72m"
+        },
+        {
+          "name": "EUR 8.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/11Ka0W"
+        },
+        {
+          "name": "EUR 8.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/AQXasMEEFu"
+        },
+        {
+          "name": "EUR 8.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/o0Jcioy3tK"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19155_c69702322a425b208d38bfac6e07015ed5b1dbe8c463d534dd1aaa6f5bb9d01f/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 8.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/nobody-wants-to-die-ps5/"
+    },
+    {
+      "titleId": "PPSA06605",
+      "title": "Industria",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/wgWGq7loq34o/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/tGsHQ"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/cUZWhvJeqa"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06605_468df7ecd17870ddda6b7c0f64f9e93d08b506844da85e80ad59a7d2f8a4db03/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/industria-ps5/"
+    },
+    {
       "titleId": "PPSA21480",
       "title": "Broken Sword Shadow of The Templars Reforged",
       "downloadLinks": [
@@ -167,564 +538,6 @@
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22969_69c9a80cf48bf584f03d85af38c174ba8343815664b865452f44feb2dd941d8b/icon0.webp",
       "description": "Region: JPN\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/echoes-of-aincrad-ps5/"
-    },
-    {
-      "titleId": "PPSA18194",
-      "title": "METAL GEAR SOLID 4 Guns of The Patriots Master Collection Version",
-      "downloadLinks": [
-        {
-          "name": "USA 10.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/LJlGn7xqbm15/file"
-        },
-        {
-          "name": "USA 10.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/5pVzNApPV37w/file"
-        },
-        {
-          "name": "USA 10.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/1Uudl2"
-        },
-        {
-          "name": "USA 10.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/MGFrE"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/FPoUgTiNYS"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/v5NXlnpxVA"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18194_1faab7604a18962577c7910624448d6cd233ff50bb0b2aec1f8cdbecf9683c26/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/metal-gear-solid-4-guns-of-the-patriots-master-collection-version-ps5/"
-    },
-    {
-      "titleId": "PPSA18216",
-      "title": "METAL GEAR SOLID Peace Walker Master Collection Version",
-      "downloadLinks": [
-        {
-          "name": "USA 11.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/0rpmvpkryzRg/file"
-        },
-        {
-          "name": "USA 11.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/gXeGOAPgj3Aa/file"
-        },
-        {
-          "name": "USA 11.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/1cSTk8"
-        },
-        {
-          "name": "USA 11.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/1YQcsa"
-        },
-        {
-          "name": "USA 11.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/Z48uBBw5RD"
-        },
-        {
-          "name": "USA 11.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/cfLNfUXTl9"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18216_52c4f215804752b7ed57396866cc90b847cd021222d28b26d734a9b58027efe9/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/metal-gear-solid-peace-walker-master-collection-version-ps5/"
-    },
-    {
-      "titleId": "PPSA29586",
-      "title": "Towerborne",
-      "downloadLinks": [
-        {
-          "name": "USA 11.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/1RgzR9RVX3bp/file"
-        },
-        {
-          "name": "USA 11.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/0Kezk7w9pzD1/file"
-        },
-        {
-          "name": "USA 11.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/2Cj9Rw"
-        },
-        {
-          "name": "USA 11.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/144lY8"
-        },
-        {
-          "name": "USA 11.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/4w0B2Kb2yP"
-        },
-        {
-          "name": "USA 11.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/mNvcvS7l4C"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29586_869acfb224acfe9ffc1c364373206faf0721e6ef2549bf75e5af2f39a5aaea47/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/towerborne-ps5/"
-    },
-    {
-      "titleId": "PPSA30449",
-      "title": "Pathologic 3",
-      "downloadLinks": [
-        {
-          "name": "EUR 11.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/qPez44oLpzOY/file"
-        },
-        {
-          "name": "EUR 11.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/Y2xm0oK5KGRO/file"
-        },
-        {
-          "name": "EUR 11.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/E9Qz9XY923OL/file"
-        },
-        {
-          "name": "EUR 11.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/1sZt8C"
-        },
-        {
-          "name": "EUR 11.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/1wbjzk"
-        },
-        {
-          "name": "EUR 11.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/nxMA4"
-        },
-        {
-          "name": "EUR 11.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/XGLLvyxN4e"
-        },
-        {
-          "name": "EUR 11.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/KUfzDa33cZ"
-        },
-        {
-          "name": "EUR 11.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/r1qbvkJcoY"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2712/64ae6c8627b6300b4c5bdb5f7137f250e560fb4f70af0c8a.png?w=260",
-      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/pathologic-3-ps5/"
-    },
-    {
-      "titleId": "PPSA36458",
-      "title": "Mafia Definitive Edition",
-      "downloadLinks": [
-        {
-          "name": "EUR 10.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/Zvqzl7d4a3aD/file"
-        },
-        {
-          "name": "EUR 10.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/gXeGOAMnd3Aa/file"
-        },
-        {
-          "name": "EUR 10.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/qLQ36qYB7m19/file"
-        },
-        {
-          "name": "EUR 10.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/OpaV6"
-        },
-        {
-          "name": "EUR 10.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/SrRMe"
-        },
-        {
-          "name": "EUR 10.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/1XTyKm"
-        },
-        {
-          "name": "EUR 10.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/8hoKVlNBmT"
-        },
-        {
-          "name": "EUR 10.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/qOz2E2VC3Z"
-        },
-        {
-          "name": "EUR 10.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/s6XjuEHliZ"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA36458_792f4015b5fb0c2eb9bf124f0f2cafa6840fc6bb548912c4bccd379d4dc3552f/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 10.xx and higher",
-      "downloadSource": "https://dlpsgame.com/mafia-definitive-edition-ps5/"
-    },
-    {
-      "titleId": "PPSA25636",
-      "title": "Echoes of The End",
-      "downloadLinks": [
-        {
-          "name": "EUR 10.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/b5OzdVv48mB8/file"
-        },
-        {
-          "name": "EUR 10.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/obj3j7BA9zDx/file"
-        },
-        {
-          "name": "EUR 10.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/9QWmpAb1Q3EB/file"
-        },
-        {
-          "name": "EUR 10.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/v4PLM"
-        },
-        {
-          "name": "EUR 10.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/23inB2"
-        },
-        {
-          "name": "EUR 10.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/z6G8m"
-        },
-        {
-          "name": "EUR 10.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/m11yg8Qg3a"
-        },
-        {
-          "name": "EUR 10.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/p7BEA5DAE1"
-        },
-        {
-          "name": "EUR 10.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/BasZVZC03J"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25636_2588a1aa79d7327648e60573556c24da291b3ab2045c079d7d6d2c828ba0fccb/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 10.xx and higher",
-      "downloadSource": "https://dlpsgame.com/echoes-of-the-end-ps5/"
-    },
-    {
-      "titleId": "PPSA29264",
-      "title": "Duskfade",
-      "downloadLinks": [
-        {
-          "name": "USA 11.xx Base - Akirabox",
-          "url": "https://akirabox.com/Z9dzBPw8Mmk1/file"
-        },
-        {
-          "name": "USA 11.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1rdEeW"
-        },
-        {
-          "name": "USA 11.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/zAJyBHn5Rc"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0314/34fb5fac51b180a67ab042ff240e0897efef9f00b087f467.png?w=260",
-      "description": "Region: USA\nRelease note: Works on 11.xx and higher",
-      "downloadSource": "https://dlpsgame.com/duskfade-ps5/"
-    },
-    {
-      "titleId": "PPSA16064",
-      "title": "Minecraft Dungeons 2",
-      "downloadLinks": [
-        {
-          "name": "EUR 12.xx Base - Akirabox",
-          "url": "https://akirabox.com/gXeGOAMDK3Aa/file"
-        },
-        {
-          "name": "EUR 12.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/ewztA"
-        },
-        {
-          "name": "EUR 12.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/xOe8R9zQNf"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1915/219f09639385755f13a1ed8475e789e255e9b0cda4d3d236.png?w=260",
-      "description": "Region: EUR\nRelease note: Works on 12.xx and higher",
-      "downloadSource": "https://dlpsgame.com/minecraft-dungeons-2-ps5/"
-    },
-    {
-      "titleId": "PPSA38474",
-      "title": "SAMSON A Tyndalston Story",
-      "downloadLinks": [
-        {
-          "name": "ASIA 13.xx Base - Akirabox",
-          "url": "https://akirabox.com/0rpmvplDZzRg/file"
-        },
-        {
-          "name": "ASIA 13.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/iyqki"
-        },
-        {
-          "name": "ASIA 13.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/UETaDlAvOB"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA38474_a2f160161001f7e20086e0be8fccdafef22905def679460ac89a7c2911e99bdc/icon0.webp",
-      "description": "Region: ASIA\nRelease note: Works on 13.xx and higher\nContributor: @DLPS Team",
-      "downloadSource": "https://dlpsgame.com/samson-a-tyndalston-story-ps5/"
-    },
-    {
-      "titleId": "PPSA38510",
-      "title": "The Walking Dead Streets of Survival",
-      "downloadLinks": [
-        {
-          "name": "USA 13.xx Base - Akirabox",
-          "url": "https://akirabox.com/jJD3VD0BNGa5/file"
-        },
-        {
-          "name": "USA 13.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/267cQq"
-        },
-        {
-          "name": "USA 13.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/ARKNzIambt"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0911/35622ecb4b2eb940502896b11e7d1ece85f5eb9f88d0cb40.png?w=260",
-      "description": "Region: USA\nRelease note: Works on 13.xx and higher",
-      "downloadSource": "https://dlpsgame.com/the-walking-dead-streets-of-survival-ps5/"
-    },
-    {
-      "titleId": "PPSA25344",
-      "title": "Sword of The Sea",
-      "downloadLinks": [
-        {
-          "name": "EUR 10.xx Base - Akirabox",
-          "url": "https://akirabox.com/k0embbO6lmVb/file"
-        },
-        {
-          "name": "EUR 10.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1nbNmy"
-        },
-        {
-          "name": "EUR 10.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/Uc0nuFAbGQ"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25344_569663414daab66f257509f57054dbfe83f4652ef5d5af86b558b04826a7316a/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 10.xx and higher",
-      "downloadSource": "https://dlpsgame.com/sword-of-the-sea-ps5/"
-    },
-    {
-      "titleId": "PPSA26049",
-      "title": "Gothic Classic",
-      "downloadLinks": [
-        {
-          "name": "EUR 11.xx Base - Akirabox",
-          "url": "https://akirabox.com/2WVGrdRk03kx/file"
-        },
-        {
-          "name": "EUR 11.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/2A9TEG"
-        },
-        {
-          "name": "EUR 11.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/rNOm5hayBv"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26049_31a3a8c2aa33ec7a30e74bd06612cd59e36f7a6a68e19c470981dd2c39a3105d/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nContributor: @DLPS Team",
-      "downloadSource": "https://dlpsgame.com/gothic-classic-ps5/"
-    },
-    {
-      "titleId": "PPSA27158",
-      "title": "Dispatch",
-      "downloadLinks": [
-        {
-          "name": "ASIA 5.xx Base - Akirabox",
-          "url": "https://akirabox.com/7d5GLZbyl3xR/file"
-        },
-        {
-          "name": "ASIA 5.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/n0hcG"
-        },
-        {
-          "name": "ASIA 5.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/FHmhPOxMWm"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27158_4b3ae45bc32daa103dca6bc7957a9fca186a00e834517e1665e5ccef279cb736/icon0.webp",
-      "description": "Region: ASIA\nRelease note: Works on 5.xx and higher",
-      "downloadSource": "https://dlpsgame.com/dispatch-ps5/"
-    },
-    {
-      "titleId": "PPSA23566",
-      "title": "EA Sports UFC 6",
-      "downloadLinks": [
-        {
-          "name": "EUR 4.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/vgKGxX44RG8Q/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/b5OzdVvvlmB8/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/9QWmpAbbN3EB/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Akirabox part 4",
-          "url": "https://akirabox.com/Pbe3PaZZWzlX/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Akirabox part 5",
-          "url": "https://akirabox.com/obj3j7BBrzDx/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Akirabox part 6",
-          "url": "https://akirabox.com/0Kezk7JJ2zD1/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/1q0Cye"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/ZI7Ps"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/VGGYK"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz part 4",
-          "url": "https://www.rootz.so/d/1lyM76"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz part 5",
-          "url": "https://www.rootz.so/d/dJyHQ"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz part 6",
-          "url": "https://www.rootz.so/d/1u23qC"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/PoxDZDi4Tr"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/9JN7myVDxT"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/VaTAGbzrT5"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/p6XUUzt7zS"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/LZ8oxfkucI"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/wwWDlgGDXM"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/83baec5746075ec3e379c096dfe68111095c91cb7139a633.png?w=260",
-      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: @DLPS Team and @MaikelSL\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/ea-sports-ufc-6-ps5/"
-    },
-    {
-      "titleId": "PPSA28038",
-      "title": "Halo Campaign Evolved Premium Edition (DLC)",
-      "downloadLinks": [
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 1",
-          "url": "https://akirabox.com/RMKGJKp6wm1o/file"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 2",
-          "url": "https://akirabox.com/vgKGxX4dVG8Q/file"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 3",
-          "url": "https://akirabox.com/Z9dzBPw1xmk1/file"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 4",
-          "url": "https://akirabox.com/qLQ36qYbKm19/file"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 5",
-          "url": "https://akirabox.com/b5OzdVv9pmB8/file"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 6",
-          "url": "https://akirabox.com/gXeGOAMwA3Aa/file"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 1",
-          "url": "https://www.rootz.so/d/1JVSIS"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 2",
-          "url": "https://www.rootz.so/d/1NXJA0"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 3",
-          "url": "https://www.rootz.so/d/2nMjg"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 4",
-          "url": "https://www.rootz.so/d/Ar4Oe"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 5",
-          "url": "https://www.rootz.so/d/6pDbE"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 6",
-          "url": "https://www.rootz.so/d/1FTbQu"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/TPgbFoyxmF"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/7BL77QxJUu"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/Glv9SPHuQu"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/C4MradgC9H"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/xajlD7mKYZ"
-        },
-        {
-          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/rE0mT3FvYD"
-        }
-      ],
-      "category": "dlc",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28038_038d3b0e3b4c3b7958d3ba1902cef1c313f4cc174619c31916525dcfd7fd42c8/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/halo-campaign-evolved-premium-edition-ps5/"
     },
     {
       "titleId": "PPSA33016",
@@ -1684,6 +1497,564 @@
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24913_cb77f30e7f4741cb373a7ce34b5511d31a28c52fbcc90acbb8b8d5bea40a6a41/icon0.webp",
       "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/ace-combat-8-wings-of-theve-ps5/"
+    },
+    {
+      "titleId": "PPSA18194",
+      "title": "METAL GEAR SOLID 4 Guns of The Patriots Master Collection Version",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/LJlGn7xqbm15/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/5pVzNApPV37w/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1Uudl2"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/MGFrE"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/FPoUgTiNYS"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/v5NXlnpxVA"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18194_1faab7604a18962577c7910624448d6cd233ff50bb0b2aec1f8cdbecf9683c26/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/metal-gear-solid-4-guns-of-the-patriots-master-collection-version-ps5/"
+    },
+    {
+      "titleId": "PPSA18216",
+      "title": "METAL GEAR SOLID Peace Walker Master Collection Version",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/0rpmvpkryzRg/file"
+        },
+        {
+          "name": "USA 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/gXeGOAPgj3Aa/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1cSTk8"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1YQcsa"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/Z48uBBw5RD"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/cfLNfUXTl9"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18216_52c4f215804752b7ed57396866cc90b847cd021222d28b26d734a9b58027efe9/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/metal-gear-solid-peace-walker-master-collection-version-ps5/"
+    },
+    {
+      "titleId": "PPSA29586",
+      "title": "Towerborne",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/1RgzR9RVX3bp/file"
+        },
+        {
+          "name": "USA 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0Kezk7w9pzD1/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2Cj9Rw"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/144lY8"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/4w0B2Kb2yP"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/mNvcvS7l4C"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29586_869acfb224acfe9ffc1c364373206faf0721e6ef2549bf75e5af2f39a5aaea47/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/towerborne-ps5/"
+    },
+    {
+      "titleId": "PPSA30449",
+      "title": "Pathologic 3",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/qPez44oLpzOY/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Y2xm0oK5KGRO/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/E9Qz9XY923OL/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1sZt8C"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1wbjzk"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/nxMA4"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/XGLLvyxN4e"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/KUfzDa33cZ"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/r1qbvkJcoY"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2712/64ae6c8627b6300b4c5bdb5f7137f250e560fb4f70af0c8a.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/pathologic-3-ps5/"
+    },
+    {
+      "titleId": "PPSA36458",
+      "title": "Mafia Definitive Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/Zvqzl7d4a3aD/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/gXeGOAMnd3Aa/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/qLQ36qYB7m19/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/OpaV6"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/SrRMe"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1XTyKm"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/8hoKVlNBmT"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/qOz2E2VC3Z"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/s6XjuEHliZ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA36458_792f4015b5fb0c2eb9bf124f0f2cafa6840fc6bb548912c4bccd379d4dc3552f/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/mafia-definitive-edition-ps5/"
+    },
+    {
+      "titleId": "PPSA25636",
+      "title": "Echoes of The End",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/b5OzdVv48mB8/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/obj3j7BA9zDx/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/9QWmpAb1Q3EB/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/v4PLM"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/23inB2"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/z6G8m"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/m11yg8Qg3a"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/p7BEA5DAE1"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/BasZVZC03J"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25636_2588a1aa79d7327648e60573556c24da291b3ab2045c079d7d6d2c828ba0fccb/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/echoes-of-the-end-ps5/"
+    },
+    {
+      "titleId": "PPSA29264",
+      "title": "Duskfade",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/Z9dzBPw8Mmk1/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1rdEeW"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/zAJyBHn5Rc"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0314/34fb5fac51b180a67ab042ff240e0897efef9f00b087f467.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher",
+      "downloadSource": "https://dlpsgame.com/duskfade-ps5/"
+    },
+    {
+      "titleId": "PPSA16064",
+      "title": "Minecraft Dungeons 2",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.com/gXeGOAMDK3Aa/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/ewztA"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/xOe8R9zQNf"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1915/219f09639385755f13a1ed8475e789e255e9b0cda4d3d236.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/minecraft-dungeons-2-ps5/"
+    },
+    {
+      "titleId": "PPSA38474",
+      "title": "SAMSON A Tyndalston Story",
+      "downloadLinks": [
+        {
+          "name": "ASIA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/0rpmvplDZzRg/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/iyqki"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/UETaDlAvOB"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA38474_a2f160161001f7e20086e0be8fccdafef22905def679460ac89a7c2911e99bdc/icon0.webp",
+      "description": "Region: ASIA\nRelease note: Works on 13.xx and higher\nContributor: @DLPS Team",
+      "downloadSource": "https://dlpsgame.com/samson-a-tyndalston-story-ps5/"
+    },
+    {
+      "titleId": "PPSA38510",
+      "title": "The Walking Dead Streets of Survival",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/jJD3VD0BNGa5/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/267cQq"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ARKNzIambt"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0911/35622ecb4b2eb940502896b11e7d1ece85f5eb9f88d0cb40.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-walking-dead-streets-of-survival-ps5/"
+    },
+    {
+      "titleId": "PPSA25344",
+      "title": "Sword of The Sea",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.com/k0embbO6lmVb/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1nbNmy"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Uc0nuFAbGQ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25344_569663414daab66f257509f57054dbfe83f4652ef5d5af86b558b04826a7316a/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/sword-of-the-sea-ps5/"
+    },
+    {
+      "titleId": "PPSA26049",
+      "title": "Gothic Classic",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/2WVGrdRk03kx/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2A9TEG"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/rNOm5hayBv"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26049_31a3a8c2aa33ec7a30e74bd06612cd59e36f7a6a68e19c470981dd2c39a3105d/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nContributor: @DLPS Team",
+      "downloadSource": "https://dlpsgame.com/gothic-classic-ps5/"
+    },
+    {
+      "titleId": "PPSA27158",
+      "title": "Dispatch",
+      "downloadLinks": [
+        {
+          "name": "ASIA 5.xx Base - Akirabox",
+          "url": "https://akirabox.com/7d5GLZbyl3xR/file"
+        },
+        {
+          "name": "ASIA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/n0hcG"
+        },
+        {
+          "name": "ASIA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/FHmhPOxMWm"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27158_4b3ae45bc32daa103dca6bc7957a9fca186a00e834517e1665e5ccef279cb736/icon0.webp",
+      "description": "Region: ASIA\nRelease note: Works on 5.xx and higher",
+      "downloadSource": "https://dlpsgame.com/dispatch-ps5/"
+    },
+    {
+      "titleId": "PPSA23566",
+      "title": "EA Sports UFC 6",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/vgKGxX44RG8Q/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/b5OzdVvvlmB8/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/9QWmpAbbN3EB/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/Pbe3PaZZWzlX/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/obj3j7BBrzDx/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/0Kezk7JJ2zD1/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1q0Cye"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/ZI7Ps"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/VGGYK"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1lyM76"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/dJyHQ"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1u23qC"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/PoxDZDi4Tr"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/9JN7myVDxT"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/VaTAGbzrT5"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/p6XUUzt7zS"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/LZ8oxfkucI"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/wwWDlgGDXM"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/83baec5746075ec3e379c096dfe68111095c91cb7139a633.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: @DLPS Team and @MaikelSL\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ea-sports-ufc-6-ps5/"
+    },
+    {
+      "titleId": "PPSA28038",
+      "title": "Halo Campaign Evolved Premium Edition (DLC)",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 1",
+          "url": "https://akirabox.com/RMKGJKp6wm1o/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 2",
+          "url": "https://akirabox.com/vgKGxX4dVG8Q/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 3",
+          "url": "https://akirabox.com/Z9dzBPw1xmk1/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 4",
+          "url": "https://akirabox.com/qLQ36qYbKm19/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 5",
+          "url": "https://akirabox.com/b5OzdVv9pmB8/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Akirabox part 6",
+          "url": "https://akirabox.com/gXeGOAMwA3Aa/file"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 1",
+          "url": "https://www.rootz.so/d/1JVSIS"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 2",
+          "url": "https://www.rootz.so/d/1NXJA0"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 3",
+          "url": "https://www.rootz.so/d/2nMjg"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 4",
+          "url": "https://www.rootz.so/d/Ar4Oe"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 5",
+          "url": "https://www.rootz.so/d/6pDbE"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Rootz part 6",
+          "url": "https://www.rootz.so/d/1FTbQu"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/TPgbFoyxmF"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/7BL77QxJUu"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/Glv9SPHuQu"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/C4MradgC9H"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/xajlD7mKYZ"
+        },
+        {
+          "name": "USA 12.xx Game (v17.661.002) (DLC Premium Edition) - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/rE0mT3FvYD"
+        }
+      ],
+      "category": "dlc",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28038_038d3b0e3b4c3b7958d3ba1902cef1c313f4cc174619c31916525dcfd7fd42c8/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/halo-campaign-evolved-premium-edition-ps5/"
     },
     {
       "titleId": "PPSA34015",
@@ -7222,6 +7593,10 @@
           "url": "https://vikingfile.com/f/l1l96pArtK"
         },
         {
+          "name": "EUR 6.xx Game (v01.049)(DLC) [APR-EMU] - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/z4EuUqziL1"
+        },
+        {
           "name": "EUR 6.xx BackPort 4.xx - Akirabox",
           "url": "https://akirabox.com/RMKGJK8y4m1o/file"
         },
@@ -7362,6 +7737,10 @@
         {
           "name": "USA 6.xx Game (v01.049) (DLC) [APR-EMU] - 1fichier part 7",
           "url": "https://1fichier.com/?v6r1uhpqkngitkkt2dbk"
+        },
+        {
+          "name": "USA 6.xx Game (v01.049) (DLC) [APR-EMU] - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/rd0XnekhT0"
         },
         {
           "name": "USA 6.xx BackPort 4.xx - Akirabox",
