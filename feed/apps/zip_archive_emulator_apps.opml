@@ -14,5 +14,14 @@
     <outline text="pico8-ps5" title="pico8-ps5" type="rss" xmlUrl="https://github.com/RafaelNGP/pico8-ps5" author="RafaelNGP" description="PICO-8 for PS5"/>
     <outline text="prospero-win" title="prospero-win" type="rss" xmlUrl="https://github.com/mpereiraesaa/prospero-win" author="mpereiraesaa" description="Wine for PS5"/>
     <outline text="Vita3K-PS5" title="Vita3K-PS5" type="rss" xmlUrl="https://github.com/tsuramatsu1/Vita3K-PS5" author="tsuramatsu1" description="Vita3K for PS5"/>
+    <outline text="EmuPack_PS1-Tool.PS5" title="EmuPack_PS1-Tool.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar" author="Markus_PHU" description="EmuPack_PS1-Tool.PS5"/>
+    <outline text="EmuPack-Nes.PS5" title="EmuPack-Nes.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Nes.PS5.rar" author="Markus_PHU" description="EmuPack-Nes.PS5"/>
+    <outline text="EmuPack-Snes.PS5" title="EmuPack-Snes.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Snes.PS5.rar" author="Markus_PHU" description="EmuPack-Snes.PS5"/>
+    <outline text="EmuPack-Ultra64.PS5" title="EmuPack-Ultra64.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Ultra64.PS5.rar" author="Markus_PHU" description="EmuPack-Ultra64.PS5"/>
+    <outline text="EmuPack-SMS.MD.MegaCD.32x.PS5" title="EmuPack-SMS.MD.MegaCD.32x.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-SMS.MD.MegaCD.32x.PS5.rar" author="Markus_PHU" description="EmuPack-SMS.MD.MegaCD.32x.PS5"/>
+    <outline text="Markus_PHU-EmuPack_Dreamcast.PS5" title="Markus_PHU-EmuPack_Dreamcast.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Dreamcast.PS5.rar" author="Markus_PHU" description="Markus_PHU-EmuPack_Dreamcast.PS5"/>
+    <outline text="EmuPack-PC.Engine.PS5" title="EmuPack-PC.Engine.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-PC.Engine.PS5.rar" author="Markus_PHU" description="EmuPack-PC.Engine.PS5"/>
+    <outline text="EmuPack_Mame.PS5" title="EmuPack_Mame.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Mame.PS5.rarm" author="Markus_PHU" description="EmuPack_Mame.PS5"/>
+    <outline text="EmuPack-NeoGeo.PS5" title="EmuPack-NeoGeo.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar" author="Markus_PHU" description="EmuPack-NeoGeo.PS5"/>
   </body>
 </opml>
