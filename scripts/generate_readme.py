@@ -125,8 +125,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             version = item.get('version', 'v1.0.0')
                             desc = item.get('description', '') or 'Aucune description.'
                             
-                            display_name = f"[{name}]({url})" if url and url != '#' else name
-                            table_lines.append(f"| {display_name} | {author} | {version} | {desc} |")
+                            display_version = f"[{version}]({url})" if url and url != '#' else version
+                            table_lines.append(f"| {name} | {author} | {display_version} | {desc} |")
                 else:
                     table_lines.append("| Application | Version | Empreinte SHA-256 | Description |")
                     table_lines.append("| :--- | :--- | :--- | :--- |")
@@ -142,8 +142,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                                 sha_short = f"`{sha}`" if sha else "N/A"
                             desc = item.get('description', '') or 'Aucune description.'
                             
-                            display_name = f"[{name}]({url})" if url and url != '#' else name
-                            table_lines.append(f"| {display_name} | {version} | {sha_short} | {desc} |")
+                            display_version = f"[{version}]({url})" if url and url != '#' else version
+                            table_lines.append(f"| {name} | {display_version} | {sha_short} | {desc} |")
                 
                 content += "\n".join(table_lines) + "\n\n"
             content += "---\n\n"
