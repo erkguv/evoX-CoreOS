@@ -75,10 +75,11 @@ jobs:
           git tag -d latest 2>/dev/null || true
           git push origin --delete latest 2>/dev/null || true
 
-          # Nettoyage optionnel des anciennes releases horodatées (garde les 20 plus récentes par exemple pour éviter de saturer)
-          echo "🧹 Nettoyage des anciennes releases..."
-          for rel in $(gh release list --limit 100 --json tagName -q ".[].tagName" | grep -v "latest"); do
-            # Optionnel : tu peux supprimer ou commenter si tu veux tout garder
+          # Nettoyage intelligent : ne garde que les 5 plus récentes et supprime le reste proprement
+          echo "🧹 Nettoyage des anciennes releases (conservation des 5 dernières)..."
+          old_releases=$(gh release list --limit 50 --json tagName -q ".[].tagName" | grep -v "latest" | tail -n +6)
+          for rel in $old_releases; do
+            echo "Suppression de l'ancienne release : $rel"
             gh release delete "$rel" --yes || true
             git push origin --delete "$rel" || true
             git tag -d "$rel" || true
