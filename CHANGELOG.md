@@ -1,5 +1,24 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/10/2026 à 15:59
+* **PAYLOADS**
+  * `Phu-Sandbox.Exit V1.0` (Source-Fixe) - *Nouveau*
+* **PKG**
+  * `Markus Phu-Emupack-Ki-Arcade.Collection.Ps5` (Source-Fixe) - *Nouveau*
+  * `Markus Phu-Emupack-Paprium-Port.Ps5` (Source-Fixe) - *Nouveau*
+* **APPS**
+  * `Flycast-Ps5-2026.10.06` (v2026.10.06-run14) - *Nouveau*
+  * `Porpoise-2.1.1` (v2.1.1) - *Nouveau*
+  * `Markus Phu-Emupack Ps1-Tool.Ps5` (Source-Fixe) - *Nouveau*
+  * `Markus Phu-Emupack-Nes.Ps5` (Source-Fixe) - *Nouveau*
+  * `Markus Phu-Emupack-Snes.Ps5` (Source-Fixe) - *Nouveau*
+  * `Markus Phu-Emupack-Ultra64.Ps5` (Source-Fixe) - *Nouveau*
+  * `Markus Phu-Emupack-Sms.Md.Megacd.32X.Ps5` (Source-Fixe) - *Nouveau*
+  * `Markus Phu-Emupack Dreamcast.Ps5` (Source-Fixe) - *Nouveau*
+  * `Markus Phu-Emupack-Pc.Engine.Ps5` (Source-Fixe) - *Nouveau*
+  * `Phu-Sandbox.Exit V1.0` (v3.0) - *Nouveau*
+  * `Markus Phu-Emupack-Neogeo.Ps5` (Source-Fixe) - *Nouveau*
+
 ## Build du 06/10/2026 à 14:15
 * **PAYLOADS**
   * `Pad2C V0.2.1` (v0.2.1) - *Nouveau*

@@ -76,6 +76,7 @@
       <outline text="genplusgxPS5" title="genplusgxPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/genplusgxPS5" description="Port of Genesis-Plus-GX for PS55"/>
       <outline text="PS5X360" title="PS5X360" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360" description="x360 emu for ps5, you need PPSA97358.zip"/>
       <outline text="ps5-romm" title="ps5-romm" type="rss" xmlUrl="https://github.com/s0liton/ps5-romm" description="ps5-romm for ps5"/>
+      <outline text="PHU-Sandbox.Exit" title="PHU-Sandbox.Exit" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf" description="addon for Markus-PHU Emupack"/>
       <outline text="ps5-fan-control" title="ps5-fan-control" type="rss" xmlUrl="https://github.com/owendswang/ps5-fan-control" description="Small PS5 daemon payload ELF that sets the system fan temperature."/>
       <outline text="fan_target" title="fan_target" type="rss" xmlUrl="https://github.com/drakmor/fan_target" description="fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console's automatic fan control enabled."/>
       <outline text="FGG-PlayPods-GUI" title="FGG-PlayPods-GUI" type="rss" xmlUrl="https://github.com/menfis911/FGG-PlayPods-GUI" description="AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem."/>
@@ -125,6 +126,8 @@
       <outline text="Mario Kart 64 Port" title="Mario Kart 64 Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg" description="PS5PKG_MK64_Port."/>
       <outline text="God Of War - Betrayal Port" title="God Of War - Betrayal Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg" description="PS5PKG_MK64_Port."/>
       <outline text="Spectrum-Library" title="Spectrum-Library" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library" description="Spectrum-Library FreeShop."/>
+      <outline text="Markus_PHU-EmuPack-KI-Arcade.Collection.PS5" title="Markus_PHU-EmuPack-KI-Arcade.Collection.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg" description="Markus_PHU-EmuPack-KI-Arcade.Collection.PS5."/>
+      <outline text="Markus_PHU-EmuPack-Paprium-Port.PS5" title="Markus_PHU-EmuPack-Paprium-Port.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg" description="Markus_PHU-EmuPack-Paprium-Port.PS5."/>
     </outline>
     <outline text="Ffpfsc" title="Ffpfsc">
       <outline text="ProsperoEden" title="ProsperoEden" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoEden/releases.atom" description="PS5 Switch emulator"/>
@@ -156,6 +159,15 @@
       <outline text="pico8-ps5" title="pico8-ps5" type="rss" xmlUrl="https://github.com/RafaelNGP/pico8-ps5" description="PICO-8 for PS5"/>
       <outline text="prospero-win" title="prospero-win" type="rss" xmlUrl="https://github.com/mpereiraesaa/prospero-win" description="Wine for PS5"/>
       <outline text="Vita3K-PS5" title="Vita3K-PS5" type="rss" xmlUrl="https://github.com/tsuramatsu1/Vita3K-PS5" description="Vita3K for PS5"/>
+      <outline text="EmuPack_PS1-Tool.PS5" title="EmuPack_PS1-Tool.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar" description="EmuPack_PS1-Tool.PS5"/>
+      <outline text="EmuPack-Nes.PS5" title="EmuPack-Nes.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Nes.PS5.rar" description="EmuPack-Nes.PS5"/>
+      <outline text="EmuPack-Snes.PS5" title="EmuPack-Snes.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Snes.PS5.rar" description="EmuPack-Snes.PS5"/>
+      <outline text="EmuPack-Ultra64.PS5" title="EmuPack-Ultra64.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Ultra64.PS5.rar" description="EmuPack-Ultra64.PS5"/>
+      <outline text="EmuPack-SMS.MD.MegaCD.32x.PS5" title="EmuPack-SMS.MD.MegaCD.32x.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-SMS.MD.MegaCD.32x.PS5.rar" description="EmuPack-SMS.MD.MegaCD.32x.PS5"/>
+      <outline text="Markus_PHU-EmuPack_Dreamcast.PS5" title="Markus_PHU-EmuPack_Dreamcast.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Dreamcast.PS5.rar" description="Markus_PHU-EmuPack_Dreamcast.PS5"/>
+      <outline text="EmuPack-PC.Engine.PS5" title="EmuPack-PC.Engine.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-PC.Engine.PS5.rar" description="EmuPack-PC.Engine.PS5"/>
+      <outline text="EmuPack_Mame.PS5" title="EmuPack_Mame.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Mame.PS5.rarm" description="EmuPack_Mame.PS5"/>
+      <outline text="EmuPack-NeoGeo.PS5" title="EmuPack-NeoGeo.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar" description="EmuPack-NeoGeo.PS5"/>
     </outline>
   </body>
 </opml>

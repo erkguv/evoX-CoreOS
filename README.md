@@ -126,6 +126,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | Genplusgxps5 V1.0 | [v1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.0/genplusgxPS5_v1.0.elf) | `d3be76f3755c...` | Port of Genesis-Plus-GX for PS55 |
+| Phu-Sandbox.Exit V1.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | addon for Markus-PHU Emupack |
 | Ps5-Romm V1.0.2 | [v1.0.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf) | `210b85775b55...` | ps5-romm for ps5 |
 | Ps5X360 V0.5.6 | [v0.5.6](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.6/PS5X360_v0.5.6.elf) | `5da64c23263e...` | x360 emu for ps5, you need PPSA97358.zip |
 | Snes9Xps5 V2.0 | [v2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf) | `fa7d317ef132...` | snes9x emulator |
@@ -241,7 +242,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `84b6dd1ceeb1...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `656ea9fe4e32...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -370,6 +371,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Package | Auteur | Version | Description |
 | :--- | :--- | :--- | :--- |
+| Markus Phu-Emupack-Ki-Arcade.Collection.Ps5 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg) | Markus_PHU-EmuPack-KI-Arcade.Collection.PS5. |
+| Markus Phu-Emupack-Paprium-Port.Ps5 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg) | Markus_PHU-EmuPack-Paprium-Port.PS5. |
 | Ps5-Shop-Appkg | Inconnu | [Source-Fixe](https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg) | PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi . |
 | Ps5Library | Inconnu | [Source-Fixe](https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg) | PS5Library need ps5library-agent.elf. |
 | Ps5Pkg Avatar-Changer V1.00 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg) | Avatar-Changer. |
@@ -412,8 +415,17 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | Castation-0.4.0 | [v0.4.0](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | `6b17a8feaf3a...` | Dreamcast flycast emu for ps5 |
-| Flycast-Ps5-2026.10.03 | [v2026.10.03-run13](https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip) | `7c380da8030a...` | flycast-ps5-libretro-core |
-| Porpoise-2.1 | [v2.1](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1/Porpoise-2.1.zip) | `c4b2424825e1...` | GameCube and Wii Dolphin emu for ps5 |
+| Flycast-Ps5-2026.10.06 | [v2026.10.06-run14](https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip) | `c53a603af916...` | flycast-ps5-libretro-core |
+| Markus Phu-Emupack Dreamcast.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Dreamcast.PS5.rar) | `65e1ab652c46...` | Markus_PHU-EmuPack_Dreamcast.PS5 |
+| Markus Phu-Emupack Ps1-Tool.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar) | `f2abb56e05c0...` | EmuPack_PS1-Tool.PS5 |
+| Markus Phu-Emupack-Neogeo.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar) | `dff3c2733ff0...` | EmuPack-NeoGeo.PS5 |
+| Markus Phu-Emupack-Nes.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Nes.PS5.rar) | `f953c80adf59...` | EmuPack-Nes.PS5 |
+| Markus Phu-Emupack-Pc.Engine.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-PC.Engine.PS5.rar) | `1133ce26108e...` | EmuPack-PC.Engine.PS5 |
+| Markus Phu-Emupack-Sms.Md.Megacd.32X.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-SMS.MD.MegaCD.32x.PS5.rar) | `d3652cf2854f...` | EmuPack-SMS.MD.MegaCD.32x.PS5 |
+| Markus Phu-Emupack-Snes.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Snes.PS5.rar) | `cddce7fe9ef1...` | EmuPack-Snes.PS5 |
+| Markus Phu-Emupack-Ultra64.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Ultra64.PS5.rar) | `0d259ccbe37f...` | EmuPack-Ultra64.PS5 |
+| Phu-Sandbox.Exit V1.0 | [v3.0](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | EmuPack_Mame.PS5 |
+| Porpoise-2.1.1 | [v2.1.1](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1.1/Porpoise-2.1.1.zip) | `608b17ae632d...` | GameCube and Wii Dolphin emu for ps5 |
 | Ppsa50011 | [v0.5.6](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PPSA50011.zip) | `10de45ac6aab...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | Ppsa97358 | [alpha-1](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/PPSA97358.zip) | `76656beeea24...` | Xbox emulator (Xemu) port for the PS5 |
 | Ppsa99300 | [alpha](https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip) | `bee5db90dd10...` | Vita3K for PS5 |
@@ -493,6 +505,17 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **Lapy** : [PS5-Xplorer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg)
 - **LightningMods** : [etaHEN](https://github.com/etaHEN/etaHEN)
 - **Loopayeh** : [pkg-receiver](https://github.com/Loopayeh/pkg-sender)
+- **Markus_PHU** : [EmuPack-NeoGeo.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar)
+- **Markus_PHU** : [EmuPack-Nes.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Nes.PS5.rar)
+- **Markus_PHU** : [EmuPack-PC.Engine.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-PC.Engine.PS5.rar)
+- **Markus_PHU** : [EmuPack-SMS.MD.MegaCD.32x.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-SMS.MD.MegaCD.32x.PS5.rar)
+- **Markus_PHU** : [EmuPack-Snes.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Snes.PS5.rar)
+- **Markus_PHU** : [EmuPack-Ultra64.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Ultra64.PS5.rar)
+- **Markus_PHU** : [EmuPack_Mame.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Mame.PS5.rarm)
+- **Markus_PHU** : [EmuPack_PS1-Tool.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar)
+- **Markus_PHU** : [Markus_PHU-EmuPack-KI-Arcade.Collection.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg)
+- **Markus_PHU** : [Markus_PHU-EmuPack-Paprium-Port.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg)
+- **Markus_PHU** : [Markus_PHU-EmuPack_Dreamcast.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Dreamcast.PS5.rar)
 - **Master0** : [PS5Webit-Nexgen999_Installer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg)
 - **MasterPS0** : [PS5-Power-Payloads-Project](https://github.com/MasterPS0/PS5-Power-Payloads-Project)
 - **Michele-M-Media** : [PIZZA-HEN](https://github.com/Michele-M-Media/PIZZA-HEN)
@@ -582,6 +605,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **rdiol12** : [PS5Library](https://github.com/rdiol12/PS5Library)
 - **rdiol12** : [PS5Library](https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg)
 - **rpf16rj** : [flycast-ps5-libretro-core](https://github.com/rpf16rj/flycast-ps5-libretro-core)
+- **s0liton** : [PHU-Sandbox.Exit](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf)
 - **s0liton** : [ps5-romm](https://github.com/s0liton/ps5-romm)
 - **saawant12** : [orbit-store-ps5](https://github.com/saawant12/orbit-store-ps5)
 - **sainsaji** : [EVO-PLAYER-PS5](https://github.com/sainsaji/EVO-PLAYER-PS5)

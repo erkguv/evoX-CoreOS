@@ -17,5 +17,7 @@
     <outline text="Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00" title="Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg" description="PS5Webit-Nexgen999_Installer."/>
     <outline text="Ps5Pkg Mk64 Port" title="Ps5Pkg Mk64 Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg" description="PS5PKG_MK64_Port."/>
     <outline text="Ps5Pkg Gow-Betrayal Port" title="Ps5Pkg Gow-Betrayal Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg" description="PS5PKG_MK64_Port."/>
+    <outline text="Markus Phu-Emupack-Ki-Arcade.Collection.Ps5" title="Markus Phu-Emupack-Ki-Arcade.Collection.Ps5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg" description="Markus_PHU-EmuPack-KI-Arcade.Collection.PS5."/>
+    <outline text="Markus Phu-Emupack-Paprium-Port.Ps5" title="Markus Phu-Emupack-Paprium-Port.Ps5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg" description="Markus_PHU-EmuPack-Paprium-Port.PS5."/>
   </body>
 </opml>

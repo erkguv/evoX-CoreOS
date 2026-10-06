@@ -102,13 +102,13 @@
             "category": "Applications"
         },
         {
-            "name": "Flycast-Ps5-2026.10.03",
-            "filename": "flycast-ps5-2026.10.03.zip",
-            "url": "https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip",
-            "local_path": "apps/flycast-ps5-libretro-core/v2026.10.03-run13/flycast-ps5-2026.10.03.zip",
+            "name": "Flycast-Ps5-2026.10.06",
+            "filename": "flycast-ps5-2026.10.06.zip",
+            "url": "https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip",
+            "local_path": "apps/flycast-ps5-libretro-core/v2026.10.06-run14/flycast-ps5-2026.10.06.zip",
             "description": "flycast-ps5-libretro-core",
-            "version": "v2026.10.03-run13",
-            "checksum": "7c380da8030a97535ac44466ea727c72ab216a8c32669daacf9668cb028c06e2",
+            "version": "v2026.10.06-run14",
+            "checksum": "c53a603af9161db36c97859e08efb0cb136aad5da50d96c788446f4b6950a8fd",
             "category": "Applications"
         },
         {
@@ -152,13 +152,13 @@
             "category": "Applications"
         },
         {
-            "name": "Porpoise-2.1",
-            "filename": "Porpoise-2.1.zip",
-            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1/Porpoise-2.1.zip",
-            "local_path": "apps/Porpoise/v2.1/Porpoise-2.1.zip",
+            "name": "Porpoise-2.1.1",
+            "filename": "Porpoise-2.1.1.zip",
+            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1.1/Porpoise-2.1.1.zip",
+            "local_path": "apps/Porpoise/v2.1.1/Porpoise-2.1.1.zip",
             "description": "GameCube and Wii Dolphin emu for ps5",
-            "version": "v2.1",
-            "checksum": "c4b2424825e1d045a7d5eacb17be4c7b9565923a88c471d0aa173e8c4d2d9988",
+            "version": "v2.1.1",
+            "checksum": "608b17ae632d83709464ac04f926bd1d7e91535e1576a9c7a41ce5f7c9e6a183",
             "category": "Applications"
         },
         {
@@ -209,6 +209,96 @@
             "description": "Vita3K for PS5",
             "version": "alpha",
             "checksum": "bee5db90dd10a7b4c7555772edff96125fc91752eb9d1b0ce4c6fb02eaee8195",
+            "category": "Applications"
+        },
+        {
+            "name": "Markus Phu-Emupack Ps1-Tool.Ps5",
+            "filename": "Markus_PHU-EmuPack_PS1-Tool.PS5.rar",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar",
+            "local_path": "apps/EmuPack_PS1-Tool.PS5/Source-Fixe/Markus_PHU-EmuPack_PS1-Tool.PS5.rar",
+            "description": "EmuPack_PS1-Tool.PS5",
+            "version": "Source-Fixe",
+            "checksum": "f2abb56e05c0cd8077c5cf47ec8b1526ef5783798ae9629ee24e10b734f4c830",
+            "category": "Applications"
+        },
+        {
+            "name": "Markus Phu-Emupack-Nes.Ps5",
+            "filename": "Markus_PHU-EmuPack-Nes.PS5.rar",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Nes.PS5.rar",
+            "local_path": "apps/EmuPack-Nes.PS5/Source-Fixe/Markus_PHU-EmuPack-Nes.PS5.rar",
+            "description": "EmuPack-Nes.PS5",
+            "version": "Source-Fixe",
+            "checksum": "f953c80adf595b1aaefac6e12ba7a8c45596cd97be7fd1c0ea3b9ca9750ebd18",
+            "category": "Applications"
+        },
+        {
+            "name": "Markus Phu-Emupack-Snes.Ps5",
+            "filename": "Markus_PHU-EmuPack-Snes.PS5.rar",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Snes.PS5.rar",
+            "local_path": "apps/EmuPack-Snes.PS5/Source-Fixe/Markus_PHU-EmuPack-Snes.PS5.rar",
+            "description": "EmuPack-Snes.PS5",
+            "version": "Source-Fixe",
+            "checksum": "cddce7fe9ef195e65472162c055b8ac2e0a9aa202568b485738f2f5fc34a8176",
+            "category": "Applications"
+        },
+        {
+            "name": "Markus Phu-Emupack-Ultra64.Ps5",
+            "filename": "Markus_PHU-EmuPack-Ultra64.PS5.rar",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Ultra64.PS5.rar",
+            "local_path": "apps/EmuPack-Ultra64.PS5/Source-Fixe/Markus_PHU-EmuPack-Ultra64.PS5.rar",
+            "description": "EmuPack-Ultra64.PS5",
+            "version": "Source-Fixe",
+            "checksum": "0d259ccbe37fbc7faa22f9500a64852ff743c91002d1fc0c71487b21b42979ee",
+            "category": "Applications"
+        },
+        {
+            "name": "Markus Phu-Emupack-Sms.Md.Megacd.32X.Ps5",
+            "filename": "Markus_PHU-EmuPack-SMS.MD.MegaCD.32x.PS5.rar",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-SMS.MD.MegaCD.32x.PS5.rar",
+            "local_path": "apps/EmuPack-SMS.MD.MegaCD.32x.PS5/Source-Fixe/Markus_PHU-EmuPack-SMS.MD.MegaCD.32x.PS5.rar",
+            "description": "EmuPack-SMS.MD.MegaCD.32x.PS5",
+            "version": "Source-Fixe",
+            "checksum": "d3652cf2854fd3a545f555d8069110d165ba1d263efb4a5ea21a39c3f0216eca",
+            "category": "Applications"
+        },
+        {
+            "name": "Markus Phu-Emupack Dreamcast.Ps5",
+            "filename": "Markus_PHU-EmuPack_Dreamcast.PS5.rar",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Dreamcast.PS5.rar",
+            "local_path": "apps/Markus_PHU-EmuPack_Dreamcast.PS5/Source-Fixe/Markus_PHU-EmuPack_Dreamcast.PS5.rar",
+            "description": "Markus_PHU-EmuPack_Dreamcast.PS5",
+            "version": "Source-Fixe",
+            "checksum": "65e1ab652c462b22b6f38bf488ab95402d50b45765190f324003d815a113212d",
+            "category": "Applications"
+        },
+        {
+            "name": "Markus Phu-Emupack-Pc.Engine.Ps5",
+            "filename": "Markus_PHU-EmuPack-PC.Engine.PS5.rar",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-PC.Engine.PS5.rar",
+            "local_path": "apps/EmuPack-PC.Engine.PS5/Source-Fixe/Markus_PHU-EmuPack-PC.Engine.PS5.rar",
+            "description": "EmuPack-PC.Engine.PS5",
+            "version": "Source-Fixe",
+            "checksum": "1133ce26108ebc2ee72c91d8df8f652cf7ce8a6a623b123d7fd68e910067d9ac",
+            "category": "Applications"
+        },
+        {
+            "name": "Phu-Sandbox.Exit V1.0",
+            "filename": "PHU-Sandbox.Exit_v1.0.elf",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf",
+            "local_path": "apps/EmuPack_Mame.PS5/v3.0/PHU-Sandbox.Exit_v1.0.elf",
+            "description": "EmuPack_Mame.PS5",
+            "version": "v3.0",
+            "checksum": "228462a0f7fc9f40f9ae7460feaf5516ab5a36f1fb6d912664e7d1f289ad204e",
+            "category": "Applications"
+        },
+        {
+            "name": "Markus Phu-Emupack-Neogeo.Ps5",
+            "filename": "Markus_PHU-EmuPack-NeoGeo.PS5.rar",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar",
+            "local_path": "apps/EmuPack-NeoGeo.PS5/Source-Fixe/Markus_PHU-EmuPack-NeoGeo.PS5.rar",
+            "description": "EmuPack-NeoGeo.PS5",
+            "version": "Source-Fixe",
+            "checksum": "dff3c2733ff02e4c1c30d024d904ada0e9dcdc724e76842c34284a7c3174871b",
             "category": "Applications"
         }
     ]

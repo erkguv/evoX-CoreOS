@@ -467,6 +467,12 @@
       <pubDate>v1.0.2</pubDate>
     </item>
     <item>
+      <title>Phu-Sandbox.Exit V1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf</link>
+      <description>addon for Markus-PHU Emupack</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
       <title>Ps5-Fan-Control V0.3</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf</link>
       <description>Small PS5 daemon payload ELF that sets the system fan temperature.</description>

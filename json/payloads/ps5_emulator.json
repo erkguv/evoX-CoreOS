@@ -40,6 +40,16 @@
       "version": "v1.0.2",
       "category": "PS5 Emulator",
       "checksum": "210b85775b551ca1267a5a84998e3cc9c498f764fcb7bbdd66a98d1c4c5a420d"
+    },
+    {
+      "name": "Phu-Sandbox.Exit V1.0",
+      "filename": "PHU-Sandbox.Exit_v1.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf",
+      "local_path": "payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf",
+      "description": "addon for Markus-PHU Emupack",
+      "version": "Source-Fixe",
+      "category": "PS5 Emulator",
+      "checksum": "228462a0f7fc9f40f9ae7460feaf5516ab5a36f1fb6d912664e7d1f289ad204e"
     }
   ]
 }

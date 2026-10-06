@@ -171,6 +171,30 @@
             "title": "God of War Betrayal"
         },
         {
+            "name": "Markus Phu-Emupack-Ki-Arcade.Collection.Ps5",
+            "filename": "Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg",
+            "local_path": "pkg/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5/Source-Fixe/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg",
+            "description": "Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.",
+            "version": "Source-Fixe",
+            "checksum": "aeb6624067ca058a359919d59a7a4be13a4b043d149bfe6f55cbbf5f205f16f8",
+            "category": "PKG",
+            "titleId": "CUSA00000",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+        },
+        {
+            "name": "Markus Phu-Emupack-Paprium-Port.Ps5",
+            "filename": "Markus_PHU-EmuPack-Paprium-Port.PS5.pkg",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg",
+            "local_path": "pkg/Markus_PHU-EmuPack-Paprium-Port.PS5/Source-Fixe/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg",
+            "description": "Markus_PHU-EmuPack-Paprium-Port.PS5.",
+            "version": "Source-Fixe",
+            "checksum": "e68c106367d5419be39a0f5eda39772fd9e7536829eecf74c8e0d3ec32114930",
+            "category": "PKG",
+            "titleId": "CUSA00000",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+        },
+        {
             "name": "Ppsa99002",
             "filename": "PPSA99002.ffpfsc",
             "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc",

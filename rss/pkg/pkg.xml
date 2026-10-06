@@ -82,5 +82,17 @@
       <description>PS5PKG_MK64_Port.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
+    <item>
+      <title>Markus Phu-Emupack-Ki-Arcade.Collection.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg</link>
+      <description>Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>Markus Phu-Emupack-Paprium-Port.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg</link>
+      <description>Markus_PHU-EmuPack-Paprium-Port.PS5.</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
   </channel>
 </rss>

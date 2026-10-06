@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.06-1415)
+### 🚀 Synthèse de la mise à jour (v2026.10.06-1559)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -95,6 +95,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `genplusgxPS5_v1.0.elf`
   * `PS5X360_v0.5.6.elf`
   * `ps5-romm_v1.0.2.elf`
+  * `PHU-Sandbox.Exit_v1.0.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
   * `fan_target_v0.1.elf`
@@ -156,6 +157,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg`
   * `PS5PKG_MK64_Port.pkg`
   * `PS5PKG_GOW-Betrayal_Port.pkg`
+  * `Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg`
+  * `Markus_PHU-EmuPack-Paprium-Port.PS5.pkg`
 
 </details>
 
@@ -184,17 +187,26 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ProsperoExplorer-v1.zip`
   * `PPSA99000.zip`
   * `SpectrumLibrary_1.0.4.zip`
-  * `flycast-ps5-2026.10.03.zip`
+  * `flycast-ps5-2026.10.06.zip`
   * `PPSA50011.zip`
   * `PS5X360-AutoLog-v1.0.9-preview.elf`
   * `PPSA97358.zip`
   * `xpsemu_tools.elf`
-  * `Porpoise-2.1.zip`
+  * `Porpoise-2.1.1.zip`
   * `XashPS5-v1.0-PPSA99999.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`
   * `prospero-win-v0.1.1.zip`
   * `PPSA99300.zip`
+  * `Markus_PHU-EmuPack_PS1-Tool.PS5.rar`
+  * `Markus_PHU-EmuPack-Nes.PS5.rar`
+  * `Markus_PHU-EmuPack-Snes.PS5.rar`
+  * `Markus_PHU-EmuPack-Ultra64.PS5.rar`
+  * `Markus_PHU-EmuPack-SMS.MD.MegaCD.32x.PS5.rar`
+  * `Markus_PHU-EmuPack_Dreamcast.PS5.rar`
+  * `Markus_PHU-EmuPack-PC.Engine.PS5.rar`
+  * `PHU-Sandbox.Exit_v1.0.elf`
+  * `Markus_PHU-EmuPack-NeoGeo.PS5.rar`
 
 </details>
 

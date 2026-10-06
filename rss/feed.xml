@@ -467,6 +467,12 @@
       <pubDate>v1.0.2</pubDate>
     </item>
     <item>
+      <title>[Payloads] Phu-Sandbox.Exit V1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf</link>
+      <description>addon for Markus-PHU Emupack</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Ps5-Fan-Control V0.3</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf</link>
       <description>Small PS5 daemon payload ELF that sets the system fan temperature.</description>
@@ -791,6 +797,18 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
+      <title>[Packages PKG] Markus Phu-Emupack-Ki-Arcade.Collection.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg</link>
+      <description>Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Packages PKG] Markus Phu-Emupack-Paprium-Port.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg</link>
+      <description>Markus_PHU-EmuPack-Paprium-Port.PS5.</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
       <title>[Fichiers FFPFSC] Ppsa99002</title>
       <link>https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc</link>
       <description>PS5 Moonlight</description>
@@ -875,10 +893,10 @@
       <pubDate>1.0.4</pubDate>
     </item>
     <item>
-      <title>[Applications] Flycast-Ps5-2026.10.03</title>
-      <link>https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip</link>
+      <title>[Applications] Flycast-Ps5-2026.10.06</title>
+      <link>https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip</link>
       <description>flycast-ps5-libretro-core</description>
-      <pubDate>v2026.10.03-run13</pubDate>
+      <pubDate>v2026.10.06-run14</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa50011</title>
@@ -905,10 +923,10 @@
       <pubDate>alpha-1</pubDate>
     </item>
     <item>
-      <title>[Applications] Porpoise-2.1</title>
-      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1/Porpoise-2.1.zip</link>
+      <title>[Applications] Porpoise-2.1.1</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1.1/Porpoise-2.1.1.zip</link>
       <description>GameCube and Wii Dolphin emu for ps5</description>
-      <pubDate>v2.1</pubDate>
+      <pubDate>v2.1.1</pubDate>
     </item>
     <item>
       <title>[Applications] Xashps5-V1.0-Ppsa99999</title>
@@ -939,6 +957,60 @@
       <link>https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip</link>
       <description>Vita3K for PS5</description>
       <pubDate>alpha</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Markus Phu-Emupack Ps1-Tool.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar</link>
+      <description>EmuPack_PS1-Tool.PS5</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Markus Phu-Emupack-Nes.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Nes.PS5.rar</link>
+      <description>EmuPack-Nes.PS5</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Markus Phu-Emupack-Snes.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Snes.PS5.rar</link>
+      <description>EmuPack-Snes.PS5</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Markus Phu-Emupack-Ultra64.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Ultra64.PS5.rar</link>
+      <description>EmuPack-Ultra64.PS5</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Markus Phu-Emupack-Sms.Md.Megacd.32X.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-SMS.MD.MegaCD.32x.PS5.rar</link>
+      <description>EmuPack-SMS.MD.MegaCD.32x.PS5</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Markus Phu-Emupack Dreamcast.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Dreamcast.PS5.rar</link>
+      <description>Markus_PHU-EmuPack_Dreamcast.PS5</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Markus Phu-Emupack-Pc.Engine.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-PC.Engine.PS5.rar</link>
+      <description>EmuPack-PC.Engine.PS5</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Phu-Sandbox.Exit V1.0</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf</link>
+      <description>EmuPack_Mame.PS5</description>
+      <pubDate>v3.0</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Markus Phu-Emupack-Neogeo.Ps5</title>
+      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar</link>
+      <description>EmuPack-NeoGeo.PS5</description>
+      <pubDate>Source-Fixe</pubDate>
     </item>
   </channel>
 </rss>
