@@ -33,7 +33,6 @@ jobs:
         run: |
           sudo apt-get clean
           sudo rm -rf /var/lib/apt/lists/*
-          # Suppression nette et définitive du fichier sources de Google Chrome
           sudo rm -f /etc/apt/sources.list.d/google-chrome.sources
           sudo rm -f /etc/apt/sources.list.d/google-chrome.list
           
@@ -44,32 +43,42 @@ jobs:
           sudo apt update
           sudo apt install gh -y
 
-      - name: 5. Authentification GitHub CLI
-        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
-
-      - name: 6. Lancement de la mise à jour globale
+      - name: 5. Lancement de la mise à jour globale
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FORGEJO_TOKEN: ${{ secrets.FORGEJO_TOKEN }}
         run: python update_store.py
 
-      - name: 7. Commit et Push du code source et des binaires
+      - name: 6. Commit et Push du code source et des binaires
         run: |
           find . -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true
+          git config --global http.postBuffer 524288000
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # Nettoyage de sécurité en excluant le dossier archives/ pour ne pas supprimer les ZIP finaux
+          find . -path "./archives" -prune -o -type f \( -name "*.pkg" -o -name "*.bin" -o -name "*.zip" \) -size +90M -delete 2>/dev/null || true
+          
           git add -A
           git diff-index --quiet HEAD || (git commit -m "🤖 Auto-update store, RSS, Release Notes & Packages [skip ci]" && git push)
 
-      - name: 8. Nettoyage et Publication des Releases avec notes structurées
+      - name: 7. Nettoyage et Publication des Releases avec notes structurées
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           TAG="v$(date +'%Y.%m.%d-%H%M')"
 
-          # Nettoyage radical de TOUTES les anciennes releases et tags du dépôt
-          echo "🧹 Suppression des anciennes releases et tags..."
-          for rel in $(gh release list --limit 100 --json tagName -q ".[].tagName"); do
+          # Nettoyage sécurisé de l'ancienne release 'latest' permanente si elle existe
+          gh release delete latest --yes || true
+          git tag -d latest 2>/dev/null || true
+          git push origin --delete latest 2>/dev/null || true
+
+          # Nettoyage optionnel des anciennes releases horodatées (garde les 20 plus récentes par exemple pour éviter de saturer)
+          echo "🧹 Nettoyage des anciennes releases..."
+          for rel in $(gh release list --limit 100 --json tagName -q ".[].tagName" | grep -v "latest"); do
+            # Optionnel : tu peux supprimer ou commenter si tu veux tout garder
             gh release delete "$rel" --yes || true
             git push origin --delete "$rel" || true
             git tag -d "$rel" || true
@@ -83,7 +92,7 @@ jobs:
 
           files_latest=$(ls archives/*_latest.zip 2>/dev/null || true)
 
-          # 1. Publication de la release horodatée en utilisant le fichier Markdown généré proprement par Python
+          # 1. Publication de la release horodatée
           if [ -n "$files_latest" ] && [ -f "release_notes.md" ]; then
             gh release create "$TAG" $files_latest \
               --title "PS5 Store AIO Release ($TAG)" \
