@@ -42,7 +42,14 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ## 📦 Packs Latest à Télécharger (AIO)
 
-_Aucune archive AIO générée pour le moment._
+- **PS5 APPS AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_latest.zip)
+- **PS5 FFPFSC AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip)
+- **PS5 PAYLOADS AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip)
+- **PS5 PKG AIO PART1** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part1_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part1_latest.zip)
+- **PS5 PKG AIO PART2** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part2_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part2_latest.zip)
+- **PS5 ULTIMATE PACK PART1** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip)
+- **PS5 ULTIMATE PACK PART2** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip)
+- **PS5 ULTIMATE PACK PART3** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip)
 
 ---
 ## ⚡ Payloads (.elf / .bin) Disponibles par Catégorie
@@ -161,7 +168,7 @@ _Aucune archive AIO générée pour le moment._
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Orbit Store | [v0.7.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.7.0/orbit_store.elf) | `12f9f3b7cb66...` | A modern, no-BS download manager for PS5. |
+| Orbit Store | [v0.8.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.8.0/orbit_store.elf) | `f8188366e1b6...` | A modern, no-BS download manager for PS5. |
 | Pegasus-Dl V1.10.1 | [v1.10.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf) | `b24fdc62fc6c...` | free store webadmin http://your-ps5-ip:6970. |
 | Ps5-Phstore Vphstore | [PHStore](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf) | `64d5c4605a06...` | Free PH Store client for PS5. |
 | Ps5Library-Agent-0.2.55 | [v0.2.55](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf) | `1efb53f018dc...` | You need PS5Library.pkg. |
@@ -237,7 +244,7 @@ _Aucune archive AIO générée pour le moment._
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `6fe0f8597315...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `39cee2f976be...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |

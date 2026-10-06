@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/10/2026 à 17:13
+* **PAYLOADS**
+  * `Orbit Store` (v0.8.0) - *Mise à jour (Précédent: v0.7.0)*
+
 ## Build du 06/10/2026 à 15:59
 * **PAYLOADS**
   * `Phu-Sandbox.Exit V1.0` (Source-Fixe) - *Nouveau*

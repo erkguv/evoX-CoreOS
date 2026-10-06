@@ -179,8 +179,9 @@
             "version": "Source-Fixe",
             "checksum": "aeb6624067ca058a359919d59a7a4be13a4b043d149bfe6f55cbbf5f205f16f8",
             "category": "PKG",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "titleId": "KILL00095",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Killer.Instinct-Arcade.Collection.png",
+            "title": "Killer Instinct - Arcade Collection"
         },
         {
             "name": "Markus Phu-Emupack-Paprium-Port.Ps5",
@@ -191,8 +192,9 @@
             "version": "Source-Fixe",
             "checksum": "e68c106367d5419be39a0f5eda39772fd9e7536829eecf74c8e0d3ec32114930",
             "category": "PKG",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "titleId": "PAPR00095",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Markus_PHU-EmuPack-Paprium-Port.PS5.png",
+            "title": "Paprium"
         },
         {
             "name": "Ppsa99002",

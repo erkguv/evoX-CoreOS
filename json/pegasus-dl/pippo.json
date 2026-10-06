@@ -3,6 +3,58 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01317",
+      "title": "Gran Turismo 7",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/oeSJ8lHw#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/oeSJ8lHw#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/oeSJ8lHw#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/oeSJ8lHw#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/oeSJ8lHw#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/9F6JZjjy#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/9F6JZjjy#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/9F6JZjjy#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/9F6JZjjy#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/9F6JZjjy#FileDitch"
+        }
+      ],
+      "version": "v01.710",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/yZ7dpmjtHr1olhutHT57IFRh.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA01317, v01.710, USA to EUR Langs, DLCs Merged, 4.xx BackPort\nSize: 285GB\nCredits: Files: High-Speed007 & PSVIETHOA; Backport: DecKerr97; DLC: High-Speed007 & PSVIETHOA\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included. All cars add in Garage and also Debug Settings added.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 306016419840
+    },
+    {
       "titleId": "PPSA03671",
       "title": "Marvels Wolverine Deluxe Edition",
       "downloadLinks": [
@@ -46,7 +98,7 @@
       "version": "v01.001.005",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Fubc\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG is 13.xx, separated BackPort PKG for 4.xx with Pro Fix included. DLCs available after the prologue, after the first suit and unlock the gear tab.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Fubc\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 13.xx, separated BackPort PKG for 4.xx with Pro Fix included. DLCs available after the prologue, after the first suit and unlock the gear tab.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 196494753792
     },
@@ -711,7 +763,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 4940105,
+      "id": 4942965,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -10525,7 +10577,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4940360,
+      "id": 4943220,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -14091,7 +14143,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4940463,
+      "id": 4943323,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",
