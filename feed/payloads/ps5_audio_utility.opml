@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ps5_audio_utility</title>
+  </head>
+  <body>
+    <outline text="FGG-PlayPods-GUI" title="FGG-PlayPods-GUI" type="rss" xmlUrl="https://github.com/menfis911/FGG-PlayPods-GUI" author="menfis911" description="AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem."/>
+    <outline text="FGG-PlayPods" title="FGG-PlayPods" type="rss" xmlUrl="https://github.com/FGGstore/FGG-PlayPods" author="FGGstore" description="Hear your PlayStation 5 on an ordinary Bluetooth headset."/>
+  </body>
+</opml>
