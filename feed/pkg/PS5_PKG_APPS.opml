@@ -18,5 +18,7 @@
     <outline text="Mario Kart 64 Port" title="Mario Kart 64 Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg" author="m0ur0ne" description="PS5PKG_MK64_Port." />
     <outline text="God Of War - Betrayal Port" title="God Of War - Betrayal Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg" author="m0ur0ne" description="PS5PKG_MK64_Port." />
     <outline text="Spectrum-Library" title="Spectrum-Library" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library" author="Phoenixx1202" description="Spectrum-Library FreeShop." />
+    <outline text="Markus_PHU-EmuPack-KI-Arcade.Collection.PS5" title="Markus_PHU-EmuPack-KI-Arcade.Collection.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg" author="Markus_PHU" description="Markus_PHU-EmuPack-KI-Arcade.Collection.PS5." />
+    <outline text="Markus_PHU-EmuPack-Paprium-Port.PS5" title="Markus_PHU-EmuPack-Paprium-Port.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg" author="Markus_PHU" description="Markus_PHU-EmuPack-Paprium-Port.PS5." />
   </body>
 </opml>
