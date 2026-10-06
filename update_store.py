@@ -203,12 +203,7 @@ def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
 
         current_chunk = []
         current_size = 0
-        part_index = 1
         
-        # Calculer le nombre total de parts potentielles pour ce pack
-        # (Optionnel pour le renommage, on utilise _partX si > 1 part ou si c'est un ultimate pack)
-        
-        # On commence par regrouper les items par taille
         chunks = []
         for item in items:
             file_path = item.get("local_path") if isinstance(item, dict) else None
@@ -309,12 +304,13 @@ def main():
     print("📡 [3/5] Génération des flux RSS et OPML... ")
     build_rss_feed(data_store_flat)
 
+    # 1. Génération des archives ZIP d'abord pour qu'elles existent au moment de la création du README
+    build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat)
+
     print("📝 [4/4] Mise à jour du README.md, des Crédits, du Changelog et des Notes de Release...")
     build_readme(credits_set, data_store_by_cat)
     generate_build_changelog()
     generate_release_notes(data_store_by_cat)
-
-    build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat)
 
     print("✅ Mise à jour du store et des packages terminée avec succès !")
 
