@@ -73,13 +73,13 @@
     <item>
       <title>A53-Kstuff-Shadowmountplus-3In1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor</description>
+      <description>Experimental AIO by SoNic credit to EchoStrech DrakMor</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>A53-Kstuff-Smp</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor</description>
+      <description>Experimental AIO by SoNic credit to EchoStrech DrakMor</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
@@ -90,8 +90,8 @@
     </item>
     <item>
       <title>Kstuff-1.13-Fpkg-Dr-Test5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf</link>
-      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3</description>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Drakmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf</link>
+      <description>Experimental Kstuff DrakMor - kstuff-1.13-fpkg-dr-test3</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
@@ -409,7 +409,7 @@
     <item>
       <title>Omnipad-Ps5 V1.0.4-Hotfix1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf</link>
-      <description>Universal controller engine &amp; Web Dashboard for PlayStation 5 (FW 7.00 - 13.60).</description>
+      <description>Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60).</description>
       <pubDate>v1.0.4-hotfix1</pubDate>
     </item>
     <item>

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.06-1025)
+### 🚀 Synthèse de la mise à jour (v2026.10.06-1101)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -7,12 +7,13 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_pkg_aio_latest.zip`
 - `PS5_ffpfsc_aio_latest.zip`
 - `PS5_apps_aio_latest.zip`
-- `PS5_ultimate_pack_latest.zip`
+- `PS5_ultimate_pack_part1_latest.zip`
+- `PS5_ultimate_pack_part2_latest.zip`
 
 #### 📂 Fichiers inclus / mis à jour :
 📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)
 
-#### 🛠️️ Détail des Packs & Contenu
+#### 🛠 Détail des Packs & Contenu
 <details>
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 

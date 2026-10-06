@@ -116,7 +116,7 @@
             "filename": "A53-Kstuff-ShadowMountPlus-3in1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
             "local_path": "payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
-            "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
+            "description": "Experimental AIO by SoNic credit to EchoStrech DrakMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
             "checksum": "51f5c7973a2edb5db61bcbfb7afc3d2336f19368631f84bfc55d08ef4a3d4ab2"
@@ -126,7 +126,7 @@
             "filename": "A53-kstuff-SMP.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
             "local_path": "payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
-            "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
+            "description": "Experimental AIO by SoNic credit to EchoStrech DrakMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
             "checksum": "98fd2462262b6c3e46f8f5f44672ee50c5c3f8718b9a3281ae8220f05a06d3dc"
@@ -144,9 +144,9 @@
         {
             "name": "Kstuff-1.13-Fpkg-Dr-Test5",
             "filename": "kstuff-1.13-fpkg-dr-test5.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf",
-            "local_path": "payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf",
-            "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Drakmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf",
+            "local_path": "payloads/PS5_Beta/kstuff_Drakmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf",
+            "description": "Experimental Kstuff DrakMor - kstuff-1.13-fpkg-dr-test3",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
             "checksum": "829b45fe871dd64fbd53874ae4558076c2f1e1f203fe1ab52db5510d5fc45923"
@@ -676,7 +676,7 @@
             "filename": "OmniPad-PS5_v1.0.4-hotfix1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf",
             "local_path": "payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf",
-            "description": "Universal controller engine & Web Dashboard for PlayStation 5 (FW 7.00 - 13.60).",
+            "description": "Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60).",
             "version": "v1.0.4-hotfix1",
             "category": "PS5 Pad Utility",
             "checksum": "00677d6cfac752f1da395d2aeddfee1b5f8f3a3175c524bb0ca90afd9ea0d624"
