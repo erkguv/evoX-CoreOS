@@ -114,6 +114,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
+| [Genplusgxps5 V1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.0/genplusgxPS5_v1.0.elf) | v1.0 | `d3be76f3755c...` | Port of Genesis-Plus-GX for PS55 |
 | [Ps5-Romm V1.0.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf) | v1.0.2 | `210b85775b55...` | ps5-romm for ps5 |
 | [Ps5X360 V0.5.6](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.6/PS5X360_v0.5.6.elf) | v0.5.6 | `5da64c23263e...` | x360 emu for ps5, you need PPSA97358.zip |
 | [Snes9Xps5 V2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf) | v2.0 | `fa7d317ef132...` | snes9x emulator |
@@ -222,6 +223,20 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Ps5 Overlay](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf) | v1.0.15 | `5e843b4b20b5...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
 | [Ps5 Overlay Shellui](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf) | v1.0.15 | `54d23675bf44...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
 
+### 📂 PS5 Pad Utility
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_pad_utility.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| [Fgg-Xsense V1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | 1.1 | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
+| [Ghost-Toothapi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | Source-Fixe | `744277a72a26...` | ghost-toothAPI. |
+| [Omnipad-Ps5 V1.0.4-Hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | v1.0.4-hotfix1 | `00677d6cfac7...` | Universal controller engine & Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
+| [Poords4-Status V0.1.0-Rc51](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf) | v0.1.0-rc51 | `d47bb84a6ae0...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
+| [Poords4-Stop V0.1.0-Rc51](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf) | v0.1.0-rc51 | `ffdce4964f0d...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
+| [Poords4Rc51 V0.1.0-Rc51](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf) | v0.1.0-rc51 | `e1b9f257f516...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
+
 ### 📂 PS5 Pkg Tool
 
 > **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_pkg_tool.json`
@@ -249,6 +264,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
+| [Garlic-Savemgr V1.13.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf) | v1.13.1 | `b0fc2fcdda97...` | Save manager utility hosted on Forgejo. |
+| [Garlic-Worker V1.1.7](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf) | v1.1.7 | `2643f35cdfe9...` | Garlic worker payload component. |
 | [Savemnt-Offset-Dumper V1.0.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf) | 1.0.0 | `946328551f74...` | Offset dumper for save mounting utilities. |
 
 ### 📂 PS5 Sdk Debug
@@ -311,11 +328,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Chronicloader-Ps5-Payload V0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf) | 0.1 | `3561120f85e0...` | ChronicLoader utility payload for PS5. |
 | [Fgg-Playpods V1.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf) | 1.0 | `9ee1958ec24e...` | Hear your PlayStation 5 on an ordinary Bluetooth headset. |
 | [Fgg-Unpack V0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf) | v0.1 | `e8c8e57bbda3...` | Extract .zip and .7z archives directly on a jailbroken PlayStation 5. |
-| [Fgg-Xsense V1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | 1.1 | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
-| [Ghost-Toothapi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | Source-Fixe | `744277a72a26...` | ghost-toothAPI. |
-| [Poords4-Status V0.1.0-Rc51](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf) | v0.1.0-rc51 | `d47bb84a6ae0...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
-| [Poords4-Stop V0.1.0-Rc51](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf) | v0.1.0-rc51 | `ffdce4964f0d...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
-| [Poords4Rc51 V0.1.0-Rc51](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf) | v0.1.0-rc51 | `e1b9f257f516...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | [Ps Game State Lib V0.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf) | v0.1 | `a550e1494b0f...` | Standalone PS5 game-state detection payload - webui ps5ip:9877 . |
 | [Ps-Discordpresence V0.01](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS-DiscordPresence/v0.01/PS-DiscordPresence_v0.01.elf) | v0.01 | `375cf619ea6f...` | PS5 game activity service with a local status endpoint and a Python Discord RPC bridge. |
 | [Ps5-Date-Time-Sync V1.0.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf) | v1.0.0 | `918062298038...` | A lightweight, standalone PS5 payload that restores the console |
@@ -392,8 +404,10 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Porpoise-2.1](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1/Porpoise-2.1.zip) | v2.1 | `c4b2424825e1...` | GameCube and Wii Dolphin emu for ps5 |
 | [Ppsa50011](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PPSA50011.zip) | v0.5.6 | `10de45ac6aab...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | [Ppsa97358](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/PPSA97358.zip) | alpha-1 | `76656beeea24...` | Xbox emulator (Xemu) port for the PS5 |
-| [Ppsa99666](https://github.com/lowbit/ps5-doom/releases/download/v1.1.0/PPSA99666.zip) | v1.1.0 | `71f79585e0e0...` | Native DOOM for PS5 |
+| [Ppsa99300](https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip) | alpha | `bee5db90dd10...` | Vita3K for PS5 |
+| [Ppsa99666](https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip) | v1.1.1 | `4d8e5b785b61...` | Native DOOM for PS5 |
 | [Ppsa99808](https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip) | v0.1.2 | `d76e2bd55ea3...` | PICO-8 for PS5 |
+| [Prospero-Win-V0.1.1](https://github.com/mpereiraesaa/prospero-win/releases/download/v0.1.1/prospero-win-v0.1.1.zip) | v0.1.1 | `fdfa016cd609...` | Wine for PS5 |
 | [Ps5X360-Autolog-V1.0.9-Preview](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PS5X360-AutoLog-v1.0.9-preview.elf) | v0.5.6 | `5da64c23263e...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | [Xashps5-V1.0-Ppsa99999](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.0/XashPS5-v1.0-PPSA99999.zip) | v1.0 | `c054d3207676...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
 | [Xpsemu Tools](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/xpsemu_tools.elf) | alpha-1 | `16d32668fd57...` | Xbox emulator (Xemu) port for the PS5 |
@@ -419,8 +433,18 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [Dump Runner](https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip) | v1.02 | `0ffc4af70b23...` | Dump runner howmebrew |
 | [Emulatorpack](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip) | v1 | `1107bc5a546a...` | Backup manager for PS5 |
 | [Kodi-Ps5-Ppsa99420-0.9](https://github.com/VivaLaVent/kodi-ps5/releases/download/0.9/kodi-ps5-PPSA99420-0.9.zip) | 0.9 | `2cd23e792952...` | kodi-ps5 |
+| [Ppsa99000](https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.030/PPSA99000.zip) | v1.000.030 | `439b28e51990...` | homebrew store |
 | [Prosperoexplorer-V1](https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip) | v1.0 | `3eaee706e8ac...` | File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network |
 | [Prosperomultitools](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip) | v1 | `0e7c60d0e860...` | Backup manager for PS5 |
+
+### 📂 Applications
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/apps/zip_archive_pc_apps.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| [Spectrumlibrary 1.0.4](https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip) | 1.0.4 | `ac2bf12d56a3...` | Spectrum-Library-PC |
 
 ---
 
@@ -460,11 +484,13 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **Master0** : [PS5Webit-Nexgen999_Installer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg)
 - **MasterPS0** : [PS5-Power-Payloads-Project](https://github.com/MasterPS0/PS5-Power-Payloads-Project)
 - **Michele-M-Media** : [PIZZA-HEN](https://github.com/Michele-M-Media/PIZZA-HEN)
+- **MisterTemaki** : [genplusgxPS5](https://github.com/MisterTemaki/genplusgxPS5)
 - **MisterTemaki** : [snes9xPS5](https://github.com/MisterTemaki/snes9xPS5)
 - **MounirHero** : [PS-Play](https://github.com/MounirHero/PS-Play)
 - **NikoBellikJR31** : [PS5-Custom-Tool-Manager-](https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-)
 - **NookieAI** : [Kura](https://github.com/NookieAI/kura)
 - **OpenSourcereR-dev** : [ps5debug-NG](https://github.com/OpenSourcereR-dev/ps5debug-NG)
+- **Phoenixx1202** : [Spectrum-Library-PC](https://github.com/Phoenixx1202/Spectrum-Library-PC)
 - **PratikHackTR** : [PS5-PHStore](https://github.com/PratikHackTR/PS5-PHStore)
 - **RafaelNGP** : [pico8-ps5](https://github.com/RafaelNGP/pico8-ps5)
 - **RastaFairy** : [ProsperoRadio Vulkan Edition](https://github.com/RastaFairy/Prospero_Radio_Vulkan)
@@ -488,13 +514,17 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **bizkut** : [unrar-ps5](https://github.com/bizkut/unrar-ps5)
 - **blackbearreloaded** : [ProsperoAI](https://github.com/blackbearreloaded/ProsperoAI)
 - **blackbearreloaded** : [ProsperoLight](https://github.com/blackbearreloaded/ProsperoLight)
+- **blackbearreloaded** : [ProsperoStore](https://github.com/blackbearreloaded/ProsperoStore)
 - **blackbearreloaded** : [ProsperoTV](https://github.com/blackbearreloaded/ProsperoTV)
 - **cy33hc** : [ps5-ezremote-server](https://github.com/cy33hc/ps5-ezremote-server)
+- **diegobarbosaa** : [OmniPad-PS5](https://github.com/diegobarbosaa/OmniPad-PS5)
 - **drakmor** : [ShadowMountPlus](https://github.com/drakmor/ShadowMountPlus)
 - **drakmor** : [fan_target](https://github.com/drakmor/fan_target)
 - **drakmor** : [ftpsrv_drakmor](https://github.com/drakmor/ftpsrv)
 - **drakmor** : [kstuff-lite_drakmor](https://github.com/drakmor/kstuff-lite)
 - **drakmor** : [ps5-hwinfo](https://github.com/drakmor/ps5-hwinfo)
+- **earthonion** : [garlic-savemgr](https://git.etawen.dev/earthonion/garlic-savemgr)
+- **earthonion** : [garlic-worker](https://git.etawen.dev/earthonion/garlic-worker)
 - **earthonion** : [np-fake-signin](https://git.etawen.dev/earthonion/np-fake-signin)
 - **elripalda** : [Porpoise](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5)
 - **gcoding97** : [PS5-Game-Compressor fork](https://github.com/gcoding97/PS5-Game-Compressor)
@@ -513,6 +543,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **lowbit** : [ps5-doom](https://github.com/lowbit/ps5-doom)
 - **m0ur0ne** : [God Of War - Betrayal Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg)
 - **m0ur0ne** : [Mario Kart 64 Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg)
+- **mpereiraesaa** : [prospero-win](https://github.com/mpereiraesaa/prospero-win)
 - **notmaj0r** : [CheatRunner](https://github.com/notmaj0r/CheatRunner)
 - **notmaj0r** : [ProsperoMgr](https://github.com/notmaj0r/ProsperoMgr)
 - **owendswang** : [ps5-fan-control](https://github.com/owendswang/ps5-fan-control)
@@ -544,6 +575,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **seregonwar** : [zftpd](https://github.com/seregonwar/zftpd)
 - **smoxa** : [ps5-new-overlay](https://github.com/smoxa/ps5-new-overlay)
 - **theghostonline** : [Nuvio-PS5](https://github.com/theghostonline/Nuvio-PS5)
+- **tsuramatsu1** : [Vita3K-PS5](https://github.com/tsuramatsu1/Vita3K-PS5)
 - **tsuramatsu1** : [apr-emu-updater](https://github.com/tsuramatsu1/apr-emu-updater)
 - **zecoxao - LightningMods** : [etaHEN-Beta](https://github.com/zecoxao/zecoxao.github.io/raw/refs/heads/main/luasauce/payloads/etaHEN-2.6B.bin)
 

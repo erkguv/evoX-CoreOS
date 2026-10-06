@@ -1,0 +1,65 @@
+{
+  "name": "PS5 Pad Utility",
+  "payloads": [
+    {
+      "name": "Poords4-Status V0.1.0-Rc51",
+      "filename": "PoorDS4-status_v0.1.0-rc51.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
+      "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
+      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
+      "version": "v0.1.0-rc51",
+      "category": "PS5 Pad Utility",
+      "checksum": "d47bb84a6ae05117f095c05b75dfee15d9fbf07864a3e52d0e2e626eab613440"
+    },
+    {
+      "name": "Poords4-Stop V0.1.0-Rc51",
+      "filename": "PoorDS4-stop_v0.1.0-rc51.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
+      "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
+      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
+      "version": "v0.1.0-rc51",
+      "category": "PS5 Pad Utility",
+      "checksum": "ffdce4964f0d34a2b9be7cb65e6ad345d5beb582dcdf94d0214cde6bc79acd0d"
+    },
+    {
+      "name": "Poords4Rc51 V0.1.0-Rc51",
+      "filename": "PoorDS4rc51_v0.1.0-rc51.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf",
+      "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf",
+      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
+      "version": "v0.1.0-rc51",
+      "category": "PS5 Pad Utility",
+      "checksum": "e1b9f257f51678a977edaeafd4ca1f8a03e9df0afda7d5dd84435841fa20795d"
+    },
+    {
+      "name": "Omnipad-Ps5 V1.0.4-Hotfix1",
+      "filename": "OmniPad-PS5_v1.0.4-hotfix1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf",
+      "local_path": "payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf",
+      "description": "Universal controller engine & Web Dashboard for PlayStation 5 (FW 7.00 - 13.60).",
+      "version": "v1.0.4-hotfix1",
+      "category": "PS5 Pad Utility",
+      "checksum": "00677d6cfac752f1da395d2aeddfee1b5f8f3a3175c524bb0ca90afd9ea0d624"
+    },
+    {
+      "name": "Fgg-Xsense V1.1",
+      "filename": "FGG-XSense_v1.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
+      "local_path": "payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
+      "description": "Use an Xbox controller on a jailbroken PlayStation 5.",
+      "version": "1.1",
+      "category": "PS5 Pad Utility",
+      "checksum": "55195ccb02fbdbfa002e9188b0eff72d7d2e6de6c7a1c91666f88c6c9ff0d6c0"
+    },
+    {
+      "name": "Ghost-Toothapi",
+      "filename": "ghost-toothAPI.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
+      "local_path": "payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
+      "description": "ghost-toothAPI.",
+      "version": "Source-Fixe",
+      "category": "PS5 Pad Utility",
+      "checksum": "744277a72a268871284ad3b91565968df06c57c0acdabd921c8712e6de731f99"
+    }
+  ]
+}

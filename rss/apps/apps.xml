@@ -53,6 +53,18 @@
       <pubDate>v1.0</pubDate>
     </item>
     <item>
+      <title>Ppsa99000</title>
+      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.030/PPSA99000.zip</link>
+      <description>homebrew store</description>
+      <pubDate>v1.000.030</pubDate>
+    </item>
+    <item>
+      <title>Spectrumlibrary 1.0.4</title>
+      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
+      <description>Spectrum-Library-PC</description>
+      <pubDate>1.0.4</pubDate>
+    </item>
+    <item>
       <title>Flycast-Ps5-2026.10.03</title>
       <link>https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip</link>
       <description>flycast-ps5-libretro-core</description>
@@ -96,15 +108,27 @@
     </item>
     <item>
       <title>Ppsa99666</title>
-      <link>https://github.com/lowbit/ps5-doom/releases/download/v1.1.0/PPSA99666.zip</link>
+      <link>https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip</link>
       <description>Native DOOM for PS5</description>
-      <pubDate>v1.1.0</pubDate>
+      <pubDate>v1.1.1</pubDate>
     </item>
     <item>
       <title>Ppsa99808</title>
       <link>https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip</link>
       <description>PICO-8 for PS5</description>
       <pubDate>v0.1.2</pubDate>
+    </item>
+    <item>
+      <title>Prospero-Win-V0.1.1</title>
+      <link>https://github.com/mpereiraesaa/prospero-win/releases/download/v0.1.1/prospero-win-v0.1.1.zip</link>
+      <description>Wine for PS5</description>
+      <pubDate>v0.1.1</pubDate>
+    </item>
+    <item>
+      <title>Ppsa99300</title>
+      <link>https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip</link>
+      <description>Vita3K for PS5</description>
+      <pubDate>alpha</pubDate>
     </item>
   </channel>
 </rss>

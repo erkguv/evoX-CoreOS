@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.06-0446)
+### 🚀 Synthèse de la mise à jour (v2026.10.06-0955)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -17,6 +17,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
+  * `garlic-savemgr_v1.13.1.elf`
+  * `garlic-worker_v1.1.7.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `Common_FPS_PS5_v1.2.1.elf`
   * `ps5_overlay.elf`
@@ -49,18 +51,13 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5upload_v6.1.2.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
-  * `PoorDS4-stop_v0.1.0-rc51.elf`
-  * `PoorDS4-status_v0.1.0-rc51.elf`
-  * `PoorDS4rc51_v0.1.0-rc51.elf`
   * `PS_Game_State_Lib_v0.1.elf`
   * `PS-DiscordPresence_v0.01.elf`
   * `unrar-ps5_v1.4.0.elf`
   * `PS5-Power-Payloads-Project_v1.0.elf`
   * `ps5-date-time-sync_v1.0.0.elf`
-  * `FGG-XSense_v1.1.elf`
   * `FGG-PlayPods_v1.0.elf`
   * `FGG-Unpack_v0.1.elf`
-  * `ghost-toothAPI.elf`
   * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent-0.2.55.elf`
@@ -84,9 +81,16 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
+  * `PoorDS4-status_v0.1.0-rc51.elf`
+  * `PoorDS4-stop_v0.1.0-rc51.elf`
+  * `PoorDS4rc51_v0.1.0-rc51.elf`
+  * `OmniPad-PS5_v1.0.4-hotfix1.elf`
+  * `FGG-XSense_v1.1.elf`
+  * `ghost-toothAPI.elf`
   * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `snes9xPS5_v2.0.elf`
+  * `genplusgxPS5_v1.0.elf`
   * `PS5X360_v0.5.6.elf`
   * `ps5-romm_v1.0.2.elf`
   * `ps5-fan-control_v0.3.elf`
@@ -127,8 +131,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
-  * `garlic-worker_v1.1.7.elf`
-  * `garlic-savemgr_v1.13.1.elf`
   * `Spectrum-Library_v1.4.8.elf`
 
 </details>
@@ -176,6 +178,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `EmulatorPack.zip`
   * `ProsperoMultiTools.zip`
   * `ProsperoExplorer-v1.zip`
+  * `PPSA99000.zip`
+  * `SpectrumLibrary_1.0.4.zip`
   * `flycast-ps5-2026.10.03.zip`
   * `PPSA50011.zip`
   * `PS5X360-AutoLog-v1.0.9-preview.elf`
@@ -185,6 +189,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `XashPS5-v1.0-PPSA99999.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`
+  * `prospero-win-v0.1.1.zip`
+  * `PPSA99300.zip`
 
 </details>
 

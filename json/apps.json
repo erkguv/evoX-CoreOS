@@ -82,6 +82,26 @@
       "category": "Applications"
     },
     {
+      "name": "Ppsa99000",
+      "filename": "PPSA99000.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.030/PPSA99000.zip",
+      "local_path": "apps/ProsperoStore/v1.000.030/PPSA99000.zip",
+      "description": "homebrew store",
+      "version": "v1.000.030",
+      "checksum": "439b28e51990364ab7c43a1f49b9d4152ee8be16c4dba2630baf2f79e63dd754",
+      "category": "Applications"
+    },
+    {
+      "name": "Spectrumlibrary 1.0.4",
+      "filename": "SpectrumLibrary_1.0.4.zip",
+      "url": "https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip",
+      "local_path": "apps/Spectrum-Library-PC/1.0.4/SpectrumLibrary_1.0.4.zip",
+      "description": "Spectrum-Library-PC",
+      "version": "1.0.4",
+      "checksum": "ac2bf12d56a3892ecaef4e00e8c002cfeffa7cae53aea985e3be6152dbde40c0",
+      "category": "Applications"
+    },
+    {
       "name": "Flycast-Ps5-2026.10.03",
       "filename": "flycast-ps5-2026.10.03.zip",
       "url": "https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip",
@@ -154,11 +174,11 @@
     {
       "name": "Ppsa99666",
       "filename": "PPSA99666.zip",
-      "url": "https://github.com/lowbit/ps5-doom/releases/download/v1.1.0/PPSA99666.zip",
-      "local_path": "apps/ps5-doom/v1.1.0/PPSA99666.zip",
+      "url": "https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip",
+      "local_path": "apps/ps5-doom/v1.1.1/PPSA99666.zip",
       "description": "Native DOOM for PS5",
-      "version": "v1.1.0",
-      "checksum": "71f79585e0e0abf16750c8501d4a686b06621777d2c2725134cd879b7cf19d6b",
+      "version": "v1.1.1",
+      "checksum": "4d8e5b785b61696fbf1988c2d0d87c5c977734ff60b1ce11cc49134b0e711b5f",
       "category": "Applications"
     },
     {
@@ -169,6 +189,26 @@
       "description": "PICO-8 for PS5",
       "version": "v0.1.2",
       "checksum": "d76e2bd55ea3cb465da4943938bbeb575abde54fdd3ecefa09fb251f58e1382d",
+      "category": "Applications"
+    },
+    {
+      "name": "Prospero-Win-V0.1.1",
+      "filename": "prospero-win-v0.1.1.zip",
+      "url": "https://github.com/mpereiraesaa/prospero-win/releases/download/v0.1.1/prospero-win-v0.1.1.zip",
+      "local_path": "apps/prospero-win/v0.1.1/prospero-win-v0.1.1.zip",
+      "description": "Wine for PS5",
+      "version": "v0.1.1",
+      "checksum": "fdfa016cd60979aae08040e61d70929c8759c9bf66c16001c6db8178a4d6c162",
+      "category": "Applications"
+    },
+    {
+      "name": "Ppsa99300",
+      "filename": "PPSA99300.zip",
+      "url": "https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip",
+      "local_path": "apps/Vita3K-PS5/alpha/PPSA99300.zip",
+      "description": "Vita3K for PS5",
+      "version": "alpha",
+      "checksum": "bee5db90dd10a7b4c7555772edff96125fc91752eb9d1b0ce4c6fb02eaee8195",
       "category": "Applications"
     }
   ]

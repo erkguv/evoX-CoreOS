@@ -35,16 +35,13 @@
       <outline text="ps5upload" title="ps5upload" type="rss" xmlUrl="https://github.com/phantomptr/ps5upload" description="PS5 Upload server / tool. Port: 9025"/>
       <outline text="airpsx" title="airpsx" type="rss" xmlUrl="https://github.com/barisyild/airpsx" description="AirPSX server tool for PS5 ecosystem."/>
       <outline text="ChronicLoader-PS5-Payload" title="ChronicLoader-PS5-Payload" type="rss" xmlUrl="https://github.com/StonedModder/ChronicLoader-PS5-Payload" description="ChronicLoader utility payload for PS5."/>
-      <outline text="PoorDS4" title="PoorDS4" type="rss" xmlUrl="https://github.com/ItsBlurf/PoorDS4" description="PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5."/>
       <outline text="PS Game State Lib" title="PS Game State Lib" type="rss" xmlUrl="https://github.com/StonedModder/ps-game-state-lib" description="Standalone PS5 game-state detection payload - webui ps5ip:9877 ."/>
       <outline text="PS-DiscordPresence" title="PS-DiscordPresence" type="rss" xmlUrl="https://github.com/StonedModder/PS-DiscordPresence" description="PS5 game activity service with a local status endpoint and a Python Discord RPC bridge."/>
       <outline text="unrar-ps5" title="unrar-ps5" type="rss" xmlUrl="https://github.com/bizkut/unrar-ps5" description="PS5 ELF payload for extracting RAR and 7z archives on a jailbroken PS5 and installing extracted apps into a configurable layout.."/>
       <outline text="PS5-Power-Payloads-Project" title="PS5-Power-Payloads-Project" type="rss" xmlUrl="https://github.com/MasterPS0/PS5-Power-Payloads-Project" description="PS5-Power-Payloads-Project utility."/>
       <outline text="ps5-date-time-sync" title="ps5-date-time-sync" type="rss" xmlUrl="https://github.com/kerrdec97/ps5-date-time-sync" description="A lightweight, standalone PS5 payload that restores the console's system date and time using public NTP servers."/>
-      <outline text="FGG-XSense" title="FGG-XSense" type="rss" xmlUrl="https://github.com/FGGstore/FGG-XSense" description="Use an Xbox controller on a jailbroken PlayStation 5."/>
       <outline text="FGG-PlayPods" title="FGG-PlayPods" type="rss" xmlUrl="https://github.com/FGGstore/FGG-PlayPods" description="Hear your PlayStation 5 on an ordinary Bluetooth headset."/>
       <outline text="FGG-Unpack" title="FGG-Unpack" type="rss" xmlUrl="https://github.com/FGGstore/FGG-Unpack" description="Extract .zip and .7z archives directly on a jailbroken PlayStation 5."/>
-      <outline text="ghost-toothAPI" title="ghost-toothAPI" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/ps5_utility/ghost-toothAPI/ghost-toothAPI.elf" description="ghost-toothAPI."/>
       <outline text="Spectrum-Library" title="Spectrum-Library" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library" description="free store webadmin http://your-ps5-ip:7575."/>
       <outline text="pegasus-dl" title="pegasus-dl" type="rss" xmlUrl="https://github.com/pegasus-ps5/pegasus-dl" description="free store webadmin http://your-ps5-ip:6970."/>
       <outline text="ps5shopappkg-dpi" title="ps5shopappkg-dpi" type="rss" xmlUrl="https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/ps5shopappkg-dpi.elf" description="You need PS5-SHOP-APPKG.pkg DPI port 9040."/>
@@ -71,6 +68,7 @@
       <outline text="np-fake-signin" title="np-fake-signin" type="rss" xmlUrl="https://git.etawen.dev/earthonion/np-fake-signin" description="Fake activate PS5 without PSN."/>
       <outline text="ps5-linux-loader" title="ps5-linux-loader" type="rss" xmlUrl="https://github.com/ps5-linux/ps5-linux-loader" description="Linux loader payload for the PS5."/>
       <outline text="snes9xPS5" title="snes9xPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/snes9xPS5" description="snes9x emulator"/>
+      <outline text="genplusgxPS5" title="genplusgxPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/genplusgxPS5" description="Port of Genesis-Plus-GX for PS55"/>
       <outline text="PS5X360" title="PS5X360" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360" description="x360 emu for ps5, you need PPSA97358.zip"/>
       <outline text="ps5-romm" title="ps5-romm" type="rss" xmlUrl="https://github.com/s0liton/ps5-romm" description="ps5-romm for ps5"/>
       <outline text="ps5-fan-control" title="ps5-fan-control" type="rss" xmlUrl="https://github.com/owendswang/ps5-fan-control" description="Small PS5 daemon payload ELF that sets the system fan temperature."/>
@@ -139,6 +137,9 @@
       <outline text="Prospero Multi Tools" title="Prospero Multi Tools" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Multi-Tools" description="Backup manager for PS5"/>
       <outline text="Prospero Explorer" title="Prospero Explorer" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Explorer" description="File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network"/>
       <outline text="ps5-homebrew-browser" title="ps5-homebrew-browser" type="rss" xmlUrl="https://github.com/TheRealRetro/ps5-homebrew-browser" description="Native PS5 app for browsing and installing homebrew from the homebrew.page catalog"/>
+      <outline text="ProsperoStore" title="ProsperoStore" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoStore" description="homebrew store"/>
+      <outline text="pkg-viewer" title="pkg-viewer" type="rss" xmlUrl="https://github.com/Loopayeh/pkg-viewer" description="view PS3/PS4/PS5 package info and cover art"/>
+      <outline text="Spectrum-Library-PC" title="Spectrum-Library-PC" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library-PC" description="Spectrum-Library-PC"/>
       <outline text="flycast-ps5-libretro-core" title="flycast-ps5-libretro-core" type="rss" xmlUrl="https://github.com/rpf16rj/flycast-ps5-libretro-core" description="flycast-ps5-libretro-core"/>
       <outline text="PS5X360" title="PS5X360" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
       <outline text="XPSemu" title="XPSemu" type="rss" xmlUrl="https://github.com/ZiZc3/XPSemu" description="Xbox emulator (Xemu) port for the PS5"/>
@@ -147,6 +148,8 @@
       <outline text="xash3d-ps5" title="xash3d-ps5" type="rss" xmlUrl="https://github.com/GordonProsperoMan/xash3d-ps5" description="Half-Life (Xash3D FWGS) native homebrew port for PS5"/>
       <outline text="ps5-doom" title="ps5-doom" type="rss" xmlUrl="https://github.com/lowbit/ps5-doom" description="Native DOOM for PS5"/>
       <outline text="pico8-ps5" title="pico8-ps5" type="rss" xmlUrl="https://github.com/RafaelNGP/pico8-ps5" description="PICO-8 for PS5"/>
+      <outline text="prospero-win" title="prospero-win" type="rss" xmlUrl="https://github.com/mpereiraesaa/prospero-win" description="Wine for PS5"/>
+      <outline text="Vita3K-PS5" title="Vita3K-PS5" type="rss" xmlUrl="https://github.com/tsuramatsu1/Vita3K-PS5" description="Vita3K for PS5"/>
     </outline>
   </body>
 </opml>

@@ -12,36 +12,6 @@
       "checksum": "3561120f85e0ec32de5de15cdd61a1fe8d5146eb4c6aa99ee88209914a2774b1"
     },
     {
-      "name": "Poords4-Stop V0.1.0-Rc51",
-      "filename": "PoorDS4-stop_v0.1.0-rc51.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
-      "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
-      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-      "version": "v0.1.0-rc51",
-      "category": "PS5 Utility",
-      "checksum": "ffdce4964f0d34a2b9be7cb65e6ad345d5beb582dcdf94d0214cde6bc79acd0d"
-    },
-    {
-      "name": "Poords4-Status V0.1.0-Rc51",
-      "filename": "PoorDS4-status_v0.1.0-rc51.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
-      "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
-      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-      "version": "v0.1.0-rc51",
-      "category": "PS5 Utility",
-      "checksum": "d47bb84a6ae05117f095c05b75dfee15d9fbf07864a3e52d0e2e626eab613440"
-    },
-    {
-      "name": "Poords4Rc51 V0.1.0-Rc51",
-      "filename": "PoorDS4rc51_v0.1.0-rc51.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf",
-      "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf",
-      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-      "version": "v0.1.0-rc51",
-      "category": "PS5 Utility",
-      "checksum": "e1b9f257f51678a977edaeafd4ca1f8a03e9df0afda7d5dd84435841fa20795d"
-    },
-    {
       "name": "Ps Game State Lib V0.1",
       "filename": "PS_Game_State_Lib_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf",
@@ -92,16 +62,6 @@
       "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849"
     },
     {
-      "name": "Fgg-Xsense V1.1",
-      "filename": "FGG-XSense_v1.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
-      "local_path": "payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
-      "description": "Use an Xbox controller on a jailbroken PlayStation 5.",
-      "version": "1.1",
-      "category": "PS5 Utility",
-      "checksum": "55195ccb02fbdbfa002e9188b0eff72d7d2e6de6c7a1c91666f88c6c9ff0d6c0"
-    },
-    {
       "name": "Fgg-Playpods V1.0",
       "filename": "FGG-PlayPods_v1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf",
@@ -120,16 +80,6 @@
       "version": "v0.1",
       "category": "PS5 Utility",
       "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff"
-    },
-    {
-      "name": "Ghost-Toothapi",
-      "filename": "ghost-toothAPI.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
-      "local_path": "payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
-      "description": "ghost-toothAPI.",
-      "version": "Source-Fixe",
-      "category": "PS5 Utility",
-      "checksum": "744277a72a268871284ad3b91565968df06c57c0acdabd921c8712e6de731f99"
     }
   ]
 }

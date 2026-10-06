@@ -5,6 +5,18 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Flux RSS global de toutes les mises à jour du store PS5</description>
     <item>
+      <title>[Payloads] Garlic-Savemgr V1.13.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf</link>
+      <description>Save manager utility hosted on Forgejo.</description>
+      <pubDate>v1.13.1</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Garlic-Worker V1.1.7</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf</link>
+      <description>Garlic worker payload component.</description>
+      <pubDate>v1.1.7</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf</link>
       <description>Offset dumper for save mounting utilities.</description>
@@ -197,24 +209,6 @@
       <pubDate>0.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Poords4-Stop V0.1.0-Rc51</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf</link>
-      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
-      <pubDate>v0.1.0-rc51</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Poords4-Status V0.1.0-Rc51</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf</link>
-      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
-      <pubDate>v0.1.0-rc51</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Poords4Rc51 V0.1.0-Rc51</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf</link>
-      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
-      <pubDate>v0.1.0-rc51</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Ps Game State Lib V0.1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf</link>
       <description>Standalone PS5 game-state detection payload - webui ps5ip:9877 .</description>
@@ -245,12 +239,6 @@
       <pubDate>v1.0.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Fgg-Xsense V1.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf</link>
-      <description>Use an Xbox controller on a jailbroken PlayStation 5.</description>
-      <pubDate>1.1</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Fgg-Playpods V1.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf</link>
       <description>Hear your PlayStation 5 on an ordinary Bluetooth headset.</description>
@@ -261,12 +249,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf</link>
       <description>Extract .zip and .7z archives directly on a jailbroken PlayStation 5.</description>
       <pubDate>v0.1</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Ghost-Toothapi</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf</link>
-      <description>ghost-toothAPI.</description>
-      <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>[Payloads] Pegasus-Dl V1.10.1</title>
@@ -407,6 +389,42 @@
       <pubDate>v1.1</pubDate>
     </item>
     <item>
+      <title>[Payloads] Poords4-Status V0.1.0-Rc51</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf</link>
+      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
+      <pubDate>v0.1.0-rc51</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Poords4-Stop V0.1.0-Rc51</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf</link>
+      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
+      <pubDate>v0.1.0-rc51</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Poords4Rc51 V0.1.0-Rc51</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf</link>
+      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
+      <pubDate>v0.1.0-rc51</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Omnipad-Ps5 V1.0.4-Hotfix1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf</link>
+      <description>Universal controller engine &amp; Web Dashboard for PlayStation 5 (FW 7.00 - 13.60).</description>
+      <pubDate>v1.0.4-hotfix1</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Fgg-Xsense V1.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf</link>
+      <description>Use an Xbox controller on a jailbroken PlayStation 5.</description>
+      <pubDate>1.1</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Ghost-Toothapi</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf</link>
+      <description>ghost-toothAPI.</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Np-Fake-Signin-Ps5</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
       <description>Fake activate PS5 without PSN.</description>
@@ -423,6 +441,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf</link>
       <description>snes9x emulator</description>
       <pubDate>v2.0</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Genplusgxps5 V1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.0/genplusgxPS5_v1.0.elf</link>
+      <description>Port of Genesis-Plus-GX for PS55</description>
+      <pubDate>v1.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5X360 V0.5.6</title>
@@ -665,18 +689,6 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
-      <title>[Payloads] Garlic-Worker V1.1.7</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-worker</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Savemgr V1.13.1</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-savemgr</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Spectrum-Library V1.4.8</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -833,6 +845,18 @@
       <pubDate>v1.0</pubDate>
     </item>
     <item>
+      <title>[Applications] Ppsa99000</title>
+      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.030/PPSA99000.zip</link>
+      <description>homebrew store</description>
+      <pubDate>v1.000.030</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Spectrumlibrary 1.0.4</title>
+      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
+      <description>Spectrum-Library-PC</description>
+      <pubDate>1.0.4</pubDate>
+    </item>
+    <item>
       <title>[Applications] Flycast-Ps5-2026.10.03</title>
       <link>https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.03-run13/flycast-ps5-2026.10.03.zip</link>
       <description>flycast-ps5-libretro-core</description>
@@ -876,15 +900,27 @@
     </item>
     <item>
       <title>[Applications] Ppsa99666</title>
-      <link>https://github.com/lowbit/ps5-doom/releases/download/v1.1.0/PPSA99666.zip</link>
+      <link>https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip</link>
       <description>Native DOOM for PS5</description>
-      <pubDate>v1.1.0</pubDate>
+      <pubDate>v1.1.1</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa99808</title>
       <link>https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip</link>
       <description>PICO-8 for PS5</description>
       <pubDate>v0.1.2</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Prospero-Win-V0.1.1</title>
+      <link>https://github.com/mpereiraesaa/prospero-win/releases/download/v0.1.1/prospero-win-v0.1.1.zip</link>
+      <description>Wine for PS5</description>
+      <pubDate>v0.1.1</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Ppsa99300</title>
+      <link>https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip</link>
+      <description>Vita3K for PS5</description>
+      <pubDate>alpha</pubDate>
     </item>
   </channel>
 </rss>

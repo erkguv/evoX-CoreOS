@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/10/2026 à 09:55
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.13.1` (v1.13.1) - *Mise à jour (Précédent: garlic-savemgr)*
+  * `Garlic-Worker V1.1.7` (v1.1.7) - *Mise à jour (Précédent: garlic-worker)*
+  * `Omnipad-Ps5 V1.0.4-Hotfix1` (v1.0.4-hotfix1) - *Nouveau*
+  * `Genplusgxps5 V1.0` (v1.0) - *Nouveau*
+* **APPS**
+  * `Ppsa99000` (v1.000.030) - *Nouveau*
+  * `Spectrumlibrary 1.0.4` (1.0.4) - *Nouveau*
+  * `Ppsa99666` (v1.1.1) - *Mise à jour (Précédent: v1.1.0)*
+  * `Prospero-Win-V0.1.1` (v0.1.1) - *Nouveau*
+  * `Ppsa99300` (alpha) - *Nouveau*
+
 ## Build du 06/10/2026 à 04:46
 * **PAYLOADS**
   * `Ps5Upload V6.1.2` (v6.1.2) - *Nouveau*
