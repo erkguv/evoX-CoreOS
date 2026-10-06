@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.06-0955)
+### 🚀 Synthèse de la mise à jour (v2026.10.06-1025)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -81,8 +81,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
-  * `PoorDS4-status_v0.1.0-rc51.elf`
   * `PoorDS4-stop_v0.1.0-rc51.elf`
+  * `PoorDS4-status_v0.1.0-rc51.elf`
   * `PoorDS4rc51_v0.1.0-rc51.elf`
   * `OmniPad-PS5_v1.0.4-hotfix1.elf`
   * `FGG-XSense_v1.1.elf`

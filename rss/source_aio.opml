@@ -136,7 +136,6 @@
       <outline text="kodi-ps5" title="kodi-ps5" type="rss" xmlUrl="https://github.com/VivaLaVent/kodi-ps5" description="kodi-ps5"/>
       <outline text="Prospero Multi Tools" title="Prospero Multi Tools" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Multi-Tools" description="Backup manager for PS5"/>
       <outline text="Prospero Explorer" title="Prospero Explorer" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Explorer" description="File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network"/>
-      <outline text="ps5-homebrew-browser" title="ps5-homebrew-browser" type="rss" xmlUrl="https://github.com/TheRealRetro/ps5-homebrew-browser" description="Native PS5 app for browsing and installing homebrew from the homebrew.page catalog"/>
       <outline text="ProsperoStore" title="ProsperoStore" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoStore" description="homebrew store"/>
       <outline text="pkg-viewer" title="pkg-viewer" type="rss" xmlUrl="https://github.com/Loopayeh/pkg-viewer" description="view PS3/PS4/PS5 package info and cover art"/>
       <outline text="Spectrum-Library-PC" title="Spectrum-Library-PC" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library-PC" description="Spectrum-Library-PC"/>
