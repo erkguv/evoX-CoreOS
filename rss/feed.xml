@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V6.1.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.1.2/ps5upload_v6.1.2.elf</link>
+      <title>[Payloads] Ps5Upload V6.2.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.2.1/ps5upload_v6.2.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.1.2</pubDate>
+      <pubDate>v6.2.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -455,10 +455,10 @@
       <pubDate>v1.2</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5X360 V0.5.6</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.6/PS5X360_v0.5.6.elf</link>
+      <title>[Payloads] Ps5X360 V0.5.7</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.7/PS5X360_v0.5.7.elf</link>
       <description>x360 emu for ps5, you need PPSA97358.zip</description>
-      <pubDate>v0.5.6</pubDate>
+      <pubDate>v0.5.7</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Romm V1.0.2</title>
@@ -815,12 +815,6 @@
       <pubDate>01.000.060</pubDate>
     </item>
     <item>
-      <title>[Fichiers FFPFSC] Ppsa99003</title>
-      <link>https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc</link>
-      <description>PS5 IPTV</description>
-      <pubDate>01.000.015</pubDate>
-    </item>
-    <item>
       <title>[Fichiers FFPFSC] Evoplayer-V0.10.0-Ppsa99039</title>
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc</link>
       <description>A media player for jailbroken PS5</description>
@@ -882,9 +876,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.030/PPSA99000.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.040/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.030</pubDate>
+      <pubDate>v1.000.040</pubDate>
     </item>
     <item>
       <title>[Applications] Spectrumlibrary 1.0.4</title>
@@ -900,15 +894,15 @@
     </item>
     <item>
       <title>[Applications] Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PPSA50011.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7/PPSA50011.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.6</pubDate>
+      <pubDate>v0.5.7</pubDate>
     </item>
     <item>
       <title>[Applications] Ps5X360-Autolog-V1.0.9-Preview</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PS5X360-AutoLog-v1.0.9-preview.elf</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7/PS5X360-AutoLog-v1.0.9-preview.elf</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.6</pubDate>
+      <pubDate>v0.5.7</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa97358</title>

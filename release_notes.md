@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.06-2223)
+### 🚀 Synthèse de la mise à jour (v2026.10.07-0413)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -51,7 +51,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v6.1.2.elf`
+  * `ps5upload_v6.2.1.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -95,7 +95,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-linux-loader_v2.5.elf`
   * `snes9xPS5_v2.0.elf`
   * `genplusgxPS5_v1.2.elf`
-  * `PS5X360_v0.5.6.elf`
+  * `PS5X360_v0.5.7.elf`
   * `ps5-romm_v1.0.2.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `ps5-fan-control_v0.3.elf`
@@ -169,7 +169,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 
 * **files**
   * `PPSA99002.ffpfsc`
-  * `PPSA99003.ffpfsc`
   * `EVOPlayer-v0.10.0-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
 

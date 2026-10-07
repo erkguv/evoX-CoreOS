@@ -22,12 +22,12 @@
       "checksum": "b1c3e0f2fb46099c7f6e79a59b9dcdc1f8daefd0b54d462d9e3053486d34cbf6"
     },
     {
-      "name": "Ps5X360 V0.5.6",
-      "filename": "PS5X360_v0.5.6.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.6/PS5X360_v0.5.6.elf",
-      "local_path": "payloads/ps5_emulator/PS5X360/v0.5.6/PS5X360_v0.5.6.elf",
+      "name": "Ps5X360 V0.5.7",
+      "filename": "PS5X360_v0.5.7.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.7/PS5X360_v0.5.7.elf",
+      "local_path": "payloads/ps5_emulator/PS5X360/v0.5.7/PS5X360_v0.5.7.elf",
       "description": "x360 emu for ps5, you need PPSA97358.zip",
-      "version": "v0.5.6",
+      "version": "v0.5.7",
       "category": "PS5 Emulator",
       "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb"
     },

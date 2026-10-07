@@ -1,27 +1,27 @@
 {
-    "updated_at": "2026-10-06T22:23:07.302074",
+    "updated_at": "2026-10-07T04:13:06.289514",
     "packs": [
         {
             "filename": "PS5_apps_aio_latest.zip",
             "display_name": "PS5 APPS AIO",
             "pack_type": "apps",
-            "size_bytes": 1387239735,
-            "size_mb": 1322.97,
+            "size_bytes": 1387439113,
+            "size_mb": 1323.17,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_latest.zip"
         },
         {
             "filename": "PS5_ffpfsc_aio_latest.zip",
             "display_name": "PS5 FFPFSC AIO",
             "pack_type": "ffpfsc",
-            "size_bytes": 142862494,
-            "size_mb": 136.24,
+            "size_bytes": 109339239,
+            "size_mb": 104.27,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip"
         },
         {
             "filename": "PS5_payloads_aio_latest.zip",
             "display_name": "PS5 PAYLOADS AIO",
             "pack_type": "payloads",
-            "size_bytes": 310620907,
+            "size_bytes": 310621786,
             "size_mb": 296.23,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip"
         },
@@ -45,7 +45,7 @@
             "filename": "PS5_ultimate_pack_part1_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART1",
             "pack_type": "ultimate",
-            "size_bytes": 841194183,
+            "size_bytes": 841195062,
             "size_mb": 802.23,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip"
         },
@@ -53,16 +53,16 @@
             "filename": "PS5_ultimate_pack_part2_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART2",
             "pack_type": "ultimate",
-            "size_bytes": 1422774946,
-            "size_mb": 1356.86,
+            "size_bytes": 1389251691,
+            "size_mb": 1324.89,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part3_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART3",
             "pack_type": "ultimate",
-            "size_bytes": 1436532650,
-            "size_mb": 1369.98,
+            "size_bytes": 1436732028,
+            "size_mb": 1370.17,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip"
         }
     ]

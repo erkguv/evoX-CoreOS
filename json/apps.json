@@ -84,11 +84,11 @@
     {
       "name": "Ppsa99000",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.030/PPSA99000.zip",
-      "local_path": "apps/ProsperoStore/v1.000.030/PPSA99000.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.040/PPSA99000.zip",
+      "local_path": "apps/ProsperoStore/v1.000.040/PPSA99000.zip",
       "description": "homebrew store",
-      "version": "v1.000.030",
-      "checksum": "439b28e51990364ab7c43a1f49b9d4152ee8be16c4dba2630baf2f79e63dd754",
+      "version": "v1.000.040",
+      "checksum": "f6b68550f49544b3ccde7aeaf397ac45348fbbe70a0ef26300827aa478975764",
       "category": "Applications"
     },
     {
@@ -114,20 +114,20 @@
     {
       "name": "Ppsa50011",
       "filename": "PPSA50011.zip",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PPSA50011.zip",
-      "local_path": "apps/PS5X360/v0.5.6/PPSA50011.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7/PPSA50011.zip",
+      "local_path": "apps/PS5X360/v0.5.7/PPSA50011.zip",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.5.6",
-      "checksum": "10de45ac6aab962a7dd663a0af0557f4acd0a3f77279526085508980960267b6",
+      "version": "v0.5.7",
+      "checksum": "6b16fbd1cd9a09d36af3a12e82834ab7bbb8854c423d957bc1a1909bd27cd324",
       "category": "Applications"
     },
     {
       "name": "Ps5X360-Autolog-V1.0.9-Preview",
       "filename": "PS5X360-AutoLog-v1.0.9-preview.elf",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.6/PS5X360-AutoLog-v1.0.9-preview.elf",
-      "local_path": "apps/PS5X360/v0.5.6/PS5X360-AutoLog-v1.0.9-preview.elf",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7/PS5X360-AutoLog-v1.0.9-preview.elf",
+      "local_path": "apps/PS5X360/v0.5.7/PS5X360-AutoLog-v1.0.9-preview.elf",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.5.6",
+      "version": "v0.5.7",
       "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb",
       "category": "Applications"
     },

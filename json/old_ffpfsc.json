@@ -12,16 +12,6 @@
             "category": "FFPFSC"
         },
         {
-            "name": "Ppsa99003",
-            "filename": "PPSA99003.ffpfsc",
-            "url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc",
-            "local_path": "ffpfsc/ProsperoTV/01.000.015/PPSA99003.ffpfsc",
-            "description": "PS5 IPTV",
-            "version": "01.000.015",
-            "checksum": "4d5ea7fd048d299b4ce11462d1fb6264908f21ad3743ee3df3792c96ac08648d",
-            "category": "FFPFSC"
-        },
-        {
             "name": "Evoplayer-V0.10.0-Ppsa99039",
             "filename": "EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
             "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
