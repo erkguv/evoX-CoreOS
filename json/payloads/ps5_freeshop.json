@@ -4,7 +4,7 @@
     {
       "name": "Pegasus-Dl V1.10.1",
       "filename": "pegasus-dl_v1.10.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf",
       "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf",
       "description": "free store webadmin http://your-ps5-ip:6970.",
       "version": "v1.10.1",
@@ -14,7 +14,7 @@
     {
       "name": "Ps5Shopappkg-Dpi",
       "filename": "ps5shopappkg-dpi.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf",
       "local_path": "payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf",
       "description": "You need PS5-SHOP-APPKG.pkg DPI port 9040.",
       "version": "Source-Fixe",
@@ -24,7 +24,7 @@
     {
       "name": "Ps5Library-Agent-0.2.55",
       "filename": "ps5library-agent-0.2.55.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf",
       "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf",
       "description": "You need PS5Library.pkg.",
       "version": "v0.2.55",
@@ -34,7 +34,7 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.8.0/orbit_store.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.8.0/orbit_store.elf",
       "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v0.8.0/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
       "version": "v0.8.0",
@@ -44,7 +44,7 @@
     {
       "name": "Ps5-Phstore Vphstore",
       "filename": "PS5-PHStore_vPHStore.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf",
       "local_path": "payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf",
       "description": "Free PH Store client for PS5.",
       "version": "PHStore",

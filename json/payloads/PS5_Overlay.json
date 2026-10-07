@@ -4,7 +4,7 @@
     {
       "name": "Common Fps Ps5 V1.2.1",
       "filename": "Common_FPS_PS5_v1.2.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.1/Common_FPS_PS5_v1.2.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.1/Common_FPS_PS5_v1.2.1.elf",
       "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.1/Common_FPS_PS5_v1.2.1.elf",
       "description": "A lightweight, open-source real-time FPS counter for PlayStation 5.",
       "version": "v1.2.1",
@@ -14,7 +14,7 @@
     {
       "name": "Ps5 Overlay",
       "filename": "ps5_overlay.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf",
       "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf",
       "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
       "version": "v1.0.15",
@@ -24,7 +24,7 @@
     {
       "name": "Ps5 Overlay Shellui",
       "filename": "ps5_overlay_shellui.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf",
       "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf",
       "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
       "version": "v1.0.15",

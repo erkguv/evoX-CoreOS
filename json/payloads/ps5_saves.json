@@ -4,7 +4,7 @@
     {
       "name": "Garlic-Savemgr V1.13.1",
       "filename": "garlic-savemgr_v1.13.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
       "local_path": "payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
       "description": "Save manager utility hosted on Forgejo.",
       "version": "v1.13.1",
@@ -14,7 +14,7 @@
     {
       "name": "Garlic-Worker V1.1.7",
       "filename": "garlic-worker_v1.1.7.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
       "local_path": "payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
       "description": "Garlic worker payload component.",
       "version": "v1.1.7",
@@ -24,7 +24,7 @@
     {
       "name": "Savemnt-Offset-Dumper V1.0.0",
       "filename": "savemnt-offset-dumper_v1.0.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf",
       "local_path": "payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf",
       "description": "Offset dumper for save mounting utilities.",
       "version": "1.0.0",

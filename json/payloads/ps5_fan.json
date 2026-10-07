@@ -4,7 +4,7 @@
     {
       "name": "Ps5-Fan-Control V0.3",
       "filename": "ps5-fan-control_v0.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf",
       "local_path": "payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf",
       "description": "Small PS5 daemon payload ELF that sets the system fan temperature.",
       "version": "v0.3",
@@ -14,7 +14,7 @@
     {
       "name": "Fan Target 85C V0.1",
       "filename": "fan_target_85c_v0.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf",
       "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
       "version": "0.1",
@@ -24,7 +24,7 @@
     {
       "name": "Fan Target V0.1",
       "filename": "fan_target_v0.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_v0.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_v0.1.elf",
       "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
       "version": "0.1",
@@ -34,7 +34,7 @@
     {
       "name": "Fan Target 75C V0.1",
       "filename": "fan_target_75c_v0.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf",
       "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
       "version": "0.1",
@@ -44,7 +44,7 @@
     {
       "name": "Fan Target 70C V0.1",
       "filename": "fan_target_70c_v0.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
       "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
       "version": "0.1",
@@ -54,7 +54,7 @@
     {
       "name": "Fan Target 65C V0.1",
       "filename": "fan_target_65c_v0.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_65c_v0.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_65c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_65c_v0.1.elf",
       "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
       "version": "0.1",
@@ -64,7 +64,7 @@
     {
       "name": "Fan Target 80C V0.1",
       "filename": "fan_target_80c_v0.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
       "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
       "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
       "version": "0.1",

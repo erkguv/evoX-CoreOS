@@ -4,7 +4,7 @@
     {
       "name": "Poords4-Stop V0.1.0-Rc51",
       "filename": "PoorDS4-stop_v0.1.0-rc51.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
       "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-stop_v0.1.0-rc51.elf",
       "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
       "version": "v0.1.0-rc51",
@@ -14,7 +14,7 @@
     {
       "name": "Poords4-Status V0.1.0-Rc51",
       "filename": "PoorDS4-status_v0.1.0-rc51.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
       "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4-status_v0.1.0-rc51.elf",
       "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
       "version": "v0.1.0-rc51",
@@ -24,7 +24,7 @@
     {
       "name": "Poords4Rc51 V0.1.0-Rc51",
       "filename": "PoorDS4rc51_v0.1.0-rc51.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf",
       "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.1.0-rc51/PoorDS4rc51_v0.1.0-rc51.elf",
       "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
       "version": "v0.1.0-rc51",
@@ -34,7 +34,7 @@
     {
       "name": "Omnipad-Ps5 V1.0.4-Hotfix1",
       "filename": "OmniPad-PS5_v1.0.4-hotfix1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf",
       "local_path": "payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf",
       "description": "Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60).",
       "version": "v1.0.4-hotfix1",
@@ -44,7 +44,7 @@
     {
       "name": "Fgg-Xsense V1.1",
       "filename": "FGG-XSense_v1.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
       "local_path": "payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf",
       "description": "Use an Xbox controller on a jailbroken PlayStation 5.",
       "version": "1.1",
@@ -54,7 +54,7 @@
     {
       "name": "Ghost-Toothapi",
       "filename": "ghost-toothAPI.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
       "local_path": "payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
@@ -64,7 +64,7 @@
     {
       "name": "Pad2C V0.2.1",
       "filename": "pad2c_v0.2.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v0.2.1/pad2c_v0.2.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v0.2.1/pad2c_v0.2.1.elf",
       "local_path": "payloads/ps5_pad_utility/pad2c/v0.2.1/pad2c_v0.2.1.elf",
       "description": "Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.",
       "version": "v0.2.1",
@@ -74,12 +74,12 @@
     {
       "name": "Anypad-Ps5 V0.6.0",
       "filename": "AnyPad-PS5_v0.6.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf",
       "local_path": "payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf",
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "790d0926a3d89fc6e04bb393a79c8438c40f15e3c0bbb4b75e70ff2219589f9a"
+      "checksum": "79d94ec09589b4ead1b1983c1c61a95e732d693824201bcc1763d84859dafcb1"
     }
   ]
 }

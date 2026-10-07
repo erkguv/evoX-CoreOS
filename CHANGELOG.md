@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 07/10/2026 à 13:37
+* **PAYLOADS**
+  * `Ps5Upload V6.3.0` (v6.3.0) - *Nouveau*
+  * `Elf Arsenal V1.6.23` (ELF_Arsenal) - *Mise à jour (Précédent: v1.6.23)*
+* **APPS**
+  * `Xashps5-V1.1-Ppsa99999` (v1.1) - *Nouveau*
+
 ## Build du 07/10/2026 à 12:43
 * **PAYLOADS**
   * `Ps5Upload V6.2.3` (v6.2.3) - *Nouveau*

@@ -4,7 +4,7 @@
     {
       "name": "A53-Kstuff-Shadowmountplus-3In1",
       "filename": "A53-Kstuff-ShadowMountPlus-3in1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
       "local_path": "payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf",
       "description": "Experimental AIO by SoNic credit to EchoStrech DrakMor",
       "version": "Source-Fixe",
@@ -14,7 +14,7 @@
     {
       "name": "A53-Kstuff-Smp",
       "filename": "A53-kstuff-SMP.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
       "local_path": "payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf",
       "description": "Experimental AIO by SoNic credit to EchoStrech DrakMor",
       "version": "Source-Fixe",
@@ -24,7 +24,7 @@
     {
       "name": "Kstuff-Ng V1.00",
       "filename": "Kstuff-NG_v1.00.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf",
       "local_path": "payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf",
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
@@ -34,7 +34,7 @@
     {
       "name": "Kstuff-1.13-Fpkg-Dr-Test5",
       "filename": "kstuff-1.13-fpkg-dr-test5.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Drakmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Drakmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf",
       "local_path": "payloads/PS5_Beta/kstuff_Drakmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf",
       "description": "Experimental Kstuff DrakMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
@@ -44,7 +44,7 @@
     {
       "name": "A53 Ppr Install 1140 20.09",
       "filename": "a53_ppr_install_1140_20.09.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf",
       "local_path": "payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf",
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
@@ -54,7 +54,7 @@
     {
       "name": "A53 Ppr Install 1160 20.09",
       "filename": "a53_ppr_install_1160_20.09.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf",
       "local_path": "payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf",
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",

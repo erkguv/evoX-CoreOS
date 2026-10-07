@@ -4,7 +4,7 @@
     {
       "name": "Bfplayer-Standalone",
       "filename": "bfplayer-standalone.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf",
       "local_path": "payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf",
       "description": "BFplayer is a native media library and player for jailbroken PlayStation 5 consoles.",
       "version": "v0.1.0-alpha.44",
@@ -14,7 +14,7 @@
     {
       "name": "Prosperoplayer V1.0",
       "filename": "ProsperoPlayer_v1.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf",
       "local_path": "payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf",
       "description": "A homebrew media player for jailbroken PS5.",
       "version": "v1.0",
@@ -24,7 +24,7 @@
     {
       "name": "Svtplay V0.3",
       "filename": "svtplay_v0.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf",
       "local_path": "payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf",
       "description": "This is an unofficial 10-foot UI for SVT Play, the Swedish public service television broadcaster.",
       "version": "v0.3",
@@ -34,7 +34,7 @@
     {
       "name": "Ps-Play V2.1",
       "filename": "PS-Play_v2.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf",
       "local_path": "payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf",
       "description": "All-in-one media hub for jailbroken PlayStation 5",
       "version": "2.1",
@@ -44,7 +44,7 @@
     {
       "name": "Nuvio-Ps5 V1.7.3",
       "filename": "Nuvio-PS5_v1.7.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.7.3/Nuvio-PS5_v1.7.3.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.7.3/Nuvio-PS5_v1.7.3.elf",
       "local_path": "payloads/ps5_video_player/Nuvio-PS5/v1.7.3/Nuvio-PS5_v1.7.3.elf",
       "description": "Nuvio, at home on the PlayStation 5",
       "version": "v1.7.3",

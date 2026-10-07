@@ -4,7 +4,7 @@
     {
       "name": "Kstuff Echostretch V1.6.7",
       "filename": "kstuff_EchoStretch_v1.6.7.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf",
       "local_path": "payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf",
       "description": "Fnd Kstuff payload for PS5.",
       "version": "v1.6.7",
@@ -14,7 +14,7 @@
     {
       "name": "Kstuff-Lite Echostretch V1.11",
       "filename": "kstuff-lite_EchoStretch_v1.11.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf",
       "local_path": "payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf",
       "description": "Lightweight version of kstuff.",
       "version": "v1.11",
@@ -24,7 +24,7 @@
     {
       "name": "Kstuff-Lite Drakmor V1.2-Dr-Test1",
       "filename": "kstuff-lite_drakmor_v1.2-dr-test1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
       "local_path": "payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
       "description": "Drakmor",
       "version": "1.2-dr-test1",
@@ -34,7 +34,7 @@
     {
       "name": "Kstuff-A53 Sonic V1.4",
       "filename": "kstuff-a53_SoNic_v1.4.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf",
       "local_path": "payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf",
       "description": "SoNic variant of kstuff-a53.",
       "version": "1.4",

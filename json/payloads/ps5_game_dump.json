@@ -4,7 +4,7 @@
     {
       "name": "Ps5-Game-Compressor V1.0.4",
       "filename": "PS5-Game-Compressor_v1.0.4.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf",
       "local_path": "payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf",
       "description": "Tool to compress PS5 games.",
       "version": "v1.0.4",
@@ -14,7 +14,7 @@
     {
       "name": "Ps5-App-Dumper V2.10",
       "filename": "ps5-app-dumper_v2.10.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf",
       "local_path": "payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf",
       "description": "PS5 App Dumper payload.",
       "version": "v2.10",
@@ -24,7 +24,7 @@
     {
       "name": "Shadowmountplus",
       "filename": "shadowmountplus.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/shadowmountplus.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/shadowmountplus.elf",
       "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/shadowmountplus.elf",
       "description": "ShadowMountPlus payload for game mounting.",
       "version": "1.7beta4",
@@ -34,7 +34,7 @@
     {
       "name": "Backpork V0.1",
       "filename": "BackPork_v0.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf",
       "local_path": "payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf",
       "description": "BackPork PS5 tool.",
       "version": "0.1",
@@ -44,7 +44,7 @@
     {
       "name": "Apr Emu Updater V2.0.6",
       "filename": "apr_emu_updater_v2.0.6.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf",
       "local_path": "payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf",
       "description": "APR Emu Updater must always be loaded.",
       "version": "v2.0.6",
@@ -54,7 +54,7 @@
     {
       "name": "Ps5-Game-Compressor Fork V1.1.1",
       "filename": "PS5-Game-Compressor_fork_v1.1.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf",
       "local_path": "payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf",
       "description": "Fork Tool to compress PS5 games.",
       "version": "v1.1.1",

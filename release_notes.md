@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.07-1243)
+### 🚀 Synthèse de la mise à jour (v2026.10.07-1337)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -51,7 +51,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v6.2.3.elf`
+  * `ps5upload_v6.3.0.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -77,7 +77,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
   * `pldmgr_v0.5.2.elf`
-  * `ELF_Arsenal_v1.6.23.elf`
   * `Kura_v1.6.50.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
@@ -136,6 +135,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
+  * `ELF_Arsenal_v1.6.23.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
   * `Spectrum-Library_v1.4.8.elf`
@@ -194,7 +194,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `helper.elf`
   * `PPSA97358.zip`
   * `Porpoise-2.5.zip`
-  * `XashPS5-v1.0-PPSA99999.zip`
+  * `XashPS5-v1.1-PPSA99999.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`
   * `prospero-win-v0.1.1.zip`

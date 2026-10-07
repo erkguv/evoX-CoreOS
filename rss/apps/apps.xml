@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>PS5 Store AIO - Applications</title>
-    <link>https://nexgen999.github.io/evoX-CoreOS</link>
+    <link>https://erkguv.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Applications</description>
     <item>
       <title>Ppsa99004</title>
@@ -101,10 +101,10 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>Xashps5-V1.0-Ppsa99999</title>
-      <link>https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.0/XashPS5-v1.0-PPSA99999.zip</link>
+      <title>Xashps5-V1.1-Ppsa99999</title>
+      <link>https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.1/XashPS5-v1.1-PPSA99999.zip</link>
       <description>Half-Life (Xash3D FWGS) native homebrew port for PS5</description>
-      <pubDate>v1.0</pubDate>
+      <pubDate>v1.1</pubDate>
     </item>
     <item>
       <title>Ppsa99666</title>

@@ -4,7 +4,7 @@
     {
       "name": "Snes9Xps5 V2.0",
       "filename": "snes9xPS5_v2.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
       "local_path": "payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
       "description": "snes9x emulator",
       "version": "v2.0",
@@ -14,7 +14,7 @@
     {
       "name": "Genplusgxps5 V1.2",
       "filename": "genplusgxPS5_v1.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf",
       "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf",
       "description": "Port of Genesis-Plus-GX for PS55",
       "version": "v1.2",
@@ -24,7 +24,7 @@
     {
       "name": "Ps5X360 V0.5.7-Fix.1",
       "filename": "PS5X360_v0.5.7-fix.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.7-fix.1/PS5X360_v0.5.7-fix.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.7-fix.1/PS5X360_v0.5.7-fix.1.elf",
       "local_path": "payloads/ps5_emulator/PS5X360/v0.5.7-fix.1/PS5X360_v0.5.7-fix.1.elf",
       "description": "x360 emu for ps5, you need PPSA97358.zip",
       "version": "v0.5.7-fix.1",
@@ -34,7 +34,7 @@
     {
       "name": "Ps5-Romm V1.0.2",
       "filename": "ps5-romm_v1.0.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
       "local_path": "payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
       "description": "ps5-romm for ps5",
       "version": "v1.0.2",
@@ -44,7 +44,7 @@
     {
       "name": "Phu-Sandbox.Exit V1.0",
       "filename": "PHU-Sandbox.Exit_v1.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf",
       "local_path": "payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf",
       "description": "addon for Markus-PHU Emupack",
       "version": "Source-Fixe",

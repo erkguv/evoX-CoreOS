@@ -4,7 +4,7 @@
     {
       "name": "Bfpilot V0.4.4",
       "filename": "BFpilot_v0.4.4.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf",
       "local_path": "payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf",
       "description": "BFpilot is a lightweight PS5 payload that serves a browser-based file manager.",
       "version": "v0.4.4",
@@ -14,7 +14,7 @@
     {
       "name": "Lapy Jb Daemon",
       "filename": "lapy_jb_daemon.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf",
       "local_path": "payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf",
       "description": "Daemon pour le jailbreak de Lapy",
       "version": "Source-Fixe",
@@ -24,7 +24,7 @@
     {
       "name": "Web-File-Mgr-V1.10",
       "filename": "web-file-mgr-v1.10.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/web-file-mgr-v1.10.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/web-file-mgr-v1.10.elf",
       "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/web-file-mgr-v1.10.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
       "version": "v1.10",
@@ -34,7 +34,7 @@
     {
       "name": "Wfm-7Zip-Helper",
       "filename": "wfm-7zip-helper.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/wfm-7zip-helper.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/wfm-7zip-helper.elf",
       "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/wfm-7zip-helper.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
       "version": "v1.10",
@@ -44,7 +44,7 @@
     {
       "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",
       "filename": "PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
       "local_path": "payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
       "description": "PS5 File Explorer http://your-ps5-ip:5905.",
       "version": "file-explorer-v0.2.1",
