@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 07/10/2026 à 12:43
+* **PAYLOADS**
+  * `Ps5Upload V6.2.3` (v6.2.3) - *Nouveau*
+  * `Ps5X360 V0.5.7` (PS5X360) - *Mise à jour (Précédent: v0.5.7)*
+* **APPS**
+  * `Ppsa50011` (v0.5.7-fix.1) - *Mise à jour (Précédent: v0.5.7)*
+  * `Ps5X360-Autolog-V1.0.9-Preview` (v0.5.7-fix.1) - *Mise à jour (Précédent: v0.5.7)*
+  * `Helper` (Alpha-2) - *Nouveau*
+  * `Ppsa97358` (Alpha-2) - *Mise à jour (Précédent: alpha-1)*
+  * `Porpoise-2.5` (v2.5) - *Nouveau*
+
 ## Build du 07/10/2026 à 04:13
 * **PAYLOADS**
   * `Ps5Upload V6.2.1` (v6.2.1) - *Nouveau*

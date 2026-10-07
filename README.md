@@ -130,7 +130,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Genplusgxps5 V1.2 | [v1.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf) | `b1c3e0f2fb46...` | Port of Genesis-Plus-GX for PS55 |
 | Phu-Sandbox.Exit V1.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | addon for Markus-PHU Emupack |
 | Ps5-Romm V1.0.2 | [v1.0.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf) | `210b85775b55...` | ps5-romm for ps5 |
-| Ps5X360 V0.5.7 | [v0.5.7](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.7/PS5X360_v0.5.7.elf) | `5da64c23263e...` | x360 emu for ps5, you need PPSA97358.zip |
+| Ps5X360 V0.5.7-Fix.1 | [v0.5.7-fix.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.7-fix.1/PS5X360_v0.5.7-fix.1.elf) | `5da64c23263e...` | x360 emu for ps5, you need PPSA97358.zip |
 | Snes9Xps5 V2.0 | [v2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf) | `fa7d317ef132...` | snes9x emulator |
 
 ### 📂 PS5 Fan
@@ -244,7 +244,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `067fc3be4dd0...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `790d0926a3d8...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -319,7 +319,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Gdbsrv V0.9 | [v0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | `80952d75f423...` | GDB Debugger server payload. Port: 1234 |
 | Klogsrv V0.9 | [v0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Server V1.11 | [1.11](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf) | `0f36b7ea3c33...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V6.2.1 | [v6.2.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.2.1/ps5upload_v6.2.1.elf) | `eb0bf3b9f5c0...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V6.2.3 | [v6.2.3](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.2.3/ps5upload_v6.2.3.elf) | `19c0455f2e46...` | PS5 Upload server / tool. Port: 9025 |
 | Websrv V0.34 | [v0.34](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.6.0 | [v1.6.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf) | `39ed57bef579...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.6.0 | [v1.6.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf) | `fc59b60aab2d...` | FTP server payload for PS5. Port: 21 |
@@ -417,6 +417,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | Castation-0.4.0 | [v0.4.0](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | `6b17a8feaf3a...` | Dreamcast flycast emu for ps5 |
 | Flycast-Ps5-2026.10.06 | [v2026.10.06-run14](https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip) | `c53a603af916...` | flycast-ps5-libretro-core |
+| Helper | [Alpha-2](https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/helper.elf) | `29c271432859...` | Xbox emulator (Xemu) port for the PS5 |
 | Markus Phu-Emupack Dreamcast.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Dreamcast.PS5.rar) | `65e1ab652c46...` | Markus_PHU-EmuPack_Dreamcast.PS5 |
 | Markus Phu-Emupack Ps1-Tool.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar) | `f2abb56e05c0...` | EmuPack_PS1-Tool.PS5 |
 | Markus Phu-Emupack-Neogeo.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar) | `dff3c2733ff0...` | EmuPack-NeoGeo.PS5 |
@@ -426,16 +427,15 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Markus Phu-Emupack-Snes.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Snes.PS5.rar) | `cddce7fe9ef1...` | EmuPack-Snes.PS5 |
 | Markus Phu-Emupack-Ultra64.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Ultra64.PS5.rar) | `0d259ccbe37f...` | EmuPack-Ultra64.PS5 |
 | Phu-Sandbox.Exit V1.0 | [v3.0](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | EmuPack_Mame.PS5 |
-| Porpoise-2.1.1 | [v2.1.1](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.1.1/Porpoise-2.1.1.zip) | `608b17ae632d...` | GameCube and Wii Dolphin emu for ps5 |
-| Ppsa50011 | [v0.5.7](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7/PPSA50011.zip) | `6b16fbd1cd9a...` | x360 emu for ps5, you need xpsemu_tools.elf |
-| Ppsa97358 | [alpha-1](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/PPSA97358.zip) | `76656beeea24...` | Xbox emulator (Xemu) port for the PS5 |
+| Porpoise-2.5 | [v2.5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.5/Porpoise-2.5.zip) | `a6de0af1d2b4...` | GameCube and Wii Dolphin emu for ps5 |
+| Ppsa50011 | [v0.5.7-fix.1](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PPSA50011.zip) | `33d012a6baa0...` | x360 emu for ps5, you need xpsemu_tools.elf |
+| Ppsa97358 | [Alpha-2](https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/PPSA97358.zip) | `66260113cd78...` | Xbox emulator (Xemu) port for the PS5 |
 | Ppsa99300 | [alpha](https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip) | `bee5db90dd10...` | Vita3K for PS5 |
 | Ppsa99666 | [v1.1.1](https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip) | `4d8e5b785b61...` | Native DOOM for PS5 |
 | Ppsa99808 | [v0.1.2](https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip) | `d76e2bd55ea3...` | PICO-8 for PS5 |
 | Prospero-Win-V0.1.1 | [v0.1.1](https://github.com/mpereiraesaa/prospero-win/releases/download/v0.1.1/prospero-win-v0.1.1.zip) | `fdfa016cd609...` | Wine for PS5 |
-| Ps5X360-Autolog-V1.0.9-Preview | [v0.5.7](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7/PS5X360-AutoLog-v1.0.9-preview.elf) | `5da64c23263e...` | x360 emu for ps5, you need xpsemu_tools.elf |
+| Ps5X360-Autolog-V1.0.9-Preview | [v0.5.7-fix.1](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PS5X360-AutoLog-v1.0.9-preview.elf) | `5da64c23263e...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | Xashps5-V1.0-Ppsa99999 | [v1.0](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.0/XashPS5-v1.0-PPSA99999.zip) | `c054d3207676...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
-| Xpsemu Tools | [alpha-1](https://github.com/ZiZc3/XPSemu/releases/download/alpha-1/xpsemu_tools.elf) | `16d32668fd57...` | Xbox emulator (Xemu) port for the PS5 |
 
 ### 📂 Applications
 
