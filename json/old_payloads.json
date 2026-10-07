@@ -99,7 +99,7 @@
             "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
             "version": "v1.10",
             "category": "PS5 File Explorer",
-            "checksum": "dc28dfd499a97e389c5dbb6c1915404764d5a8f8d35869d2a7a9f5c98c2bc7ff"
+            "checksum": "dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4"
         },
         {
             "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",
@@ -312,14 +312,14 @@
             "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
         },
         {
-            "name": "Ps5Upload V6.3.0",
-            "filename": "ps5upload_v6.3.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.3.0/ps5upload_v6.3.0.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v6.3.0/ps5upload_v6.3.0.elf",
+            "name": "Ps5Upload V6.3.1",
+            "filename": "ps5upload_v6.3.1.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.3.1/ps5upload_v6.3.1.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v6.3.1/ps5upload_v6.3.1.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v6.3.0",
+            "version": "v6.3.1",
             "category": "PS5 Server",
-            "checksum": "9614060e2b7903bc583f14909dbade4357654e635606e29a4e93eee4886560b5"
+            "checksum": "2ff17e8096fa06c36fe27f4ea28d750733a9d10677ae6c566fd851f07da6b136"
         },
         {
             "name": "Airpsx V0.19",
@@ -434,12 +434,12 @@
         {
             "name": "Orbit Store",
             "filename": "orbit_store.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.8.0/orbit_store.elf",
-            "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v0.8.0/orbit_store.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.0/orbit_store.elf",
+            "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v0.9.0/orbit_store.elf",
             "description": "A modern, no-BS download manager for PS5.",
-            "version": "v0.8.0",
+            "version": "v0.9.0",
             "category": "PS5 Freeshop",
-            "checksum": "f8188366e1b6a36cf7ce1c3429df15a1d0fa69c2a93cb9cca36ea5a46cedbb4d"
+            "checksum": "aeef769d81507157837a017886a72c169ee7acb472e7c029a1d5e830735762df"
         },
         {
             "name": "Ps5-Phstore Vphstore",
@@ -699,7 +699,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "79d94ec09589b4ead1b1983c1c61a95e732d693824201bcc1763d84859dafcb1"
+            "checksum": "03993c781b959c014326159c3459c2f613561aa5ea20469bb8d46d7fc8a29a70"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
