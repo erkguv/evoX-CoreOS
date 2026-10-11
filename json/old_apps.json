@@ -4,11 +4,11 @@
         {
             "name": "Ppsa99004",
             "filename": "PPSA99004.zip",
-            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip",
-            "local_path": "apps/ProsperoAI/01.000.000/PPSA99004.zip",
+            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.004.000/PPSA99004.zip",
+            "local_path": "apps/ProsperoAI/01.004.000/PPSA99004.zip",
             "description": "Private, local generative AI for PlayStation 5 homebrew",
-            "version": "01.000.000",
-            "checksum": "19c2bacebf6fb1587b32d458fb5af2fb472d9f3844085993b0f1a30669dc0c69",
+            "version": "01.004.000",
+            "checksum": "aa3cedfd44d2c789204595aba5df163e94ab1cdff1aac682d068fe69cf6d398b",
             "category": "Applications"
         },
         {
@@ -74,11 +74,11 @@
         {
             "name": "Ppsa99000",
             "filename": "PPSA99000.zip",
-            "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.040/PPSA99000.zip",
-            "local_path": "apps/ProsperoStore/v1.000.040/PPSA99000.zip",
+            "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip",
+            "local_path": "apps/ProsperoStore/v1.000.050/PPSA99000.zip",
             "description": "homebrew store",
-            "version": "v1.000.040",
-            "checksum": "f6b68550f49544b3ccde7aeaf397ac45348fbbe70a0ef26300827aa478975764",
+            "version": "v1.000.050",
+            "checksum": "acea9b0fac84c86ace96ee17c4d6f54522b681ba08d9dd72e6d9cd661e7cc500",
             "category": "Applications"
         },
         {
@@ -104,61 +104,71 @@
         {
             "name": "Ppsa50011",
             "filename": "PPSA50011.zip",
-            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PPSA50011.zip",
-            "local_path": "apps/PS5X360/v0.5.7-fix.1/PPSA50011.zip",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PPSA50011.zip",
+            "local_path": "apps/PS5X360/v0.6.0/PPSA50011.zip",
             "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-            "version": "v0.5.7-fix.1",
-            "checksum": "33d012a6baa0b6d63f2a6b780e8e6133df1e92c9690110caa87ae28956d22899",
+            "version": "v0.6.0",
+            "checksum": "b2bf7a7d242428cfa002ec557210dc885403580b58bda8d67a436a2550b67dd2",
             "category": "Applications"
         },
         {
             "name": "Ps5X360-Autolog-V1.0.9-Preview",
             "filename": "PS5X360-AutoLog-v1.0.9-preview.elf",
-            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PS5X360-AutoLog-v1.0.9-preview.elf",
-            "local_path": "apps/PS5X360/v0.5.7-fix.1/PS5X360-AutoLog-v1.0.9-preview.elf",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PS5X360-AutoLog-v1.0.9-preview.elf",
+            "local_path": "apps/PS5X360/v0.6.0/PS5X360-AutoLog-v1.0.9-preview.elf",
             "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-            "version": "v0.5.7-fix.1",
+            "version": "v0.6.0",
             "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb",
+            "category": "Applications"
+        },
+        {
+            "name": "Ps5X360-Source-0.6.0-Changes",
+            "filename": "PS5X360-source-0.6.0-changes.zip",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PS5X360-source-0.6.0-changes.zip",
+            "local_path": "apps/PS5X360/v0.6.0/PS5X360-source-0.6.0-changes.zip",
+            "description": "x360 emu for ps5, you need xpsemu_tools.elf",
+            "version": "v0.6.0",
+            "checksum": "315a9df892995511403d2198e95058b850e470d6879d6c31d9e3397746412a93",
             "category": "Applications"
         },
         {
             "name": "Helper",
             "filename": "helper.elf",
-            "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/helper.elf",
-            "local_path": "apps/XPSemu/Alpha-2/helper.elf",
+            "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/helper.elf",
+            "local_path": "apps/XPSemu/Alpha-2.1/helper.elf",
             "description": "Xbox emulator (Xemu) port for the PS5",
-            "version": "Alpha-2",
-            "checksum": "29c271432859a394d433329c7a58c7df27912ad7fa5551cd2ac0374f834bf716",
+            "version": "Alpha-2.1",
+            "checksum": "31c8a3479937e310f758d36d87c937c91ae942921fa4645473b3d228a7d88959",
             "category": "Applications"
         },
         {
             "name": "Ppsa97358",
             "filename": "PPSA97358.zip",
-            "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/PPSA97358.zip",
-            "local_path": "apps/XPSemu/Alpha-2/PPSA97358.zip",
+            "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/PPSA97358.zip",
+            "local_path": "apps/XPSemu/Alpha-2.1/PPSA97358.zip",
             "description": "Xbox emulator (Xemu) port for the PS5",
-            "version": "Alpha-2",
-            "checksum": "66260113cd7806426689ec19489a4f2c363ee6b99db50d43766d109ba94ce7e6",
+            "version": "Alpha-2.1",
+            "checksum": "494682ff5073985422fd8961cc617b8e3bdbdb2dedd85b69dadbd06f709953e9",
             "category": "Applications"
         },
         {
-            "name": "Porpoise-2.5",
-            "filename": "Porpoise-2.5.zip",
-            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.5/Porpoise-2.5.zip",
-            "local_path": "apps/Porpoise/v2.5/Porpoise-2.5.zip",
+            "name": "Porpoise-3.0",
+            "filename": "Porpoise-3.0.zip",
+            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v3.0/Porpoise-3.0.zip",
+            "local_path": "apps/Porpoise/v3.0/Porpoise-3.0.zip",
             "description": "GameCube and Wii Dolphin emu for ps5",
-            "version": "v2.5",
-            "checksum": "a6de0af1d2b427cad5f69a32203407115d91b71e8291f92acf2545a5850a7600",
+            "version": "v3.0",
+            "checksum": "889bc738624c1c1abe5be304e3e78604f5cd66068473b5eeaef6c77e7677513e",
             "category": "Applications"
         },
         {
             "name": "Ppsa19111",
             "filename": "PPSA19111.zip",
-            "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.2/PPSA19111.zip",
-            "local_path": "apps/xash3d-ps5/v1.2/PPSA19111.zip",
+            "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip",
+            "local_path": "apps/xash3d-ps5/v1.3/PPSA19111.zip",
             "description": "Half-Life (Xash3D FWGS) native homebrew port for PS5",
-            "version": "v1.2",
-            "checksum": "2d7ad259a86ece821978ebe69a0955b43a8c225066a58d3392f14d26efc893c6",
+            "version": "v1.3",
+            "checksum": "1bb8f143016c51d0fac8e1621e95c65aa6cf143ee7eeb03b4ab3febe5c294670",
             "category": "Applications"
         },
         {
@@ -182,13 +192,13 @@
             "category": "Applications"
         },
         {
-            "name": "Prospero-Win-V0.1.1",
-            "filename": "prospero-win-v0.1.1.zip",
-            "url": "https://github.com/mpereiraesaa/prospero-win/releases/download/v0.1.1/prospero-win-v0.1.1.zip",
-            "local_path": "apps/prospero-win/v0.1.1/prospero-win-v0.1.1.zip",
+            "name": "Prospero-Win-V0.2.0",
+            "filename": "prospero-win-v0.2.0.zip",
+            "url": "https://github.com/mpereiraesaa/prospero-win/releases/download/v0.2.0/prospero-win-v0.2.0.zip",
+            "local_path": "apps/prospero-win/v0.2.0/prospero-win-v0.2.0.zip",
             "description": "Wine for PS5",
-            "version": "v0.1.1",
-            "checksum": "fdfa016cd60979aae08040e61d70929c8759c9bf66c16001c6db8178a4d6c162",
+            "version": "v0.2.0",
+            "checksum": "7585efc624c2f8077c0d579a045ef808129a7b0bc525a9dd9c5c6db0c51626ca",
             "category": "Applications"
         },
         {

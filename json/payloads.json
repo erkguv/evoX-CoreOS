@@ -172,14 +172,14 @@
       "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
     },
     {
-      "name": "Webkit-Autoloader-Installer V0.5.2",
-      "filename": "webkit-autoloader-installer_v0.5.2.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
+      "name": "Webkit-Autoloader-Installer V0.6.1",
+      "filename": "webkit-autoloader-installer_v0.6.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.5.2",
+      "version": "v0.6.1",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a"
+      "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
@@ -312,14 +312,14 @@
       "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
     },
     {
-      "name": "Ps5Upload V6.4.0",
-      "filename": "ps5upload_v6.4.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.4.0/ps5upload_v6.4.0.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v6.4.0/ps5upload_v6.4.0.elf",
+      "name": "Ps5Upload V7.0.8",
+      "filename": "ps5upload_v7.0.8.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.8/ps5upload_v7.0.8.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v7.0.8/ps5upload_v7.0.8.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v6.4.0",
+      "version": "v7.0.8",
       "category": "PS5 Server",
-      "checksum": "b0392932ae957821fbaccee44d761a9320655995ccfa80c9ffdcc5cec2497f70"
+      "checksum": "085d27825a78bb2066c334506791e2a85e12240c0710db1e649e4bf15f8f4aa4"
     },
     {
       "name": "Airpsx V0.19",
@@ -402,14 +402,14 @@
       "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff"
     },
     {
-      "name": "Pegasus-Dl V1.10.1",
-      "filename": "pegasus-dl_v1.10.1.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf",
-      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf",
+      "name": "Pegasus-Dl V1.11.0",
+      "filename": "pegasus-dl_v1.11.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf",
+      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf",
       "description": "free store webadmin http://your-ps5-ip:6970.",
-      "version": "v1.10.1",
+      "version": "v1.11.0",
       "category": "PS5 Freeshop",
-      "checksum": "b24fdc62fc6cad14684b214a9c5be6c1221585afbf9493e387ab90f9dee21138"
+      "checksum": "32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9"
     },
     {
       "name": "Ps5Shopappkg-Dpi",
@@ -422,24 +422,24 @@
       "checksum": "c4672cfa909463843c537f67d5f2df9eb3456d4036d26a4fb81fc34d7853170b"
     },
     {
-      "name": "Ps5Library-Agent-0.2.55",
-      "filename": "ps5library-agent-0.2.55.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf",
-      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf",
+      "name": "Ps5Library-Agent-0.2.70",
+      "filename": "ps5library-agent-0.2.70.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.70/ps5library-agent-0.2.70.elf",
+      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.70/ps5library-agent-0.2.70.elf",
       "description": "You need PS5Library.pkg.",
-      "version": "v0.2.55",
+      "version": "v0.2.70",
       "category": "PS5 Freeshop",
-      "checksum": "1efb53f018dc79803da3041c24bac6cc5dec31617fbd0eb09f5c53cfee27625d"
+      "checksum": "978c77ce7cd71940f2843704f4a5594868ae842abf2b286dfb7c2594390fb20c"
     },
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.0/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v0.9.0/orbit_store.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.1.0/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.1.0/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v0.9.0",
+      "version": "v1.1.0",
       "category": "PS5 Freeshop",
-      "checksum": "aeef769d81507157837a017886a72c169ee7acb472e7c029a1d5e830735762df"
+      "checksum": "e7afcd24678828436efc3aa3d58bb88cd0165f7dc39e72fb1ae60cf64037b986"
     },
     {
       "name": "Ps5-Phstore Vphstore",
@@ -522,14 +522,14 @@
       "checksum": "a12758a431e94ff06430869a74dbae4e936503c5523fdfd5f5a2cafe3c89ebd2"
     },
     {
-      "name": "Pkg-Manager V1.4.1",
-      "filename": "pkg-manager_v1.4.1.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
-      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
+      "name": "Pkg-Manager V1.5.1",
+      "filename": "pkg-manager_v1.5.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.1/pkg-manager_v1.5.1.elf",
+      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.1/pkg-manager_v1.5.1.elf",
       "description": "A clean and intuitive package manager for PlayStation 5",
-      "version": "v1.4.1",
+      "version": "v1.5.1",
       "category": "PS5 Pkg Tool",
-      "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
+      "checksum": "82e3548edcc41419b644482cccaef65689334fc0315dc20247f48b90bf182dca"
     },
     {
       "name": "Pkg-Receiver V1.2.9",
@@ -699,7 +699,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "60ffb5ed233fd8a9aa18569b092eecc547c559dc1992ce9ffc43c53ea3ad9468"
+      "checksum": "d0e41fade6b391bbe0bf90413d96580b7a95786263067be1e9a58bcdc79e4489"
     },
     {
       "name": "Np-Fake-Signin-Ps5",
@@ -722,43 +722,44 @@
       "checksum": "9fc48733077145d1d204a4c9cdb879baaab1e711a604dd73af0dd4a807d6bc49"
     },
     {
-      "name": "Snes9Xps5 V2.0",
-      "filename": "snes9xPS5_v2.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
-      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
+      "name": "Snes9Xps5 V2.3",
+      "filename": "snes9xPS5_v2.3.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf",
+      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf",
       "description": "snes9x emulator",
-      "version": "v2.0",
+      "version": "v2.3",
       "category": "PS5 Emulator",
-      "checksum": "fa7d317ef132fdbcb085376ab4ee6bcf539a0edb23b8df7a34c236f2dc6f1ae6"
+      "checksum": "d71f900bc434eaed55b304e603ae79327ef7de6be147a159d78803dd0eb7fe27"
     },
     {
-      "name": "Genplusgxps5 V1.2",
-      "filename": "genplusgxPS5_v1.2.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf",
-      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf",
+      "name": "Genplusgxps5 V1.6",
+      "filename": "genplusgxPS5_v1.6.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf",
+      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf",
       "description": "Port of Genesis-Plus-GX for PS55",
-      "version": "v1.2",
+      "version": "v1.6",
       "category": "PS5 Emulator",
-      "checksum": "b1c3e0f2fb46099c7f6e79a59b9dcdc1f8daefd0b54d462d9e3053486d34cbf6"
+      "checksum": "c548e4dd9e15f58bff8cccc2e7042df276462643ec74a0ea7548deeee6941548"
     },
     {
-      "name": "Ps5X360 V0.5.7",
-      "filename": "PS5X360_v0.5.7.elf",
-      "url": "",
-      "local_path": "payloads/ps5_emulator/PS5X360/v0.5.7/PS5X360_v0.5.7.elf",
-      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-      "version": "PS5X360",
+      "name": "Ps5X360 V0.6.0",
+      "filename": "PS5X360_v0.6.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf",
+      "local_path": "payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf",
+      "description": "x360 emu for ps5, you need PPSA97358.zip",
+      "version": "v0.6.0",
+      "category": "PS5 Emulator",
       "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb"
     },
     {
-      "name": "Ps5-Romm V1.0.2",
-      "filename": "ps5-romm_v1.0.2.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
+      "name": "Ps5-Romm V1.1.1",
+      "filename": "ps5-romm_v1.1.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.0.2",
+      "version": "v1.1.1",
       "category": "PS5 Emulator",
-      "checksum": "210b85775b551ca1267a5a84998e3cc9c498f764fcb7bbdd66a98d1c4c5a420d"
+      "checksum": "e86153e3d8f480656b47906bb6a6dd9d9fc76217ded4c9243f6f4df90724e53a"
     },
     {
       "name": "Phu-Sandbox.Exit V1.0",
@@ -1011,14 +1012,14 @@
       "checksum": "4514bdbc0c556df1a66544615942d5087d1cbee5c2026b3b66e688ba01e5a5b0"
     },
     {
-      "name": "Cheatrunner V0.17.2",
-      "filename": "CheatRunner_v0.17.2.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf",
-      "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf",
+      "name": "Cheatrunner V0.18",
+      "filename": "CheatRunner_v0.18.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
+      "local_path": "payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
       "description": "CheatRunner.",
-      "version": "v0.17.2",
+      "version": "v0.18",
       "category": "PS5 Cheat",
-      "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
+      "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140"
     },
     {
       "name": "Kylin-Core V2.0.0-Community-Lite",
@@ -1113,12 +1114,12 @@
     {
       "name": "Shadowmountplus",
       "filename": "shadowmountplus.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/shadowmountplus.elf",
-      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/shadowmountplus.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/shadowmountplus.elf",
+      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/shadowmountplus.elf",
       "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta4",
+      "version": "1.7beta5",
       "category": "PS5 Game Dump",
-      "checksum": "fc4e5f715e76660ce34bde2adb10eaf1d069cb2cdf06f7a380896dfb62bd0c4a"
+      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375"
     },
     {
       "name": "Backpork V0.1",
@@ -1176,6 +1177,15 @@
       "description": "Récupéré depuis le stockage local (Interne / Fallback)",
       "version": "ps5-web-file-manager",
       "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
+    },
+    {
+      "name": "Ps5Library-Agent-0.2.55",
+      "filename": "ps5library-agent-0.2.55.elf",
+      "url": "",
+      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "PS5Library",
+      "checksum": "1efb53f018dc79803da3041c24bac6cc5dec31617fbd0eb09f5c53cfee27625d"
     },
     {
       "name": "Spectrum-Library V1.4.8",

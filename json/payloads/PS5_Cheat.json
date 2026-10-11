@@ -2,14 +2,14 @@
   "name": "PS5 Cheat",
   "payloads": [
     {
-      "name": "Cheatrunner V0.17.2",
-      "filename": "CheatRunner_v0.17.2.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf",
-      "local_path": "payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf",
+      "name": "Cheatrunner V0.18",
+      "filename": "CheatRunner_v0.18.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
+      "local_path": "payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
       "description": "CheatRunner.",
-      "version": "v0.17.2",
+      "version": "v0.18",
       "category": "PS5 Cheat",
-      "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
+      "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140"
     },
     {
       "name": "Kylin-Core V2.0.0-Community-Lite",

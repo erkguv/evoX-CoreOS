@@ -1,5 +1,34 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 11/10/2026 à 12:18
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.6.1` (v0.6.1) - *Nouveau*
+  * `Ps5Upload V7.0.8` (v7.0.8) - *Nouveau*
+  * `Pegasus-Dl V1.11.0` (v1.11.0) - *Nouveau*
+  * `Ps5Library-Agent-0.2.70` (v0.2.70) - *Nouveau*
+  * `Orbit Store` (v1.1.0) - *Mise à jour (Précédent: v0.9.0)*
+  * `Pkg-Manager V1.5.1` (v1.5.1) - *Nouveau*
+  * `Snes9Xps5 V2.3` (v2.3) - *Nouveau*
+  * `Genplusgxps5 V1.6` (v1.6) - *Nouveau*
+  * `Ps5X360 V0.6.0` (v0.6.0) - *Nouveau*
+  * `Ps5-Romm V1.1.1` (v1.1.1) - *Nouveau*
+  * `Cheatrunner V0.18` (v0.18) - *Nouveau*
+  * `Shadowmountplus` (1.7beta5) - *Mise à jour (Précédent: 1.7beta4)*
+  * `Ps5Library-Agent-0.2.55` (PS5Library) - *Mise à jour (Précédent: v0.2.55)*
+* **FFPFSC**
+  * `Evoplayer-V0.12.0-Ppsa99039` (v0.12.0) - *Nouveau*
+* **APPS**
+  * `Ppsa99004` (01.004.000) - *Mise à jour (Précédent: 01.000.000)*
+  * `Ppsa99000` (v1.000.050) - *Mise à jour (Précédent: v1.000.040)*
+  * `Ppsa50011` (v0.6.0) - *Mise à jour (Précédent: v0.5.7-fix.1)*
+  * `Ps5X360-Autolog-V1.0.9-Preview` (v0.6.0) - *Mise à jour (Précédent: v0.5.7-fix.1)*
+  * `Ps5X360-Source-0.6.0-Changes` (v0.6.0) - *Nouveau*
+  * `Helper` (Alpha-2.1) - *Mise à jour (Précédent: Alpha-2)*
+  * `Ppsa97358` (Alpha-2.1) - *Mise à jour (Précédent: Alpha-2)*
+  * `Porpoise-3.0` (v3.0) - *Nouveau*
+  * `Ppsa19111` (v1.3) - *Mise à jour (Précédent: v1.2)*
+  * `Prospero-Win-V0.2.0` (v0.2.0) - *Nouveau*
+
 ## Build du 08/10/2026 à 04:57
 * **PAYLOADS**
   * `Ps5Upload V6.4.0` (v6.4.0) - *Nouveau*

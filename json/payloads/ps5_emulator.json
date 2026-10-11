@@ -2,44 +2,44 @@
   "name": "PS5 Emulator",
   "payloads": [
     {
-      "name": "Snes9Xps5 V2.0",
-      "filename": "snes9xPS5_v2.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
-      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
+      "name": "Snes9Xps5 V2.3",
+      "filename": "snes9xPS5_v2.3.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf",
+      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf",
       "description": "snes9x emulator",
-      "version": "v2.0",
+      "version": "v2.3",
       "category": "PS5 Emulator",
-      "checksum": "fa7d317ef132fdbcb085376ab4ee6bcf539a0edb23b8df7a34c236f2dc6f1ae6"
+      "checksum": "d71f900bc434eaed55b304e603ae79327ef7de6be147a159d78803dd0eb7fe27"
     },
     {
-      "name": "Genplusgxps5 V1.2",
-      "filename": "genplusgxPS5_v1.2.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf",
-      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf",
+      "name": "Genplusgxps5 V1.6",
+      "filename": "genplusgxPS5_v1.6.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf",
+      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf",
       "description": "Port of Genesis-Plus-GX for PS55",
-      "version": "v1.2",
+      "version": "v1.6",
       "category": "PS5 Emulator",
-      "checksum": "b1c3e0f2fb46099c7f6e79a59b9dcdc1f8daefd0b54d462d9e3053486d34cbf6"
+      "checksum": "c548e4dd9e15f58bff8cccc2e7042df276462643ec74a0ea7548deeee6941548"
     },
     {
-      "name": "Ps5X360 V0.5.7-Fix.1",
-      "filename": "PS5X360_v0.5.7-fix.1.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.7-fix.1/PS5X360_v0.5.7-fix.1.elf",
-      "local_path": "payloads/ps5_emulator/PS5X360/v0.5.7-fix.1/PS5X360_v0.5.7-fix.1.elf",
+      "name": "Ps5X360 V0.6.0",
+      "filename": "PS5X360_v0.6.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf",
+      "local_path": "payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf",
       "description": "x360 emu for ps5, you need PPSA97358.zip",
-      "version": "v0.5.7-fix.1",
+      "version": "v0.6.0",
       "category": "PS5 Emulator",
       "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb"
     },
     {
-      "name": "Ps5-Romm V1.0.2",
-      "filename": "ps5-romm_v1.0.2.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
+      "name": "Ps5-Romm V1.1.1",
+      "filename": "ps5-romm_v1.1.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.0.2",
+      "version": "v1.1.1",
       "category": "PS5 Emulator",
-      "checksum": "210b85775b551ca1267a5a84998e3cc9c498f764fcb7bbdd66a98d1c4c5a420d"
+      "checksum": "e86153e3d8f480656b47906bb6a6dd9d9fc76217ded4c9243f6f4df90724e53a"
     },
     {
       "name": "Phu-Sandbox.Exit V1.0",
