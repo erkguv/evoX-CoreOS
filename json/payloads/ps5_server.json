@@ -92,14 +92,14 @@
       "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
     },
     {
-      "name": "Ps5Upload V7.0.8",
-      "filename": "ps5upload_v7.0.8.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.8/ps5upload_v7.0.8.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v7.0.8/ps5upload_v7.0.8.elf",
+      "name": "Ps5Upload V7.0.12",
+      "filename": "ps5upload_v7.0.12.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.12/ps5upload_v7.0.12.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v7.0.12/ps5upload_v7.0.12.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v7.0.8",
+      "version": "v7.0.12",
       "category": "PS5 Server",
-      "checksum": "085d27825a78bb2066c334506791e2a85e12240c0710db1e649e4bf15f8f4aa4"
+      "checksum": "6291b53c92d5e1e0b0f44253439615254fd8a876970fbdb4e368a9ed01175648"
     },
     {
       "name": "Airpsx V0.19",

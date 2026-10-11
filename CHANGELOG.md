@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 11/10/2026 à 21:43
+* **PAYLOADS**
+  * `Ps5Upload V7.0.8` (ps5upload) - *Mise à jour (Précédent: v7.0.8)*
+  * `Orbit Store` (v1.2.0) - *Mise à jour (Précédent: v1.1.0)*
+* **APPS**
+  * `Ppsa99004` (01.005.000) - *Mise à jour (Précédent: 01.004.000)*
+  * `Ppsa99000` (v1.000.060) - *Mise à jour (Précédent: v1.000.050)*
+
 ## Build du 11/10/2026 à 12:18
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.6.1` (v0.6.1) - *Nouveau*

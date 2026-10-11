@@ -6,9 +6,9 @@
     <description>Mises à jour automatiques pour la catégorie Applications</description>
     <item>
       <title>Ppsa99004</title>
-      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.004.000/PPSA99004.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.005.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
-      <pubDate>01.004.000</pubDate>
+      <pubDate>01.005.000</pubDate>
     </item>
     <item>
       <title>Castation-0.4.0</title>
@@ -48,9 +48,9 @@
     </item>
     <item>
       <title>Ppsa99000</title>
-      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.060/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.050</pubDate>
+      <pubDate>v1.000.060</pubDate>
     </item>
     <item>
       <title>Spectrumlibrary 1.0.4</title>

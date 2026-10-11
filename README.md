@@ -168,7 +168,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Orbit Store | [v1.1.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.1.0/orbit_store.elf) | `e7afcd246788...` | A modern, no-BS download manager for PS5. |
+| Orbit Store | [v1.2.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.2.0/orbit_store.elf) | `86778d4fa830...` | A modern, no-BS download manager for PS5. |
 | Pegasus-Dl V1.11.0 | [v1.11.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf) | `32b69c2089bb...` | free store webadmin http://your-ps5-ip:6970. |
 | Ps5-Phstore Vphstore | [PHStore](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf) | `64d5c4605a06...` | Free PH Store client for PS5. |
 | Ps5Library-Agent-0.2.70 | [v0.2.70](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.70/ps5library-agent-0.2.70.elf) | `978c77ce7cd7...` | You need PS5Library.pkg. |
@@ -243,7 +243,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `d0e41fade6b3...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `822a2c690b9a...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -318,7 +318,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Gdbsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | `80952d75f423...` | GDB Debugger server payload. Port: 1234 |
 | Klogsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Server V1.11 | [1.11](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf) | `0f36b7ea3c33...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V7.0.8 | [v7.0.8](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.8/ps5upload_v7.0.8.elf) | `085d27825a78...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V7.0.12 | [v7.0.12](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.12/ps5upload_v7.0.12.elf) | `6291b53c92d5...` | PS5 Upload server / tool. Port: 9025 |
 | Websrv V0.34 | [v0.34](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.6.0 | [v1.6.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf) | `39ed57bef579...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.6.0 | [v1.6.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf) | `fc59b60aab2d...` | FTP server payload for PS5. Port: 21 |
@@ -400,7 +400,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | Evoplayer-V0.12.0-Ppsa99039 | [v0.12.0](https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.0/EVOPlayer-v0.12.0-PPSA99039.ffpfsc) | `7136deb47f08...` | A media player for jailbroken PS5 |
-| Ppsa99002 | [01.000.060](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | `6e92e8f862cf...` | PS5 Moonlight |
 | Prospero Radio | [02.000.055](https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.055/PROSPERO_RADIO.ffpfsc) | `7fc1350a7768...` | An internet radio for PS5 with a real radio face — rendered with Vulkan. |
 
 ---
@@ -444,7 +443,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Ppsa99004 | [01.004.000](https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.004.000/PPSA99004.zip) | `aa3cedfd44d2...` | Private, local generative AI for PlayStation 5 homebrew |
+| Ppsa99004 | [01.005.000](https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.005.000/PPSA99004.zip) | `9d0bb50b269d...` | Private, local generative AI for PlayStation 5 homebrew |
 
 ### 📂 Applications
 
@@ -457,7 +456,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Dump Installer | [1.07](https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip) | `5096f5775236...` | Dump installer howmebrew |
 | Dump Runner | [v1.02](https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip) | `0ffc4af70b23...` | Dump runner howmebrew |
 | Emulatorpack | [v1](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip) | `1107bc5a546a...` | Backup manager for PS5 |
-| Ppsa99000 | [v1.000.050](https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip) | `acea9b0fac84...` | homebrew store |
+| Ppsa99000 | [v1.000.060](https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.060/PPSA99000.zip) | `cc8dd4e7f38c...` | homebrew store |
 | Prosperoexplorer-V1 | [v1.0](https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip) | `3eaee706e8ac...` | File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network |
 | Prosperomultitools | [v1](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip) | `0e7c60d0e860...` | Backup manager for PS5 |
 
@@ -546,7 +545,6 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **barisyild** : [airpsx](https://github.com/barisyild/airpsx)
 - **bizkut** : [unrar-ps5](https://github.com/bizkut/unrar-ps5)
 - **blackbearreloaded** : [ProsperoAI](https://github.com/blackbearreloaded/ProsperoAI)
-- **blackbearreloaded** : [ProsperoLight](https://github.com/blackbearreloaded/ProsperoLight)
 - **blackbearreloaded** : [ProsperoStore](https://github.com/blackbearreloaded/ProsperoStore)
 - **cy33hc** : [ps5-ezremote-server](https://github.com/cy33hc/ps5-ezremote-server)
 - **diegobarbosaa** : [OmniPad-PS5](https://github.com/diegobarbosaa/OmniPad-PS5)

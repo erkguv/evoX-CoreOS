@@ -192,9 +192,9 @@
     </item>
     <item>
       <title>[Payloads] Ps5Upload V7.0.8</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.8/ps5upload_v7.0.8.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.0.8</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5upload</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -264,9 +264,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.1.0/orbit_store.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.2.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.1.0</pubDate>
+      <pubDate>v1.2.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Phstore Vphstore</title>
@@ -815,12 +815,6 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Fichiers FFPFSC] Ppsa99002</title>
-      <link>https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc</link>
-      <description>PS5 Moonlight</description>
-      <pubDate>01.000.060</pubDate>
-    </item>
-    <item>
       <title>[Fichiers FFPFSC] Evoplayer-V0.12.0-Ppsa99039</title>
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.0/EVOPlayer-v0.12.0-PPSA99039.ffpfsc</link>
       <description>A media player for jailbroken PS5</description>
@@ -834,9 +828,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99004</title>
-      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.004.000/PPSA99004.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.005.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
-      <pubDate>01.004.000</pubDate>
+      <pubDate>01.005.000</pubDate>
     </item>
     <item>
       <title>[Applications] Castation-0.4.0</title>
@@ -876,9 +870,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.060/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.050</pubDate>
+      <pubDate>v1.000.060</pubDate>
     </item>
     <item>
       <title>[Applications] Spectrumlibrary 1.0.4</title>

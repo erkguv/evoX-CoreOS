@@ -2,16 +2,6 @@
   "name": "AIO Store FFPFSC",
   "files": [
     {
-      "name": "Ppsa99002",
-      "filename": "PPSA99002.ffpfsc",
-      "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc",
-      "local_path": "ffpfsc/ProsperoLight/01.000.060/PPSA99002.ffpfsc",
-      "description": "PS5 Moonlight",
-      "version": "01.000.060",
-      "checksum": "6e92e8f862cf75f3527ff0210a7470aca4b5dc453a6f7f00bb3a26a01bf3fe40",
-      "category": "FFPFSC"
-    },
-    {
       "name": "Evoplayer-V0.12.0-Ppsa99039",
       "filename": "EVOPlayer-v0.12.0-PPSA99039.ffpfsc",
       "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.0/EVOPlayer-v0.12.0-PPSA99039.ffpfsc",

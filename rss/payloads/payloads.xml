@@ -192,9 +192,9 @@
     </item>
     <item>
       <title>Ps5Upload V7.0.8</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.8/ps5upload_v7.0.8.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.0.8</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5upload</pubDate>
     </item>
     <item>
       <title>Airpsx V0.19</title>
@@ -264,9 +264,9 @@
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.1.0/orbit_store.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.2.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.1.0</pubDate>
+      <pubDate>v1.2.0</pubDate>
     </item>
     <item>
       <title>Ps5-Phstore Vphstore</title>

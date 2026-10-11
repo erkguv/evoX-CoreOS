@@ -64,11 +64,11 @@
     {
       "name": "Ppsa99000",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip",
-      "local_path": "apps/ProsperoStore/v1.000.050/PPSA99000.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.060/PPSA99000.zip",
+      "local_path": "apps/ProsperoStore/v1.000.060/PPSA99000.zip",
       "description": "homebrew store",
-      "version": "v1.000.050",
-      "checksum": "acea9b0fac84c86ace96ee17c4d6f54522b681ba08d9dd72e6d9cd661e7cc500",
+      "version": "v1.000.060",
+      "checksum": "cc8dd4e7f38c42224b1e3d9b8afde20a88856b14e64729c6144362fff02def21",
       "category": "Applications"
     }
   ]

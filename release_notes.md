@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.11-1218)
+### 🚀 Synthèse de la mise à jour (v2026.10.11-2143)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -169,7 +169,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>📄 Pack FFPFSC</b></summary>
 
 * **files**
-  * `PPSA99002.ffpfsc`
   * `EVOPlayer-v0.12.0-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
 
