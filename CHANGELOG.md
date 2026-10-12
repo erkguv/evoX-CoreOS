@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 12/10/2026 à 04:44
+* **PAYLOADS**
+  * `Nuvio-Ps5 V1.8.0` (v1.8.0) - *Nouveau*
+
 ## Build du 11/10/2026 à 21:43
 * **PAYLOADS**
   * `Ps5Upload V7.0.8` (ps5upload) - *Mise à jour (Précédent: v7.0.8)*
