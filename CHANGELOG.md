@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 13/10/2026 à 22:27
+* **PAYLOADS**
+  * `Orbit Store` (v1.3.0) - *Mise à jour (Précédent: v1.2.0)*
+
 ## Build du 12/10/2026 à 04:44
 * **PAYLOADS**
   * `Nuvio-Ps5 V1.8.0` (v1.8.0) - *Nouveau*
