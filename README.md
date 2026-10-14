@@ -243,7 +243,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `0c8f4baf6d78...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `3287939f7d32...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -443,7 +443,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Ppsa99004 | [01.005.000](https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.005.000/PPSA99004.zip) | `9d0bb50b269d...` | Private, local generative AI for PlayStation 5 homebrew |
+| Ppsa99004 | [01.006.000](https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.006.000/PPSA99004.zip) | `8b2241e003a2...` | Private, local generative AI for PlayStation 5 homebrew |
 
 ### 📂 Applications
 

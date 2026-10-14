@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 14/10/2026 à 16:46
+* **APPS**
+  * `Ppsa99004` (01.006.000) - *Mise à jour (Précédent: 01.005.000)*
+
 ## Build du 14/10/2026 à 11:26
 * **PAYLOADS**
   * `Ps5Library-Agent` (v0.2.91) - *Nouveau*
