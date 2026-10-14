@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 14/10/2026 à 21:26
+* **PAYLOADS**
+  * `Orbit Store` (v1.3.5) - *Mise à jour (Précédent: v1.3.0)*
+  * `Pldmgr V0.6.1` (v0.6.1) - *Nouveau*
+
 ## Build du 14/10/2026 à 16:46
 * **APPS**
   * `Ppsa99004` (01.006.000) - *Mise à jour (Précédent: 01.005.000)*

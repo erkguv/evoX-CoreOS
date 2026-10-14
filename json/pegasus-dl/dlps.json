@@ -3,6 +3,490 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA19733",
+      "title": "Lost Records Bloom and Rage",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/ex5z2XZ6DmKq/file"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Zvqzlpw1azaD/file"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/BnkmW6ROQGR0/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/ddwOG"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/hfnBg"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1mIKDw"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/G2ELsVrJRD"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/2nkcnbnaO4"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/e8Hk3777ms"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2715/07bf96a36a06916df02327fe518597c83b5264cf4add8f64.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/lost-records-bloom-and-rage-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2715/07bf96a36a06916df02327fe518597c83b5264cf4add8f64.png"
+    },
+    {
+      "titleId": "PPSA06186",
+      "title": "Humankind",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/gXeGOe1eK3Aa/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/pjUum"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/JkGSNNPjpj"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/OMuwkb08ac0MQxLGFpHXGIbX.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/humankind-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/OMuwkb08ac0MQxLGFpHXGIbX.png"
+    },
+    {
+      "titleId": "PPSA18471",
+      "title": "Tales of Kenzera ZAU",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/QN9mEdwqpG6d/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/9I53o"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/nYRNpJAdfo"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1418/a1770e205050415ae3e5e7a61fc3265712bbd35c3309fe47.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/tales-of-kenzera-zau-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1418/a1770e205050415ae3e5e7a61fc3265712bbd35c3309fe47.png"
+    },
+    {
+      "titleId": "PPSA17419",
+      "title": "MONOPOLY",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/0Kezk0oA2GD1/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/u1HcG"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ztE7D200A2"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2015/2bd7c98745e0f06a75d6faeec67e4c1d38f097a206d39a63.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/monopoly-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2015/2bd7c98745e0f06a75d6faeec67e4c1d38f097a206d39a63.png"
+    },
+    {
+      "titleId": "PPSA08894",
+      "title": "You Suck At Parking",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/obj3jkolrzDx/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1qa6vQ"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/XAWsCuqWqx"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2509/qY8Gsz0YmNFi3uH8KVQVaXG9.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/you-suck-at-parking-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2509/qY8Gsz0YmNFi3uH8KVQVaXG9.png"
+    },
+    {
+      "titleId": "PPSA28058",
+      "title": "Finding Frankie",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/l5YzMexE2zyO/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/y38To"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EuBcuNvWs7"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1417/ce6098b30ec69997c517996a333292b701f8a879ab89193e.png?w=260",
+      "description": "Region: USA\nRelease note: Dump by vincenzoz85 &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/finding-frankie-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1417/ce6098b30ec69997c517996a333292b701f8a879ab89193e.png"
+    },
+    {
+      "titleId": "PPSA06485",
+      "title": "SteamWorld Build",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/k0embkKVn3Vb/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1ubxmy"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/QJMseCN6Gk"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1913/ylFtKqy0b3ujKorcpz1C07GU.png?w=260",
+      "description": "Region: USA\nRelease note: Dump by vincenzoz85 &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/steamworld-build-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1913/ylFtKqy0b3ujKorcpz1C07GU.png"
+    },
+    {
+      "titleId": "PPSA04246",
+      "title": "Heavenly Bodies",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/Pbe3Peg8WzlX/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/pzQki"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/dxILdB7zpX"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202112/0209/eTNAclmYfZEjX0OGqdl0CL0k.png?w=260",
+      "description": "Region: USA\nRelease note: Dump by vincenzoz85 &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/heavenly-bodies-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202112/0209/eTNAclmYfZEjX0OGqdl0CL0k.png"
+    },
+    {
+      "titleId": "PPSA03332",
+      "title": "Nobody Saves The World",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/9QWmpW6oNGEB/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/lxZxI"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/RvZ6nLkdaP"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1614/mdVkGjAllj9HD6qiM6gVwsts.png?w=260",
+      "description": "Region: USA\nRelease note: Dump by vincenzoz85 &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/nobody-saves-the-world-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1614/mdVkGjAllj9HD6qiM6gVwsts.png"
+    },
+    {
+      "titleId": "PPSA31872",
+      "title": "Ball X Pit",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/RMKGJWDOVm1o/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/hvj5k"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/wpvKGR2vlt"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0616/83415751927d95046612da39ab5f997a0416087b402220fc.png?w=260",
+      "description": "Region: USA\nRelease note: Dump by vincenzoz85 &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ball-x-pit-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0616/83415751927d95046612da39ab5f997a0416087b402220fc.png"
+    },
+    {
+      "titleId": "PPSA22779",
+      "title": "Shogun Showdown",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/5pVzNoxBXG7w/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1vz3Ym"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Z3lYsF4c3v"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1808/f347c5c35efbb644f58d03f9b6a478625b052340ca216850.png?w=260",
+      "description": "Region: USA\nRelease note: Dump by vincenzoz85 &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/shogun-showdown-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1808/f347c5c35efbb644f58d03f9b6a478625b052340ca216850.png"
+    },
+    {
+      "titleId": "PPSA22373",
+      "title": "Garten of Banban 2",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/jJD3Veap0ma5/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1cLf3A"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/xxXpaQXQgN"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1811/66d18359e973f40e48c05b6459c1cfb2929d73694bfcb32e.png?w=260",
+      "description": "Region: USA\nRelease note: Dump by vincenzoz85 &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/garten-of-banban-2-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1811/66d18359e973f40e48c05b6459c1cfb2929d73694bfcb32e.png"
+    },
+    {
+      "titleId": "PPSA22369",
+      "title": "Garten of Banban",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/9AqGQejlgGMn/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/fGy00"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/4uq4DSXfrY"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1811/77e47ca2fefab2e622a12b5b689603f9dec5aaeecd8eacd7.png?w=260",
+      "description": "Region: USA\nRelease note: Dump by vincenzoz85 &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/garten-of-banban-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1811/77e47ca2fefab2e622a12b5b689603f9dec5aaeecd8eacd7.png"
+    },
+    {
+      "titleId": "PPSA04354",
+      "title": "TOEM",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/APVmaMlBwmXo/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/LdZQG"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/6vXH3odZL9"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1213/jQITReCsnpS5ATrg2jrHF2w5.png?w=260",
+      "description": "Region: USA\nRelease note: Dump by vincenzoz85 &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/toem-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1213/jQITReCsnpS5ATrg2jrHF2w5.png"
+    },
+    {
+      "titleId": "PPSA07053",
+      "title": "Coffee Talk Episode 2 Hibiscus and Butterfly",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/0PdzyMBqdzeA/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1YJoBc"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/GrGEK8fznW"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2802/7e8081b6fe6c07c724b389099ffa21072f2ef814c890190a.png?w=260",
+      "description": "Region: EUR\nRelease note: By johnny2k4 &amp; Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/coffee-talk-episode-2-hibiscus-and-butterfly-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2802/7e8081b6fe6c07c724b389099ffa21072f2ef814c890190a.png"
+    },
+    {
+      "titleId": "PPSA07057",
+      "title": "Coffee Talk",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/LJlGnZolvG15/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/200uQK"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/8br8tze5WV"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202104/0510/kqFKzYXgYrUH0Ytg9ehjazY9.png?w=260",
+      "description": "Region: EUR\nRelease note: By johnny2k4 &amp; Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/coffee-talk-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202104/0510/kqFKzYXgYrUH0Ytg9ehjazY9.png"
+    },
+    {
+      "titleId": "PPSA06866",
+      "title": "Divinity Original Sin 2 Definitive Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/b5Ozdk0Mp3B8/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/EwxX6"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/1PLagKQ5lt"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/b1f0ccb1a71396d16b504f5852c9e400e1cc62ba5873cec1.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump by JingL-2468c &amp; Backport by Deckerr9 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/divinity-original-sin-2-definitive-edition-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/b1f0ccb1a71396d16b504f5852c9e400e1cc62ba5873cec1.png"
+    },
+    {
+      "titleId": "PPSA07582",
+      "title": "Ship of Fools",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/LK0G1XxKZz91/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/15L2cy"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/cjFLHCtxG7"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2811/TcPCS03iiJFOHRT84VYj99w9.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump by A Fan-2468c &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ship-of-fools-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2811/TcPCS03iiJFOHRT84VYj99w9.png"
+    },
+    {
+      "titleId": "PPSA35669",
+      "title": "Village in The Shade",
+      "downloadLinks": [
+        {
+          "name": "ASIA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/b5Ozdk0jp3B8/file"
+        },
+        {
+          "name": "ASIA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/xHKts"
+        },
+        {
+          "name": "ASIA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/qvQSENx7UR"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2513/fb87870937681c3af9cd06e3ae4de8b8c4ece460764384fc.png?w=260",
+      "description": "Region: ASIA\nRelease note: Dump by A Fan-2468c &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/village-in-the-shade-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2513/fb87870937681c3af9cd06e3ae4de8b8c4ece460764384fc.png"
+    },
+    {
+      "titleId": "PPSA27752",
+      "title": "Brigandine Abyss",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/obj3jkovdzDx/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/21trw8"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/22FFkOqGBG"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0500/6aa5c2492797f711f278366270651b71ae6e0fee7ee3ebda.png?w=260",
+      "description": "Region: JPN\nRelease note: Dump by A Fan-2468c &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/brigandine-abyss-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0500/6aa5c2492797f711f278366270651b71ae6e0fee7ee3ebda.png"
+    },
+    {
       "titleId": "PPSA07247",
       "title": "Warhammer 40000 Boltgun",
       "downloadLinks": [

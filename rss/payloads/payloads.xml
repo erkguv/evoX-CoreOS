@@ -264,9 +264,9 @@
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.3.0/orbit_store.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.3.5/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.3.0</pubDate>
+      <pubDate>v1.3.5</pubDate>
     </item>
     <item>
       <title>Ps5-Phstore Vphstore</title>
@@ -341,10 +341,10 @@
       <pubDate>v0.1.5-915a65e</pubDate>
     </item>
     <item>
-      <title>Pldmgr V0.6.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.0/pldmgr_v0.6.0.elf</link>
+      <title>Pldmgr V0.6.1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.1/pldmgr_v0.6.1.elf</link>
       <description>Interface d</description>
-      <pubDate>v0.6.0</pubDate>
+      <pubDate>v0.6.1</pubDate>
     </item>
     <item>
       <title>Kura V1.6.50</title>

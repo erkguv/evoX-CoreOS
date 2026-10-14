@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.14-1646)
+### 🚀 Synthèse de la mise à jour (v2026.10.14-2126)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -76,7 +76,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `pkg-receiver_v1.2.9.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
-  * `pldmgr_v0.6.0.elf`
+  * `pldmgr_v0.6.1.elf`
   * `Kura_v1.6.50.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
