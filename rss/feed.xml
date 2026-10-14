@@ -341,10 +341,10 @@
       <pubDate>v0.1.5-915a65e</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pldmgr V0.5.2</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf</link>
+      <title>[Payloads] Pldmgr V0.6.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.0/pldmgr_v0.6.0.elf</link>
       <description>Interface d</description>
-      <pubDate>v0.5.2</pubDate>
+      <pubDate>v0.6.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Kura V1.6.50</title>
@@ -870,9 +870,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.060/PPSA99000.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.070/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.060</pubDate>
+      <pubDate>v1.000.070</pubDate>
     </item>
     <item>
       <title>[Applications] Spectrumlibrary 1.0.4</title>

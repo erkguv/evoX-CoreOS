@@ -200,7 +200,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Kura V1.6.50 | [v1.6.50](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf) | `8bac520b2b99...` | Un loader de payloads moderne et épuré conçu pour optimiser l |
 | Onionhen V0.0.13 | [v0.0.13](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf) | `aa3f98847948...` | An all-in-one HEN and Toolbox for PlayStation 5. |
 | Pizza-Hen V2.00 | [v2.00](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf) | `8535d399612d...` | PIZZA HEN is an experimental all-in-one PS5 homebrew environment. |
-| Pldmgr V0.5.2 | [v0.5.2](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf) | `62b3ba2a4937...` | Interface d |
+| Pldmgr V0.6.0 | [v0.6.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.0/pldmgr_v0.6.0.elf) | `5b31079d81d6...` | Interface d |
 | Prosperomgr | [v1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf) | `e7a6bb544adb...` | A Web-Based All-In-One homebrew manager for your PlayStation 5 |
 | Ps5 Unified Autoloader V0.1.5-915A65E | [v0.1.5-915a65e](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf) | `c8e36ea06cfd...` | Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l |
 
@@ -243,7 +243,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `70a06a6ea393...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `7799c558b7d8...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -456,7 +456,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Dump Installer | [1.07](https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip) | `5096f5775236...` | Dump installer howmebrew |
 | Dump Runner | [v1.02](https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip) | `0ffc4af70b23...` | Dump runner howmebrew |
 | Emulatorpack | [v1](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip) | `1107bc5a546a...` | Backup manager for PS5 |
-| Ppsa99000 | [v1.000.060](https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.060/PPSA99000.zip) | `cc8dd4e7f38c...` | homebrew store |
+| Ppsa99000 | [v1.000.070](https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.070/PPSA99000.zip) | `0bb41b6f0e08...` | homebrew store |
 | Prosperoexplorer-V1 | [v1.0](https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip) | `3eaee706e8ac...` | File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network |
 | Prosperomultitools | [v1](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip) | `0e7c60d0e860...` | Backup manager for PS5 |
 

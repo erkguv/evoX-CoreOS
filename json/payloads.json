@@ -561,14 +561,14 @@
       "checksum": "c8e36ea06cfd37c5fad356ff9fcd09d3e62065d88170b5119ce8f1eeb3efacac"
     },
     {
-      "name": "Pldmgr V0.5.2",
-      "filename": "pldmgr_v0.5.2.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf",
-      "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf",
+      "name": "Pldmgr V0.6.0",
+      "filename": "pldmgr_v0.6.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.0/pldmgr_v0.6.0.elf",
+      "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.0/pldmgr_v0.6.0.elf",
       "description": "Interface d",
-      "version": "v0.5.2",
+      "version": "v0.6.0",
       "category": "PS5 HEN Loader",
-      "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
+      "checksum": "5b31079d81d6467f2754edd1d6dbe63b0306502e135c21a425ecb263e39e2059"
     },
     {
       "name": "Kura V1.6.50",
@@ -698,7 +698,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "70a06a6ea39331bd5e8f3237aefa1aee433e18b1cac0c5458f72a47afdaf85ab"
+      "checksum": "7799c558b7d84f79225ce10b42d939efc2f8a014650ff4c817d51819dcbc0d3b"
     },
     {
       "name": "Np-Fake-Signin-Ps5",
