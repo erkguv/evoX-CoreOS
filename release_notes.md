@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.14-0354)
+### 🚀 Synthèse de la mise à jour (v2026.10.14-1126)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -62,7 +62,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-Unpack_v0.1.elf`
   * `pegasus-dl_v1.11.0.elf`
   * `ps5shopappkg-dpi.elf`
-  * `ps5library-agent-0.2.70.elf`
+  * `ps5library-agent.elf`
   * `orbit_store.elf`
   * `PS5-PHStore_vPHStore.elf`
   * `actremotelink_agent_v2.0.elf`
@@ -138,6 +138,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ELF_Arsenal_v1.6.23.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
+  * `ps5library-agent-0.2.70.elf`
   * `ps5library-agent-0.2.55.elf`
   * `Spectrum-Library_v1.4.8.elf`
 

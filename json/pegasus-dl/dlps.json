@@ -3,6 +3,110 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA07247",
+      "title": "Warhammer 40000 Boltgun",
+      "downloadLinks": [
+        {
+          "name": "EUR 8.xx Base - Akirabox",
+          "url": "https://akirabox.com/jJD3VeR60ma5/file"
+        },
+        {
+          "name": "EUR 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/mZZEe"
+        },
+        {
+          "name": "EUR 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/imlCYzIoVM"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2314/c5e10e76ff39458aba617e8c889c22ad12f3b495bbee2af4.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 8.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/warhammer-40000-boltgun-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2314/c5e10e76ff39458aba617e8c889c22ad12f3b495bbee2af4.png"
+    },
+    {
+      "titleId": "PPSA19969",
+      "title": "Turbo Overkill",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.com/2WVGrWQ2qmkx/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1HxA36"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/BbvnW06w6c"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2814/95e0bf2847489e24f136324cbd9ea0ca1f9284d52d512446.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 9.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/turbo-overkill-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2814/95e0bf2847489e24f136324cbd9ea0ca1f9284d52d512446.png"
+    },
+    {
+      "titleId": "PPSA36167",
+      "title": "Romance of The Three Kingdoms XIV Complete Edition",
+      "downloadLinks": [
+        {
+          "name": "JPN 12.xx Base - Akirabox",
+          "url": "https://akirabox.com/Z9dzBBjaxzk1/file"
+        },
+        {
+          "name": "JPN 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/udGxk"
+        },
+        {
+          "name": "JPN 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mWem4Uvjc9"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18004_00/2/i_2bd4d604346796d42a3a43418137fb7897e03db7353b9fb7a793282f0c8943ef/i/icon0.png?w=260",
+      "description": "Region: JPN\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/romance-of-the-three-kingdoms-xiv-complete-edition-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18004_00/2/i_2bd4d604346796d42a3a43418137fb7897e03db7353b9fb7a793282f0c8943ef/i/icon0.png"
+    },
+    {
+      "titleId": "PPSA08087",
+      "title": "Mordhau",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/0JgG7a0OK3oY/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0PdzyMWgdzeA/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2JP4Fc"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/12gyci"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/guYqfRv0F6"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/5nAxYCyk3u"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1509/823903c5a84f386f467fbec8022f302a3cd76835f020efae.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 6.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/mordhau-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1509/823903c5a84f386f467fbec8022f302a3cd76835f020efae.png"
+    },
+    {
       "titleId": "PPSA35399",
       "title": "Castlevania Belmonts Curse",
       "downloadLinks": [
@@ -1551,11 +1655,23 @@
         {
           "name": "EUR 7.xx Base - 1fichier part 7",
           "url": "https://1fichier.com/?hcnufr0hliwria64mdbe"
+        },
+        {
+          "name": "EUR exFAT 01.000.053 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTGJ1ZlBlditRWWw2cjRQc0FFaG9MOGdhOFdQcVhObG5QcXF2bXlDS3JTSHE5bStqQnl2QU11QlFjUEVnd2lFMWFGUERGRnNwTHBOeDZGZUZkV00wUjNkUUxWV0xQMEFhUjZGeUV6UVpzQT09IiwiaSI6ImpnOFJ5c29DaXVYTG5BeTgiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.000.053 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWHNaSmdwL3Y4Y0Q0alFqV0Q5RWFxa1lwdWcyazRkTEJMYzgvSHZoT2RnOW9kRFZpb2tOaHRzanBjNk9kV1VKbU01K2ZSSHVyQ3c1MEdtZVNRS1JBYUx3RkQ2RHMxOGJzbzJ3SVV2TXAiLCJpIjoiQldheEVPcElrcWpyRkI0MiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.000.053 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibjFoaWZUYnc3RFpoRE9mQm5HblBWNVhtWWF2MUduemtOcDJHenE3Ukgxa3pwbDF3bDQrUWZBNTlMdGtaU3FMY1R3ZHZ6NUtpVnBYTUpJUzE5V1R4VHdjT0FIaU05OVBDbTc1enFyWnlWWDg9IiwiaSI6InAvVlY0cWVieXY2NkZxZGkiLCJuIjoiVmlraSJ9"
         }
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0813/81ab4b5e5fc8aeba84d3ce3fb7aeede9f00bbab93d9c9c60.png?w=260",
-      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 7.xx\nRegion: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.053\nRegion: EUR\nRelease note: exFAT format — FW 01.000.053 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/cricket-24-ps5/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0813/81ab4b5e5fc8aeba84d3ce3fb7aeede9f00bbab93d9c9c60.png"
     },

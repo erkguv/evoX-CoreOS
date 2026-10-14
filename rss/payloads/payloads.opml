@@ -46,7 +46,7 @@
     <outline text="Fgg-Unpack V0.1" title="Fgg-Unpack V0.1" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf" description="Extract .zip and .7z archives directly on a jailbroken PlayStation 5."/>
     <outline text="Pegasus-Dl V1.11.0" title="Pegasus-Dl V1.11.0" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf" description="free store webadmin http://your-ps5-ip:6970."/>
     <outline text="Ps5Shopappkg-Dpi" title="Ps5Shopappkg-Dpi" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf" description="You need PS5-SHOP-APPKG.pkg DPI port 9040."/>
-    <outline text="Ps5Library-Agent-0.2.70" title="Ps5Library-Agent-0.2.70" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.70/ps5library-agent-0.2.70.elf" description="You need PS5Library.pkg."/>
+    <outline text="Ps5Library-Agent" title="Ps5Library-Agent" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf" description="You need PS5Library.pkg."/>
     <outline text="Orbit Store" title="Orbit Store" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.3.0/orbit_store.elf" description="A modern, no-BS download manager for PS5."/>
     <outline text="Ps5-Phstore Vphstore" title="Ps5-Phstore Vphstore" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf" description="Free PH Store client for PS5."/>
     <outline text="Actremotelink Agent V2.0" title="Actremotelink Agent V2.0" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf" description="ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play"/>
@@ -122,6 +122,7 @@
     <outline text="Elf Arsenal V1.6.23" title="Elf Arsenal V1.6.23" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr V1.9" title="Web-File-Mgr V1.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.9" title="Web-File-Mgr-V1.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
+    <outline text="Ps5Library-Agent-0.2.70" title="Ps5Library-Agent-0.2.70" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5Library-Agent-0.2.55" title="Ps5Library-Agent-0.2.55" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Spectrum-Library V1.4.8" title="Spectrum-Library V1.4.8" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
   </body>

@@ -257,10 +257,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Library-Agent-0.2.70</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.70/ps5library-agent-0.2.70.elf</link>
+      <title>[Payloads] Ps5Library-Agent</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf</link>
       <description>You need PS5Library.pkg.</description>
-      <pubDate>v0.2.70</pubDate>
+      <pubDate>v0.2.91</pubDate>
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
@@ -711,6 +711,12 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Ps5Library-Agent-0.2.70</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PS5Library</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5Library-Agent-0.2.55</title>

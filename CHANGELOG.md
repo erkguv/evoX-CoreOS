@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 14/10/2026 à 11:26
+* **PAYLOADS**
+  * `Ps5Library-Agent` (v0.2.91) - *Nouveau*
+  * `Ps5Library-Agent-0.2.70` (PS5Library) - *Mise à jour (Précédent: v0.2.70)*
+
 ## Build du 14/10/2026 à 03:54
 * **PAYLOADS**
   * `Pldmgr V0.6.0` (v0.6.0) - *Nouveau*
