@@ -591,14 +591,14 @@
             "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
         },
         {
-            "name": "Onionhen V0.0.13",
-            "filename": "onionHEN_v0.0.13.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
-            "local_path": "payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
+            "name": "Onionhen V0.9.0",
+            "filename": "onionHEN_v0.9.0.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.9.0/onionHEN_v0.9.0.elf",
+            "local_path": "payloads/ps5_hen_loader/onionHEN/v0.9.0/onionHEN_v0.9.0.elf",
             "description": "An all-in-one HEN and Toolbox for PlayStation 5.",
-            "version": "v0.0.13",
+            "version": "v0.9.0",
             "category": "PS5 HEN Loader",
-            "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
+            "checksum": "1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212"
         },
         {
             "name": "Etahen-2.6B",
@@ -698,7 +698,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "b5e500ced606ec1857eeaeb1fffb105eb51b085e5c402a9ffa4773096f76ac3c"
+            "checksum": "3a238af07d031efb47c5b6621a7e719eb97823c41d94e01e7af5f67679787a80"
         },
         {
             "name": "Np-Fake-Signin-Ps5",

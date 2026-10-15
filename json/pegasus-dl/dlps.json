@@ -3,6 +3,320 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA30659",
+      "title": "The Long Dark",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/Pbe3PegrEzlX/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/gYdJw"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/T1P9LiHmLj"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?bioebuxeu765m48npl2y"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3019/745a10e0cce7d70b2c5e87343e41f9a82402094d882ec9b3.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/the-long-dark-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3019/745a10e0cce7d70b2c5e87343e41f9a82402094d882ec9b3.png"
+    },
+    {
+      "titleId": "PPSA02019",
+      "title": "Tennis World Tour 2 Complete Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/obj3jkoLPzDx/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1tEs1A"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/8tqzkr8q1h"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?n35drzarlwrwuhazuw4a"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/tennis-world-tour-2-complete-edition-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png"
+    },
+    {
+      "titleId": "PPSA02308",
+      "title": "Crusader Kings 3",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/0rpmv1YBZGRg/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1WwiPo"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EGfjiJGKaw"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?gei1yw0t0ldz6xeq6nll"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/crusader-kings-3-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png"
+    },
+    {
+      "titleId": "PPSA17226",
+      "title": "Coral Island",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/RMKGJWD61m1o/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1pD19c"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WNNlNMeNTs"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?icmyiutg0ue8egj6i2ax"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/coral-island-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png"
+    },
+    {
+      "titleId": "PPSA32904",
+      "title": "Madden NFL 27",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/qLQ36X17KG19/file"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/b5Ozdk0xp3B8/file"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/Z9dzBBDyEzk1/file"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/vgKGx7V8Rz8Q/file"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/E1x3AxlyRmyk/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/10xpPU"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/2Hfv2O"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/14zgH2"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/2De4Aq"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/N9Em"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/sW32bEl11C"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/lUO7EDbMft"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/ATTBlmG3jA"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/itsYSaLkCt"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/0BksdFeQoM"
+        },
+        {
+          "name": "USA 4.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?wsaadbhpgl5bb7wf2cw3"
+        },
+        {
+          "name": "USA 4.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?j6mfdnx3eno1ct8zq0ny"
+        },
+        {
+          "name": "USA 4.xx Base - 1fichier part 3",
+          "url": "https://1fichier.com/?ygkzrz8zpo9ophcm7spm"
+        },
+        {
+          "name": "USA 4.xx Base - 1fichier part 4",
+          "url": "https://1fichier.com/?jkuss4fiyievy2fvol9d"
+        },
+        {
+          "name": "USA 4.xx Base - 1fichier part 5",
+          "url": "https://1fichier.com/?yr6y8kly51cein7qz0pk"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/madden-nfl-27-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png"
+    },
+    {
+      "titleId": "PPSA14388",
+      "title": "Indiana Jones and The Staff of Kings",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/k0embkKZW3Vb/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1KbDzE"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HV81DEB303"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/2415/20a4ac05ee2de01aeada79687bb5f344ad0f1aeea72152c8.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/indiana-jones-and-the-staff-of-kings-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/2415/20a4ac05ee2de01aeada79687bb5f344ad0f1aeea72152c8.png"
+    },
+    {
+      "titleId": "PPSA14421",
+      "title": "Disneys Atlantis The Lost Empire",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/Pbe3PegLLzlX/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/Bwq5Q"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Xtz9Yiw0u0"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2022/453e716b436cd900afc665fa90ec127e7b38ae4ddf127c53.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/disneys-atlantis-the-lost-empire-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2022/453e716b436cd900afc665fa90ec127e7b38ae4ddf127c53.png"
+    },
+    {
+      "titleId": "PPSA31291",
+      "title": "TEKKEN 3",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/obj3jkoZ1zDx/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/3t8QS"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/SWLjEoC0F5"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0208/f832ce6011c9e2abd9b23e1e2ef90c7f8b93524280fc4dd8.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/tekken-3-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0208/f832ce6011c9e2abd9b23e1e2ef90c7f8b93524280fc4dd8.png"
+    },
+    {
+      "titleId": "PPSA31371",
+      "title": "TEKKEN DARK RESURRECTION",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/l5YzMex8WzyO/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1Ypfvc"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/pKfCofVsG3"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0404/cec873df23665ab9d2102de16ef6aaddefa60c4a60314775.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/tekken-dark-resurrection-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0404/cec873df23665ab9d2102de16ef6aaddefa60c4a60314775.png"
+    },
+    {
+      "titleId": "PPSA31372",
+      "title": "RIDGE RACER",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/9QWmpW6RXGEB/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/7uzDs"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/pdK1b5DTak"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1908/6ce298e9b23333630dfbc1c1c647f2f8335ed24d08a4a544.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ridge-racer-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1908/6ce298e9b23333630dfbc1c1c647f2f8335ed24d08a4a544.png"
+    },
+    {
       "titleId": "PPSA19733",
       "title": "Lost Records Bloom and Rage",
       "downloadLinks": [
@@ -41,11 +355,27 @@
         {
           "name": "USA 4.xx Base - Vikingfile part 3",
           "url": "https://vikingfile.com/f/e8Hk3777ms"
+        },
+        {
+          "name": "USA exFAT 02.004 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZGVMVHVlc3I2aTJKUVpOUnRMZDljeU8vYUxOVTB0aUZCVTBlcHIxa1JaWStad1lZOUFPWjFUOVdWeEY4eEZHQXh1eGkxL1RWZXhnWDhYUXBsUFRYTm81MGpEYjJiUnFNVGluQWllQ3hyZz09IiwiaSI6ImNWandBUkRhM1pXVm10OEoiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 02.004 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoid01mRHNtZ0FMSUF5VFBWT2c1d1Q3TzJsRnB6dW1RUEFTRjg1cXVoQVhSR2hRRTRReW1Wb0lTYk9LN2ZyVEdyYnRQcndkSTFXNm1weEVldSt6a2Z4NUlFam1LeG82akhkSGw0ckRqNFhJTG89IiwiaSI6IlkxcVRHeVBWWTdIRWE4YkUiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 02.004 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYzlFa3J4Y3lJbDYvU2czZ0VvK2R3VFF6UDBmSGhMTTI4STZyTk54bkFEOTFIamR6OEdPK2ZrbzZUMzZFeXpjZytlVTJQeUtiVFZjcEFhZTJsYUtDaUM2MjdsSUdwS1hpNEJSemxKc24iLCJpIjoiL1puOVNHVmJGSXMvaXNJTiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 02.004 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYkNjc28xOXZoclR6Z3RaMkVHNXVSWGZtTHNFdk1rd3RkL01YYnBmTHRpc1RWcERnbWRSbU1EUTdnOFdmc1hhSkdGSnJ3UTQ0RGFhUW9QeXZBS1owVE80N2FYbzhodXJWSC9EbEtqUFBLZm89IiwiaSI6InRJdENTSGVETGV0Nkc3RDYiLCJuIjoiVmlraSJ9"
         }
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2715/07bf96a36a06916df02327fe518597c83b5264cf4add8f64.png?w=260",
-      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 02.004\nRegion: USA\nRelease note: exFAT format — FW 02.004 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/lost-records-bloom-and-rage-ps5/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2715/07bf96a36a06916df02327fe518597c83b5264cf4add8f64.png"
     },
@@ -49646,31 +49976,39 @@
         {
           "name": "exFAT v01.004.003 Base - Vikingfile",
           "url": "https://vikingfile.com/f/OhUxRQZ3tC"
-        },
-        {
-          "name": "USA to EUR Langs exFAT 01.004.003 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiZWtCOUJpRXFSS1pzdmVVTy9SV0VsakVhQVo3bkc1US9NT2pqeERPdll5eENPbUJZbWpxNnNjanBFblg1dWFIMnhkY1BCU3BuIiwicyI6IlB0dnR4NmM4ZjFLNU9yU3A0diszMUE9PSIsImkiOiJNeFRkdlFHWW45VE4ydkdrIn0="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 01.004.003 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiRlRlcFVMcTRsS0xIdXZtVnNvckh4MWYwTjAwL3NuKy9wMUxOb2pKVWo5VGJoQm1LVWUxM0VUOW04aDdzc01OUStYZEwiLCJzIjoiZGhpcUhhN2ViNGNQNTZzYllPbWhKdz09IiwiaSI6Im85dENoRGEyU0xjSTJjVHEifQ=="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 01.004.003 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiYVNQQkJVb0lwRDRYaHJjYjlRaC9NaFovSU1GVHdBVEtwRk5FTGV2YVVhQ1hGc3NLazE3K0hQVWdZME1xTzZtSHBBPT0iLCJzIjoiWFNLUWJ6cFh3dnNrUmNQRmlBMkdBZz09IiwiaSI6ImExanYzaVhwTlA4Mm8xc3AifQ=="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 01.004.003 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiNmlrUE9ZeDhNY2hKdGtxSDhmdzhoL1k5czJIb0JrUmUySmM0RVNzKzJMYlNVa3BlVmVhRkZEc2ZLRTA5QzVXY1U3VnYiLCJzIjoieGF1US91YmhPOG1VeVZjQVlCYkNydz09IiwiaSI6IllYYlhUQWVKMUtiSXNNbDYifQ=="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 01.004.003 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiR3ZhV3JSaHhKNHBTVmlsSkpEcVNjU2RiSjJrK2VGK1l6V282V2F6czNHc1NwMHFSZ0U5SUlQdTkxUjN0QkxRaUV2cz0iLCJzIjoiNVNsUnRmUVk2bStrY0xYYUlnU1VCUT09IiwiaSI6IkdTd0dVTlFWMGpyTnFoSHEifQ=="
         }
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png?w=260",
-      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 10.xx Make sure use latest update y2jb or bdj or p2jb Do not run game from the internal drive as this may cause the console to freeze and enter recovery mode Already add to game [ apr emu – playgo emu – dlc emu ] Before run game need run backpork payload without backpack payload apr emu will not work and game will crash\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.004.003\nRelease note: Marvels Spider Man 2 Deluxe Edition (v01.004.003) – PPSA03016 – exFAT USA to EUR Languages. APR-EMU Updated, autosave now work.\nContributor: Thanks to High-Speed007 for the Files, drakmor for ampr-emu and BestPig for the BackPort.\n\nVariant: USA to EUR Langs exFAT 01.004.003\nRegion: USA to EUR Langs\nRelease note: exFAT format — FW 01.004.003 — DLCs Merged\nContributor: pippo",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 10.xx Make sure use latest update y2jb or bdj or p2jb Do not run game from the internal drive as this may cause the console to freeze and enter recovery mode Already add to game [ apr emu – playgo emu – dlc emu ] Before run game need run backpork payload without backpack payload apr emu will not work and game will crash\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.004.003\nRelease note: Marvels Spider Man 2 Deluxe Edition (v01.004.003) – PPSA03016 – exFAT USA to EUR Languages. APR-EMU Updated, autosave now work.\nContributor: Thanks to High-Speed007 for the Files, drakmor for ampr-emu and BestPig for the BackPort.",
+      "downloadSource": "https://dlpsgame.com/marvels-spider-man-2-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png"
+    },
+    {
+      "titleId": "PPSA08338",
+      "title": "Marvels Spider Man 2 Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.005.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQmx4WFZrL05PU0lEN1hCTUs2N2o5R2o2bnFMeTQ5VCtPY1BsekFvREdaMUVOaUY4emJxbGEzeFJZRE1UYTY3RWtKMGV2NTVpZVNnN3RlTTZsN2RUN3J1RXVwQlZ3MnZzaS9zZzVPTUkzZz09IiwiaSI6InJLWThyR28vd3JRYSttWWsiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.005.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiT08wRm00NWZkNGVjT1h3bGsySzRLV0ljUFVSdEc5MXI3alo4QWxmcDd4WkdtdXdSZ1R0bDk1RW9aa2NwaGNsdkl3TkIrcXBzVDdOTU42RDh5STFpcysyNGZTc3l3QytuZk81SkVBYTlSd2c9IiwiaSI6IlV3b3hQNGprcGhmeEZobzUiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.005.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSGxXNzJFemlpdEtzSFNINjZlZ1ZVc25qOU5uaU40Qk5Nd0JmakVIVFpEMkFUNmJWOSt5N1Uwa3FBazhzZXQzYm85VGNVeGo2QjNwVDQ0UFFiQVhrRk4vaTZTd0JTMWhDbXZIT0s4RS8iLCJpIjoiVW1iK3RvbEwvalA3OFQvWSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.005.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicjFyN3ZCcE82QXVhODhmTnVWbEwzNm5Za0ZNM0xHN21GUnpHcFg0dUJmeW9raFl2TGRIT2J5eVBrUzVMWHNUN2xJSCtiU204MUFxN0hzK0huWk9kWG0wcUp6MnpTcTg3ZzJob1ZNK3ptV0k9IiwiaSI6IlBENzYvNTlBSXcxUkJVNzkiLCJuIjoiVmlraSJ9"
+        }
+      ],
+      "version": "01.005.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png?w=260",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.005.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/marvels-spider-man-2-ps5/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png"
     },
@@ -87905,7 +88243,7 @@
           "url": "https://www.rootz.so/d/pnZBY"
         },
         {
-          "name": "EUR 6.xx BackPort 5.xx - Mediafire",
+          "name": "EUR 6.xx BackPort 4.xx - Mediafire part 4",
           "url": "https://www.mediafire.com/file/g6rk5nj3h0w8q92/5XX+PPSA05057+%E2%80%93+EUR++V1.00+Clash+Artifacts+of+Chaos++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
