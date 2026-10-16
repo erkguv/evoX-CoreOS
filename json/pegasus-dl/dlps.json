@@ -200,9 +200,10 @@
         }
       ],
       "category": "game",
-      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/10/2-lop.jpg",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1810/6097ff37c049630d448fb31ada969721686463667f72dca9.png?w=260",
       "description": "Region: HK\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/knowledge-or-know-lady-ps5/"
+      "downloadSource": "https://dlpsgame.com/knowledge-or-know-lady-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1810/6097ff37c049630d448fb31ada969721686463667f72dca9.png"
     },
     {
       "titleId": "PPSA30659",

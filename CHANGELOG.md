@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 16/10/2026 à 03:31
+* **PAYLOADS**
+  * `Snes9Xps5 V2.6` (v2.6) - *Nouveau*
+  * `Genplusgxps5 V1.7` (v1.7) - *Nouveau*
+  * `Ps5-Romm V1.2.1` (v1.2.1) - *Nouveau*
+
 ## Build du 15/10/2026 à 11:03
 * **PAYLOADS**
   * `Onionhen V0.9.0` (v0.9.0) - *Nouveau*

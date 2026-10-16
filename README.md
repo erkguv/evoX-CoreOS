@@ -127,11 +127,11 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Genplusgxps5 V1.6 | [v1.6](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf) | `c548e4dd9e15...` | Port of Genesis-Plus-GX for PS55 |
+| Genplusgxps5 V1.7 | [v1.7](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.7/genplusgxPS5_v1.7.elf) | `f764824466d3...` | Port of Genesis-Plus-GX for PS55 |
 | Phu-Sandbox.Exit V1.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | addon for Markus-PHU Emupack |
-| Ps5-Romm V1.2.0 | [v1.2.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.0/ps5-romm_v1.2.0.elf) | `e2e3710cdb26...` | ps5-romm for ps5 |
+| Ps5-Romm V1.2.1 | [v1.2.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.1/ps5-romm_v1.2.1.elf) | `c6ddf186755e...` | ps5-romm for ps5 |
 | Ps5X360 V0.6.0 | [v0.6.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf) | `5da64c23263e...` | x360 emu for ps5, you need PPSA97358.zip |
-| Snes9Xps5 V2.3 | [v2.3](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf) | `d71f900bc434...` | snes9x emulator |
+| Snes9Xps5 V2.6 | [v2.6](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.6/snes9xPS5_v2.6.elf) | `296c6b363c8d...` | snes9x emulator |
 
 ### 📂 PS5 Fan
 
@@ -243,7 +243,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `4728cdbd19a8...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `48066fd6b69e...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -318,7 +318,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Gdbsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | `80952d75f423...` | GDB Debugger server payload. Port: 1234 |
 | Klogsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Server V1.11 | [1.11](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf) | `0f36b7ea3c33...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V7.0.23 | [v7.0.23](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.23/ps5upload_v7.0.23.elf) | `419b56a10336...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V7.0.26 | [v7.0.26](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.26/ps5upload_v7.0.26.elf) | `9b08d5a3849a...` | PS5 Upload server / tool. Port: 9025 |
 | Websrv V0.34 | [v0.34](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.6.0 | [v1.6.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf) | `39ed57bef579...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.6.0 | [v1.6.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf) | `fc59b60aab2d...` | FTP server payload for PS5. Port: 21 |

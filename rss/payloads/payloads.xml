@@ -437,16 +437,16 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>Snes9Xps5 V2.3</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf</link>
+      <title>Snes9Xps5 V2.6</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.6/snes9xPS5_v2.6.elf</link>
       <description>snes9x emulator</description>
-      <pubDate>v2.3</pubDate>
+      <pubDate>v2.6</pubDate>
     </item>
     <item>
-      <title>Genplusgxps5 V1.6</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf</link>
+      <title>Genplusgxps5 V1.7</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.7/genplusgxPS5_v1.7.elf</link>
       <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v1.6</pubDate>
+      <pubDate>v1.7</pubDate>
     </item>
     <item>
       <title>Ps5X360 V0.6.0</title>
@@ -455,10 +455,10 @@
       <pubDate>v0.6.0</pubDate>
     </item>
     <item>
-      <title>Ps5-Romm V1.2.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.0/ps5-romm_v1.2.0.elf</link>
+      <title>Ps5-Romm V1.2.1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.1/ps5-romm_v1.2.1.elf</link>
       <description>ps5-romm for ps5</description>
-      <pubDate>v1.2.0</pubDate>
+      <pubDate>v1.2.1</pubDate>
     </item>
     <item>
       <title>Phu-Sandbox.Exit V1.0</title>
