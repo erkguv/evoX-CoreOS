@@ -3,6 +3,195 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA35909",
+      "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/BnkmW67rqGR0/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Zvqzlp0eYzaD/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1gIQyW"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/PaLPk"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/IF9qmPzyMr"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/bNADAUc564"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1305/28ad47102bb7db9d6a8feb8ec79870abeb130429afef5cc6.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/kingdom-hearts-hd-2-8-final-chapter-prologue-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1305/28ad47102bb7db9d6a8feb8ec79870abeb130429afef5cc6.png"
+    },
+    {
+      "titleId": "PPSA35999",
+      "title": "KINGDOM HEARTS 3 + Re Mind",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/9AqGQe0qrGMn/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/BnkmW67OYGR0/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/jJD3VePl7ma5/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/EL73gkAqa39B/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/vgKGx7LK8z8Q/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1LCWB6"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1vTBsu"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/4UQcK"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/imx7Y"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/1zV2gK"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/jADosyK79m"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/0zjCnlaaNO"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/g0wQL1eZ0v"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/2QZKbk18Fy"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/dQGYqBLLXL"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1305/28ad47102bb7db9d6a8feb8ec79870abeb130429afef5cc6.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/kingdom-hearts-3-re-mind-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1305/28ad47102bb7db9d6a8feb8ec79870abeb130429afef5cc6.png"
+    },
+    {
+      "titleId": "PPSA35901",
+      "title": "KINGDOM HEARTS HD 1.5 + 2.5 ReMIX",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/Z9dzBB4LOzk1/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/obj3jklrAzDx/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/b5Ozdkp643B8/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/l5YzMeEYKzyO/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/rk9zKdDKvG0l/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/E1x3Ax8Jgmyk/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1QB1aS"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/DUmp6"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/9SvxY"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/RjElU"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/Vl5d2"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1ePTSi"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/qftytHuMw1"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/TpYtPpKx2H"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/bLLVCvnOqU"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/Kiyt9XS6hW"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/edDw4JVYYw"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/Qke9qrteVa"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1305/28ad47102bb7db9d6a8feb8ec79870abeb130429afef5cc6.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/kingdom-hearts-hd-1-5-2-5-remix-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1305/28ad47102bb7db9d6a8feb8ec79870abeb130429afef5cc6.png"
+    },
+    {
       "titleId": "PPSA12385",
       "title": "Underdog Detective",
       "downloadLinks": [
@@ -132417,6 +132606,10 @@
         {
           "name": "EUR exFAT 01.020 Base - FileK (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoialVKM014ZjJYYnh5YkIrZzAvZVZhcHUrSEY0RElMVGNHbW5aeUc2Z25NQTBML3BISmM0RmpNUVluclZQc3VYMmF3TTAvaUdLSnkxK0NtSUR2eVJsbVR6VEM5RTU2bUd4TWtlYnRnZ1pJamM9IiwiaSI6IlIyU0V6TzJqc1BKLy94UEciLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.020 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiL0E4czVKQXNEZ3JEMXVTRVhMc0ZjOW43TS9aVU5ZVkNOaXBQdTA0SGE2dkc2RFIyWTQxRTJONmwzVFlkN0ZPUExQOTRBN2l2TlYyQnFvbDdlaGpHZDdla2JKK0FoQzAvTDRScXF1T0IiLCJpIjoiem9JcnVzYWdwVVRwbmluQyIsIm4iOiJBa2lhIn0="
         },
         {
           "name": "EUR exFAT 01.020 Base - VIKI (exFAT)",
