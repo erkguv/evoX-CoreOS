@@ -3,20 +3,760 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03016",
+      "title": "Marvel's Spider-Man 2",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/Kl0CxvJh8Y"
+        },
+        {
+          "name": "Archive",
+          "url": "https://archive.org/details/SM2_FPKG"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/WXN3mYDZdc"
+        }
+      ],
+      "version": "01.004.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png?w=260",
+      "description": "Spider-Men Peter Parker and Miles Morales face the ultimate test of strength inside and outside the mask as they fight to save the city, each other and the ones they love, from the monstrous Venom and the dangerous new symbiote threat. Explore an expansive Marvel’s New York with faster web-swinging and the all-new Web Wings, quickly switching between Peter and Miles to experience different stories, epic new abilities and high-tech gear. Wield Peter’s symbiote abilities and Miles’ explosive bio-electric powers in battle against new and iconic Marvel Super Villains – including an original take on a symbiote-infused Venom, the ruthless Kraven the Hunter, the volatile Lizard, and more from the Marvel Rogues’ Gallery. Feel the true power of Spider-Man in your hands! - Haptic feedback: experience the full force of Peter’s and Miles’ new abilities at your fingertips with responsive vibrations. - Adaptive triggers: master acrobatic moves, execute thrilling combos, and discover the breathtaking excitement of web-swinging traversal. Live the Super-Hero life! - Tempest 3D AudioTech: pinpoint the sounds of webs, bio-electric powers, bustling traffic, responsive New Yorkers, and dangerous enemy attacks.* - Stunning visuals: explore beautifully vibrant new environments and locations, including Brooklyn and Queens – as well as locations like Coney Island. *3D Audio via built-in TV speakers or analogue/USB stereo headphones.\nRegion: USA\nFirmware: 4.xx+\nCredits: DLPS Team\nUpdated: 2026-10-16T16:37:28.907Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 114342766838,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png"
+    },
+    {
+      "titleId": "PPSA01411",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/pTCubFW6TG"
+        },
+        {
+          "name": "Archive",
+          "url": "https://archive.org/details/SMMiles_PKG"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/lVsypffzeA"
+        }
+      ],
+      "version": "01.015.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png?w=260",
+      "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. In the latest adventure in the Marvel’s Spider-Man universe, teenager Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. But when a fierce power struggle threatens to destroy his new home, the aspiring hero realizes that with great power, there must also come great responsibility. To save all of Marvel’s New York, Miles must take up the mantle of Spider-Man and own it. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: USA\nFirmware: 5.xx+\nUpdated: 2026-10-16T16:37:02.340Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 56371445760,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
+    },
+    {
+      "titleId": "PPSA14251",
+      "title": "Mafia The Old Country: Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/AhBrJbjo4v"
+        }
+      ],
+      "version": "01.008",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/06f677b905f8794395b855a0de3e9fcb42b567e78c50aaed.png?w=260",
+      "description": "Uncover the origins of organized crime in Mafia: The Old Country, a gritty mob story set in the brutal underworld of 1900s Sicily. Fight to survive as Enzo Favara and prove your worth to the Family in this immersive third-person action-adventure set during a dangerous, unforgiving era. Enzo will do anything for a better life. After a brutal childhood of forced labor, he's ready to risk everything to become a man of honor in the Torrisi crime family. His oath to the Mafia, with all the power, temptation, and hardship it entails, is a burning reminder of this simple truth: Family Takes Sacrifice. This thrilling narrative is brought to life by stunning visuals, cinematic storytelling, and the authentic realism that the critically acclaimed Mafia series is known for. Enzo's story unfolds in a time when skill with a stiletto blade was a deadly asset, a lupara sawed-off shotgun was a go-to firearm, murderous vendettas raged for decades, and mafiosi patrolled their protection rackets on foot, horseback, or behind the wheel of turn-of-the-century motorcars.\nRegion: EUR\nFirmware: 10.xx+\nNotes: Disable Audio 3D before playing.\nCredits: Oussama\nUpdated: 2026-10-16T16:36:17.776Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 40372692582,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/06f677b905f8794395b855a0de3e9fcb42b567e78c50aaed.png"
+    },
+    {
+      "titleId": "PPSA21567",
+      "title": "ASTRO BOT",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/WM0PZE0Pt3"
+        }
+      ],
+      "version": "01.018",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png?w=260",
+      "description": "JOIN ASTRO ON A SUPERSIZED SPACE ADVENTURE When the PS5® mothership is attacked by ASTRO’s long-standing galactic nemesis, scrambling its wires and scattering the crew throughout space, only ASTRO can make things right! Setting off on his biggest mission yet, he needs your help to rescue the stranded crew and rebuild the mothership. Make the most of ASTRO’s new power-ups, handcrafted to level up your immersion: from springy punches and rockets all the way to a giant sponge! Buckle up for some epic PlayStation® camaraderie, join forces with your favourite PlayStation icons and show the universe that small is mighty in this fresh new ASTRO adventure, exclusive to PS5 consoles! - Embark on a galactic quest and explore more than 50 planets in search of ASTRO’s lost crew. - Dash, swing, and rocket-punch your way through this journey, with all-new power-ups. - Feel the world come to life via your DualSense® wireless controller. - Team up with iconic PlayStation heroes to save the galaxy!\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:34:52.342Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 38719130173,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png"
+    },
+    {
+      "titleId": "PPSA04029",
+      "title": "Cyberpunk 2077 Ultimate Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/yrSY6MJi1O"
+        }
+      ],
+      "version": "02.120",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/UyPJCxbE3EoeLtUxjoFBnsD4.png?w=260",
+      "description": "Previous special offer price valid from 17-11-2023 to 27-11-2023 was (£46.39 / €N/A / AU $N/A / BGN 111.92 / CZK 1479.2 / DKK N/A / HUF 19192 / NZ $N/A / NOK N/A / PLN 207.2 / SEK N/A / USD $51.19 / ZAR 999.2 / HRK N/A / INR 3443 / TRY 916 / ILS 223.2) Cyberpunk 2077: Ultimate Edition is only playable on PlayStation 5 as it contains content not available on PlayStation 4. ABOUT THE GAME Cyberpunk 2077 is an open-world, action-adventure RPG set in Night City, a megalopolis obsessed with power, glamour, and body modification. Play as V, a cyberpunk mercenary, and take on the most powerful forces of the city in a fight for glory and survival. Legends will be made here. What will yours be? DISCOVER PLAYSTATION®5 PRO ENHANCEMENTS All PS5®Pro owners can now access a free update for their consoles and experience optimized performance, enhanced visual fidelity with PlayStation Spectral Super Resolution (PSSR), advanced ray tracing features, and more. The Night City experience can be tailored to players’ needs with three graphics modes: Performance, Ray Tracing, and Ray Tracing Pro. THE ULTIMATE CYBERPUNK 2077 EXPERIENCE In the Ultimate Edition, immerse yourself in every story the world of the dark future has to offer, featuring every gameplay update and all previously released content in one package — including the acclaimed spy-thriller expansion Phantom Liberty. CREATE YOUR OWN CYBERPUNK Become an urban outlaw equipped with cybernetic enhancements and build your legend on the streets of Night City. EXPLORE THE CITY OF THE FUTURE Night City is packed to the brim with things to do, places to see, and people to meet. And it’s up to you where to go, when to go, and how to get there. BUILD YOUR LEGEND Go on daring adventures and build relationships with unforgettable characters whose fates are shaped by the choices you make. DECIDE HOW THE STORY ENDS Your choices in the base game and the spy-thriller adventure Phantom Liberty create interweaving webs of consequences, ones that shape the fate of the characters around you — and your own. CLAIM EXCLUSIVE ITEMS Claim in-game swag &amp; digital goodies inspired by CD PROJEKT RED games as part of the My Rewards program. IMPORTANT: While Cyberpunk 2077 base game is available on PlayStation 4, this version of the game received its last patch on November 8th, 2022 and is no longer supported. A PlayStation 5 is required in order to download and apply Cyberpunk 2077 patches released after that date — as well as to buy and play the Phantom Liberty expansion pack.\nRegion: EUR\nFirmware: 4.xx+\nNotes: Lock icon bug fixed\nUpdated: 2026-10-16T16:34:24.614Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 136923557396,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/UyPJCxbE3EoeLtUxjoFBnsD4.png"
+    },
+    {
+      "titleId": "PPSA20397",
+      "title": "Assassins Creed Shadows",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/3HXAVFI9N7"
+        }
+      ],
+      "version": "1.019.076",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2422/3b21599d6dea076afc4e1e4a80fcca3fc5c19c57a196e619.png?w=260",
+      "description": "MASTER THE DEEPEST STEALTH MECHANISMS OF THE SERIES &amp; FIGHT IN VISCERAL COMBAT “Shadows is some of the most fun I’ve had with a stealth game in a decade” —PC Gamer Play as Naoe, a quick-witted shinobi, and use light, sound, and shadows to evade detection. Infiltrate enemy strongholds with many parkour options including the new grappling hook, distract guards with shuriken or smoke bombs, and assassinate your targets with your Hidden Blade. As the samurai Yasuke, use silent bow takedowns or unleash devastating melee combos with your katana or naginata. DEEP-DIVE INTO THE CAPTIVATING WORLD OF ASSASSIN'S CREED SHADOWS “Assassin’s Creed Shadows creates one of the best versions of the open-world style.” —IGN Step into feudal Japan like never before! From majestic castle towns to serene shrines and sweeping countryside, Assassin’s Creed Shadows offers a breathtaking open world where dynamic seasons, shifting weather, and environmental destruction affect your tactical approach. DISCOVER THE MOST TECHNICALLY ADVANCED ASSASSIN’S CREED GAME YET “It leads to one of the most dynamic, fun, and best-looking open-world games I’ve played this generation.” —Kotaku Experience a true next-gen leap with Assassin’s Creed Shadows, powered by the updated Anvil engine. From the shimmer of lantern light on rain-slick rooftops to the rustle of cherry blossoms in the wind, every detail is crafted to immerse you deeper into feudal Japan. A GLOBAL HIT Whether you are a veteran Assassin’s Creed player or new to the franchise, feudal Japan awaits you! Join a community of millions of players and discover a title GameSpot describes as \"an absolute blast to play,\" Eurogamer.es as \"the best Assassin's Creed of the modern era\" and GamingTrend as “the new benchmark for the series.” PlayStation players also elected Assassin's Creed Shadows \"PlayStation Player's choice\" for March 2025. Internet connection, Ubisoft Account and PlayStation™Network account required to access online features.\nRegion: EUR\nFirmware: 4.xx+\nNotes: Audio 3D must be off for avoid the crash on Initial Settings.\nUpdated: 2026-10-16T16:33:48.810Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 153319595049,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2422/3b21599d6dea076afc4e1e4a80fcca3fc5c19c57a196e619.png"
+    },
+    {
+      "titleId": "PPSA10665",
+      "title": "Final Fantasy XVI Complete Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/1ekDmk9qcK"
+        },
+        {
+          "name": "Akirabox - pt.1",
+          "url": "https://akirabox.com/QN9mEqpLwm6d/file"
+        },
+        {
+          "name": "Akirabox - pt.2",
+          "url": "https://akirabox.com/0rpmvp2M7zRg/file"
+        },
+        {
+          "name": "Akirabox - pt.3",
+          "url": "https://akirabox.com/RMKGJKMnWm1o/file"
+        },
+        {
+          "name": "Akirabox - pt.4",
+          "url": "https://akirabox.com/b5OzdVK6AmB8/file"
+        },
+        {
+          "name": "Akirabox - pt.5",
+          "url": "https://akirabox.com/0Kezk72gnzD1/file"
+        },
+        {
+          "name": "Akirabox - pt.6",
+          "url": "https://akirabox.com/k0embbM4WmVb/file"
+        }
+      ],
+      "version": "01.003.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3007/lgFVhRm5BfoX02pRUt3lSmLV.png?w=260",
+      "description": "An epic dark fantasy world where the fate of the land is decided by the mighty Eikons and the Dominants who wield them. This is the tale of Clive Rosfield, a warrior granted the title “First Shield of Rosaria” and sworn to protect his younger brother Joshua, the dominant of the Phoenix. Before long, Clive will be caught up in a great tragedy and swear revenge on the Dark Eikon Ifrit, a mysterious entity that brings calamity in its wake.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:32:35.751Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 136365211648,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3007/lgFVhRm5BfoX02pRUt3lSmLV.png"
+    },
+    {
+      "titleId": "PPSA04288",
+      "title": "RESIDENT EVIL 2",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/UT3HQ0xlxG"
+        }
+      ],
+      "version": "01.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png?w=260",
+      "description": "Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost. A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors. An unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you. Witness the return of Resident Evil 2. Game contains In-App Purchases\nRegion: USA\nFirmware: 3.xx+\nUpdated: 2026-10-16T16:31:31.825Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 22870700851,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png"
+    },
+    {
+      "titleId": "PPSA29343",
+      "title": "Beast of Reincarnation Digital Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/mN7miV7EaA"
+        }
+      ],
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2622/90ec8c84dd460708d922d6693ef8c61b3b0443db0b636b23.png?w=260",
+      "description": "Beast of Reincarnation Digital Deluxe Edition The Digital Deluxe Edition includes Black and Brown Shiba Skins for Koo, “Oni’s Hat” for Emma, Emma’s sword “Big Dipper”, 100,000 Amber (in-game currency), plus a number of vegetable seedlings! Set in a post-apocalyptic Japan, humanity’s only hope lies with Emma, an outcast shunned from society for her affliction, and Koo, the blighted dog. Together, they embark on this expansive adventure in this one-person, one-dog action RPG. Experience a journey where you feel moments of loneliness, and also the reliability and comfort of your companion. Savor a world of impermanence, where forests suddenly burst forth amidst the wasteland. As Emma and Koo travel through this beautiful yet harsh world, their bond and abilities blossom. Customize your playstyle with unique skill trees, gear, and spirit stones to survive this beautiful yet brutal world. Define your own playstyle through your preferred loadout, including ranged, stealthy, and aggressive combat. In this world ravaged by blight… What will you find at the end of your journey? Key Features: Emma and Koo’s Synergy Emma and Koo create a revolutionary action RPG experience. Fight as a unit, using Emma’s sword abilities while giving Koo commands to unleash various techniques in a hybrid combat system that combines elements of action and turn-based RPGs. Japan: Year 4026 Travel through a beautiful yet harsh post-apocalyptic world. Experience the ever-changing scenery, in the blighted forest, and the Bosses that rule this world. Emma and Koo, who met in the far east, are tasked with battling Bosses from all over the world and capturing their powers in order to defeat the Beast of Reincarnation. A story filled with secrets Dive into a brutal narrative where every character hides a dangerous truth. Uncover the intertwined fates of Emma and Koo in this profound story.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-16T16:28:02.222Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 30064771072,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2622/90ec8c84dd460708d922d6693ef8c61b3b0443db0b636b23.png"
+    },
+    {
+      "titleId": "PPSA17905",
+      "title": "Horizon Forbidden West",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/dyG8dcGxIx"
+        }
+      ],
+      "version": "1.030",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/kifM3lnke5lExwRd96mIDojQ.png?w=260",
+      "description": "Join Aloy as she braves the Forbidden West, a deadly frontier that conceals mysterious new threats. This Complete Edition allows you to enjoy the critically acclaimed Horizon Forbidden West™ in its entirety with bonus content, including the Burning Shores story expansion that picks up after the main game. - Brave an expansive open world – discover distant lands, new enemies, rich cultures and striking characters. - A majestic frontier – explore the lush forests, sunken cities and towering mountains of a far-future America. - Confront new dangers – engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts. - Unravel startling mysteries – uncover the secret behind Earth’s imminent collapse and unlock a hidden chapter in the ancient past… one that will change Aloy forever.\nRegion: USA\nFirmware: 7.xx+\nUpdated: 2026-10-16T16:27:09.736Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 120226872033,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/kifM3lnke5lExwRd96mIDojQ.png"
+    },
+    {
+      "titleId": "PPSA02530",
+      "title": "PRAGMATA Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki - 5.xx+",
+          "url": "https://vik1ngfile.site/f/wvKjaPcm7e"
+        },
+        {
+          "name": "Viki - DLC - 5.xx+",
+          "url": "https://vikingfile.com/f/8tEspFM9d4"
+        },
+        {
+          "name": "Viki - 4.xx+",
+          "url": "https://vikingfile.com/f/nXXklDVayG"
+        },
+        {
+          "name": "Viki - DLC - 4.xx+",
+          "url": "https://vikingfile.com/f/nWyzuPkbAo"
+        }
+      ],
+      "version": "1.200",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/3d57b6ae9b22a4982f0272ef1c716ebbfee59b7ea1fe60af.png?w=260",
+      "description": "*The items in this set can be purchased individually. Please be careful not to purchase the same item twice. The Deluxe Edition is a bundle that includes the main game and the Shelter Variety Pack. Shelter Variety Pack Contents: ・Hugh Outfit - Heavy Lifter ・Hugh Outfit - Lunar Cat ・Diana Outfit - Mecha Builder ・Diana Outfit - Fluffy ・Weapon Skin - Grip Gun DS ・Shelter BGM - Memories Are You (Lo-fi Ver.) ・Shelter BGM - Dawn (EDM Ver.) ・Shelter BGM - Shelter (Jazz Ver.) ・Diana Gesture - Drowsy ・Diana Gesture - Pumped Up ・Diana Gesture - Stepping ・Data Library - Artwork \"Wherever you go, I'll be there.\" Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth. ONE TRAGIC ACCIDENT. AN UNLIKELY DUO. At a remote lunar research facility, humanity discovers a new ore—one that, when properly refined, can be used to create almost anything using 3D printers. When the facility suddenly falls silent, Hugh and his team are dispatched to investigate...but then disaster strikes. Hugh is saved by Diana, a lone android wandering the complex. The two of them must join forces to find a way off the moon while working their way through an AI-controlled facility bent on stopping them. Half-realized replicas of human civilization sprawl across the lunar surface, while inside, only scattered traces of the facility's vanished inhabitants remain. What buried truth awaits at the end of Hugh and Diana's journey? TAKE CONTROL OF TWO CHARACTERS—AT THE SAME TIME. Guide both Hugh as he moves, shoots, and jumps, and Diana, who hacks at the same time. Enjoy a fresh, new blend of gameplay in this truly unique system that will push your brain to its limits.\nRegion: USA\nFirmware: 4.xx+, 5.xx+\nUpdated: 2026-10-16T16:25:53.934Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 34112777748,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/3d57b6ae9b22a4982f0272ef1c716ebbfee59b7ea1fe60af.png"
+    },
+    {
+      "titleId": "PPSA23372",
+      "title": "REANIMAL",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/UjQUPPanLS"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vik1ngfile.site/f/RiBmqppkzz"
+        }
+      ],
+      "version": "1.06",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3574955c64a46d1405b273ce98314c3e29b699be4ad12812.png?w=260",
+      "description": "WHAT IS REANIMAL? The original creators of Little Nightmares™ &amp; Little Nightmares™ II have returned to take you on a more terrifying journey than ever before. In this co-op horror adventure game, you play as a brother &amp; sister who go through hell to rescue their missing friends. Exploring by boat and on land, you must use your wits to survive, work together to escape the hellish island, and the dark secret that haunts you. HORROR WITH HOPE In this unsettling tale, the emphasis is on tension and thick atmosphere, as you join the two orphans on a desperate search for hope and redemption in the direst of circumstances. ACROSS A DARK AND TWISTED WORLD Traverse an intriguing but terrifying world, where the main path is only one part of the fragmented story. Discover all sorts of mysterious locations on your perilous journey, each with its own story to tell. A DREAD-FILLED ADVENTURE Tarsier Studios is bringing their unique visual style to bear on a whole host of new twisted monsters and broken, yet resilient, child characters. Fragments of the children's troubled past have been used as inspiration for their character design, and for the monsters that now torment them. SHARE THE SCARE Nobody should be forced to go through hell alone! Fully playable in single player and local &amp; online co-op, REANIMAL has a shared, directed camera, designed to maximise claustrophobia and tension. FRIEND'S PASS Download the Trial and play the entire game with your bestie FOR FREE! REANIMAL's Trial feature is your Friend's Pass. As long as one of you owns the full game, you can share the scare together in both Online AND Couch Co-op! So grab someone you love, turn the lights down low, and go through hell together!\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:25:16.542Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 11166914970,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3574955c64a46d1405b273ce98314c3e29b699be4ad12812.png"
+    },
+    {
+      "titleId": "PPSA28180",
+      "title": "Days Gone Remastered",
+      "downloadLinks": [
+        {
+          "name": "Viki - 4.xx+",
+          "url": "https://vikingfile.com/f/CvPtiLUZvu"
+        },
+        {
+          "name": "Akirabox - 4.xx+ - pt.1",
+          "url": "https://akirabox.com/1RgzR9DZR3bp/file"
+        },
+        {
+          "name": "Akirabox - 4.xx+ - pt.2",
+          "url": "https://akirabox.com/l5YzMZAPRGyO/file"
+        },
+        {
+          "name": "Akirabox - 4.xx+ - pt.3",
+          "url": "https://akirabox.com/LK0G1bR2Jm91/file"
+        },
+        {
+          "name": "Viki - 10.xx+",
+          "url": "https://vikingfile.com/f/52Tghsqmrt"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/0AvdV3Z3jm"
+        }
+      ],
+      "version": "1.036.178",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png?w=260",
+      "description": "Edition includes: Days Gone Remastered Ride into a desperate, dog-eat-dog world in the definitive Days Gone experience, remastered for the PlayStation®5 console. Fight to survive an environment ravaged by a deadly pandemic as former outlaw biker, Deacon St. John. Risk the threats of the Broken Road on the back of your trusty Drifter bike as you face terrifying hordes of relentless feral Freakers – as well as dangerous gangs of humans. Unpredictable weather and different times of day and night can cause incredible danger and shocking surprises… and everything wants you dead. - Appreciate enhanced graphical fidelity, increased foliage draw distance, plus improved shadow and lighting quality – with the potential for smooth, seamless performance made possible by a variable refresh rate, for TVs or displays that support VRR.1 - Select your preferred playing experience, between Quality mode for increased resolution or Performance mode for improved framerates. - Feel every moment of survival through the DualSense® wireless controller’s haptic feedback and adaptive triggers. From the rumble of your bike’s engine, to traversing the Broken Road… 1 Compatible TV or display required.\nRegion: USA\nFirmware: 4.xx+, 10.xx+\nUpdated: 2026-10-16T16:24:22.851Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 49714246451,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png"
+    },
+    {
+      "titleId": "PPSA13427",
+      "title": "Horizon Zero Dawn Remastered",
+      "downloadLinks": [
+        {
+          "name": "Viki - 9.xx+",
+          "url": "https://vikingfile.com/f/ArewFfws5D"
+        },
+        {
+          "name": "Akirabox - 4.xx+ - pt.1",
+          "url": "https://akirabox.com/Z9dzBP2vnmk1/file"
+        },
+        {
+          "name": "Akirabox - 4.xx+ - pt.2",
+          "url": "https://akirabox.com/vgKGxXw02G8Q/file"
+        },
+        {
+          "name": "Akirabox - 4.xx+ - pt.3",
+          "url": "https://akirabox.com/Pbe3Pa25QzlX/file"
+        },
+        {
+          "name": "Akirabox - 4.xx+ - pt.4",
+          "url": "https://akirabox.com/k0embbBoamVb/file"
+        },
+        {
+          "name": "Akirabox - 4.xx+ - pt.5",
+          "url": "https://akirabox.com/RMKGJK2Z2m1o/file"
+        }
+      ],
+      "version": "01.008.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0221/vC7trMorHJgbImp8PCQvpI0p.png?w=260",
+      "description": "Edition includes: Horizon Zero Dawn™ Remastered Earth is ours no more. Experience the critically acclaimed Horizon Zero Dawn™ with stunning new visuals and upgraded features. In a far future where colossal machines roam and rule the Earth, pockets of humanity survive in unique tribes among the lush, overgrown ruins of our long-lost civilization. Take up bow and spear as Aloy, a young machine hunter and outcast of her tribe, as she discovers her origins, the truth of this mysterious world, and her own destiny to save it from impending doom. On her journey, Aloy will come across unique tribes, lively settlements, and compelling characters and companions. But this open world is also teeming with wildlife and danger. Awe-inspiring yet deadly hostile machines patrol the majestic landscape, corrupted by an unknown force. In combat, you will unleash devastating, tactical attacks utilizing an exciting arsenal of weapons against fearsome machines and nefarious rival factions. Horizon Zero Dawn™ is a multi-award-winning action role-playing game and this Remastered Edition brings to life the beloved wilds of Aloy’s world in even higher fidelity with the power and potential of the PlayStation®5 console. PlayStation®5 Features • Breathtaking visuals with 4K and HDR support • Near-instant load times with Ultra High-Speed SSD • Fully immersive sound via PS5® Tempest 3D AudioTech1 • Feel every thrill with the DualSense® wireless controller’s adaptive triggers and haptic feedback Existing owners of Horizon Zero Dawn (PS4)* and/or Horizon Zero Dawn Complete Edition (PS4, PS5) can upgrade to the digital version of Horizon Zero Dawn Remastered on PlayStation 5 console. This includes fans who added the game to their libraries during PlayStation’s Play At Home initiative.**[1] *Owners of the Horizon Zero Dawn PS4 game disc can access this offer by inserting the game disc into their PS5 console (and will need to keep the disc inserted each time to play the game). PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to access the upgrade offer.[1][2] **Redemptions via PlayStation Plus are not eligible to upgrade.\nRegion: EUR\nFirmware: 4.xx+, 9.xx+\nUpdated: 2026-10-16T16:23:06.221Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 93351114179,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0221/vC7trMorHJgbImp8PCQvpI0p.png"
+    },
+    {
+      "titleId": "PPSA03952",
+      "title": "Resident Evil 3",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/J6JGgFOqKS"
+        }
+      ],
+      "version": "1.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0206/WmriZBRlSeXWEEDLJOWW7MdW.png?w=260",
+      "description": "If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost. Note: When upgrading the content in this bundle, each item must be upgraded on an individual basis. Note: Resident Evil Resistance is not eligible for an upgrade. Jill Valentine is one of the last remaining people in Raccoon City to witness the atrocities Umbrella performed. To stop her, Umbrella unleashes their ultimate secret weapon； Nemesis! Also includes Resident Evil Resistance (PS4™ version), a new 1 vs 4 online multiplayer game set in the Resident Evil universe where four survivors face-off against a sinister Mastermind.\nRegion: USA\nFirmware: 3.xx+\nUpdated: 2026-10-16T16:22:11.905Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 25855703122,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0206/WmriZBRlSeXWEEDLJOWW7MdW.png"
+    },
+    {
+      "titleId": "PPSA08560",
+      "title": "Split Fiction",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/jVV8xdsA73"
+        },
+        {
+          "name": "Data - DLC",
+          "url": "https://datavaults.co/7xnpd4q0iuaw"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vik1ngfile.site/f/hvWRCOXdvD"
+        }
+      ],
+      "version": "1.50",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2918/90ad70c1ef581f93454184750cba9e0ca37bc7e30a4d1f55.png?w=260",
+      "description": "Jump into mind-blowing moments as you experience the many worlds of Split Fiction, a boundary-pushing co-op adventure from the studio behind It Takes Two. Mio and Zoe are contrasting writers who become trapped in their own stories after being hooked up to a machine designed to steal their creative ideas. They’ll have to rely on each other to break free, working together to master a variety of abilities and overcome diverse challenges while jumping between sci-fi and fantasy worlds in this unexpected story of friendship. • TRUE CO-OP ADVENTURE – This split-screen adventure is tailored for two. Experience co-op gameplay where you’ll have to coordinate your actions and timing as well as work together to overcome challenges. Invite a partner to join you for free, for cross-platform play, with the Friend's Pass*. • UNPARALLELED VARIETY – Discover new mechanics and abilities in every level of your adventure, which will alternate between sci-fi and fantasy settings. Escape a sun that’s going supernova, challenge a monkey to a dance battle, try out some cool hoverboard tricks, fight an evil kitty and more. Experience worlds that are entirely different from each other, unexpected new abilities, and a range of gameplay that includes platforming, stealth, puzzles, and more.\nRegion: USA\nFirmware: 4.xx+\nCredits: Only Unlocker\nUpdated: 2026-10-16T16:20:48.006Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 79134772429,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2918/90ad70c1ef581f93454184750cba9e0ca37bc7e30a4d1f55.png"
+    },
+    {
+      "titleId": "PPSA07411",
+      "title": "Resident Evil 4 Gold Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki - 7.xx+",
+          "url": "https://vik1ngfile.site/f/ArZnRwmZr0"
+        },
+        {
+          "name": "Viki - 4.xx+",
+          "url": "https://vikingfile.com/f/OVxCfm06CO"
+        }
+      ],
+      "version": "01.590",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=260",
+      "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. Notes: - Items contained in this set can be purchased individually. Please take care to avoid duplicate purchases. - Please update Resident Evil 4 to the latest patch before playing Separate Ways or using the Extra DLC Pack. Resident Evil 4 Gold Edition includes Resident Evil 4 and two additional items of content: Separate Ways, where you experience the story through Ada Wong's perspective, and the Extra DLC Pack, which contains additional character outfits as well as useful weapons and items. [Resident Evil 4] 6 years have passed since the biological disaster in Raccoon City. Leon S. Kennedy tracks the president's missing daughter to a secluded European village, where there is something terribly wrong with the villagers. Featuring modernized gameplay, a reimagined storyline, and vividly detailed graphics, Resident Evil 4 marks the rebirth of an industry juggernaut. Relive the nightmare that revolutionized survival horror. [Separate Ways] Play as Ada Wong in this additional scenario, filling in unanswered questions posed in the main story. With her mission to retrieve the Amber looming over her, which path will she choose? [Extra DLC Pack] - Leon &amp; Ashley Costumes: 'Casual' - Leon &amp; Ashley Costumes: 'Romantic' - Leon Costume &amp; Filter: 'Hero' - Leon Costume &amp; Filter: 'Villain' - Leon Accessory: 'Sunglasses (Sporty)' - Deluxe Weapon: 'Sentinel Nine' - Deluxe Weapon: 'Skull Shaker' - 'Original Ver.' Soundtrack Swap - Treasure Map: Expansion\nRegion: USA\nFirmware: 4.xx+, 7.xx+\nUpdated: 2026-10-16T16:20:00.270Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 79789754941,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png"
+    },
+    {
+      "titleId": "PPSA04404",
+      "title": "Resident Evil 7 Biohazard Gold Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/fyxmer0mwN"
+        }
+      ],
+      "version": "01.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0207/V6IViuKogBMRtajqjnYrcj0e.png?w=260",
+      "description": "Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost. Menace and isolation seethe through the rotting walls of an abandoned farmhouse in the American South. '7' marks a new beginning for survival horror, and a full model change to the frightening and immersive 'Isolated View 'player perspective. Powered by the cutting-edge RE Engine, horror reaches new heights of photorealism so overwhelming you won't be able to turn away. Enter a terrifyingly new world of horror and survive. Resident Evil 7™ biohazard supports PlayStationⓇVR, for the ultimate immersive survival horror experience. ----------------------------- In addition, on PS5™ consoles: PlayStation Camera adaptor for PS Camera is required (no purchase necessary) go to Playstation.com/camera-adaptor. Note: In order to use the VR features of this game, you must play it on a PS4.\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:19:05.306Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 31686121226,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0207/V6IViuKogBMRtajqjnYrcj0e.png"
+    },
+    {
+      "titleId": "PPSA02572",
+      "title": "Alan Wake 2 Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/Fe4ZJwus6C"
+        }
+      ],
+      "version": "01.200.007",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/c3daf3037feb797d9e71b81618e3b5ff3ff1f9609db5a4a2.png?w=260",
+      "description": "Unlock exclusive content with the Alan Wake 2 Deluxe Edition. - Digital base game - Expansion Pass - Night Springs Expansion (additional story content) - Lake House Expansion (additional story content) - Crimson Windbreaker for Saga - Celebrity Suit for Alan - Classic Alan Wake Outfit for Alan - Parliament Shotgun Skin for Alan - Lantern Charm for Saga* The Lake House Expansion Dive into a harrowing survival horror experience with the latest expansion for Alan Wake 2, set in an eerie new location on the shores of Cauldron Lake. Within the Federal Bureau of Control's research station, the Lake House, a catastrophic event has occurred, where reckless experiments have caused reality to collide with the Dark Place. This expansion unfolds parallel to the main game, putting you in the shoes of FBC agent Kiran Estevez, portrayed by Janina Gavankar. As Agent Estevez, you’ll explore the twisted halls of the Lake House, a facility researching forces beyond comprehension, and unravel the dark secrets hidden within. Key Features: - New Location: The Lake House, set in the Cauldron Lake area, offers a haunting new environment with multiple floors to explore. - New Enemies: Face off against \"\"The Painted,\"\" a terrifying new enemy type that will test your survival skills. - New Weapon: Equip yourself with the powerful Black Rock Launcher to combat the threats lurking in the facility. - New Music: Immerse yourself in the experience with a new song from Poe and an end-of-the-chapter song from Petri Alanko. Night Springs Expansion Night Springs allows you to play as several fan-favorite characters from the Remedy Universe, through three highly stylized episodes. While similar to previously known characters, they are different—Night Springs versions of themselves. The Episodes: - Time Breaker : An Actor, who bears an uncanny resemblance to the Bright Falls sheriff Tim Breaker, is a multiversal hero in the game “Time Breaker”. His character must track down the Master of the Many Worlds and prevent him from murdering the multiversal hero’s different selves across parallel universes. - North Star : The Sibling, an unknown woman who bears a striking resemblance to FBC Director Jesse Faden, is trying to find her missing brother, who is being held captive at Coffee World. - Number One Fan : The Waitress, who bears a striking resemblance to Oh Deer Diner’s waitress Rose Marigold, must save her idol, the Writer, from the danger he finds himself in. To do so, she must confront the Writer’s critics, and the Bad Boy who is the Writer’s evil twin. Digital base game A string of ritualistic murders threatens Bright Falls, a small-town community surrounded by Pacific Northwest wilderness. Saga Anderson, an accomplished FBI agent with a reputation for solving impossible cases arrives to investigate the murders. Anderson’s case spirals into a nightmare when she discovers pages of a horror story that starts to come true around her. Alan Wake, a lost writer trapped in a nightmare beyond our world, writes a dark story in an attempt to shape the reality around him and escape his prison. With a dark horror hunting him, Wake is trying to retain his sanity and beat the devil at his own game. Fueled by the horror story, supernatural darkness invades Bright Falls, corrupting the locals and threatening the loved ones of both Anderson and Wake. Light is their weapon—and their safe haven — against the darkness they face. Trapped in a sinister horror story where there are only victims and monsters, can they break out to be the heroes they need to be?\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:18:24.845Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 100351910871,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/c3daf3037feb797d9e71b81618e3b5ff3ff1f9609db5a4a2.png"
+    },
+    {
+      "titleId": "PPSA01467",
+      "title": "Marvels Spider Man Remastered",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang) - 4.xx+",
+          "url": "https://vikingfile.com/f/ro1GewMpa3"
+        }
+      ],
+      "version": "01.008.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png?w=260",
+      "description": "This unmissable bundle includes Marvel’s Spider-Man Remastered – the complete award-winning game, including all three DLC chapters in the Marvel’s Spider-Man: The City That Never Sleeps adventure – remastered and enhanced for the PS5™ system.\nRegion: USA\nFirmware: 4.xx+, 5.xx+\nNotes: If no Speech in-game change your console language into English, French etc..\nUpdated: 2026-10-16T16:17:34.959Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 71908489953,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png"
+    },
+    {
+      "titleId": "PPSA05398",
+      "title": "Destroy All Humans 2 Reprobed",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/pLJ2YG1Mu1"
+        }
+      ],
+      "version": "01.012",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0617/DUwFDNC8UEOb1MnuwVppYyhc.png?w=260",
+      "description": "\"Crypto is back with a license to probe. The alien invader returns, groovier than ever and now with genitals! Experience the swinging ‘60s in all its chemical-induced glory and take revenge on the KGB for blowing up your mothership. As you uncover the schemes of your enemies, you’ll have to form alliances with members of the very species you came to enslave. + Show those hippies who's boss using classic weapons and new technology like the Meteor Shower + Explore 1960’s Mother Earth and unload your trusty saucer all over her fictional cities + Defend a much larger, much more open world from those who seek to undermine your mission + Hoover up humans from different countries and grind them up into DNA cocktails to upgrade your skills + Invite a friend over for a twosome and enjoy the full story in local 2-player split screen co-op\"\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:15:28.565Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 44367012168,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0617/DUwFDNC8UEOb1MnuwVppYyhc.png"
+    },
+    {
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei: Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/2I7FKiRQvp"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/80bVO3VDEn"
+        }
+      ],
+      "version": "01.512",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png?w=260",
+      "description": "Edition includes: • Ghost of Yōtei™ • The Snake Armor • Digital Deluxe Armor Dye • Digital Deluxe Horse &amp; Saddle • Sword Kit • Traveler’s Maps (Early Unlock) • Charm Set aside the order of the Edo period. Become a different kind of ghost and witness a bold new story set against the stunning backdrop of northern Japan’s rugged landscapes. Taking place 300 years after the critically acclaimed Ghost of Tsushima, this standalone experience follows a haunted, lone mercenary named Atsu in the 1600s. Thirsty for revenge, she sets out to hunt down those who killed her family many years prior. Her quest across Ezo will take her to unexplored lands as she seeks out a gang of six outlaws. Along the way, she’ll encounter far more than she could have wagered for at the journey’s outset. Help her find unlikely allies, forge lasting bonds and build a path towards healing and redemption. - Feel the thrill of combat; the haptic feedback of the DualSense® wireless controller brings Atsu’s katana combat to your fingertips. - Master the bow and arrow or grappling hook, experience the excitement of battle, and explore various types of terrain – all accentuated by the DualSense wireless controller’s adaptive triggers. - Appreciate the power of the PlayStation®5 console with lightning-fast load times rapidly transporting you to the beautiful surroundings of northern Japan. - Explore lush, vibrant environments rendered with stunning visuals, as Atsu travels through snowy ridges, fields of wildflowers and rocky terrain – amongst others. - Tempest 3D AudioTech: Immerse yourself in 1600s Japan as 3D spatial audio creates unique soundscapes all around you.¹ ¹3D audio via built-in TV speakers or analog/USB stereo headphones. Setup required.\nRegion: USA\nFirmware: 4.xx+\nNotes: DLC pkg is required for the game to work.\nUpdated: 2026-10-16T16:11:04.314Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 118111600640,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png"
+    },
+    {
+      "titleId": "PPSA02262",
+      "title": "Dying Light 2 Stay Human Ultimate Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/unKoOl6eE9"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/fsszzIEadv"
+        }
+      ],
+      "version": "01.090",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3115/3c17bf3bb4c9b5b572f69217554f0afdebade3a37959bac3.png?w=260",
+      "description": "Get the full Dying Light 2 Stay Human experience and more with the Digital Extras Edition! Dying Light 2 Stay Human: Digital Extras Edition includes: Dying Light 2 Stay Human: Reloaded Edition, which contains the ‘Bloody Ties’ DLC* Digital Soundtrack** Digital Artbook** Wallpaper** Digital Comic Book** *Please note: DLC must be downloaded separately **Go to the Pilgrim Outpost website (Special Edition subpage in Goodies) to claim digital extras It’s been 20 years since the events of the original game. The virus won, and humanity is slowly dying. You play as Aiden Caldwell, a wandering Pilgrim who delivers goods, brings news, and connects the few remaining survivor settlements in barren lands devastated by the zombie virus. However, your true goal is to find your little sister Mia, who you left behind as a kid to escape Dr. Waltz's torturous experiments. Haunted by the past, you eventually make the decision to confront it when you learn that Mia may still be alive in Villedor — the last city standing on Earth. You quickly find yourself in a settlement torn by conflict. You’ll need to engage in creative and gory combat, so hone your skills to defeat hordes of zombies and make allies. Roam the city, free run across Villedor’s buildings and rooftops in search of loot in remote areas, and be wary of the night. With every sunset, monsters take control of the streets. A WORLD AFTER THE APOCALYPSE Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies. DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED Welcome to Villedor, one of the last bastions of humanity. During the day, survivors still try to have a life here and find a false sense of normalcy. Relationships are formed, dreams are dreamed, and life carries on. On the surface, everything seems… fine. Until sunset, that is. With the last ray of light dying out, other, more dreadful, dwellers of The City crawl out of their gloomy interiors, taking over the streets. If you are not vigilant and stay out too long in the dark, you may never return. YOU HAVE TO MOVE TO SURVIVE Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more. Whatever you do, experience a unique sense of freedom as you freerun across Villedor’s buildings and rooftops in search of loot or while running away from the dangers of the night. GET BRUTAL AND BE CREATIVE ABOUT IT In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger. And let’s not forget that Villedor has weapons that put the most advanced post-apocalyptic armories to shame. FOUR PILGRIMS ARE BETTER THAN ONE Surviving in Villedor is easier with friends. Team up with up to 3 other players and increase your chances out there. Unravel the story together, take on Pilgrim Outpost challenges, or simply wreak havoc on the city streets.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:08:16.029Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 53611929272,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3115/3c17bf3bb4c9b5b572f69217554f0afdebade3a37959bac3.png"
+    },
+    {
+      "titleId": "PPSA01285",
+      "title": "Returnal",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/DveB4sSg1F"
+        }
+      ],
+      "version": "3.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/fkyAEGMueFssDbC4XQpITu6q.png?w=260",
+      "description": "BREAK THE CYCLE After crash-landing on a shape-shifting alien planet, Selene finds herself fighting tooth and nail for survival. Again and again she’s defeated, forced to restart her journey every time she dies. In this roguelike shooter, both the planet and your equipment change with every cycle, forcing you to adapt your play style and take on evolving challenges. Choose to go solo through the shifting labyrinth of Atropos, or share your entire journey with another player in online Co-op Mode.¹ Then, when you’re ready, take on the Tower of Sisyphus – an ascending gauntlet of increasingly dangerous phases focused on putting your combat skills to the test.² Engage enemies in bullet hell-fuelled clashes. Scavenge alien tech for upgrades to your abilities. Forge a personal connection with the planet and piece together Selene’s story. PS5™ IN-GAME FEATURES: - Fast loading: near-instant loading speeds of the PS5 console get you rapidly back into the action. - Tempest 3D AudioTech: hear multidirectional 3D Audio – bullets flying past you, enemies circling overhead, or unseen foes creeping up behind you. - Adaptive triggers: switch between firing modes with a single adaptive trigger – go from aiming down sights to your gun’s alternative fire. - Haptic feedback: sense in-game actions – while exploring fragments of Selene’s memories, or when firing visceral alien weapons.\nRegion: EUR\nFirmware: 4.xx+\nNotes: If game is crashing, set ps5 date to sept. 17 2026 (weird bug)\nUpdated: 2026-10-16T16:06:22.705Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 65498251264,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/fkyAEGMueFssDbC4XQpITu6q.png"
+    },
+    {
+      "titleId": "PPSA03977",
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/U5Tw1O6nly"
+        }
+      ],
+      "version": "04.040.100",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1711/d851895118a16d07706b91e7b69b53ce27531269cad5e968.png?w=260",
+      "description": "One of the most acclaimed RPGs of all time. Now ready for a new generation. ABOUT THE GAME You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world. The Complete Edition contains the base game, offering a huge, over 100-hour long, open-world adventure, as well as both of its massive story expansions: Hearts of Stone &amp; Blood and Wine worth an extra 50 hours of gameplay! It also comes with all additional content released for the game, alongside new features and items, including a built-in Photo Mode, swords, armor, and alternate outfits inspired by The Witcher Netflix series — and more! UPDATED FOR PLAYSTATION®5 Behold the dark fantasy world of the Continent like never before! This edition of The Witcher 3: Wild Hunt has been enhanced with numerous visual and technical improvements, including vastly improved level of detail, faster loading times, a range of community created and newly developed mods for the game, real-time ray tracing, 3D audio support, and more — all implemented with the power of the PlayStation®5 in mind. The game also utilizes the unique features of the DualSense controller, with its advanced haptics and adaptive triggers, letting you immerse yourself in the adventure even more! PLAY AS A HIGHLY TRAINED MONSTER SLAYER FOR HIRE Trained from early childhood and mutated to gain superhuman skills, strength, and reflexes, witchers are a counterbalance to the monster-infested world in which they live. • Gruesomely destroy foes as a professional monster hunter armed with a range of upgradeable weapons, mutating potions, and combat magic. • Hunt down a wide variety of exotic monsters, from savage beasts prowling mountain passes to cunning supernatural predators lurking in the shadowy back alleys of densely populated cities. • Invest your rewards to upgrade your weaponry and buy custom armor, or spend them on horse races, card games, fist fighting, and other pleasures life brings. EXPLORE A MORALLY AMBIGUOUS FANTASY OPEN WORLD Built for endless adventure, the massive open world of The Witcher sets new standards in terms of size, depth, and complexity. • Traverse a fantastical open world: explore forgotten ruins, caves, and shipwrecks, trade with merchants and dwarven smiths in cities, and hunt across the open plains, mountains, and seas. • Deal with treasonous generals, devious witches, and corrupt royalty to provide dark and dangerous services. • Make choices that go beyond good &amp; evil, and face their far-reaching consequences. TRACK DOWN THE CHILD OF PROPHECY Take on the most important contract of your life: to track down the child of prophecy, the key to saving or destroying this world. • In times of war, chase down the child of prophecy, a living weapon foretold by ancient elven legends. • Struggle against ferocious rulers, spirits of the wilds, and even a threat from beyond the veil – all hell-bent on controlling this world. • Define your destiny in a world that may not be worth saving.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:05:18.914Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 83751862272,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1711/d851895118a16d07706b91e7b69b53ce27531269cad5e968.png"
+    },
+    {
+      "titleId": "PPSA10737",
+      "title": "Little Nightmares Enhanced Complete Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/oVjcPS4VQ7"
+        }
+      ],
+      "version": "1.04",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05952_00/4/i_180e40677dc525aece20a7825a4af48464ec3fe0feffcc0f6d23d708af4975fa/i/icon0.png?w=260",
+      "description": "The Complete Edition includes the Enhanced Editions of: - Little Nightmares - Little Nightmares - Secrets of The Maw Expansion Pass Little Nightmares Enhanced Edition lets you choose between Quality or Performance Mode to favor either the visuals or the framerate depending on your preferences. With the Enhanced Edition, enjoy 60 FPS, higher resolution, and improved visual effects. Additional helpers have been added to deliver an overall smoother experience. Immerse yourself in Little Nightmares and confront your childhood fears! Play as Six, a lone child trapped in the Maw, a massive vessel inhabited by monstrous, distorted versions of adults. Sneak, hide, and survive in a world where your childhood fears come to life. Unveil all the secrets in a parallel escape story where you play as the Runaway Kid, another prisoner looking for a way out of this place of misfortune. On his journey, The Kid will explore hidden parts of the Maw offering a different perspective on Six’s adventures. Save data is not compatible with the original 2017 game: Little Nightmares. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4®-game-disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:03:00.733Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 4123168604,
+      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05952_00/4/i_180e40677dc525aece20a7825a4af48464ec3fe0feffcc0f6d23d708af4975fa/i/icon0.png"
+    },
+    {
+      "titleId": "PPSA05143",
+      "title": "Little Nightmares lll",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/MEcP6f6ESG"
+        }
+      ],
+      "version": "1.04",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2619/fadb00a02c9de2cbcf41e167001be8fd36c3f77957c038b6.png?w=260",
+      "description": "Two young friends, lost in a frightening world not made for children. If they cannot find a way out of this Nowhere place, they’ll be condemned to a fate worse than death. FACE YOUR CHILDHOOD FEARS TOGETHER You play as Low and Alone, best friends ever since they found each other in this lonely nightmare. They each possess their own iconic item: a bow for Low and a wrench for Alone. Working together, they’ve become adept at sneaking through hidden passages, hoisting each other over massive obstacles, and watching each other’s backs. Whether you’re playing with a friend or an A.I. companion, you’ll depend on each other's iconic items to create opportunities and to progress. The environment is full of clues and possibilities for imaginative children to exploit. Low’s arrows can reach high targets, cut through ropes, or down flying enemies, and Alone’s wrench is just the thing for crushing stunned enemies, smashing through barriers, or manipulating the workings of massive machines. EMBARK ON AN IMMERSIVE AND DISTURBING ADVENTURE No matter where you go, the Nowhere is home to horrific monsters. These Residents won't hesitate to go out of their way to capture any intrusive little Visitors that draw their attention. You might find yourself playing a terrifying game of hide and seek with Monster Baby in the sandy ruins of the Necropolis, struggling to avoid swarms of voracious Candy Weevils in an unsetlling Candy Factory, or dodging heavy feet while running along the rain-soaked promenade of a filthy funfair. You'll need to be ready to run, hide, or even defend yourself at a moment's notice to stay in one piece. SINK INTO THE SPIRAL Don’t be too distracted by the desolate beauty of the Nowhere. There are dark mysteries waiting for you as Low and Alone follow their mirror path across the Spiral. As each new location will become more dangerous and disturbing than the last, traumatic flashes from the past will begin to emerge. Will Low and Alone finally escape from this unending nightmare? Only you can help them, little ones... If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4®-game-disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: EUR\nFirmware: 4.xx+\nAPR: Yes\nUpdated: 2026-10-16T16:02:04.509Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 16170551869,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2619/fadb00a02c9de2cbcf41e167001be8fd36c3f77957c038b6.png"
+    },
+    {
+      "titleId": "PPSA02154",
+      "title": "Little Nightmares ll",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/bz1GpNWU9h"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/SDnbflsoW8"
+        }
+      ],
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1922/LuLwaMcTF4VP0LHZGMkNGFNk.png?w=260",
+      "description": "[This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game.] Return to a world of charming horror in Little Nightmares II, a suspense adventure game in which you play as Mono, a young boy trapped in a world that has been distorted by the humming transmission of a distant tower. With Six, the girl in the yellow raincoat, as his guide, Mono sets out to discover the dark secrets of The Signal Tower. Their journey won't be easy; Mono and Six will face a host of new threats from the terrible residents of this world. Will you dare to face this collection of new, little nightmares? [If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.]\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T16:00:54.849Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 5443871048,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1922/LuLwaMcTF4VP0LHZGMkNGFNk.png"
+    },
+    {
+      "titleId": "PPSA27360",
+      "title": "EA SPORTS FC 26",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/befKBkLvO2"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/A290T4ojyp"
+        }
+      ],
+      "version": "01.000.018",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0314/5217c783f0198d437a0e0e97848d0a3a61c4af84262fd5f2.png?w=260",
+      "description": "The Club is Yours to preview with EA SPORTS FC™ 26 Showcase. Offering a taste of what’s new in The World’s Game, EA SPORTS FC™ 26 Showcase contains a rotating selection of content, features, and modes for players to experience including Kick-Off, Clubs Live Events, and more. Create your own player, team up with friends, and enjoy the thrill of 5-a-side football with the introduction of new, dynamic Live Events to the Clubs experience in EA SPORTS FC™ 26 Showcase. Additionally, play with a selection of the world’s biggest clubs in Kick-Off or sharpen your skills in Learn to Play.\nRegion: USA\nFirmware: 4.xx+\nNotes: DLC Unlock must be installed to play. This is mandatory.\nUpdated: 2026-10-16T15:59:23.940Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 80530636800,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0314/5217c783f0198d437a0e0e97848d0a3a61c4af84262fd5f2.png"
+    },
+    {
+      "titleId": "PPSA01325",
+      "title": "Astros Playroom",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/pL3faPaSMw"
+        }
+      ],
+      "version": "01.905",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/3d17c33239dab88c7e2f24af50140b3f6fa555e6030d5704.png?w=260",
+      "description": "From the team behind the original THE PLAYROOM and the critically acclaimed ASTRO BOT Rescue Mission, comes a brand new platformer preloaded on your PS5™ console. Take control of ASTRO and feel the world through your DualSense™ Wireless Controller: every step you take, every jump you make, and every enemy you defeat are felt in a whole new way thanks to the immersive haptic feedback technology. On your way, use new power ups that show the potential of the dynamic adaptive triggers, motion sensor, touchpad and integrated speaker working together to deliver a totally new gameplay experience. Take time to enjoy the many hidden references to PlayStation® history and collect timeless artifacts to display in your beloved PlayStation Labo!\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T15:57:40.110Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 12133282611,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/3d17c33239dab88c7e2f24af50140b3f6fa555e6030d5704.png"
+    },
+    {
+      "titleId": "PPSA01532",
+      "title": "Assassins Creed Valhalla Complete Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/e9MaS2vYHX"
+        }
+      ],
+      "version": "01.070",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1520/EDtkdijFRwbmGKk1G9lrDoEF.png?w=260",
+      "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. The Complete Edition includes: - The base game - Dawn of Ragnarök major expansion - Season Pass: 2 expansions (Wrath of the Druids, The Siege of Paris) and 1 quest (Legend of Beowulf) - Berserker Pack: gear, settlement, longship packs, and a set of runes Play as a Viking warrior in this action-adventure game set in England’s Dark Ages. Explore a dynamic open world, raid your enemies, and grow your settlement to earn your place among the gods in Valhalla... BUILD YOUR OWN VIKING LEGEND Become Eivor, a mighty Viking raider, and lead your clan. Advanced RPG mechanics allow you to influence the world around you. With every choice you make, from political alliances and combat strategy, to dialogue and gear progression, carve your path to glory! EXPLORE A DARK AGE WORLD Sail from Norway’s icy coasts to England’s lush kingdoms. Roam a vast open world, hunt legendary beasts, and lay bare the secrets of a fractured land. EXPERIENCE VISCERAL COMBAT Unleash the ruthless fighting style of a Viking warrior and dual wield axes, swords, or even shields against fierce, relentless foes. Choose your tactics and dismember opponents in close-quarters combat, riddle them with arrows, or assassinate them with your Hidden Blade. GROW YOUR SETTLEMENT Construct and upgrade buildings that allow for deep customization, including a barracks, a smithy, a tattoo parlor, and more. Recruit new members to your clan and personalize your Viking experience. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T15:55:30.550Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 152890098319,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1520/EDtkdijFRwbmGKk1G9lrDoEF.png"
+    },
+    {
+      "titleId": "PPSA13197",
+      "title": "Stellar Blade™ Complete Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/c7p1VAN0C5"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/9F2GUfQGWR"
+        }
+      ],
+      "version": "01.014.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/40e7cfd126a11fe5118310ebce6d9b3a23e7cabaca717217.png?w=260",
+      "description": "Ravaged by strange, powerful creatures, Earth has been abandoned, and what is left of the decimated human race has fled to a Colony in outer space. After travelling from the Colony, EVE arrives on the desolate remains of our planet with a clear-cut mission: to save humankind by reclaiming Earth from the Naytiba – the malevolent force that has devastated it. But as EVE tackles the Naytiba one-by-one, piecing together the mysteries of the past in the ruins of human civilization, she realizes that her mission is far from straightforward. In fact, almost nothing is as it seems… A thrilling slice of razor-sharp action Engage in blisteringly fast combat as you slash a path through the remnants of Earth in an all-new action adventure on PS5. Unleash graceful yet brutal attacking combos, unlock new moves and weapon upgrades, and face epic boss encounters that will challenge both brain and brawn in equal measure. An incredible visual experience Become immersed in a highly detailed post-apocalyptic world that blends beauty and horror to spectacular effect. Explore breathtaking science fiction-inspired environments, brought to life via the graphical power of PS5. A deep, unforgettable adventure Unravel a gripping human fate story, with mature themes, a thought-provoking narrative and emotionally-charged revelations from beginning to end. New content • Test your skill and strength against the fearsome warrior Mann, the leader of the Sentinels in Boss Challenge Mode. • Chinese voice over and lip-sync support. • 25 costumes, three pairs of glasses and six pairs of earrings to unlock in New Game Plus.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T15:54:20.065Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 38654705664,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/40e7cfd126a11fe5118310ebce6d9b3a23e7cabaca717217.png"
+    },
+    {
+      "titleId": "PPSA01474",
+      "title": "Ratchet & Clank Rift Apart",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Y6G5tSaQYB"
+        }
+      ],
+      "version": "1.005.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/DwVjpbKOsFOyPdNzmSTSWuxG.png?w=260",
+      "description": "BLAST YOUR WAY THROUGH AN INTERDIMENSIONAL ADVENTURE Ratchet and Clank are back! Help them stop a robotic emperor intent on conquering cross-dimensional worlds, with their own universe next in the firing line. Witness the evolution of the dream team as they’re joined by Rivet – a Lombax resistance fighter from another dimension. - Blast your way home with an arsenal of outrageous weaponry. - Experience the shuffle of dimensional rifts and dynamic gameplay. - Explore never-before-seen planets and alternate dimension versions of old favorites. PS5™ FEATURES: - Feel in-game actions through the haptic feedback of the DualSense™ wireless controller. - Take full control of advanced weapon mechanics, made possible by adaptive triggers. - Planet-hop at hyper-speed via the near-instant loading of the PS5™ console’s SSD. - Immerse your ears with Tempest 3D AudioTech* as you work to save the universe. - Enhanced lighting and ray tracing render dazzling in-game worlds – displayed in crisp, dynamic 4K and HDR**. - Choose Performance Mode to enjoy targeted 60 frames per second gameplay***. Celebrate 20 years of Ratchet &amp; Clank with five brand-new armor sets inspired by games of the past. Download the game update* at no extra cost and receive: - Holoflux armor - Quest armor - Marauder armor - Commando armor - Clank armor *Game update v.1.004 requires internet connection.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T15:52:45.610Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 42949672960,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/DwVjpbKOsFOyPdNzmSTSWuxG.png"
+    },
+    {
+      "titleId": "PPSA02225",
+      "title": "Ghost of Tsushima Director's Cut",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/Qr9uw64KZi"
+        }
+      ],
+      "version": "02.024",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/niMUubpU9y1PxNvYmDfb8QFD.png?w=260",
+      "description": "If you already own Ghost of Tsushima on PS4™, you can upgrade to the Ghost of Tsushima DIRECTOR’S CUT on PS5™ for $29.99 from 20 August 2021. If you already own the Ghost of Tsushima DIRECTOR’S CUT on PS4, you can upgrade to the PS5 Ghost of Tsushima DIRECTOR’S CUT for $10.00 from 20 August 2021. Edition includes: - Iki Island expansion.* - Legends online co-op mode.** - Digital mini art book. - Director’s commentary. - One Technique Point.* - Charm of Hachiman’s Favour.* - Hero of Tsushima Skin Set.* PS5 features: - Dynamic 4K resolution targeting 60fps (requires compatible 4K TV or display). - DualSense™ wireless controller haptic feedback and adaptive trigger resistance. - 3D Audio with stereo headphones (analogue or USB). - Lip sync for Japanese voiceover. - Ability to transfer PS4 saved progress to PS5 game. Owners of a PS4 disc copy must insert it into the PS5 every time they want to download or play the PS5 digital version. PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to get the PS5 version for the discounted price.\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-16T15:51:27.735Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 65498251264,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/niMUubpU9y1PxNvYmDfb8QFD.png"
+    },
+    {
+      "titleId": "PPSA02015",
+      "title": "Death Stranding 2 On The Beach Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/peCnh4yKZp"
+        }
+      ],
+      "version": "01.013",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png?w=260",
+      "description": "Edition includes: DEATH STRANDING 2: ON THE BEACH full game for PS5®. 48h early access Machine Gun [MP] (Lv.1) early unlock Patch 70: Quokka Patch 71: Chiral Cat Patch 72: Why Me? Battle Skeleton: Gold (Lv.1)(Lv.2)(Lv.3) Boost Skeleton: Gold (Lv.1)(Lv.2)(Lv.3) Bokka Skeleton: Gold (Lv.1)(Lv.2)(Lv.3) Embark on an inspiring mission of human connection beyond the UCA. Sam—with companions by his side—sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected? Step by step, legendary game creator Hideo Kojima changes the world once again.\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-16T15:50:27.078Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 99857989632,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png"
+    },
+    {
+      "titleId": "PPSA26786",
+      "title": "Indiana Jones and The Great Circle",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/v9zClxfxMX"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vik1ngfile.site/f/s1rKySBbTp"
+        }
+      ],
+      "version": "1.009",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png?w=260",
+      "description": "Live the adventure with the Premium Upgrade* to receive Indiana Jones and the Great Circle™: The Order of Giants Story DLC, a digital artbook, and the Temple of Doom™ Outfit, Indy’s iconic look as seen in Temple of Doom™. INCLUDES: • The Order of Giants Story DLC (Also available for purchase separately from September 4 2025, base game required) • Digital Artbook • Temple of Doom Outfit *** Uncover one of history’s greatest mysteries in Indiana Jones and the Great Circle™, a first-person, single-player adventure set between the events of Raiders of the Lost Ark™ and The Last Crusade. The year is 1937, sinister forces are scouring the globe for the secret to an ancient power connected to the Great Circle, and only one person can stop them - Indiana Jones™. You’ll become the legendary archaeologist in this multiple Game of the Year award winning action-adventure from MachineGames, the studio behind the recent Wolfenstein series, and executive produced by Hall of Fame game designer Todd Howard. YOU ARE INDIANA JONES Live the adventure as Indy in a thrilling story full of exploration, immersive action, and intriguing puzzles. As the brilliant archaeologist – famed for his keen intellect, cunning resourcefulness, and trademark humor – you will travel the world in a race against enemy forces to discover the secrets to one of the greatest mysteries of all time. A WORLD OF MYSTERY AWAITS Travel from the halls of Marshall College to the heart of the Vatican, the pyramids of Egypt, the sunken temples of Sukhothai, and beyond. When a break-in in the dead of night ends in a confrontation with a mysterious colossal man, you must set out to discover the world-shattering secret behind the theft of a seemingly unimportant artifact. Forging new alliances and facing familiar enemies, you’ll engage with intriguing characters, use guile and wits to solve ancient riddles, and survive intense set-pieces. WHIP-CRACKING ACTION Indiana’s trademark whip remains at the heart of his gear and can be used to distract, disarm, and attack enemies. But the whip isn’t just a weapon, it’s Indy’s most valuable tool for navigating the environment. Swing over unsuspecting patrols and scale walls as you make your way through a striking world. Combine stealth infiltration, melee combat, and gunplay to combat the enemy threat and unravel the mystery. THE SPIRIT OF DISCOVERY Venture through a dynamic mix of linear, narrative-driven gameplay and open-area maps. Indulge your inner explorer and unearth a world of fascinating secrets, deadly traps and fiendish puzzles, where anything could potentially hide the next piece of the mystery – or snakes. Why did it have to be snakes? *Base Game required (sold separately)\nRegion: USA\nFirmware: 10.xx+\nUpdated: 2026-10-16T15:46:52.202Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 135012296950,
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png"
+    },
+    {
       "titleId": "PPSA08804",
       "title": "Sonic Racing CrossWorlds Deluxe Edition",
       "downloadLinks": [
         {
-          "name": "Viki - DLC",
-          "url": "https://vikingfile.com/f/byL65Yuvr0"
-        },
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/m3hscoKXJe"
-        },
-        {
           "name": "Viki (+Arabic Lang)",
           "url": "https://vikingfile.com/f/9OqucpANrL"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/byL65Yuvr0"
         }
       ],
       "version": "1.012",
@@ -48,10 +788,6 @@
       "titleId": "PPSA03618",
       "title": "The Chant",
       "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/mswLOf7xXi"
-        },
         {
           "name": "Viki (+Arabic Lang)",
           "url": "https://vikingfile.com/f/16GvEyOTC4"
@@ -91,24 +827,12 @@
       "title": "SILENT HILL 2",
       "downloadLinks": [
         {
-          "name": "Akirabox - pt.1",
-          "url": "https://akirabox.com/vgKGxXyW8G8Q/file"
-        },
-        {
-          "name": "Akirabox - pt.2",
-          "url": "https://akirabox.com/EL73g7yga39B/file"
-        },
-        {
-          "name": "Akirabox - pt.3",
-          "url": "https://akirabox.com/EL73g7yg839B/file"
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/zYywCH7Y7W"
         },
         {
           "name": "Viki - DLC",
           "url": "https://vikingfile.com/f/xwwvXkaZtz"
-        },
-        {
-          "name": "Viki (+Arabic Lang)",
-          "url": "https://vikingfile.com/f/zYywCH7Y7W"
         }
       ],
       "version": "0.1.006",
@@ -419,20 +1143,12 @@
       "title": "Cronos The New Dawn",
       "downloadLinks": [
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/aZOTcJf1gn"
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/gZFqC0cJdt"
         },
         {
           "name": "Viki - Backport - 4.xx+",
           "url": "https://vikingfile.com/f/KAaf4eatRl"
-        },
-        {
-          "name": "Akirabox",
-          "url": "https://akirabox.com/wgWGq7Zxx34o/file"
-        },
-        {
-          "name": "Viki (+Arabic Lang)",
-          "url": "https://vikingfile.com/f/gZFqC0cJdt"
         }
       ],
       "version": "01.010",
@@ -476,10 +1192,6 @@
       "titleId": "PPSA28329",
       "title": "RoboCop Rogue City Unfinished Business",
       "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/BZQYVh18wR"
-        },
         {
           "name": "Viki (+Arabic Lang)",
           "url": "https://vik1ngfile.site/f/umqAXS93ae"
@@ -574,10 +1286,6 @@
       "title": "007 First Light",
       "downloadLinks": [
         {
-          "name": "Viki",
-          "url": "https://vik1ngfile.site/f/i2IaWe2QUR"
-        },
-        {
           "name": "Viki (+Arabic Lang)",
           "url": "https://vik1ngfile.site/f/C96izBPiaz"
         }
@@ -585,7 +1293,7 @@
       "version": "1.18",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0213/2a446965c0e8537af78302782417b0353a73ff1b19ebfeb4.png?w=260",
-      "description": "Follow James Bond as a young, resourceful and sometimes reckless recruit in MI6's training program, and discover an origin story of the world’s most famous spy. After a heroic act, young Naval air crewman James Bond is offered to join the newly revived Double 0 program. But when a mission to stop a rogue agent ends in tragedy, he must join forces with his reluctant mentor Greenway to expose a deep conspiracy and stop a looming coup at the heart of the State. BECOME 007 Discover a new standalone, re-imagined James Bond origin story, and the events that lead an audacious young hero to become the best MI6 agent. A THRILLING ESPIONAGE ADVENTURE Embark on missions in breathtaking locations, drive iconic vehicles, and dive into a cinematic adventure in pursuit of a rogue agent who’s always one step ahead. SPYING, YOUR WAY Go silent or go loud. Whether fighting with fists or firepower, using gadgets to infiltrate, or bluffing your way past guards, the approach is entirely up to you. WELCOME TO MI6 Test your skills and replay your favorite missions with additional modifiers, for endless espionage fun! JOIN THE COMMUNITY CHALLENGE &amp; GET REWARDS The mission is simple: rally together and unlock the wishlist milestones for 007 First Light. With every milestone reached, new in-game and community rewards are unlocked, adding style, sophistication, and a secret reward. Sign-up to IOI Account to claim the community unlocks. More wishlists unlocks collective rewards each time you reach a new tier.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-16T14:17:17.557Z",
+      "description": "Follow James Bond as a young, resourceful and sometimes reckless recruit in MI6's training program, and discover an origin story of the world’s most famous spy. After a heroic act, young Naval air crewman James Bond is offered to join the newly revived Double 0 program. But when a mission to stop a rogue agent ends in tragedy, he must join forces with his reluctant mentor Greenway to expose a deep conspiracy and stop a looming coup at the heart of the State. BECOME 007 Discover a new standalone, re-imagined James Bond origin story, and the events that lead an audacious young hero to become the best MI6 agent. A THRILLING ESPIONAGE ADVENTURE Embark on missions in breathtaking locations, drive iconic vehicles, and dive into a cinematic adventure in pursuit of a rogue agent who’s always one step ahead. SPYING, YOUR WAY Go silent or go loud. Whether fighting with fists or firepower, using gadgets to infiltrate, or bluffing your way past guards, the approach is entirely up to you. WELCOME TO MI6 Test your skills and replay your favorite missions with additional modifiers, for endless espionage fun! JOIN THE COMMUNITY CHALLENGE &amp; GET REWARDS The mission is simple: rally together and unlock the wishlist milestones for 007 First Light. With every milestone reached, new in-game and community rewards are unlocked, adding style, sophistication, and a secret reward. Sign-up to IOI Account to claim the community unlocks. More wishlists unlocks collective rewards each time you reach a new tier.\nRegion: EUR\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-16T14:17:17.557Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "sizeBytes": 49209587794,
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0213/2a446965c0e8537af78302782417b0353a73ff1b19ebfeb4.png"
@@ -823,10 +1531,6 @@
       "title": "CONTROL Resonant",
       "downloadLinks": [
         {
-          "name": "Viki",
-          "url": "https://vik1ngfile.site/f/YfSY9cn31J"
-        },
-        {
           "name": "Viki (+Arabic Lang)",
           "url": "https://vik1ngfile.site/f/rgFSdoeNDi"
         }
@@ -834,7 +1538,7 @@
       "version": "01.300",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2212/9fedf57ea1649249a0e3ac24770ea9afa6f4bfa795b5fd05.png?w=260",
-      "description": "After years in confinement at the hands of the Federal Bureau of Control (FBC), Dylan Faden’s former captors are deploying him at the peak of a paranatural crisis. Charged with combating a mysterious cosmic entity as it alters fundamental aspects of our reality, Dylan must harness his new-found powers to take the fight to the myriad threats overwhelming Manhattan. Join Dylan in this sequel to the multi-award-winning CONTROL to explore the expansive zones of a city overrun by the corrupting influences of the chaotic Hiss and invasive micro-organism, the Mold, and other twisted paranatural threats. On the path to unlocking the full potential of his paranatural abilities Dylan will also seek out his sister, FBC Director Jesse Faden, as he bids to comprehend and contain the dangers that have spilled beyond the confines of the Oldest House to tear our world apart. STEP INTO A WARPED REALITY Explore multiple areas of a ravaged Manhattan in an expansive, unfamiliar, and exciting world. Traverse perception-bending locations and grapple with gravity anomalies that distort the vertical and horizontal plane, adding additional dimensions to puzzles and new tactical decisions to combat. Meet faces old and new on a path fraught with risk but rich in opportunity as the cityscape is reshaped and reality is redefined by a godlike force. MASTER THE PARANATURAL Channel the raw experiences of Dylan’s past to help understand his present and dig deeper into the inner workings of the FBC and reveal the horrors threatening humankind. Tap into power he must learn to master and take choices to shape how his abilities manifest and grow. Explore a deep progression system to define how Dylan adapts to emerging dangers. Forge connections crucial to Dylan’s fight to retain his humanity as he journeys from former test subject to paranatural superweapon. THE FIGHT SHIFTS. YOUR WEAPON SHIFTS WITH IT. Meet constantly evolving threats head-on, utilizing the environment, deploying elemental abilities and using the raw force Dylan’s shapeshifting melee weapon, the Aberrant. Wield the Aberrant in its many deadly forms. Deliver bone-crunching blows with a two-handed hammer and flow seamlessly into the swift precision of dual-wielded blades as this paranatural weapon morphs on demand to meet each new challenge. SHARED LEGACY. NEW THREAT FBC Director Jesse Faden’s lockdown is no longer holding. A paranatural catastrophe has spilled beyond the Oldest House and onto the streets of Manhattan, and the Bureau’s grip on containment is failing. Jesse Faden walked into the Oldest House to confront the threat within. Now Dylan must walk out of it to contain the threat beyond.\nRegion: EUR\nFirmware: 4.xx+\nNotes: To enable the Arabic language, you must select Polish.\nUpdated: 2026-10-16T13:55:28.477Z",
+      "description": "After years in confinement at the hands of the Federal Bureau of Control (FBC), Dylan Faden’s former captors are deploying him at the peak of a paranatural crisis. Charged with combating a mysterious cosmic entity as it alters fundamental aspects of our reality, Dylan must harness his new-found powers to take the fight to the myriad threats overwhelming Manhattan. Join Dylan in this sequel to the multi-award-winning CONTROL to explore the expansive zones of a city overrun by the corrupting influences of the chaotic Hiss and invasive micro-organism, the Mold, and other twisted paranatural threats. On the path to unlocking the full potential of his paranatural abilities Dylan will also seek out his sister, FBC Director Jesse Faden, as he bids to comprehend and contain the dangers that have spilled beyond the confines of the Oldest House to tear our world apart. STEP INTO A WARPED REALITY Explore multiple areas of a ravaged Manhattan in an expansive, unfamiliar, and exciting world. Traverse perception-bending locations and grapple with gravity anomalies that distort the vertical and horizontal plane, adding additional dimensions to puzzles and new tactical decisions to combat. Meet faces old and new on a path fraught with risk but rich in opportunity as the cityscape is reshaped and reality is redefined by a godlike force. MASTER THE PARANATURAL Channel the raw experiences of Dylan’s past to help understand his present and dig deeper into the inner workings of the FBC and reveal the horrors threatening humankind. Tap into power he must learn to master and take choices to shape how his abilities manifest and grow. Explore a deep progression system to define how Dylan adapts to emerging dangers. Forge connections crucial to Dylan’s fight to retain his humanity as he journeys from former test subject to paranatural superweapon. THE FIGHT SHIFTS. YOUR WEAPON SHIFTS WITH IT. Meet constantly evolving threats head-on, utilizing the environment, deploying elemental abilities and using the raw force Dylan’s shapeshifting melee weapon, the Aberrant. Wield the Aberrant in its many deadly forms. Deliver bone-crunching blows with a two-handed hammer and flow seamlessly into the swift precision of dual-wielded blades as this paranatural weapon morphs on demand to meet each new challenge. SHARED LEGACY. NEW THREAT FBC Director Jesse Faden’s lockdown is no longer holding. A paranatural catastrophe has spilled beyond the Oldest House and onto the streets of Manhattan, and the Bureau’s grip on containment is failing. Jesse Faden walked into the Oldest House to confront the threat within. Now Dylan must walk out of it to contain the threat beyond.\nRegion: EUR\nFirmware: 4.xx+\nNotes: To enable the Arabic language, you must select Polish.\nCredits: Oussama\nUpdated: 2026-10-16T13:55:28.477Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "sizeBytes": 85899345920,
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2212/9fedf57ea1649249a0e3ac24770ea9afa6f4bfa795b5fd05.png"
@@ -1505,23 +2209,6 @@
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "sizeBytes": 4359391805,
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2514/f4c25b71a2e57079cd67db2fdf593b4b20d56c91e4453065.png"
-    },
-    {
-      "titleId": "PPSA29343",
-      "title": "Beast of Reincarnation Digital Deluxe Edition",
-      "downloadLinks": [
-        {
-          "name": "Viki (+Arabic Lang)",
-          "url": "https://vikingfile.com/f/mN7miV7EaA"
-        }
-      ],
-      "version": "01.000",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2622/90ec8c84dd460708d922d6693ef8c61b3b0443db0b636b23.png?w=260",
-      "description": "Beast of Reincarnation Digital Deluxe Edition The Digital Deluxe Edition includes Black and Brown Shiba Skins for Koo, “Oni’s Hat” for Emma, Emma’s sword “Big Dipper”, 100,000 Amber (in-game currency), plus a number of vegetable seedlings! Set in a post-apocalyptic Japan, humanity’s only hope lies with Emma, an outcast shunned from society for her affliction, and Koo, the blighted dog. Together, they embark on this expansive adventure in this one-person, one-dog action RPG. Experience a journey where you feel moments of loneliness, and also the reliability and comfort of your companion. Savor a world of impermanence, where forests suddenly burst forth amidst the wasteland. As Emma and Koo travel through this beautiful yet harsh world, their bond and abilities blossom. Customize your playstyle with unique skill trees, gear, and spirit stones to survive this beautiful yet brutal world. Define your own playstyle through your preferred loadout, including ranged, stealthy, and aggressive combat. In this world ravaged by blight… What will you find at the end of your journey? Key Features: Emma and Koo’s Synergy Emma and Koo create a revolutionary action RPG experience. Fight as a unit, using Emma’s sword abilities while giving Koo commands to unleash various techniques in a hybrid combat system that combines elements of action and turn-based RPGs. Japan: Year 4026 Travel through a beautiful yet harsh post-apocalyptic world. Experience the ever-changing scenery, in the blighted forest, and the Bosses that rule this world. Emma and Koo, who met in the far east, are tasked with battling Bosses from all over the world and capturing their powers in order to defeat the Beast of Reincarnation. A story filled with secrets Dive into a brutal narrative where every character hides a dangerous truth. Uncover the intertwined fates of Emma and Koo in this profound story.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-10T11:39:03.428Z",
-      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
-      "sizeBytes": 30064771072,
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2622/90ec8c84dd460708d922d6693ef8c61b3b0443db0b636b23.png"
     },
     {
       "titleId": "PPSA16603",

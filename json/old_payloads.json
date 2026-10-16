@@ -32,14 +32,14 @@
             "checksum": "946328551f74e3b6a34a7c0169f9b40792e392775768b84874b55ecdff71222e"
         },
         {
-            "name": "Common Fps Ps5 V1.2.1",
-            "filename": "Common_FPS_PS5_v1.2.1.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.1/Common_FPS_PS5_v1.2.1.elf",
-            "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.1/Common_FPS_PS5_v1.2.1.elf",
+            "name": "Common Fps Ps5 V1.2.3",
+            "filename": "Common_FPS_PS5_v1.2.3.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf",
+            "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf",
             "description": "A lightweight, open-source real-time FPS counter for PlayStation 5.",
-            "version": "v1.2.1",
+            "version": "v1.2.3",
             "category": "PS5 Overlay",
-            "checksum": "6be733b7b3a15ed03b67adcd34ca02628427210775c330f2fbe9f000bc7b27ff"
+            "checksum": "bb74aa448952e9af4fb001f256f48b3b15fdedff88c2dec472ee9d16b20dbed5"
         },
         {
             "name": "Ps5 Overlay",
@@ -698,7 +698,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "b6b5eab8fcc562ca32b69de01748703e7c143fb3da08d9597a7c151805ec82fc"
+            "checksum": "1b8c5341c8e7c6ab540a1dfefa59f701586c691ed4847071611ebe08b7f27ab1"
         },
         {
             "name": "Np-Fake-Signin-Ps5",

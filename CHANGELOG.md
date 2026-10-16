@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 16/10/2026 à 20:42
+* **PAYLOADS**
+  * `Common Fps Ps5 V1.2.3` (v1.2.3) - *Nouveau*
+
 ## Build du 16/10/2026 à 03:31
 * **PAYLOADS**
   * `Snes9Xps5 V2.6` (v2.6) - *Nouveau*

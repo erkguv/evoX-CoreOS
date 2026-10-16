@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.16-1617)
+### 🚀 Synthèse de la mise à jour (v2026.10.16-2042)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -23,7 +23,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `garlic-savemgr_v1.13.1.elf`
   * `garlic-worker_v1.1.7.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
-  * `Common_FPS_PS5_v1.2.1.elf`
+  * `Common_FPS_PS5_v1.2.3.elf`
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `BFpilot_v0.4.4.elf`
