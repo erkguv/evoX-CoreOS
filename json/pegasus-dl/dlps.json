@@ -134114,6 +134114,35 @@
       ]
     },
     {
+      "titleId": "PPSA28183",
+      "title": "[exFAT] Assassins Creed Black Flag Resynced Deluxe Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.006.038",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.006.038 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.006.038 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiM2dSMEx4ckhla3JlQkkyN2N4OTBkYmcyVnhKMGhCdzYvWS9QU1UzTTlxeGFMM2dBeDZtdDBwcmx1bm1PcmRUVUIza2ZnODdCZkl5VTU1K0hhTWxZNzhBd2lQcWVHcTVhZ2lLcWxaRFkydz09IiwiaSI6IjJhWU50YTVuL2UwWnJnK0YiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.006.038 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQVlUR0NPOStvZGdHUHBUVmpXQUFKK1BheGpNVTZZZE9vZG9NQ21qYTlyaGQ3N1g5cDg5Y1p4b1U4a3JkUDFtN1dZdGRMYTJsVGRKYmZEdVkvcTFkQStkdkZsY3Z1V29kRG5CVGZ6NEgxMEU9IiwiaSI6IldaaytkYzg1bmloY3I3YkIiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.006.038 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWDdIQU9VNUc3YmczNSt5d2tHUDhNUDhrZGlPS29VTUJDTmFnT1NHUTMxa3VGVnZWYUxibDU1dTRrNkFoQmd4TnJtMU1EbHYwMzdTdkd4b2QrREJLVmUrSnZCYnRhL0EvN3lwb28yUGMiLCJpIjoiVnlFVEFSZGNvcVJJSWlvOCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.006.038 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ3BnU3FlSVU1TjJXTmNKeGF0MUxINWNRb2lrZWt3aVAwdmNRV3VmdFJXek5CZ21WcGIyLzg3OGlMMDBweFhEQ3M5TFRtT0pwRmZ3K2NqbFFIeFJOeWw5bTVyYXlmcnpsbTdTL3JhcVlET009IiwiaSI6ImlsVHFWNTc2cDhnc0NQRTgiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA01494",
       "title": "[exFAT] Borderlands 4 Super Deluxe Edition",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -134865,23 +134894,6 @@
         {
           "name": "USA exFAT 01.010 BackPort backport - DATA Backport (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZG9KRnNYOG9nQUVPMTIzeEFLRTZvcVpVaUwvOXIxbzRna25hakI1YkhINk1pdHh3OVpDbXU5TFozbUNYWU1CWitpSG1ORTQzaEM1MkhrdjhGajhIUGhQUThTTmIiLCJpIjoiWnpndmZ6RGkyQUZrM1d6dyIsIm4iOiJEYXRhIn0="
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA28183",
-      "title": "[exFAT] Assassins Creed Black Flag Resynced Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.006.038",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.006.038 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMk9rRGE2YUpjcmkyZkpSdU5FV0dsVE80YjJXbTR5K25mM2VmMXEvbkFiblNVN2dORGE1c3pKS1ByUmtoSjhhbXd2VnYvclg1TjJVSTUrOCtjZkwzakNtVkJzSkMiLCJpIjoiNERPWGRSM3d0SU1TZFptMSIsIm4iOiJEYXRhIn0="
         }
       ]
     },
