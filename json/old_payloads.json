@@ -42,24 +42,24 @@
             "checksum": "bb74aa448952e9af4fb001f256f48b3b15fdedff88c2dec472ee9d16b20dbed5"
         },
         {
-            "name": "Ps5 Overlay",
-            "filename": "ps5_overlay.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf",
-            "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf",
+            "name": "Overlay Payload",
+            "filename": "overlay_payload.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/overlay_payload.elf",
+            "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/overlay_payload.elf",
             "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
-            "version": "v1.0.15",
+            "version": "v0.0.18",
             "category": "PS5 Overlay",
-            "checksum": "5e843b4b20b5954802a88722e5f9436d71d29bc3c82c22d7aa828b83b9960ff9"
+            "checksum": "b144a1594e328279966797dc9e79cf8675156d447fc232d07f94a01d16a44013"
         },
         {
-            "name": "Ps5 Overlay Shellui",
-            "filename": "ps5_overlay_shellui.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf",
-            "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf",
+            "name": "Ps5-Overlay-Kus V1.0.18",
+            "filename": "ps5-overlay-kus_v1.0.18.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/ps5-overlay-kus_v1.0.18.elf",
+            "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/ps5-overlay-kus_v1.0.18.elf",
             "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
-            "version": "v1.0.15",
+            "version": "v0.0.18",
             "category": "PS5 Overlay",
-            "checksum": "54d23675bf44f17599a9e08397cf0c62b0e10cfbffdc2fe1673e5bcc9de8a2b7"
+            "checksum": "96562d1fc8deb641c67e19dc618cf2334f14512bc02e15732f53361f31005e29"
         },
         {
             "name": "Bfpilot V0.4.4",
@@ -698,7 +698,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "1b8c5341c8e7c6ab540a1dfefa59f701586c691ed4847071611ebe08b7f27ab1"
+            "checksum": "ba2e1dcb5368b7ef32f94b564d07b9dcd372da578d8d895a9cc250a535c542c4"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
@@ -1203,6 +1203,24 @@
             "description": "Récupéré depuis le stockage local (Interne / Fallback)",
             "version": "Spectrum-Library",
             "checksum": "5d1372d48f76167e3f9e24b335cf571ea6e4b3960e6b7202d2802b0f78c3a519"
+        },
+        {
+            "name": "Ps5 Overlay",
+            "filename": "ps5_overlay.elf",
+            "url": "",
+            "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "ps5-new-overlay",
+            "checksum": "5e843b4b20b5954802a88722e5f9436d71d29bc3c82c22d7aa828b83b9960ff9"
+        },
+        {
+            "name": "Ps5 Overlay Shellui",
+            "filename": "ps5_overlay_shellui.elf",
+            "url": "",
+            "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "ps5-new-overlay",
+            "checksum": "54d23675bf44f17599a9e08397cf0c62b0e10cfbffdc2fe1673e5bcc9de8a2b7"
         }
     ]
 }

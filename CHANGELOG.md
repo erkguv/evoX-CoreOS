@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 17/10/2026 à 03:21
+* **PAYLOADS**
+  * `Overlay Payload` (v0.0.18) - *Nouveau*
+  * `Ps5-Overlay-Kus V1.0.18` (v0.0.18) - *Nouveau*
+  * `Ps5 Overlay` (ps5-new-overlay) - *Mise à jour (Précédent: v1.0.15)*
+  * `Ps5 Overlay Shellui` (ps5-new-overlay) - *Mise à jour (Précédent: v1.0.15)*
+
 ## Build du 16/10/2026 à 20:42
 * **PAYLOADS**
   * `Common Fps Ps5 V1.2.3` (v1.2.3) - *Nouveau*

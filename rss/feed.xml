@@ -29,16 +29,16 @@
       <pubDate>v1.2.3</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5 Overlay</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf</link>
+      <title>[Payloads] Overlay Payload</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/overlay_payload.elf</link>
       <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
-      <pubDate>v1.0.15</pubDate>
+      <pubDate>v0.0.18</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5 Overlay Shellui</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay_shellui.elf</link>
+      <title>[Payloads] Ps5-Overlay-Kus V1.0.18</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/ps5-overlay-kus_v1.0.18.elf</link>
       <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
-      <pubDate>v1.0.15</pubDate>
+      <pubDate>v0.0.18</pubDate>
     </item>
     <item>
       <title>[Payloads] Bfpilot V0.4.4</title>
@@ -729,6 +729,18 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Spectrum-Library</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Ps5 Overlay</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-new-overlay</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Ps5 Overlay Shellui</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-new-overlay</pubDate>
     </item>
     <item>
       <title>[Packages PKG] Ps5Pkg Avatar-Changer V1.00</title>
