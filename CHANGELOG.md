@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 17/10/2026 à 20:19
+* **PAYLOADS**
+  * `Web-File-Mgr-V1.11` (v1.11) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.11) - *Mise à jour (Précédent: v1.10)*
+  * `Web-File-Mgr-V1.10` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.10)*
+* **APPS**
+  * `Ppsa99000` (v1.000.080) - *Mise à jour (Précédent: v1.000.070)*
+
 ## Build du 17/10/2026 à 03:21
 * **PAYLOADS**
   * `Overlay Payload` (v0.0.18) - *Nouveau*

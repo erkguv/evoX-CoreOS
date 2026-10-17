@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.17-1512)
+### 🚀 Synthèse de la mise à jour (v2026.10.17-2019)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -28,7 +28,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-overlay-kus_v1.0.18.elf`
   * `BFpilot_v0.4.4.elf`
   * `lapy_jb_daemon.elf`
-  * `web-file-mgr-v1.10.elf`
+  * `web-file-mgr-v1.11.elf`
   * `wfm-7zip-helper.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
@@ -136,6 +136,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `apr_emu_updater_v2.0.6.elf`
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
   * `ELF_Arsenal_v1.6.23.elf`
+  * `web-file-mgr-v1.10.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
   * `ps5library-agent-0.2.70.elf`

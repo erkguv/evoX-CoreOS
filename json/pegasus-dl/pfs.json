@@ -3,6 +3,24 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA29642",
+      "title": "South of Midnight",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.001.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2822/ee41c702e3b4d9a76c1918e829a7191c9b1fb5b7a3d1e416.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2822/ee41c702e3b4d9a76c1918e829a7191c9b1fb5b7a3d1e416.png",
+      "description": "Region: USA\nFirmware: 4.xx+\nUpdated: 2026-10-17T17:56:31.645Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/34qlZHE5Au"
+        }
+      ],
+      "sizeBytes": 44077101875
+    },
+    {
       "titleId": "PPSA03016",
       "title": "Marvel's Spider-Man 2",
       "createdAt": "2026-10-16T21:48:35.923Z",

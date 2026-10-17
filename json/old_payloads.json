@@ -82,22 +82,22 @@
             "checksum": "e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed"
         },
         {
-            "name": "Web-File-Mgr-V1.10",
-            "filename": "web-file-mgr-v1.10.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/web-file-mgr-v1.10.elf",
-            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/web-file-mgr-v1.10.elf",
+            "name": "Web-File-Mgr-V1.11",
+            "filename": "web-file-mgr-v1.11.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/web-file-mgr-v1.11.elf",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/web-file-mgr-v1.11.elf",
             "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-            "version": "v1.10",
+            "version": "v1.11",
             "category": "PS5 File Explorer",
-            "checksum": "409145ec9a1c338ecb5f6f917c3b057c4ba48bfae2e86d621e19dda7ac129bd3"
+            "checksum": "cbcdacf69c331025e1643fc99f5b5fc117125e7c39931b6dd914323412558911"
         },
         {
             "name": "Wfm-7Zip-Helper",
             "filename": "wfm-7zip-helper.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/wfm-7zip-helper.elf",
-            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/wfm-7zip-helper.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/wfm-7zip-helper.elf",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/wfm-7zip-helper.elf",
             "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-            "version": "v1.10",
+            "version": "v1.11",
             "category": "PS5 File Explorer",
             "checksum": "dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4"
         },
@@ -698,7 +698,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "46485538cc8041b0c5fb2a16ad2ace8b43e75b08df62592bf4439b4a7ebdacbe"
+            "checksum": "8bb8f5056cc44aac54fc1a19f7679e177c418895932747ffe9b0bf91a8e70189"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
@@ -1158,6 +1158,15 @@
             "description": "Récupéré depuis le stockage local (Interne / Fallback)",
             "version": "ELF_Arsenal",
             "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
+        },
+        {
+            "name": "Web-File-Mgr-V1.10",
+            "filename": "web-file-mgr-v1.10.elf",
+            "url": "",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/web-file-mgr-v1.10.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "ps5-web-file-manager",
+            "checksum": "409145ec9a1c338ecb5f6f917c3b057c4ba48bfae2e86d621e19dda7ac129bd3"
         },
         {
             "name": "Web-File-Mgr V1.9",
