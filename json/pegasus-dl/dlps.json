@@ -134114,6 +134114,35 @@
       ]
     },
     {
+      "titleId": "PPSA01494",
+      "title": "[exFAT] Borderlands 4 Super Deluxe Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.100.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2900/c256181959227eb346613262ed37b456aad37996829e36ca.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2900/c256181959227eb346613262ed37b456aad37996829e36ca.png",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.100.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.100.002 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNExqS0pGdm5kNkhBTWlLRVMzV3VEKzlZcGlEWkN0eEFuaDA5WHBiTDNtdkpiVXVHSThNUGtwazVuUUxCaDhCV1NPb1o3eDdHYnpOZFVySWFWV2xFVEhDRkFnZyt2WFNlQ0ZDWEhQRDNsdz09IiwiaSI6IkJ1Wk90SVo3dkJ1d29aWTQiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.100.002 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiM2hLdndEOS9nQzV6WGxWSm9ISzlmdlRRbWx6UzgvS3NWNnAxUkE1bjJtZE9UODc0WER6UTVCU3R4ekpkbVdCcHorODJoblcvTnkyaEJReGgrOFJ3UUNCbDFrVlMxVzNZNXUyUFkyZTBid2M9IiwiaSI6IjZNT0JraGlKcGVGcDBGQmkiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.100.002 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibSsyL25rU3RESlBzWXVwc3pmbkZDRmhSaXh6TVB6Yll6NjdIaDBMTTFuNUIwYzJpTkFRS1cySVV5RDZTa2ZORUVVSDRYWFRBaUY3d1Irc3o5OFFJWitXN09RS0hoMytGRDNvbUFqc1MiLCJpIjoiczBUdlc1ZkdZMUhLcW1MSiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.100.002 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSmxXYnY0SHRZNm12VmJSSHlNOGxnZ2xrek8zUHFLdCtUNlNwUHpUcHdRL2podkUrclBvUE1BdWRrNTFUVDErNFN2eGY1N3picnNYaVFGVUZOTTJ5b2ZoZ2VUQkljbENzTXdVeEwrRHFzc3c9IiwiaSI6IjFCRzNoS2N1bWQ5amhaMnYiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA34008",
       "title": "[exFAT] Mortal Shell 2 Devout Edition",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -134396,31 +134425,6 @@
         {
           "name": "ASIA exFAT 02.000.001 Base - VIKI (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiKytrd3EyanM5Q2RDUHlDLzExZmRwdXgrTU5MTDNoaXFYdmxESWZuQmMxZFBMWGwrRklaNUx2bnRVb1ZDSXZIdXZHT05Qd0I2VmxZVksybXZGL21XZHpZN0tydjhicmEzMTBlcnlRYmttaTA9IiwiaSI6IldRYUc1cnRiTFlyWUJZTFMiLCJuIjoiVmlraSJ9"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA01494",
-      "title": "[exFAT] Borderlands 4 Super Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.100.002",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2900/c256181959227eb346613262ed37b456aad37996829e36ca.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2900/c256181959227eb346613262ed37b456aad37996829e36ca.png",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.100.002 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.100.002 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieFZmbSs1aDFCOHUrRjVZMlNBajFWeGFlOVFUTW9uZGI0NFZhcythcGJORnBuTkZiK3hzdXdwaEtZM2JLcnRjcFlOZVRvcS9XdUVzNmplejVzNVJCR0pTUUVkRWh0QzVjT2NLalZGN1NBZz09IiwiaSI6IldJYVM1dythcFBiaENCRDAiLCJuIjoiRGF0YSJ9"
-        },
-        {
-          "name": "USA exFAT 01.100.002 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUzR2Z05kSURUUHVkSm1uYXZHWHh1d01mY05MUUVWaWFQeS9KbUEwcWpBK2FxeVhXRjEzMjVLWmRrWkpIVk1TMUhqMnNaTXBtTVEzQU43ckgydk5Ld25YUGxwTVZ4WFJIOHhWcFBZUkQiLCJpIjoiWkF2QVpxTk0rdWNDWm01ViIsIm4iOiJBa2lhIn0="
-        },
-        {
-          "name": "USA exFAT 01.100.002 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWWk2MitYRUJabytVTzk1YTl6QWh3V016YWZrNHhiRDkvUTh0Q2RzUVl4aE9kcnVGVW56OFRCTDdHQnZWWlRkNHZJaVFyczdqVk9lWnpxbUdUWGp4c25ZYVNiOEZLTVRPZHREUXZtMEN3MVU9IiwiaSI6IlBiaXRwdEU3UXphUFFMNHciLCJuIjoiVmlraSJ9"
         }
       ]
     },
