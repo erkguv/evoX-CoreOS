@@ -3,6 +3,90 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA29340",
+      "title": "Halloween The Game",
+      "createdAt": "2026-10-18T12:53:49.337Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0218/c79d2df71166c94b212ec45d070938ded570acb357b00d8f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0218/c79d2df71166c94b212ec45d070938ded570acb357b00d8f.png",
+      "description": "Region: USA\nRelease note: Dumped by Grim Doe Works on 13.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/halloween-the-game-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/vgKGx7nbQz8Q/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Z9dzBBRQPzk1/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1eSyu"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1EKhkG"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/mQdQu9cZE2"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/6EMFIueTAm"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA32793",
+      "title": "Valor Mortis",
+      "createdAt": "2026-10-18T12:53:49.337Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/96fbe904b245c74b7cbd85f2ed33c1b3d2e60186ce56b51a.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/96fbe904b245c74b7cbd85f2ed33c1b3d2e60186ce56b51a.png",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/valor-mortis-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/rk9zKdqVyG0l/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/l5YzMeq8QzyO/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/E1x3AxYpXmyk/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/Dk1ZY"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1US78K"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1QQGGm"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/JH19ETwCBI"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/M0ti78oFCL"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/3RxruCsU0d"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA32935",
       "title": "DYNASTY WARRIORS 3 Complete Edition Remastered",
       "createdAt": "2026-10-18T06:47:49.169Z",

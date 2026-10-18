@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>Ps5Upload V7.1.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.0/ps5upload_v7.1.0.elf</link>
+      <title>Ps5Upload V7.1.2</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.2/ps5upload_v7.1.2.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.1.0</pubDate>
+      <pubDate>v7.1.2</pubDate>
     </item>
     <item>
       <title>Airpsx V0.19</title>
@@ -636,9 +636,9 @@
     </item>
     <item>
       <title>Kstuff-A53 Sonic V1.4</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf</link>
-      <description>SoNic variant of kstuff-a53.</description>
-      <pubDate>1.4</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>kstuff-a53_SoNic</pubDate>
     </item>
     <item>
       <title>Nanodns V0.4</title>

@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/10/2026 à 15:35
+* **PAYLOADS**
+  * `Ps5Upload V7.1.2` (v7.1.2) - *Nouveau*
+  * `Kstuff-A53 Sonic V1.4` (kstuff-a53_SoNic) - *Mise à jour (Précédent: 1.4)*
+
 ## Build du 18/10/2026 à 10:36
 * **PAYLOADS**
   * `Overlay Payload` (v1.0.19) - *Mise à jour (Précédent: v0.0.18)*
