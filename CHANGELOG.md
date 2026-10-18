@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/10/2026 à 10:36
+* **PAYLOADS**
+  * `Overlay Payload` (v1.0.19) - *Mise à jour (Précédent: v0.0.18)*
+  * `Ps5-Overlay-Kus V1.0.19` (v1.0.19) - *Nouveau*
+
 ## Build du 18/10/2026 à 03:25
 * **PAYLOADS**
   * `Ps5Upload V7.1.0` (v7.1.0) - *Nouveau*

@@ -3,6 +3,114 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32935",
+      "title": "DYNASTY WARRIORS 3 Complete Edition Remastered",
+      "createdAt": "2026-10-18T06:47:49.169Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1706/c38f789d742f4247906888b3d195b8440937bf66bef6de91.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1706/c38f789d742f4247906888b3d195b8440937bf66bef6de91.png",
+      "description": "Region: JPN\nRelease note: Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/dynasty-warriors-3-complete-edition-remastered-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/dkD3YD2eomLQ/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/2bJG8Xly5GOB/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/LK0G1XanJz91/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/jar3XObA8m2d/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1XCIfw"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/OXuqG"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1bE9XU"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/KW3yi"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/nGtzoFrnJ5"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/2cRcBrXf3o"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/VyMuEyRwQq"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/5YDl2NhYrb"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA23276",
+      "title": "The Exit 8 | Platform 8",
+      "createdAt": "2026-10-18T06:47:49.169Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2505/34cb80e4a067cf254409922546821d594f431178fb715c92.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2505/34cb80e4a067cf254409922546821d594f431178fb715c92.png",
+      "description": "Region: JPN\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-exit-8-platform-8-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/qLQ36XExPG19/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/QgoC0"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/P3es5dWnZV"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24944",
+      "title": "The Exit 8 | Platform 8",
+      "createdAt": "2026-10-18T06:47:49.169Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2909/d56330535ef3325e9315398386083b325d7eedaba530caab.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2909/d56330535ef3325e9315398386083b325d7eedaba530caab.png",
+      "description": "Region: JPN\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-exit-8-platform-8-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/b5Ozdk1pl3B8/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1ZLC5o"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/M9qCIz7mKn"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA35909",
       "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -520,7 +628,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png",
-      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.007\nRegion: USA\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/madden-nfl-27-ps5/",
       "downloadLinks": [
         {
@@ -602,6 +710,22 @@
         {
           "name": "USA 4.xx Base - 1fichier part 5",
           "url": "https://1fichier.com/?yr6y8kly51cein7qz0pk"
+        },
+        {
+          "name": "USA exFAT 01.007 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNVBDenZKRnJnRXI4eEphQUJLWEhnUE5vZXFMLzd3bEllb0xDT1dpS3JIcnc2R1MxRVR4cFJ5T0pMNkNRbjRsZXVGVG02a25Cb3dxMVJuSnY5U002Nk1FaHAwRStDT3h5S3NVN3RTeklzQT09IiwiaSI6Ik9YbTk4eWY2SGl3Y3k4eHAiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.007 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVHRGVkVZdG9SaCtwajlkRVVVbGhBeWp6dzhkMUtPRDNOenlrQVVyZE42dzBWMWZHc1Rmc0xEb1Uya3A0bGg4dm1PZFMra2tCVjdCNm1hMCtFQnFDM3cwV1EyNE1OeHpMU3k4WFJHU2ZmcjQ9IiwiaSI6ImFkWDFKVDFKVXZXdDAzek8iLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.007 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZHJtRTJ5NWJBVVM0d2xSWHN5dzJSajdrb253eVU3ZnVCanBhOHFDTy8xNWUxK3BMbWROQ1gvQUV5cFE3ZjFPdU5KMzF0MlROTCs2NTNESGpsM2NKRzVMaXRmVUtFeTVFRDFkcklHaUwiLCJpIjoieDFSOGU4VXI0K2VLcG1sRSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.007 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidE4vdWRPcmtIamhYdzBXcGdWM2czSkNDcTUxZnhXdGE1SHZ1VEJJLzJrYzlWRlg4aXZZWEMybVFoajRzMEcxdkN0R1ZvRWluM0ZJSzVnOFZ3Sjl5MkdOMFpGM0pJbm9Ybm9ETGw4eWNTdlk9IiwiaSI6IlRKUTlLQnZYaVZNdnFuaVMiLCJuIjoiVmlraSJ9"
         }
       ]
     },

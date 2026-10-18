@@ -30,15 +30,15 @@
     </item>
     <item>
       <title>[Payloads] Overlay Payload</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/overlay_payload.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/overlay_payload.elf</link>
       <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
-      <pubDate>v0.0.18</pubDate>
+      <pubDate>v1.0.19</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Overlay-Kus V1.0.18</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/ps5-overlay-kus_v1.0.18.elf</link>
+      <title>[Payloads] Ps5-Overlay-Kus V1.0.19</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf</link>
       <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
-      <pubDate>v0.0.18</pubDate>
+      <pubDate>v1.0.19</pubDate>
     </item>
     <item>
       <title>[Payloads] Bfpilot V0.4.4</title>
@@ -894,7 +894,7 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.080/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.080/PPSA99000.zip</link>
       <description>homebrew store</description>
       <pubDate>v1.000.080</pubDate>
     </item>
