@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/10/2026 à 20:17
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.14.0` (v1.14.0) - *Nouveau*
+  * `Ps5Upload V7.1.4` (v7.1.4) - *Nouveau*
+  * `Kstuff-A53 Sonic V1.4` (1.4) - *Mise à jour (Précédent: kstuff-a53_SoNic)*
+* **APPS**
+  * `Ppsa99000` (v1.000.090) - *Mise à jour (Précédent: v1.000.080)*
+
 ## Build du 18/10/2026 à 15:35
 * **PAYLOADS**
   * `Ps5Upload V7.1.2` (v7.1.2) - *Nouveau*

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.18-1535)
+### 🚀 Synthèse de la mise à jour (v2026.10.18-2017)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -20,7 +20,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
-  * `garlic-savemgr_v1.13.1.elf`
+  * `garlic-savemgr_v1.14.0.elf`
   * `garlic-worker_v1.1.7.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `Common_FPS_PS5_v1.2.3.elf`
@@ -51,7 +51,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v7.1.2.elf`
+  * `ps5upload_v7.1.4.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
