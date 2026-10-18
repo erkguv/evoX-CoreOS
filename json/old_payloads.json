@@ -312,13 +312,14 @@
             "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
         },
         {
-            "name": "Ps5Upload V7.0.8",
-            "filename": "ps5upload_v7.0.8.elf",
-            "url": "",
-            "local_path": "payloads/ps5_server/ps5upload/v7.0.8/ps5upload_v7.0.8.elf",
-            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-            "version": "ps5upload",
-            "checksum": "085d27825a78bb2066c334506791e2a85e12240c0710db1e649e4bf15f8f4aa4"
+            "name": "Ps5Upload V7.1.0",
+            "filename": "ps5upload_v7.1.0.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.0/ps5upload_v7.1.0.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v7.1.0/ps5upload_v7.1.0.elf",
+            "description": "PS5 Upload server / tool. Port: 9025",
+            "version": "v7.1.0",
+            "category": "PS5 Server",
+            "checksum": "f16a99904f194f96a592cc29206843f3641a46ad7df96fabd4cc9851cd8c1d37"
         },
         {
             "name": "Airpsx V0.19",
@@ -511,16 +512,6 @@
             "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
         },
         {
-            "name": "Nuvio-Ps5 V1.8.0",
-            "filename": "Nuvio-PS5_v1.8.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.8.0/Nuvio-PS5_v1.8.0.elf",
-            "local_path": "payloads/ps5_video_player/Nuvio-PS5/v1.8.0/Nuvio-PS5_v1.8.0.elf",
-            "description": "Nuvio, at home on the PlayStation 5",
-            "version": "v1.8.0",
-            "category": "PS5 Video Player",
-            "checksum": "2c4812fdf411116652db756a5bd563cb4934f9df76373f59bdba3ff25a79cc3b"
-        },
-        {
             "name": "Pkg-Manager V1.5.1",
             "filename": "pkg-manager_v1.5.1.elf",
             "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.1/pkg-manager_v1.5.1.elf",
@@ -698,7 +689,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "8bb8f5056cc44aac54fc1a19f7679e177c418895932747ffe9b0bf91a8e70189"
+            "checksum": "0e46a33f9e78c20a204a1abf4053fec844c4a073e7d2d10928f6ccecf8cd1b03"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
@@ -1185,6 +1176,15 @@
             "description": "Récupéré depuis le stockage local (Interne / Fallback)",
             "version": "ps5-web-file-manager",
             "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
+        },
+        {
+            "name": "Nuvio-Ps5 V1.8.0",
+            "filename": "Nuvio-PS5_v1.8.0.elf",
+            "url": "",
+            "local_path": "payloads/ps5_video_player/Nuvio-PS5/v1.8.0/Nuvio-PS5_v1.8.0.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "Nuvio-PS5",
+            "checksum": "2c4812fdf411116652db756a5bd563cb4934f9df76373f59bdba3ff25a79cc3b"
         },
         {
             "name": "Ps5Library-Agent-0.2.70",

@@ -40,16 +40,6 @@
       "version": "2.1",
       "category": "PS5 Video Player",
       "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
-    },
-    {
-      "name": "Nuvio-Ps5 V1.8.0",
-      "filename": "Nuvio-PS5_v1.8.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.8.0/Nuvio-PS5_v1.8.0.elf",
-      "local_path": "payloads/ps5_video_player/Nuvio-PS5/v1.8.0/Nuvio-PS5_v1.8.0.elf",
-      "description": "Nuvio, at home on the PlayStation 5",
-      "version": "v1.8.0",
-      "category": "PS5 Video Player",
-      "checksum": "2c4812fdf411116652db756a5bd563cb4934f9df76373f59bdba3ff25a79cc3b"
     }
   ]
 }

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.17-2019)
+### 🚀 Synthèse de la mise à jour (v2026.10.18-0325)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -51,7 +51,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v7.0.8.elf`
+  * `ps5upload_v7.1.0.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -71,7 +71,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ProsperoPlayer_v1.0.elf`
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
-  * `Nuvio-PS5_v1.8.0.elf`
   * `pkg-manager_v1.5.1.elf`
   * `pkg-receiver_v1.2.9.elf`
   * `etaHEN_v2.5B.bin`
@@ -139,6 +138,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.10.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
+  * `Nuvio-PS5_v1.8.0.elf`
   * `ps5library-agent-0.2.70.elf`
   * `ps5library-agent-0.2.55.elf`
   * `Spectrum-Library_v1.4.8.elf`

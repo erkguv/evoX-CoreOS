@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.0.8</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ps5upload</pubDate>
+      <title>[Payloads] Ps5Upload V7.1.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.0/ps5upload_v7.1.0.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025</description>
+      <pubDate>v7.1.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -309,12 +309,6 @@
       <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf</link>
       <description>All-in-one media hub for jailbroken PlayStation 5</description>
       <pubDate>2.1</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Nuvio-Ps5 V1.8.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/Nuvio-PS5/v1.8.0/Nuvio-PS5_v1.8.0.elf</link>
-      <description>Nuvio, at home on the PlayStation 5</description>
-      <pubDate>v1.8.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Pkg-Manager V1.5.1</title>
@@ -717,6 +711,12 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Nuvio-Ps5 V1.8.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>Nuvio-PS5</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5Library-Agent-0.2.70</title>

@@ -3,6 +3,52 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32904",
+      "title": "Madden NFL 27",
+      "createdAt": "2026-10-17T23:03:50.221Z",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA32904, v01.007, USA, 4.xx BackPort\nSize: 162GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/seDxET6b#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/seDxET6b#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/seDxET6b#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/seDxET6b#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/dsJ0qDAg#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/dsJ0qDAg#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/dsJ0qDAg#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/dsJ0qDAg#FileKeeper"
+        }
+      ],
+      "sizeBytes": 173946175488
+    },
+    {
       "titleId": "PPSA28183",
       "title": "Assassins Creed Black Flag Resynced Deluxe Edition",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -2912,7 +2958,7 @@
       "createdAt": "2026-10-16T21:48:35.923Z",
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_Unleashed_Recompiled.jpg",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Sonic_Unleashed_Recompiled.jpg",
       "description": "Builds: Dump, Fpkg\nTags: PPSA99902, v01.003, USA, 4.xx and beyond\nSize: 9GB\nCredits: Files: Nazky\nHow to play: FPKG atm is only working up to 11.60, use exFAT / Dump if you are above. Saves has been fixed, use ShadowMountPlus 1.7beta4+ for FPKG / exFAT.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
@@ -13988,7 +14034,7 @@
       "createdAt": "2026-10-16T21:48:35.923Z",
       "version": "v01.007",
       "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ed_0_Zombie_Uprising.avif",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Ed_0_Zombie_Uprising.avif",
       "description": "Tags: PPSA22711, v01.007, JPN, 4.xx BackPort\nSize: 16GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
