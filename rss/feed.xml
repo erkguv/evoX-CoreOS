@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.1.5</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.5/ps5upload_v7.1.5.elf</link>
+      <title>[Payloads] Ps5Upload V7.1.8</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.8/ps5upload_v7.1.8.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.1.5</pubDate>
+      <pubDate>v7.1.8</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -335,10 +335,10 @@
       <pubDate>v0.1.5-915a65e</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pldmgr V0.6.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.1/pldmgr_v0.6.1.elf</link>
+      <title>[Payloads] Pldmgr V0.6.2</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.2/pldmgr_v0.6.2.elf</link>
       <description>Interface d</description>
-      <pubDate>v0.6.1</pubDate>
+      <pubDate>v0.6.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Kura V1.6.50</title>
@@ -839,10 +839,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Fichiers FFPFSC] Evoplayer-V0.12.0-Ppsa99039</title>
-      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.0/EVOPlayer-v0.12.0-PPSA99039.ffpfsc</link>
+      <title>[Fichiers FFPFSC] Evoplayer-V0.12.5-Ppsa99039</title>
+      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.5/EVOPlayer-v0.12.5-PPSA99039.ffpfsc</link>
       <description>A media player for jailbroken PS5</description>
-      <pubDate>v0.12.0</pubDate>
+      <pubDate>v0.12.5</pubDate>
     </item>
     <item>
       <title>[Fichiers FFPFSC] Prospero Radio</title>

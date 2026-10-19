@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/10/2026 à 12:27
+* **PAYLOADS**
+  * `Ps5Upload V7.1.8` (v7.1.8) - *Nouveau*
+  * `Pldmgr V0.6.2` (v0.6.2) - *Nouveau*
+* **FFPFSC**
+  * `Evoplayer-V0.12.5-Ppsa99039` (v0.12.5) - *Nouveau*
+
 ## Build du 19/10/2026 à 03:40
 * **PAYLOADS**
   * `Ps5Upload V7.1.5` (v7.1.5) - *Nouveau*

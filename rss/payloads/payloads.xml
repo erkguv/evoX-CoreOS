@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>Ps5Upload V7.1.5</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.5/ps5upload_v7.1.5.elf</link>
+      <title>Ps5Upload V7.1.8</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.8/ps5upload_v7.1.8.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.1.5</pubDate>
+      <pubDate>v7.1.8</pubDate>
     </item>
     <item>
       <title>Airpsx V0.19</title>
@@ -335,10 +335,10 @@
       <pubDate>v0.1.5-915a65e</pubDate>
     </item>
     <item>
-      <title>Pldmgr V0.6.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.1/pldmgr_v0.6.1.elf</link>
+      <title>Pldmgr V0.6.2</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.2/pldmgr_v0.6.2.elf</link>
       <description>Interface d</description>
-      <pubDate>v0.6.1</pubDate>
+      <pubDate>v0.6.2</pubDate>
     </item>
     <item>
       <title>Kura V1.6.50</title>

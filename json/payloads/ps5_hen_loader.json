@@ -22,14 +22,14 @@
       "checksum": "c8e36ea06cfd37c5fad356ff9fcd09d3e62065d88170b5119ce8f1eeb3efacac"
     },
     {
-      "name": "Pldmgr V0.6.1",
-      "filename": "pldmgr_v0.6.1.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.1/pldmgr_v0.6.1.elf",
-      "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.1/pldmgr_v0.6.1.elf",
+      "name": "Pldmgr V0.6.2",
+      "filename": "pldmgr_v0.6.2.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.2/pldmgr_v0.6.2.elf",
+      "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.2/pldmgr_v0.6.2.elf",
       "description": "Interface d",
-      "version": "v0.6.1",
+      "version": "v0.6.2",
       "category": "PS5 HEN Loader",
-      "checksum": "5165cbe4c13360828bd0f5d558cdbb9e2d55b0660b1dc7f7a58d3f4ee9e23285"
+      "checksum": "0cd5e0cc89ca4db6586dc1ff6f335caa4e33b50951c0ef86f5d1ea971f34e9c5"
     },
     {
       "name": "Kura V1.6.50",
