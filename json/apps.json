@@ -4,7 +4,7 @@
     {
       "name": "Ppsa99004",
       "filename": "PPSA99004.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
+      "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
       "local_path": "apps/ProsperoAI/01.006.000/PPSA99004.zip",
       "description": "Private, local generative AI for PlayStation 5 homebrew",
       "version": "01.006.000",
@@ -74,11 +74,11 @@
     {
       "name": "Ppsa99000",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.090/PPSA99000.zip",
-      "local_path": "apps/ProsperoStore/v1.000.090/PPSA99000.zip",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.101/PPSA99000.zip",
+      "local_path": "apps/ProsperoStore/v1.000.101/PPSA99000.zip",
       "description": "homebrew store",
-      "version": "v1.000.090",
-      "checksum": "1190d39089a67f054f0430ffc939689443f004737656a9f65cccf6d3e9f08bb5",
+      "version": "v1.000.101",
+      "checksum": "94ae4a33018e6d0b26fce53fb4067360622e4f06681df98c3b341dee4b016221",
       "category": "Applications"
     },
     {
