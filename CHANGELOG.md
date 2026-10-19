@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/10/2026 à 22:11
+* **PAYLOADS**
+  * `Web-File-Mgr-V1.11B` (v1.11b) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.11b) - *Mise à jour (Précédent: v1.11)*
+  * `Ps5Upload V7.1.9` (v7.1.9) - *Nouveau*
+  * `Pldmgr V0.6.3` (v0.6.3) - *Nouveau*
+  * `Web-File-Mgr-V1.11` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.11)*
+
 ## Build du 19/10/2026 à 12:27
 * **PAYLOADS**
   * `Ps5Upload V7.1.8` (v7.1.8) - *Nouveau*

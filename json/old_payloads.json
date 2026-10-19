@@ -82,22 +82,22 @@
             "checksum": "e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed"
         },
         {
-            "name": "Web-File-Mgr-V1.11",
-            "filename": "web-file-mgr-v1.11.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/web-file-mgr-v1.11.elf",
-            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/web-file-mgr-v1.11.elf",
+            "name": "Web-File-Mgr-V1.11B",
+            "filename": "web-file-mgr-v1.11b.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/web-file-mgr-v1.11b.elf",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/web-file-mgr-v1.11b.elf",
             "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-            "version": "v1.11",
+            "version": "v1.11b",
             "category": "PS5 File Explorer",
-            "checksum": "cbcdacf69c331025e1643fc99f5b5fc117125e7c39931b6dd914323412558911"
+            "checksum": "989f26d292d07a35581a2ee36766fc477fc2f5deedb2a9d0cedae5ee19667eba"
         },
         {
             "name": "Wfm-7Zip-Helper",
             "filename": "wfm-7zip-helper.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/wfm-7zip-helper.elf",
-            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/wfm-7zip-helper.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf",
             "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-            "version": "v1.11",
+            "version": "v1.11b",
             "category": "PS5 File Explorer",
             "checksum": "dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4"
         },
@@ -312,14 +312,14 @@
             "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
         },
         {
-            "name": "Ps5Upload V7.1.8",
-            "filename": "ps5upload_v7.1.8.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.8/ps5upload_v7.1.8.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v7.1.8/ps5upload_v7.1.8.elf",
+            "name": "Ps5Upload V7.1.9",
+            "filename": "ps5upload_v7.1.9.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.9/ps5upload_v7.1.9.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v7.1.9/ps5upload_v7.1.9.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v7.1.8",
+            "version": "v7.1.9",
             "category": "PS5 Server",
-            "checksum": "2e7b45ca91a2aa0b3fb8f6f1478d77d925e6479ec83842f3971543b35d9bfa5f"
+            "checksum": "a9674bd22737688783c1857817d032ddf2fd5ca4e750eea17175428556271141"
         },
         {
             "name": "Airpsx V0.19",
@@ -552,14 +552,14 @@
             "checksum": "c8e36ea06cfd37c5fad356ff9fcd09d3e62065d88170b5119ce8f1eeb3efacac"
         },
         {
-            "name": "Pldmgr V0.6.2",
-            "filename": "pldmgr_v0.6.2.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.2/pldmgr_v0.6.2.elf",
-            "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.2/pldmgr_v0.6.2.elf",
+            "name": "Pldmgr V0.6.3",
+            "filename": "pldmgr_v0.6.3.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.3/pldmgr_v0.6.3.elf",
+            "local_path": "payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.3/pldmgr_v0.6.3.elf",
             "description": "Interface d",
-            "version": "v0.6.2",
+            "version": "v0.6.3",
             "category": "PS5 HEN Loader",
-            "checksum": "0cd5e0cc89ca4db6586dc1ff6f335caa4e33b50951c0ef86f5d1ea971f34e9c5"
+            "checksum": "2a42054fd9725e1d9595ff4add95abc30e5b49446fcdcb96c06775a376a841c4"
         },
         {
             "name": "Kura V1.6.50",
@@ -689,7 +689,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "bcce59b11efe1c8f7ec5a98f0a38b33e9a195b6bbf5b6ffe003351e21bb236c3"
+            "checksum": "6f8d4883cc3da54375ba280322397667b5bf8a0157a822fb96e4bd9ee5968988"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
@@ -1176,6 +1176,15 @@
             "description": "Récupéré depuis le stockage local (Interne / Fallback)",
             "version": "ps5-web-file-manager",
             "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
+        },
+        {
+            "name": "Web-File-Mgr-V1.11",
+            "filename": "web-file-mgr-v1.11.elf",
+            "url": "",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/web-file-mgr-v1.11.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "ps5-web-file-manager",
+            "checksum": "cbcdacf69c331025e1643fc99f5b5fc117125e7c39931b6dd914323412558911"
         },
         {
             "name": "Nuvio-Ps5 V1.8.0",

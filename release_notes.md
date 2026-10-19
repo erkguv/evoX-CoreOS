@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.19-1227)
+### 🚀 Synthèse de la mise à jour (v2026.10.19-2211)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -28,7 +28,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-overlay-kus_v1.0.19.elf`
   * `BFpilot_v0.4.4.elf`
   * `lapy_jb_daemon.elf`
-  * `web-file-mgr-v1.11.elf`
+  * `web-file-mgr-v1.11b.elf`
   * `wfm-7zip-helper.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
@@ -51,7 +51,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v7.1.8.elf`
+  * `ps5upload_v7.1.9.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -75,7 +75,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `pkg-receiver_v1.2.9.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
-  * `pldmgr_v0.6.2.elf`
+  * `pldmgr_v0.6.3.elf`
   * `Kura_v1.6.50.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.9.0.elf`
@@ -138,6 +138,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.10.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
+  * `web-file-mgr-v1.11.elf`
   * `Nuvio-PS5_v1.8.0.elf`
   * `ps5library-agent-0.2.70.elf`
   * `ps5library-agent-0.2.55.elf`

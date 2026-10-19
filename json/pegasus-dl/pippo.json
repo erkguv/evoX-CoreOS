@@ -3,6 +3,60 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei Complete Edition",
+      "createdAt": "2026-10-19T21:49:50.367Z",
+      "version": "v02.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA26344, v02.002, USA, 4.xx BackPort\nSize: 204GB\nCredits: Files: prey33 for Additional Langs &amp; DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/wgU42btT#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/wgU42btT#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/1XO_gxwr#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/1XO_gxwr#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/1XO_gxwr#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/1XO_gxwr#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/NhDz6mfT#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/NhDz6mfT#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/NhDz6mfT#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/NhDz6mfT#FileKeeper"
+        }
+      ],
+      "sizeBytes": 219043332096
+    },
+    {
       "titleId": "PPSA36591",
       "title": "STEINSGATE REBOOT",
       "createdAt": "2026-10-18T17:21:47.554Z",
@@ -6795,7 +6849,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/fkyAEGMueFssDbC4XQpITu6q.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/fkyAEGMueFssDbC4XQpITu6q.png",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. If not launch set 1 Year back on Console Settings.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -6984,72 +7038,6 @@
         }
       ],
       "sizeBytes": 91268055040
-    },
-    {
-      "titleId": "PPSA26344",
-      "title": "Ghost of Yotei Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.512",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/dkD3Ywxv9GLQ/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/rbMzpauz0C"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/vwf1tzmn7bsr"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/uazmc720gt1o"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/h7hzl4yqjvnp"
-        },
-        {
-          "name": "DLC - VikingFile",
-          "url": "https://vikingfile.com/f/EazyG0VS2X"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/etgkojb4u8r0"
-        },
-        {
-          "name": "DLC - Vault",
-          "url": "https://datavaults.co/hm7d2xooa1dt"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/BnkmWv2VrGR0/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/XOAWo7gde1"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/oevld7n1hwst"
-        },
-        {
-          "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/fly8wj43nv37"
-        },
-        {
-          "name": "Fpkg - Vault",
-          "url": "https://datavaults.co/45th7979bo20"
-        }
-      ],
-      "sizeBytes": 201863462912
     },
     {
       "titleId": "PPSA23226",
