@@ -3,6 +3,65 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03446",
+      "title": "Pumpkin Jack",
+      "createdAt": "2026-10-20T12:41:20.185Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03446_1bc3390fb30e7a0c0b9557c6865087769b5d6731f96f82ea9e8e9d4ff47a6bca/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 2.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/pumpkin-jack-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 2.xx Base - Akirabox",
+          "url": "https://akirabox.to/E1x3Ax58Xmyk/file"
+        },
+        {
+          "name": "USA 2.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/YK4cy"
+        },
+        {
+          "name": "USA 2.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/2NE60ireae"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA26362",
+      "title": "TERRIFIER The ArtCade Game",
+      "createdAt": "2026-10-20T12:41:20.185Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0209/24a04dd6b0d6f14ce227d67afbd7444fea6e13ad631c860c.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0209/24a04dd6b0d6f14ce227d67afbd7444fea6e13ad631c860c.png",
+      "description": "Variant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/terrifier-the-artcade-game-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/rk9zKdMDyG0l/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/UIDlQ"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/VMDSDB67Eq"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZvj7oman/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1l0JOK"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/H7BgzlbDy2"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA23066",
       "title": "Biped 2",
       "createdAt": "2026-10-18T21:02:15.903Z",
@@ -1005,6 +1064,70 @@
       ]
     },
     {
+      "titleId": "PPSA31291",
+      "title": "TEKKEN 3",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0208/f832ce6011c9e2abd9b23e1e2ef90c7f8b93524280fc4dd8.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0208/f832ce6011c9e2abd9b23e1e2ef90c7f8b93524280fc4dd8.png",
+      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/tekken-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/obj3jkoZ1zDx/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/3t8QS"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/SWLjEoC0F5"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31371",
+      "title": "TEKKEN DARK RESURRECTION",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0404/cec873df23665ab9d2102de16ef6aaddefa60c4a60314775.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0404/cec873df23665ab9d2102de16ef6aaddefa60c4a60314775.png",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000.002\nRegion: USA\nRelease note: exFAT format — FW 01.000.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/tekken-dark-resurrection-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/l5YzMex8WzyO/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1Ypfvc"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/pKfCofVsG3"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoid3IrV2lvcHFQWVFTUDkzQ0gwZ3c0M0hPdnRBS0wrU3lmWXhtWWIxblJXdlgweXpLeEx2VGN1MGRHSE44Q2JLcHMrMzlDSUtVTkN6Qi8vOWtaWUVNQ1BVbCt3R2ZhQ01ObWlWbmJzQlNnUT09IiwiaSI6Ik0vK0tIK2FaeDZ1ZzNCV3ciLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiT3RXYzNkWmFMZmpYU3pBMkhpR1BXM1N3Y2hNTXl4Yk5WNWxjYmZSZlA3MGlwaGxaK3h0T3EzaHl1TG1tWExpbjhJQWxhME1MWXFuSS9waFJESkRCU3ZnV3ZPZ1VHVU5tYlRPWitmcllYWms9IiwiaSI6ImxRc0JTUGZjd0JLeWpmL0oiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMUNwemFWcm9tQnpSSnVQUWJyS01mek1FZ2lodHBYOEdDL25Xc2JvczJKaXE3VEsrb0ZlcFY0cXVUTjhDSW5XWWVFVmtjTUxxcnFmdXI4QVF3RncwNGVjdllZcDF2UHhiOXdwc0liSmEiLCJpIjoiRDE3c0x3dGVxVXl1Q0V3dSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOXBSTElrTHpKOXZON2dLd3ZWYUV2aUxFdWJDWXVnUVZyVjhvdVJoc1R5cHZONzZ2dXdRMjVXYWUybmVtYW85c1N2Ri9xbVNqTTZUWlNwRDJpeWNobGROMmxuanp6YW1xSGpUUEo0Y2djNEU9IiwiaSI6ImNwam5CdFBocnZUYUtTOU4iLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA31372",
       "title": "RIDGE RACER",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -1745,70 +1868,6 @@
         {
           "name": "ASIA 4.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/qvQSENx7UR"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA31291",
-      "title": "TEKKEN 3",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0208/f832ce6011c9e2abd9b23e1e2ef90c7f8b93524280fc4dd8.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0208/f832ce6011c9e2abd9b23e1e2ef90c7f8b93524280fc4dd8.png",
-      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/tekken-3-ps5/",
-      "downloadLinks": [
-        {
-          "name": "USA 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/obj3jkoZ1zDx/file"
-        },
-        {
-          "name": "USA 4.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/3t8QS"
-        },
-        {
-          "name": "USA 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/SWLjEoC0F5"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA31371",
-      "title": "TEKKEN DARK RESURRECTION",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0404/cec873df23665ab9d2102de16ef6aaddefa60c4a60314775.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0404/cec873df23665ab9d2102de16ef6aaddefa60c4a60314775.png",
-      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000.002\nRegion: USA\nRelease note: exFAT format — FW 01.000.002 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/tekken-dark-resurrection-ps5/",
-      "downloadLinks": [
-        {
-          "name": "USA 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/l5YzMex8WzyO/file"
-        },
-        {
-          "name": "USA 4.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1Ypfvc"
-        },
-        {
-          "name": "USA 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/pKfCofVsG3"
-        },
-        {
-          "name": "USA exFAT 01.000.002 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoid3IrV2lvcHFQWVFTUDkzQ0gwZ3c0M0hPdnRBS0wrU3lmWXhtWWIxblJXdlgweXpLeEx2VGN1MGRHSE44Q2JLcHMrMzlDSUtVTkN6Qi8vOWtaWUVNQ1BVbCt3R2ZhQ01ObWlWbmJzQlNnUT09IiwiaSI6Ik0vK0tIK2FaeDZ1ZzNCV3ciLCJuIjoiRGF0YSJ9"
-        },
-        {
-          "name": "USA exFAT 01.000.002 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiT3RXYzNkWmFMZmpYU3pBMkhpR1BXM1N3Y2hNTXl4Yk5WNWxjYmZSZlA3MGlwaGxaK3h0T3EzaHl1TG1tWExpbjhJQWxhME1MWXFuSS9waFJESkRCU3ZnV3ZPZ1VHVU5tYlRPWitmcllYWms9IiwiaSI6ImxRc0JTUGZjd0JLeWpmL0oiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.000.002 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMUNwemFWcm9tQnpSSnVQUWJyS01mek1FZ2lodHBYOEdDL25Xc2JvczJKaXE3VEsrb0ZlcFY0cXVUTjhDSW5XWWVFVmtjTUxxcnFmdXI4QVF3RncwNGVjdllZcDF2UHhiOXdwc0liSmEiLCJpIjoiRDE3c0x3dGVxVXl1Q0V3dSIsIm4iOiJBa2lhIn0="
-        },
-        {
-          "name": "USA exFAT 01.000.002 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOXBSTElrTHpKOXZON2dLd3ZWYUV2aUxFdWJDWXVnUVZyVjhvdVJoc1R5cHZONzZ2dXdRMjVXYWUybmVtYW85c1N2Ri9xbVNqTTZUWlNwRDJpeWNobGROMmxuanp6YW1xSGpUUEo0Y2djNEU9IiwiaSI6ImNwam5CdFBocnZUYUtTOU4iLCJuIjoiVmlraSJ9"
         }
       ]
     },
