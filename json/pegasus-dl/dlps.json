@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA07656",
+      "title": "The Grinch Christmas Adventures",
+      "createdAt": "2026-10-20T20:48:53.774Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1512/055160f23baa1fce8ae497a5892f329a2be5f1edac6af35f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1512/055160f23baa1fce8ae497a5892f329a2be5f1edac6af35f.png",
+      "description": "Region: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/the-grinch-christmas-adventures-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/Y2xm0XY4qmRO/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/HWI6q"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/lpOp4KJ23a"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA03446",
       "title": "Pumpkin Jack",
       "createdAt": "2026-10-20T12:41:20.185Z",

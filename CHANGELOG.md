@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/10/2026 à 21:26
+* **PAYLOADS**
+  * `Ps5Upload V7.1.9` (ps5upload) - *Mise à jour (Précédent: v7.1.9)*
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Snes9Xps5 V2.7` (v2.7) - *Nouveau*
+* **APPS**
+  * `Ppsa99000` (v1.000.104) - *Mise à jour (Précédent: v1.000.103)*
+
 ## Build du 20/10/2026 à 16:33
 * **PAYLOADS**
   * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
