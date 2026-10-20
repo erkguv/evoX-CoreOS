@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/10/2026 à 03:48
+* **PAYLOADS**
+  * `Ps5-Ezremote-Server V1.13` (1.13) - *Nouveau*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+* **APPS**
+  * `Ppsa99000` (v1.000.102) - *Mise à jour (Précédent: v1.000.101)*
+
 ## Build du 19/10/2026 à 22:11
 * **PAYLOADS**
   * `Web-File-Mgr-V1.11B` (v1.11b) - *Nouveau*

@@ -3,6 +3,40 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32793",
+      "title": "Valor Mortis",
+      "createdAt": "2026-10-20T03:32:48.930Z",
+      "version": "01.00",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/96fbe904b245c74b7cbd85f2ed33c1b3d2e60186ce56b51a.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/96fbe904b245c74b7cbd85f2ed33c1b3d2e60186ce56b51a.png",
+      "description": "You served Napoleon. You died for Napoleon. You have risen for Napoleon. You are William, a soldier of the Grande Armée brought back from a battlefield grave. But the Europe you awaken to is not the one you sacrificed for. A mysterious plague now sweeps the continent, and you have been reborn with its corrupting power pulsing through your veins. HARNESS CORRUPTED POWER Each death is a chance to grow stronger. Master a combat system of parries, dashes, and visceral finishers across a variety of weapons. Channel your power to enhance attacks and unlock new supernatural abilities to inflict upon your enemies. SECRETS LITTER THE BATTLEFIELD Navigate a 19th-century alternate history where the costs of endless war have corrupted the landscape. Use your newfound mobility to outmaneuver the plague-ridden abominations of Napoleon’s Eternal Guard and uncover environmental secrets that may increase your chances of survival. UNCOVER A HORRID CONSPIRACY Witness a compelling story where historical figures and realities intertwine with elements of horror and the supernatural. Explore beyond the dark corners of the world to discover the truth behind the plague and your unholy resurrection.\nRegion: EUR\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-20T03:31:34.638Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/DVzQ48pfQo"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA32793",
+      "title": "Valor Mortis",
+      "createdAt": "2026-10-20T03:32:48.930Z",
+      "version": "01.00",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/96fbe904b245c74b7cbd85f2ed33c1b3d2e60186ce56b51a.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1815/96fbe904b245c74b7cbd85f2ed33c1b3d2e60186ce56b51a.png",
+      "description": "You served Napoleon. You died for Napoleon. You have risen for Napoleon. You are William, a soldier of the Grande Armée brought back from a battlefield grave. But the Europe you awaken to is not the one you sacrificed for. A mysterious plague now sweeps the continent, and you have been reborn with its corrupting power pulsing through your veins. HARNESS CORRUPTED POWER Each death is a chance to grow stronger. Master a combat system of parries, dashes, and visceral finishers across a variety of weapons. Channel your power to enhance attacks and unlock new supernatural abilities to inflict upon your enemies. SECRETS LITTER THE BATTLEFIELD Navigate a 19th-century alternate history where the costs of endless war have corrupted the landscape. Use your newfound mobility to outmaneuver the plague-ridden abominations of Napoleon’s Eternal Guard and uncover environmental secrets that may increase your chances of survival. UNCOVER A HORRID CONSPIRACY Witness a compelling story where historical figures and realities intertwine with elements of horror and the supernatural. Explore beyond the dark corners of the world to discover the truth behind the plague and your unholy resurrection.\nRegion: EUR\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-20T03:31:15.123Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/DVzQ48pfQo"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA33655",
       "title": "BLUE REFLECTION Quartet",
       "createdAt": "2026-10-19T17:22:46.761Z",
