@@ -3,6 +3,24 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03845",
+      "title": "Dead Space",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.00",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2113/ZqpcW1r97RADDwHsYz2q2VaK.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2113/ZqpcW1r97RADDwHsYz2q2VaK.png",
+      "description": "Isaac Clarke is an everyman engineer on a mission to repair a vast Planet Cracker-class ship, the USG Ishimura, only to discover something has gone horribly wrong. The ship’s crew has been slaughtered and Isaac’s beloved partner, Nicole, is lost somewhere on board. Now alone and armed with only his engineering tools and skills, Isaac races to uncover the nightmarish mystery of what happened aboard the Ishimura in hopes of finding Nicole. Trapped with hostile creatures called Necromorphs, Isaac faces a battle for survival, not only against the escalating terrors of the ship but his own crumbling sanity.\nRegion: USA\nFirmware: 5.xx+\nCredits: Oussama\nUpdated: 2026-10-20T04:03:15.211Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/tn7zKNLW4E"
+        }
+      ],
+      "sizeBytes": 31138512896
+    },
+    {
       "titleId": "PPSA32793",
       "title": "Valor Mortis",
       "createdAt": "2026-10-20T03:32:48.930Z",
@@ -17,7 +35,8 @@
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/DVzQ48pfQo"
         }
-      ]
+      ],
+      "sizeBytes": 36410585252
     },
     {
       "titleId": "PPSA32793",
@@ -34,7 +53,8 @@
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/DVzQ48pfQo"
         }
-      ]
+      ],
+      "sizeBytes": 36507222016
     },
     {
       "titleId": "PPSA33655",
@@ -89,6 +109,24 @@
         }
       ],
       "sizeBytes": 17179869184
+    },
+    {
+      "titleId": "PPSA33802",
+      "title": "My Little Puppy",
+      "createdAt": "2026-10-20T10:39:49.644Z",
+      "version": "02.010",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3012/a0c112aab3aa09d8f36e34b2efd0eb17ac5490d76c9b8e19.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/3012/a0c112aab3aa09d8f36e34b2efd0eb17ac5490d76c9b8e19.png",
+      "description": "Region: USA\nFirmware: 4.xx+\nUpdated: 2026-10-19T16:50:34.405Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/HGEIlkhc5Z"
+        }
+      ],
+      "sizeBytes": 6442450944
     },
     {
       "titleId": "PPSA19450",
@@ -3869,13 +3907,13 @@
       "sizeBytes": 52570399703
     },
     {
-      "titleId": "PPSA28420",
+      "titleId": "PPSA02182",
       "title": "Suicide Squad Kill The Justice League",
-      "createdAt": "2026-10-16T21:48:35.923Z",
+      "createdAt": "2026-10-20T10:39:49.644Z",
       "version": "01.024",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2509/ec1eec85d9130210701491db769cb9874cc09f6512ebca20.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2509/ec1eec85d9130210701491db769cb9874cc09f6512ebca20.png",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1017/927b473e6de3d838b418fddb52f9efb13f19cf4ee8c8dfed.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1017/927b473e6de3d838b418fddb52f9efb13f19cf4ee8c8dfed.png",
       "description": "From Rocksteady Studios, the creators of the Batman: Arkham series, Suicide Squad: Kill the Justice League is a genre-defying third-person action shooter where the ultimate band of misfits must do the impossible to save the world: Kill the Justice League. Join the newly “recruited” members of Amanda Waller’s infamous Task Force X (aka the Suicide Squad), Harley Quinn, Deadshot, Captain Boomerang and King Shark, as they set out on an impossible mission to Kill the Justice League. Drop into an expansive and dynamic open-world Metropolis ravaged by Brainiac’s invasion and terrorized by the heroes who once protected it. Each Squad member brings their own traversal mechanics to help them navigate a sprawling and battle-torn Metropolis, combining free-roaming exploration and combat verticality for an unforgettable experience. Players are free to experiment with a variety of different play styles to unleash maximum damage on their enemies. Whether in single player or online with up to three of your friends, players can take on this suicide mission their own way. Post-launch, players can expect a continuously evolving Metropolis with free new playable villains, environments, weapons, in-game events, and more, all included with purchase of the base game.\nRegion: USA\nFirmware: 4.xx+, 9.xx+\nUpdated: 2026-09-28T15:26:52.984Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "downloadLinks": [
@@ -7893,13 +7931,13 @@
       "sizeBytes": 93351114179
     },
     {
-      "titleId": "PPSA07274",
+      "titleId": "PPSA02745",
       "title": "Tales of Arise",
-      "createdAt": "2026-10-16T21:48:35.923Z",
+      "createdAt": "2026-10-20T10:39:49.644Z",
       "version": "1.04",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0406/ZZoITPgweyzRiJrYF1AvCJDS.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0406/ZZoITPgweyzRiJrYF1AvCJDS.png",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/AEsEfC42YwowOdvJ1GXZqhhS.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/AEsEfC42YwowOdvJ1GXZqhhS.png",
       "description": "For 300 years, Rena has ruled over Dahna, pillaging the planet of its resources and stripping people of their dignity and freedom. Our tale begins with two people, born on different worlds, each looking to change their fate and create a new future. Featuring a diverse cast of characters, intuitive and rewarding combat system, and a captivating story set in a lush world worth fighting for, Tales of Arise delivers a first-class JRPG experience. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: EUR\nFirmware: 1.xx+\nUpdated: 2026-09-17T00:06:03.811Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "downloadLinks": [

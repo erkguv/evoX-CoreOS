@@ -22,16 +22,6 @@
       "checksum": "e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed"
     },
     {
-      "name": "Wfm-7Zip-Helper",
-      "filename": "wfm-7zip-helper.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf",
-      "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.11b",
-      "category": "PS5 File Explorer",
-      "checksum": "dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4"
-    },
-    {
       "name": "Web-File-Mgr-V1.11B",
       "filename": "web-file-mgr-v1.11b.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/web-file-mgr-v1.11b.elf",
@@ -42,6 +32,16 @@
       "checksum": "989f26d292d07a35581a2ee36766fc477fc2f5deedb2a9d0cedae5ee19667eba"
     },
     {
+      "name": "Wfm-7Zip-Helper",
+      "filename": "wfm-7zip-helper.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf",
+      "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
+      "version": "v1.11b",
+      "category": "PS5 File Explorer",
+      "checksum": "dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4"
+    },
+    {
       "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",
       "filename": "PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
@@ -49,7 +49,7 @@
       "description": "PS5 File Explorer http://your-ps5-ip:5905.",
       "version": "file-explorer-v0.2.1",
       "category": "PS5 File Explorer",
-      "checksum": "1013c23b12980e1bc97decc150c8cd5abc8447dc03cf86dbd106266dd000a6e1"
+      "checksum": "6d4b905b42727dddeaedddb2a657ed0d4e7110ddd068a6daab0aafb2ba32604b"
     }
   ]
 }

@@ -32,14 +32,14 @@
       "checksum": "a86c3e69ed38656310b41af4f9221bdb2264ff4daf93fb4c2515fd54a216b701"
     },
     {
-      "name": "Ps5-Self-Pager-Shellcore",
-      "filename": "ps5-self-pager-shellcore.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf",
-      "local_path": "payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf",
+      "name": "Ps5-Self-Pager-Game",
+      "filename": "ps5-self-pager-game.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-game.elf",
+      "local_path": "payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-game.elf",
       "description": "SELF pager payload tool.",
       "version": "v1.2",
       "category": "PS5 Sdk Debug",
-      "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b"
+      "checksum": "73d94fea5de9086cac26385c117a0b3098890c447d67536877fb7b51c9145aac"
     },
     {
       "name": "Ps5-Self-Pager-Full-System",
@@ -52,24 +52,24 @@
       "checksum": "fb498d4112611619150281e0c44afbd09f144c09eaca3ab3f5b306b39450d13a"
     },
     {
-      "name": "Ps5-Self-Pager-Game",
-      "filename": "ps5-self-pager-game.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-game.elf",
-      "local_path": "payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-game.elf",
+      "name": "Ps5-Self-Pager-Shellcore",
+      "filename": "ps5-self-pager-shellcore.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf",
+      "local_path": "payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf",
       "description": "SELF pager payload tool.",
       "version": "v1.2",
       "category": "PS5 Sdk Debug",
-      "checksum": "73d94fea5de9086cac26385c117a0b3098890c447d67536877fb7b51c9145aac"
+      "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b"
     },
     {
-      "name": "Ps5-Self-Decrypter-Shellcore",
-      "filename": "ps5-self-decrypter-shellcore.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf",
-      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf",
+      "name": "Ps5-Self-Decrypter-Game",
+      "filename": "ps5-self-decrypter-game.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf",
+      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf",
       "description": "SELF decrypter tool for PS5 binaries.",
       "version": "v0.5.2",
       "category": "PS5 Sdk Debug",
-      "checksum": "15050c691c21c790ae970a1ee99ad3918dd1065fe5512c762fccee6d521c8066"
+      "checksum": "190b350759b4f9d50949325e84d131e0953f37a9df271c329ba43c80c0ac7a57"
     },
     {
       "name": "Ps5-Self-Decrypter-System-Common-Lib",
@@ -82,14 +82,14 @@
       "checksum": "6a16c6457c604db4846632510da0975f49faba08e6cab9cfd7f84d78b4557d97"
     },
     {
-      "name": "Ps5-Self-Decrypter-Game",
-      "filename": "ps5-self-decrypter-game.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf",
-      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf",
+      "name": "Ps5-Self-Decrypter-Shellcore",
+      "filename": "ps5-self-decrypter-shellcore.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf",
+      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf",
       "description": "SELF decrypter tool for PS5 binaries.",
       "version": "v0.5.2",
       "category": "PS5 Sdk Debug",
-      "checksum": "190b350759b4f9d50949325e84d131e0953f37a9df271c329ba43c80c0ac7a57"
+      "checksum": "15050c691c21c790ae970a1ee99ad3918dd1065fe5512c762fccee6d521c8066"
     },
     {
       "name": "Ps5-Self-Decrypter-Full-System",
@@ -129,7 +129,7 @@
       "description": "PS5 payload for collecting hardware and runtime telemetry.",
       "version": "0.1",
       "category": "PS5 Sdk Debug",
-      "checksum": "ad5014112dec619779619d0ea01a984b3c8267fed682eca5687f34c9eade51cb"
+      "checksum": "4514bdbc0c556df1a66544615942d5087d1cbee5c2026b3b66e688ba01e5a5b0"
     }
   ]
 }

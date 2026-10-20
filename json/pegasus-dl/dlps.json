@@ -134650,6 +134650,35 @@
       ]
     },
     {
+      "titleId": "PPSA26344",
+      "title": "[exFAT] Ghost of Yotei Complete Edition",
+      "createdAt": "2026-10-20T06:34:53.247Z",
+      "version": "02.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png",
+      "description": "Region: USA\nRelease note: exFAT format — FW 02.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 02.002 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRWs4NW9kTGNST3pHSnRJSHd5a29oY2xsa2hraUlZYVorWXNuSXRWeXlONndPSXRaV3FyMEJQcEVBUEtwR3RGRzhtcmdrQWdGT2lkdm9uM2d3VEhlSnREWWJpV1RlcWlIbGdoRWZvNy9Tdz09IiwiaSI6Ik5tU3RDeEwvYWdxczBjdFIiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 02.002 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibGpjYlV2WGdVL21qb0l3bGF4YkN6UWVqRk54SDhhdHN3UnRwTzdyWUV6dTBFbDRuYXV5c2grOVdXWWx6aDA4OTNscXFwNUVyQmFVKzJPcUMwcXFTZWc4U2lId0N5TEpocXNnUFgvN0JBWDg9IiwiaSI6IkhGRjhHMFJQRjlTNlJJa0giLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 02.002 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiR3c0ZStsdTIwWlVXRUx6R0wzWi9RWWlaaTV5YnJ0ZDl1d1RuUk1yNnBCL0xucmJpSW1sRVFuSkJsbjAvNGVkdmk1Ny9OY2FOc3BpOGwranNLbzlDTTZDZmNQTTg3eEd6aE9hQjNqQk4iLCJpIjoibUtFMCtmNkZmaThYUGtxcSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 02.002 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWWgyb2VJajhPTnczU0tGTFhERDhFTHFnamU2cmZWR3VlcGtTMVRXbVNybEprVVRyTVN0cUZva1JnVnc1YUgwWEc3VGtkQWJ6WEc1cmJ0N1FWUktqcVBudmhsQTJ0bkVXZmlGc3RrVyszdWs9IiwiaSI6Im0yOFJsYlFDTitidnFENDIiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA07053",
       "title": "[exFAT] Coffee Talk Episode 2 Hibiscus & Butterfly",
       "createdAt": "2026-10-18T21:02:15.903Z",
@@ -135822,39 +135851,6 @@
         {
           "name": "USA exFAT 01.200 BackPort backport - Vault Backport (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3hPTXN3K3Rqd1VwUzRLU1o3S3hka3pjamFQd3JJaGIrMW9Vb0JKZk1tRC9JNWdQd3pKS2lsOTFaMDlyVFdCWmZwaG8yK3lJVlRVbnhKUHJIaDRvcjNaMEhxVTZzUT09IiwiaSI6Im9DVWZORW9VQ3Q0WU9CRWQiLCJuIjoiVmF1bHQifQ=="
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA26344",
-      "title": "[exFAT] Ghost of Yotei Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.512",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.512 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.512 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRUlFYUxlaHYwUDNXajBaNGFRbGRnK0Nzby9KL0YxY2J2Y293dHJGY01TQWpGL1VZNXdBcUtCcXZFQ2daQU40aDVIYytlNE5uWVNhN0lVNTY5VjhVS1RMYTNjakhJZW55ak5nPSIsImkiOiJhWXpWWjVMVjJzTkVpczlCIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA exFAT 01.512 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWFQwSUVOa0lGZGJkclpHRjkvSmZqU2JWamFrYTZvOTFNYUo4N0M5ZGFDdWs3TlBTSzM5S2RCYlZaMGEzVytRQW1nQUVWV2hqMjlmRnJPOG55ZjBJM2NaRnM5MGU5MXc9IiwiaSI6IlA3azNBNlc0T3VvOTJDbGIiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA exFAT 01.512 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibFlsWEE1NHBqMjZjR0dVTzhoRjNzSldpL1BkLzR5bGs5alRXK0xqcGlxVkF4RFJlUTA3NUFST2NURGlFZUxKdkpBdmVEcjBzNllFQkhZaEp3aXVsWVI3R3gzSUYiLCJpIjoiOTViSEp5YWNMa2d4MVczOCIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA exFAT 01.512 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ3VnVGYzTkNYbitZR2tDKy9ZYTgxWjgzVWxOQWhnRHBzOE1GaVdNcWM5aFdFczhSTS9TZElyczdxdmtNWWVpcjY0dzJXNkl0SGQvbmN0QS9xOGZmeVdTK0lPalpHNUk9IiwiaSI6IkRPNkdYM1plZFo5SGRROTEiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.512 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSDZwQVpJbVUweG1taGhaN1ZOK1U2aGQ4QnFsNnZ0MjF6RlBtV0FFTm9tM1BGaGkyYWxQVXNVemdNYU4yZCsxOVN2NXh2V3piTy96WE1UZDJYT1Bjc0ZFRE5VTlJCdz09IiwiaSI6ImY5a2pHSW1RRWwyY080QisiLCJuIjoiVmF1bHQifQ=="
         }
       ]
     },
