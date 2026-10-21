@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 03:43
+* **PAYLOADS**
+  * `Ps5 Unified Autoloader V0.1.6-E7093Cd` (v0.1.6-e7093cd) - *Nouveau*
+  * `Shadowmountplus` (1.7beta6-fix2) - *Mise à jour (Précédent: 1.7beta5)*
+  * `Poords4-Status V0.2.0` (v0.2.0) - *Nouveau*
+  * `Poords4 V0.2.0` (v0.2.0) - *Nouveau*
+  * `Poords4-Stop V0.2.0` (v0.2.0) - *Nouveau*
+  * `Poords4Rc51 V0.1.0-Rc51` (PoorDS4) - *Mise à jour (Précédent: v0.1.0-rc51)*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+
 ## Build du 20/10/2026 à 21:26
 * **PAYLOADS**
   * `Ps5Upload V7.1.9` (ps5upload) - *Mise à jour (Précédent: v7.1.9)*
