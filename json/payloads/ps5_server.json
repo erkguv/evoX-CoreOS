@@ -22,14 +22,14 @@
       "checksum": "fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497"
     },
     {
-      "name": "Elfldr V0.26",
-      "filename": "elfldr_v0.26.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.26/elfldr_v0.26.elf",
-      "local_path": "payloads/ps5_server/elfldr/v0.26/elfldr_v0.26.elf",
+      "name": "Elfldr V0.27",
+      "filename": "elfldr_v0.27.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf",
+      "local_path": "payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf",
       "description": "ELF Loader utility. Port: 9020 / 9021",
-      "version": "v0.26",
+      "version": "v0.27",
       "category": "PS5 Server",
-      "checksum": "ed6d587a057c09d6a95b2176e336d9ffc605e547ac56462128b029e47b8ccea1"
+      "checksum": "82f6227610172c98bad6efe68219fc93a10027035991f47eb4b75532d023407d"
     },
     {
       "name": "Ftpsrv Ps5-Payload V0.21.1",
@@ -69,7 +69,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
+      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8"
     },
     {
       "name": "Ftpsrv Drakmor V1.16-Ng-Stable",

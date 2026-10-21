@@ -12,16 +12,6 @@
       "checksum": "100a21631a86a1fed456d822bb923012252575adf9cb0ca8e5346ccdacb38da5"
     },
     {
-      "name": "Poords4-Stop V0.2.0",
-      "filename": "PoorDS4-stop_v0.2.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf",
-      "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf",
-      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-      "version": "v0.2.0",
-      "category": "PS5 Pad Utility",
-      "checksum": "fab1ad04daf8346e5952c115f3a08621598d29e222ff80e328a14e73a0f968c8"
-    },
-    {
       "name": "Poords4 V0.2.0",
       "filename": "PoorDS4_v0.2.0.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf",
@@ -30,6 +20,16 @@
       "version": "v0.2.0",
       "category": "PS5 Pad Utility",
       "checksum": "c5f257ca2bf2f95949d09f95dd6feb3353b2ad37e24c972d09fccc3beb11301c"
+    },
+    {
+      "name": "Poords4-Stop V0.2.0",
+      "filename": "PoorDS4-stop_v0.2.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf",
+      "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf",
+      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
+      "version": "v0.2.0",
+      "category": "PS5 Pad Utility",
+      "checksum": "fab1ad04daf8346e5952c115f3a08621598d29e222ff80e328a14e73a0f968c8"
     },
     {
       "name": "Omnipad-Ps5 V1.0.4-Hotfix1",
@@ -79,7 +79,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "95b31d9169df59154cafe5455c7c82e764fae5d15a50978e56cec1fc58cb0723"
+      "checksum": "957fa8551bdaabc3b858fd4a141c5f5c813202f7193159ee47920d039137da65"
     }
   ]
 }

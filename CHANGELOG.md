@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 21:28
+* **PAYLOADS**
+  * `Elfldr V0.27` (v0.27) - *Nouveau*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+
 ## Build du 21/10/2026 à 16:52
 * **PAYLOADS**
   * `Garlic-Savemgr V1.14` (v1.14) - *Nouveau*

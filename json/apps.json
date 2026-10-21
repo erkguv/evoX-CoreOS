@@ -2,86 +2,6 @@
   "name": "AIO Store Apps",
   "apps": [
     {
-      "name": "Ppsa99004",
-      "filename": "PPSA99004.zip",
-      "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
-      "local_path": "apps/ProsperoAI/01.006.000/PPSA99004.zip",
-      "description": "Private, local generative AI for PlayStation 5 homebrew",
-      "version": "01.006.000",
-      "checksum": "8b2241e003a22bffccee23e9424991533047e633e5ce337af60281b96868439e",
-      "category": "Applications"
-    },
-    {
-      "name": "Castation-0.4.0",
-      "filename": "castation-0.4.0.zip",
-      "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",
-      "local_path": "apps/castation/v0.4.0/castation-0.4.0.zip",
-      "description": "Dreamcast emulator based on Flycast PlayStation 5 homebrew",
-      "version": "v0.4.0",
-      "checksum": "6b17a8feaf3a51c82c5bf572ebd54346457057d78bb25e274e97692f04bfdf6d",
-      "category": "Applications"
-    },
-    {
-      "name": "Dump Installer",
-      "filename": "dump_installer.zip",
-      "url": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
-      "local_path": "apps/dump_installer/1.07/dump_installer.zip",
-      "description": "Dump installer howmebrew",
-      "version": "1.07",
-      "checksum": "5096f5775236758803d2a4fc3c257973d27e0fb1429ecd5f75b0c74382c1403c",
-      "category": "Applications"
-    },
-    {
-      "name": "Dump Runner",
-      "filename": "dump_runner.zip",
-      "url": "https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip",
-      "local_path": "apps/dump_runner/v1.02/dump_runner.zip",
-      "description": "Dump runner howmebrew",
-      "version": "v1.02",
-      "checksum": "0ffc4af70b23f7a3c6e943732fab76a7b353f03048958df7699b40e2ec539b1d",
-      "category": "Applications"
-    },
-    {
-      "name": "Emulatorpack",
-      "filename": "EmulatorPack.zip",
-      "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip",
-      "local_path": "apps/Prospero_Multi_Tools/v1/EmulatorPack.zip",
-      "description": "Backup manager for PS5",
-      "version": "v1",
-      "checksum": "1107bc5a546a332b921f532c8cdde977c3598714b075286d3911cd0c717b6b02",
-      "category": "Applications"
-    },
-    {
-      "name": "Prosperomultitools",
-      "filename": "ProsperoMultiTools.zip",
-      "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip",
-      "local_path": "apps/Prospero_Multi_Tools/v1/ProsperoMultiTools.zip",
-      "description": "Backup manager for PS5",
-      "version": "v1",
-      "checksum": "0e7c60d0e860cd0cafb939f668ccae57f53503f2c2371b4193a81ab306346d6b",
-      "category": "Applications"
-    },
-    {
-      "name": "Prosperoexplorer-V1",
-      "filename": "ProsperoExplorer-v1.zip",
-      "url": "https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip",
-      "local_path": "apps/Prospero_Explorer/v1.0/ProsperoExplorer-v1.zip",
-      "description": "File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network",
-      "version": "v1.0",
-      "checksum": "3eaee706e8aca772fce734b494e56729ddedec218597ab9baf940094a0cdfc7e",
-      "category": "Applications"
-    },
-    {
-      "name": "Ppsa99000",
-      "filename": "PPSA99000.zip",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.105/PPSA99000.zip",
-      "local_path": "apps/ProsperoStore/v1.000.105/PPSA99000.zip",
-      "description": "homebrew store",
-      "version": "v1.000.105",
-      "checksum": "c3d60cc649fd814c54c4d82c209050126d8e6fa7dd66838d35e44eecf6f4fa88",
-      "category": "Applications"
-    },
-    {
       "name": "Spectrumlibrary 1.0.4",
       "filename": "SpectrumLibrary_1.0.4.zip",
       "url": "https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip",
@@ -89,6 +9,16 @@
       "description": "Spectrum-Library-PC",
       "version": "1.0.4",
       "checksum": "ac2bf12d56a3892ecaef4e00e8c002cfeffa7cae53aea985e3be6152dbde40c0",
+      "category": "Applications"
+    },
+    {
+      "name": "Ppsa99004",
+      "filename": "PPSA99004.zip",
+      "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
+      "local_path": "apps/ProsperoAI/01.006.000/PPSA99004.zip",
+      "description": "Private, local generative AI for PlayStation 5 homebrew",
+      "version": "01.006.000",
+      "checksum": "8b2241e003a22bffccee23e9424991533047e633e5ce337af60281b96868439e",
       "category": "Applications"
     },
     {
@@ -149,6 +79,16 @@
       "description": "Xbox emulator (Xemu) port for the PS5",
       "version": "Alpha-2.1",
       "checksum": "494682ff5073985422fd8961cc617b8e3bdbdb2dedd85b69dadbd06f709953e9",
+      "category": "Applications"
+    },
+    {
+      "name": "Castation-0.4.0",
+      "filename": "castation-0.4.0.zip",
+      "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",
+      "local_path": "apps/castation/v0.4.0/castation-0.4.0.zip",
+      "description": "Dreamcast flycast emu for ps5",
+      "version": "v0.4.0",
+      "checksum": "6b17a8feaf3a51c82c5bf572ebd54346457057d78bb25e274e97692f04bfdf6d",
       "category": "Applications"
     },
     {
@@ -299,6 +239,66 @@
       "description": "EmuPack-NeoGeo.PS5",
       "version": "Source-Fixe",
       "checksum": "dff3c2733ff02e4c1c30d024d904ada0e9dcdc724e76842c34284a7c3174871b",
+      "category": "Applications"
+    },
+    {
+      "name": "Dump Installer",
+      "filename": "dump_installer.zip",
+      "url": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
+      "local_path": "apps/dump_installer/1.07/dump_installer.zip",
+      "description": "Dump installer howmebrew",
+      "version": "1.07",
+      "checksum": "5096f5775236758803d2a4fc3c257973d27e0fb1429ecd5f75b0c74382c1403c",
+      "category": "Applications"
+    },
+    {
+      "name": "Dump Runner",
+      "filename": "dump_runner.zip",
+      "url": "https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip",
+      "local_path": "apps/dump_runner/v1.02/dump_runner.zip",
+      "description": "Dump runner howmebrew",
+      "version": "v1.02",
+      "checksum": "0ffc4af70b23f7a3c6e943732fab76a7b353f03048958df7699b40e2ec539b1d",
+      "category": "Applications"
+    },
+    {
+      "name": "Emulatorpack",
+      "filename": "EmulatorPack.zip",
+      "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip",
+      "local_path": "apps/Prospero_Multi_Tools/v1/EmulatorPack.zip",
+      "description": "Backup manager for PS5",
+      "version": "v1",
+      "checksum": "1107bc5a546a332b921f532c8cdde977c3598714b075286d3911cd0c717b6b02",
+      "category": "Applications"
+    },
+    {
+      "name": "Prosperomultitools",
+      "filename": "ProsperoMultiTools.zip",
+      "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip",
+      "local_path": "apps/Prospero_Multi_Tools/v1/ProsperoMultiTools.zip",
+      "description": "Backup manager for PS5",
+      "version": "v1",
+      "checksum": "0e7c60d0e860cd0cafb939f668ccae57f53503f2c2371b4193a81ab306346d6b",
+      "category": "Applications"
+    },
+    {
+      "name": "Prosperoexplorer-V1",
+      "filename": "ProsperoExplorer-v1.zip",
+      "url": "https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip",
+      "local_path": "apps/Prospero_Explorer/v1.0/ProsperoExplorer-v1.zip",
+      "description": "File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network",
+      "version": "v1.0",
+      "checksum": "3eaee706e8aca772fce734b494e56729ddedec218597ab9baf940094a0cdfc7e",
+      "category": "Applications"
+    },
+    {
+      "name": "Ppsa99000",
+      "filename": "PPSA99000.zip",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.105/PPSA99000.zip",
+      "local_path": "apps/ProsperoStore/v1.000.105/PPSA99000.zip",
+      "description": "homebrew store",
+      "version": "v1.000.105",
+      "checksum": "c3d60cc649fd814c54c4d82c209050126d8e6fa7dd66838d35e44eecf6f4fa88",
       "category": "Applications"
     }
   ]
