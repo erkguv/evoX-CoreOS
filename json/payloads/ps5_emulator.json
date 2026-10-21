@@ -2,14 +2,14 @@
   "name": "PS5 Emulator",
   "payloads": [
     {
-      "name": "Snes9Xps5 V2.7",
-      "filename": "snes9xPS5_v2.7.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.7/snes9xPS5_v2.7.elf",
-      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.7/snes9xPS5_v2.7.elf",
+      "name": "Snes9Xps5 V2.8",
+      "filename": "snes9xPS5_v2.8.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.8/snes9xPS5_v2.8.elf",
+      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.8/snes9xPS5_v2.8.elf",
       "description": "snes9x emulator",
-      "version": "v2.7",
+      "version": "v2.8",
       "category": "PS5 Emulator",
-      "checksum": "286cdfe2b9f5e935c00e24f4575d4ef358ddd746aca7dc5c319a0d02c3a2dfdb"
+      "checksum": "2633e61352406697d1c37f4374554cab83adf13055a8ca284419e1c8b6ac22bd"
     },
     {
       "name": "Genplusgxps5 V1.7",
@@ -39,7 +39,7 @@
       "description": "ps5-romm for ps5",
       "version": "v1.2.1",
       "category": "PS5 Emulator",
-      "checksum": "8d7e44c512b311f4bbb522f6761a6319533bcd9d988a72bd313197d8161dd696"
+      "checksum": "c6ddf186755e9081c26119526488afb50ab2d4710ecab2ab572e241799e9e696"
     },
     {
       "name": "Phu-Sandbox.Exit V1.0",

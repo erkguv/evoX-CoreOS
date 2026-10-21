@@ -3,6 +3,110 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03912",
+      "title": "Diablo 2 Resurrected Infernal Edition",
+      "createdAt": "2026-10-21T16:31:53.171Z",
+      "version": "v01.039",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2004/ab9XB7gTauWtV6qMEEIQ4d2G.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2004/ab9XB7gTauWtV6qMEEIQ4d2G.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03912, v01.039, EUR, DLCs Merged, 3.xx and beyond\nSize: 49GB\nCredits: Files: DUPLEX; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/6TQ__3h2#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/6TQ__3h2#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/6TQ__3h2#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/6TQ__3h2#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/1hyfaRqa#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/1hyfaRqa#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/1hyfaRqa#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/1hyfaRqa#FileKeeper"
+        }
+      ],
+      "sizeBytes": 52613349376
+    },
+    {
+      "titleId": "PPSA01575",
+      "title": "Avatar Frontiers of Pandora Complete Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "v01.020",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA01575, v01.020, EUR, 4.xx BackPort\nSize: 319GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pippo &amp; DUPLEX\nHow to play: Need account with offact + np-fake-signin for unlock DLCs. FPKG atm is only working up to 11.60, use exFAT if you are above, DLCs Merged. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base, DLCs PKG separated.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://link-vault.org/c/vgcW719i#DataNodes"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://link-vault.org/c/vgcW719i#FileKeeper"
+        },
+        {
+          "name": "AkiraBox",
+          "url": "https://link-vault.org/c/vgcW719i#AkiraBox"
+        },
+        {
+          "name": "DataVaults",
+          "url": "https://link-vault.org/c/vgcW719i#DataVaults"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://link-vault.org/c/vgcW719i#VikingFile"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/Y1hOFkaW#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/Y1hOFkaW#DataVaults"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/6d_Okeon#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/6d_Okeon#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/6d_Okeon#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/6d_Okeon#FileKeeper"
+        }
+      ],
+      "sizeBytes": 342523641856
+    },
+    {
       "titleId": "PPSA07642",
       "title": "The Last of Us Part I Deluxe Edition",
       "createdAt": "2026-10-21T01:16:53.594Z",
@@ -19655,40 +19759,6 @@
         }
       ],
       "sizeBytes": 173946175488
-    },
-    {
-      "titleId": "PPSA01575",
-      "title": "Avatar Frontiers of Pandora Complete Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.020",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png",
-      "description": "Tags: PPSA01575, v01.020, EUR, DLCs Merged, 4.xx BackPort\nSize: 319GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Need account with offact + np-fake-signin for unlock DLCs.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/APVma0LW5GXo/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/wgsTbjs5E6"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/6b9oetjifhbd"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/usxsuvylusc3"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/snxd0zd9ixoz"
-        }
-      ],
-      "sizeBytes": 342523641856
     },
     {
       "titleId": "PPSA03233",

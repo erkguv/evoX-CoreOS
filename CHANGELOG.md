@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 16:52
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.14` (v1.14) - *Nouveau*
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Snes9Xps5 V2.8` (v2.8) - *Nouveau*
+  * `Shadowmountplus` (1.7beta7) - *Mise à jour (Précédent: 1.7beta6-fix2)*
+* **APPS**
+  * `Ppsa99000` (v1.000.105) - *Mise à jour (Précédent: v1.000.104)*
+
 ## Build du 21/10/2026 à 03:43
 * **PAYLOADS**
   * `Ps5 Unified Autoloader V0.1.6-E7093Cd` (v0.1.6-e7093cd) - *Nouveau*

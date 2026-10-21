@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA05038",
+      "title": "Kings Bounty 2",
+      "createdAt": "2026-10-21T13:04:58.900Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1214/A880X9EIZraNYMt4I9plj6vp.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1214/A880X9EIZraNYMt4I9plj6vp.png",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/kings-bounty-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/0rpmv154LGRg/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/aISae"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/vtCEroovFp"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA22394",
       "title": "PuzzMiX",
       "createdAt": "2026-10-21T06:59:21.820Z",
@@ -876,6 +900,138 @@
       ]
     },
     {
+      "titleId": "PPSA02019",
+      "title": "Tennis World Tour 2 Complete Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.007\nRegion: EUR\nRelease note: exFAT format — FW 01.000.007 — 2.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/tennis-world-tour-2-complete-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/obj3jkoLPzDx/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1tEs1A"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/8tqzkr8q1h"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?n35drzarlwrwuhazuw4a"
+        },
+        {
+          "name": "EUR exFAT 01.000.007 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSEVnZDFLMndNTHY1Q0tqY1Ryb3VoRmYyRFJNSTluRm1kR09OT0t1b2xhZVFUbTg5RUowWDdRaWtVbjU4NzZxbzllMTdnZUtxOWFOSUFmRk93ZW5lKzI4U2FPL0cwR3dDaGxxQ0VBc3Vpdz09IiwiaSI6Imdyc2VZNzBLRG5DKzQ2QWMiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.000.007 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTG5xQkhjd0kycWZnQnhnMzViUXdhYXZkeEQvQ24wS0YweS9WbDZtclNCTFZMVWwrb3RzdkZ1Q2R4Q3FGRkkzYi83Y0dLb2lISDdCeHJjUVBtcFhFSEc1cEw1OXEyc3B6WEZFVEdCSHJIcUE9IiwiaSI6Im9tWkxWR2Rad2FTd0JCVysiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.000.007 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibGtFeXo2S3ZacnNOL0REdHhsZG0vK1dIdldBeko3d2RmZXM3NUNMVXdidmkyZjdISSt2aUh2NTVYVWVlVWYzVlVqL1JQYUJ2UTd6SWJpMk1FcnFQVGhoRzlaYlp0TDlUSXVSQ2x4Y1giLCJpIjoieExtcXVNRXE3OFZhbmN6QiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.000.007 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicGtXcy9jSGFDTERoS2lqK2kxMUhCRVptUS9MVzJUaGk2MitvaXBGU3R2Q05pU3FmQ2lDT2twamdSclc2aS9UbExqRzVzY2RRcFNMTkp6WUsxN29EbEpBcjkvakZkMllUMGdaQ1BObW1LQjg9IiwiaSI6IlJ3UWJtK3hRSEpPNERxdzQiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA02308",
+      "title": "Crusader Kings 3",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.039\nRegion: EUR\nRelease note: exFAT format — FW 01.039 — 3.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/crusader-kings-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/0rpmv1YBZGRg/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1WwiPo"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EGfjiJGKaw"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?gei1yw0t0ldz6xeq6nll"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTDliMUpnbnVPQjlGd3hQbDhuUW9iYmVaT3I1eTdpc3BHeUpiV3hCYjMrUStGNzE0cVhmNGlhWGJjYlBsRlM4czVjZWc0am5YREpObjRBOEhJZG4zNmxJdEQ5ZEQxZ3ZjRXZVSHJWSG1Tdz09IiwiaSI6InRUOEFObTNDVXVlL3g3eUoiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoienN3K0x5a2VTbHdNUFp0KzRFMUpkUGxMWEZYaVFlTWh4SXpYN1VUQ1UxTmFVajkxamxLRnJSY0xXZFFBWW9QUmc2TUFkYytyQWVFYW43OExrSXlXQkFBSHVRWjlUOFB0Ykc0ZFAwWDJuSkk9IiwiaSI6ImRFc2dEd3pUZHY5d0dHZloiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUTN2TTcxVEpEdW5FUzRHOWJBUGI4Z2ZqREF3TmhJYjJldTFjbUtDRTNqK1o0ZVdST0hrbkp4TjlZblFPNnF1VmpZd1IxRjlZY2kxWlQ3WDY3YTlLclk2SkxuVVVMZStXMElKWld1SmwiLCJpIjoiVG5YcldQTUxRbXBUN1ZzSCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMXpoaHFxcS9GSTdpQVR4RUFxRkZ5a25jSGdkRjh2dEpRSlpURlBkWEp6bEN2dVdzaEF0ZEN4bElDY255VVFQZnZQZjhQZUYvU1FVOXZRM1dVSXgxMVEvTGZNN2llOGM0L1VsMmZuQVFmZ1E9IiwiaSI6IlZQZkJZUkY2RVROS0VESTgiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17226",
+      "title": "Coral Island",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.003.004\nRegion: EUR\nRelease note: exFAT format — FW 01.003.004 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/coral-island-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/RMKGJWD61m1o/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1pD19c"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WNNlNMeNTs"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?icmyiutg0ue8egj6i2ax"
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoianpDd1Z6T05BV2hCNEFuOGpaUVhUckMvRnpiSHNsenJhbWlDSXdDYnk1emJmeWIwTjUxZkFaRmw0b2FweURlS3kxNkVtdksyLzlscG1QYitLQnBWMDZpeDFCOExRSG5rZXRRdkJ3MHB0QT09IiwiaSI6InVVTjBYTDRHdUlpcU1jeUsiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNkh0RmpnaTZSZnRmTEZHTm94WHc1UUl1Mm9DTDJjZmYxS1EzWnBOWDcxcGs2SlgwY25qNitKczJ5NURXcUpaWGY0RHhid04wZXAyQzN4OEdqZ1R2T0FGSnQ3MHVwS0l6V1JwYlJaakJkbjg9IiwiaSI6ImNvaVpRWFNLTDRYb0RZbmIiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoickNQbDlMSlVZN0JkM3pSQ1pQMjdGc3V1aXJDeXlZZmVIZW9CemlrVmg1Q3NhcE9ocHRnd09wNXM3RXJNOUJlTSs5QWF0WUkxVzd0N3BWcHVrRExLY29kRDc1Uk5tME50WGhaSmFESnMiLCJpIjoiYXdtRWN6eXlNMkxZVkJvYiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYzdCdkZlYTB1Z3FWNFFrbFN2cDBHWXNYWk1hcnpmVVhYZ2tZZEp5THhtd3lhTWZMQ0hEb0RBclppSVN4YjlicHVEbjVkUHg4L3hLNTNQL01vVEZHWVN5QmhJeGRzVXVQVDd5UU5TUjY5QUE9IiwiaSI6Ik1lNkY2cnhQV09QeEE0Y0ciLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA32904",
       "title": "Madden NFL 27",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -1716,138 +1872,6 @@
         {
           "name": "USA exFAT 03.000.010 Base - VIKI (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib2RKSy94Z1F0WlExYkk5RTZBZTVnNyswazNGRnpWQS9NKzZFTXFGZGhQU2FyRDZyVHBQWmFQeWFWQVFhQVoxZTNTamI0ZDUrMTczWHZuT3MvSmQyQk1FUXRWNnZWNFpGNlNHQ3RmN3lkUDg9IiwiaSI6Inc5RkhHMnRwaUNISStYLzYiLCJuIjoiVmlraSJ9"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA02019",
-      "title": "Tennis World Tour 2 Complete Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png",
-      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.007\nRegion: EUR\nRelease note: exFAT format — FW 01.000.007 — 2.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/tennis-world-tour-2-complete-edition-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/obj3jkoLPzDx/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1tEs1A"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/8tqzkr8q1h"
-        },
-        {
-          "name": "EUR 4.xx Base - 1fichier",
-          "url": "https://1fichier.com/?n35drzarlwrwuhazuw4a"
-        },
-        {
-          "name": "EUR exFAT 01.000.007 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSEVnZDFLMndNTHY1Q0tqY1Ryb3VoRmYyRFJNSTluRm1kR09OT0t1b2xhZVFUbTg5RUowWDdRaWtVbjU4NzZxbzllMTdnZUtxOWFOSUFmRk93ZW5lKzI4U2FPL0cwR3dDaGxxQ0VBc3Vpdz09IiwiaSI6Imdyc2VZNzBLRG5DKzQ2QWMiLCJuIjoiRGF0YSJ9"
-        },
-        {
-          "name": "EUR exFAT 01.000.007 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTG5xQkhjd0kycWZnQnhnMzViUXdhYXZkeEQvQ24wS0YweS9WbDZtclNCTFZMVWwrb3RzdkZ1Q2R4Q3FGRkkzYi83Y0dLb2lISDdCeHJjUVBtcFhFSEc1cEw1OXEyc3B6WEZFVEdCSHJIcUE9IiwiaSI6Im9tWkxWR2Rad2FTd0JCVysiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.000.007 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibGtFeXo2S3ZacnNOL0REdHhsZG0vK1dIdldBeko3d2RmZXM3NUNMVXdidmkyZjdISSt2aUh2NTVYVWVlVWYzVlVqL1JQYUJ2UTd6SWJpMk1FcnFQVGhoRzlaYlp0TDlUSXVSQ2x4Y1giLCJpIjoieExtcXVNRXE3OFZhbmN6QiIsIm4iOiJBa2lhIn0="
-        },
-        {
-          "name": "EUR exFAT 01.000.007 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicGtXcy9jSGFDTERoS2lqK2kxMUhCRVptUS9MVzJUaGk2MitvaXBGU3R2Q05pU3FmQ2lDT2twamdSclc2aS9UbExqRzVzY2RRcFNMTkp6WUsxN29EbEpBcjkvakZkMllUMGdaQ1BObW1LQjg9IiwiaSI6IlJ3UWJtK3hRSEpPNERxdzQiLCJuIjoiVmlraSJ9"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA02308",
-      "title": "Crusader Kings 3",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png",
-      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.039\nRegion: EUR\nRelease note: exFAT format — FW 01.039 — 3.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/crusader-kings-3-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/0rpmv1YBZGRg/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1WwiPo"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/EGfjiJGKaw"
-        },
-        {
-          "name": "EUR 4.xx Base - 1fichier",
-          "url": "https://1fichier.com/?gei1yw0t0ldz6xeq6nll"
-        },
-        {
-          "name": "EUR exFAT 01.039 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTDliMUpnbnVPQjlGd3hQbDhuUW9iYmVaT3I1eTdpc3BHeUpiV3hCYjMrUStGNzE0cVhmNGlhWGJjYlBsRlM4czVjZWc0am5YREpObjRBOEhJZG4zNmxJdEQ5ZEQxZ3ZjRXZVSHJWSG1Tdz09IiwiaSI6InRUOEFObTNDVXVlL3g3eUoiLCJuIjoiRGF0YSJ9"
-        },
-        {
-          "name": "EUR exFAT 01.039 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoienN3K0x5a2VTbHdNUFp0KzRFMUpkUGxMWEZYaVFlTWh4SXpYN1VUQ1UxTmFVajkxamxLRnJSY0xXZFFBWW9QUmc2TUFkYytyQWVFYW43OExrSXlXQkFBSHVRWjlUOFB0Ykc0ZFAwWDJuSkk9IiwiaSI6ImRFc2dEd3pUZHY5d0dHZloiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.039 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUTN2TTcxVEpEdW5FUzRHOWJBUGI4Z2ZqREF3TmhJYjJldTFjbUtDRTNqK1o0ZVdST0hrbkp4TjlZblFPNnF1VmpZd1IxRjlZY2kxWlQ3WDY3YTlLclk2SkxuVVVMZStXMElKWld1SmwiLCJpIjoiVG5YcldQTUxRbXBUN1ZzSCIsIm4iOiJBa2lhIn0="
-        },
-        {
-          "name": "EUR exFAT 01.039 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMXpoaHFxcS9GSTdpQVR4RUFxRkZ5a25jSGdkRjh2dEpRSlpURlBkWEp6bEN2dVdzaEF0ZEN4bElDY255VVFQZnZQZjhQZUYvU1FVOXZRM1dVSXgxMVEvTGZNN2llOGM0L1VsMmZuQVFmZ1E9IiwiaSI6IlZQZkJZUkY2RVROS0VESTgiLCJuIjoiVmlraSJ9"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA17226",
-      "title": "Coral Island",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png",
-      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.003.004\nRegion: EUR\nRelease note: exFAT format — FW 01.003.004 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/coral-island-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/RMKGJWD61m1o/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1pD19c"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/WNNlNMeNTs"
-        },
-        {
-          "name": "EUR 4.xx Base - 1fichier",
-          "url": "https://1fichier.com/?icmyiutg0ue8egj6i2ax"
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoianpDd1Z6T05BV2hCNEFuOGpaUVhUckMvRnpiSHNsenJhbWlDSXdDYnk1emJmeWIwTjUxZkFaRmw0b2FweURlS3kxNkVtdksyLzlscG1QYitLQnBWMDZpeDFCOExRSG5rZXRRdkJ3MHB0QT09IiwiaSI6InVVTjBYTDRHdUlpcU1jeUsiLCJuIjoiRGF0YSJ9"
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNkh0RmpnaTZSZnRmTEZHTm94WHc1UUl1Mm9DTDJjZmYxS1EzWnBOWDcxcGs2SlgwY25qNitKczJ5NURXcUpaWGY0RHhid04wZXAyQzN4OEdqZ1R2T0FGSnQ3MHVwS0l6V1JwYlJaakJkbjg9IiwiaSI6ImNvaVpRWFNLTDRYb0RZbmIiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoickNQbDlMSlVZN0JkM3pSQ1pQMjdGc3V1aXJDeXlZZmVIZW9CemlrVmg1Q3NhcE9ocHRnd09wNXM3RXJNOUJlTSs5QWF0WUkxVzd0N3BWcHVrRExLY29kRDc1Uk5tME50WGhaSmFESnMiLCJpIjoiYXdtRWN6eXlNMkxZVkJvYiIsIm4iOiJBa2lhIn0="
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYzdCdkZlYTB1Z3FWNFFrbFN2cDBHWXNYWk1hcnpmVVhYZ2tZZEp5THhtd3lhTWZMQ0hEb0RBclppSVN4YjlicHVEbjVkUHg4L3hLNTNQL01vVEZHWVN5QmhJeGRzVXVQVDd5UU5TUjY5QUE9IiwiaSI6Ik1lNkY2cnhQV09QeEE0Y0ciLCJuIjoiVmlraSJ9"
         }
       ]
     },
