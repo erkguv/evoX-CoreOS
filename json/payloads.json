@@ -1048,7 +1048,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "76570f2e436784f402bb9cd6d9b484c03c356aded745d7069cc36d05fbebbd05"
+      "checksum": "d7f2c7ef752a265bc04510d0fb0ae3321e8d4b2fddf8fe25ad19d2ab7d9e7327"
     },
     {
       "name": "Pkg-Manager V1.5.1",
