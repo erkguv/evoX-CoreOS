@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/10/2026 à 16:50
+* **PAYLOADS**
+  * `Wfm-7Zip-Helper` (v1.12) - *Mise à jour (Précédent: v1.11b)*
+  * `Web-File-Mgr-V1.12` (v1.12) - *Nouveau*
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Kstuff-A53 Sonic V1.4` (kstuff-a53_SoNic) - *Mise à jour (Précédent: 1.4)*
+  * `Web-File-Mgr-V1.11B` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.11b)*
+  * `Ps5Library-Agent` (PS5Library) - *Mise à jour (Précédent: v0.2.91)*
+
 ## Build du 22/10/2026 à 03:41
 * **PAYLOADS**
   * `Ps5X360 V0.6.0` (PS5X360) - *Mise à jour (Précédent: v0.6.0)*

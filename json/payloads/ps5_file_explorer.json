@@ -24,22 +24,22 @@
     {
       "name": "Wfm-7Zip-Helper",
       "filename": "wfm-7zip-helper.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/wfm-7zip-helper.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/wfm-7zip-helper.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.11b",
+      "version": "v1.12",
       "category": "PS5 File Explorer",
-      "checksum": "dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4"
+      "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825"
     },
     {
-      "name": "Web-File-Mgr-V1.11B",
-      "filename": "web-file-mgr-v1.11b.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/web-file-mgr-v1.11b.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/web-file-mgr-v1.11b.elf",
+      "name": "Web-File-Mgr-V1.12",
+      "filename": "web-file-mgr-v1.12.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/web-file-mgr-v1.12.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/web-file-mgr-v1.12.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.11b",
+      "version": "v1.12",
       "category": "PS5 File Explorer",
-      "checksum": "989f26d292d07a35581a2ee36766fc477fc2f5deedb2a9d0cedae5ee19667eba"
+      "checksum": "f3461eb967da7afbbf0420d3294fbc8f999cc2ad53a756bed413aa80c7cfa67a"
     },
     {
       "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",
@@ -49,7 +49,7 @@
       "description": "PS5 File Explorer http://your-ps5-ip:5905.",
       "version": "file-explorer-v0.2.1",
       "category": "PS5 File Explorer",
-      "checksum": "1013c23b12980e1bc97decc150c8cd5abc8447dc03cf86dbd106266dd000a6e1"
+      "checksum": "6d4b905b42727dddeaedddb2a657ed0d4e7110ddd068a6daab0aafb2ba32604b"
     }
   ]
 }

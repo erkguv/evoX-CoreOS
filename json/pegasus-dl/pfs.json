@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28603",
+      "title": "Crisol Theater of Idols",
+      "createdAt": "2026-10-22T13:29:54.184Z",
+      "version": "1.006.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0421/280444cdfc2b3140731febb85622be9c56cc713e4939b471.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0421/280444cdfc2b3140731febb85622be9c56cc713e4939b471.png",
+      "description": "Crisol: Theater of Idols is a gripping first-person horror/action adventure set in the haunting world of Hispania, a nightmarish reimagining of Spain. Playing as Gabriel, a soldier who can use his own blood as a deadly weapon, you endeavor on a journey to fulfill a divine mission from the Sun God. Key Features: Explore the Cursed Island of Tormentosa Uncover the chilling history and twisted folklore of Tormentosa, a beautiful but malevolent island. Traverse eerie landscapes, crumbling grand ruins, and labyrinthine streets as you peel back the layers of cults and blood sacrifice. Blood is Your Weapon—and Your Curse Blood is both your lifeline and your ammunition. Wield this new-found power against terrifying enemies and solve intricate puzzles, but beware: every shot drains your life. Choose wisely—survival hinges on your ability to balance life and death. Manage Your Powers and Weapons Upgrading the powers that leverage the lethality of blood allows you to deal more damage, fight for longer, and gain bonuses in combat. Navigate myriad weapon options for the right scenario and improve them through coins found in your exploration of Tormentosa. A Story Rooted in Horror and History Hispania’s disturbing fusion of historical events, folklore, and religious undertones creates a uniquely horrifying world. Face off against staggering statues brought to life and unravel a dark narrative that blurs the line between reality and nightmare. Prepare to sacrifice everything. How much blood will you shed to uncover the truth?\nRegion: EUR\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: You have to create a fakelib folder in the root folder of the game itself. Once done, download ampr_emu 0.4.2.1. You can find it here: https://github.com/drakmor/ampr_emu/releases/tag/0.4.2.1 Download the libsceAMPR.sprx file and put it in the fakelib folder.\nUpdated: 2026-10-22T12:29:08.909Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/QWNRLh8H6y"
+        }
+      ],
+      "sizeBytes": 26306674688
+    },
+    {
+      "titleId": "PPSA25642",
+      "title": "Clive Barker's Hellraiser Revival Deluxe Edition",
+      "createdAt": "2026-10-22T12:28:54.072Z",
+      "version": "1.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png",
+      "description": "Experience a new chapter in the legendary horror series like never before. Clive Barker’s Hellraiser: Revival takes first-person action horror survival to the next level. Play the story of Aidan, who must use the power of a mysterious puzzle box – the Genesis Configuration – to help his girlfriend Sunny’s escape from the otherworldly hellscape of the Labyrinth. Wield the powers of the box to survive your bargain with the infamous Pinhead and do battle with the horrific cult devoted to the Cenobites.\nRegion: USA to EUR Langs\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: JagerWolfnr\nUpdated: 2026-10-22T09:47:47.257Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/ZZXDFWG3E6"
+        }
+      ],
+      "sizeBytes": 74410308403
+    },
+    {
       "titleId": "PPSA07631",
       "title": "Saros",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -28,12 +64,16 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0301/0c99d3ada38035978841fba687ad6a49e9a50b89106a141e.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0301/0c99d3ada38035978841fba687ad6a49e9a50b89106a141e.png",
-      "description": "A new tale of the Kami awaits... Kunitsu-Gami: Path of the Goddess is a unique Japanese-inspired, single player Kagura Action Strategy game. The game takes place on a mountain covered by defilement. During the day, purify the villages and prepare yourself for sundown. During the night, protect the Maiden against the hordes of the Seethe. Repeat the day and night cycle until you cleanse the mountain of defilement and return peace to the land.\nRegion: USA to EUR Langs\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: JagerWolfnr\nUpdated: 2026-10-21T23:26:40.305Z",
+      "description": "A new tale of the Kami awaits... Kunitsu-Gami: Path of the Goddess is a unique Japanese-inspired, single player Kagura Action Strategy game. The game takes place on a mountain covered by defilement. During the day, purify the villages and prepare yourself for sundown. During the night, protect the Maiden against the hordes of the Seethe. Repeat the day and night cycle until you cleanse the mountain of defilement and return peace to the land.\nRegion: USA to EUR Langs\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Delete all in fakelib except libsceAMPR.sprx\nCredits: JagerWolfnr\nUpdated: 2026-10-21T23:26:40.305Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "downloadLinks": [
         {
           "name": "Gofile",
           "url": "https://gofile.io/d/BNCiV9cL"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/6n8q4QMdjq"
         }
       ],
       "sizeBytes": 34467112550

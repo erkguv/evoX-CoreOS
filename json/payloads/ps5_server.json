@@ -69,7 +69,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8"
+      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
     },
     {
       "name": "Ftpsrv Drakmor V1.16-Ng-Stable",
@@ -92,14 +92,14 @@
       "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
     },
     {
-      "name": "Ps5Upload V7.1.13",
-      "filename": "ps5upload_v7.1.13.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.13/ps5upload_v7.1.13.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v7.1.13/ps5upload_v7.1.13.elf",
+      "name": "Ps5Upload V7.1.16",
+      "filename": "ps5upload_v7.1.16.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.16/ps5upload_v7.1.16.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v7.1.16/ps5upload_v7.1.16.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v7.1.13",
+      "version": "v7.1.16",
       "category": "PS5 Server",
-      "checksum": "46bb7dc0e7f28ded2859ac4392c151e39010354c79de2f323d73aaa861287a30"
+      "checksum": "df095f4492602e5824297fb2cb45802ca4d415006b2ce8222b9940cb942bd880"
     },
     {
       "name": "Airpsx V0.19",
