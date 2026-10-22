@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/10/2026 à 21:24
+* **PAYLOADS**
+  * `Ps5Library-Agent` (v0.2.91) - *Mise à jour (Précédent: PS5Library)*
+  * `Orbit Store` (v1.4.0) - *Mise à jour (Précédent: v1.3.5)*
+  * `Pad2C V1.1.0` (v1.1.0) - *Nouveau*
+  * `Kstuff-A53 Sonic V1.4` (1.4) - *Mise à jour (Précédent: kstuff-a53_SoNic)*
+* **APPS**
+  * `Ppsa99300` (alpha) - *Nouveau*
+
 ## Build du 22/10/2026 à 16:50
 * **PAYLOADS**
   * `Wfm-7Zip-Helper` (v1.12) - *Mise à jour (Précédent: v1.11b)*

@@ -192,6 +192,16 @@
             "category": "Applications"
         },
         {
+            "name": "Ppsa99300",
+            "filename": "PPSA99300.zip",
+            "url": "https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip",
+            "local_path": "apps/Vita3K-PS5/alpha/PPSA99300.zip",
+            "description": "Vita3K for PS5",
+            "version": "alpha",
+            "checksum": "bee5db90dd10a7b4c7555772edff96125fc91752eb9d1b0ce4c6fb02eaee8195",
+            "category": "Applications"
+        },
+        {
             "name": "Markus Phu-Emupack Ps1-Tool.Ps5",
             "filename": "Markus_PHU-EmuPack_PS1-Tool.PS5.rar",
             "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar",

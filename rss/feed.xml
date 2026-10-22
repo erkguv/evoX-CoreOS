@@ -257,10 +257,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
+      <title>[Payloads] Ps5Library-Agent</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf</link>
+      <description>You need PS5Library.pkg.</description>
+      <pubDate>v0.2.91</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.3.5/orbit_store.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.4.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.3.5</pubDate>
+      <pubDate>v1.4.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Phstore Vphstore</title>
@@ -401,10 +407,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pad2C V0.2.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v0.2.1/pad2c_v0.2.1.elf</link>
+      <title>[Payloads] Pad2C V1.1.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.1.0/pad2c_v1.1.0.elf</link>
       <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v0.2.1</pubDate>
+      <pubDate>v1.1.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Anypad-Ps5 V0.6.0</title>
@@ -624,9 +630,9 @@
     </item>
     <item>
       <title>[Payloads] Kstuff-A53 Sonic V1.4</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>kstuff-a53_SoNic</pubDate>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf</link>
+      <description>SoNic variant of kstuff-a53.</description>
+      <pubDate>1.4</pubDate>
     </item>
     <item>
       <title>[Payloads] Nanodns V0.4</title>
@@ -720,12 +726,6 @@
     </item>
     <item>
       <title>[Payloads] Ps5Library-Agent-0.2.70</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PS5Library</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Ps5Library-Agent</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>PS5Library</pubDate>
@@ -981,6 +981,12 @@
       <link>https://github.com/mpereiraesaa/prospero-win/releases/download/v0.2.0/prospero-win-v0.2.0.zip</link>
       <description>Wine for PS5</description>
       <pubDate>v0.2.0</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Ppsa99300</title>
+      <link>https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip</link>
+      <description>Vita3K for PS5</description>
+      <pubDate>alpha</pubDate>
     </item>
     <item>
       <title>[Applications] Markus Phu-Emupack Ps1-Tool.Ps5</title>

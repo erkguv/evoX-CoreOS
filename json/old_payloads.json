@@ -421,14 +421,24 @@
             "checksum": "c4672cfa909463843c537f67d5f2df9eb3456d4036d26a4fb81fc34d7853170b"
         },
         {
+            "name": "Ps5Library-Agent",
+            "filename": "ps5library-agent.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf",
+            "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf",
+            "description": "You need PS5Library.pkg.",
+            "version": "v0.2.91",
+            "category": "PS5 Freeshop",
+            "checksum": "ac78389a628401edba3c081f00156238ad5652b1b7ad241f5ccc7713179f0c82"
+        },
+        {
             "name": "Orbit Store",
             "filename": "orbit_store.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.3.5/orbit_store.elf",
-            "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.3.5/orbit_store.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.4.0/orbit_store.elf",
+            "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.4.0/orbit_store.elf",
             "description": "A modern, no-BS download manager for PS5.",
-            "version": "v1.3.5",
+            "version": "v1.4.0",
             "category": "PS5 Freeshop",
-            "checksum": "561a8e8015d9564d44e32b58a84e1294ea7043e96146110801a9f62ad99ac93b"
+            "checksum": "e43c6272b3519fc2ec8b9373a484f2c2adb9669d7652567661149da741ab6d94"
         },
         {
             "name": "Ps5-Phstore Vphstore",
@@ -661,14 +671,14 @@
             "checksum": "744277a72a268871284ad3b91565968df06c57c0acdabd921c8712e6de731f99"
         },
         {
-            "name": "Pad2C V0.2.1",
-            "filename": "pad2c_v0.2.1.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v0.2.1/pad2c_v0.2.1.elf",
-            "local_path": "payloads/ps5_pad_utility/pad2c/v0.2.1/pad2c_v0.2.1.elf",
+            "name": "Pad2C V1.1.0",
+            "filename": "pad2c_v1.1.0.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.1.0/pad2c_v1.1.0.elf",
+            "local_path": "payloads/ps5_pad_utility/pad2c/v1.1.0/pad2c_v1.1.0.elf",
             "description": "Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.",
-            "version": "v0.2.1",
+            "version": "v1.1.0",
             "category": "PS5 Pad Utility",
-            "checksum": "45357888ad9fdd3de68ae80a9d224894c114acf0e6945db13d88b039d9758458"
+            "checksum": "89ba61438c14f19b8ea2dd20f4f45e3124553078adfb71b115b1521a3e8dc560"
         },
         {
             "name": "Anypad-Ps5 V0.6.0",
@@ -678,7 +688,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "067482cf714c7f8ce5b77724385b7480fecbc2603e74be38a2f279325b8158c1"
+            "checksum": "f25e7dda467df65770139ae454b7648939efa5caf92be59bc9e5934c4a614ea9"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
@@ -1033,10 +1043,11 @@
         {
             "name": "Kstuff-A53 Sonic V1.4",
             "filename": "kstuff-a53_SoNic_v1.4.elf",
-            "url": "",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf",
             "local_path": "payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf",
-            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-            "version": "kstuff-a53_SoNic",
+            "description": "SoNic variant of kstuff-a53.",
+            "version": "1.4",
+            "category": "PS5 Kstuff",
             "checksum": "675bef691b1bd1ee14956409aa3947ef9fd52dc36034dbd18d7c55d469e08d23"
         },
         {
@@ -1190,15 +1201,6 @@
             "description": "Récupéré depuis le stockage local (Interne / Fallback)",
             "version": "PS5Library",
             "checksum": "978c77ce7cd71940f2843704f4a5594868ae842abf2b286dfb7c2594390fb20c"
-        },
-        {
-            "name": "Ps5Library-Agent",
-            "filename": "ps5library-agent.elf",
-            "url": "",
-            "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf",
-            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-            "version": "PS5Library",
-            "checksum": "ac78389a628401edba3c081f00156238ad5652b1b7ad241f5ccc7713179f0c82"
         },
         {
             "name": "Ps5Library-Agent-0.2.55",

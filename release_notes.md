@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.22-1650)
+### 🚀 Synthèse de la mise à jour (v2026.10.22-2124)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -62,6 +62,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-Unpack_v0.1.elf`
   * `pegasus-dl_v1.11.0.elf`
   * `ps5shopappkg-dpi.elf`
+  * `ps5library-agent.elf`
   * `orbit_store.elf`
   * `PS5-PHStore_vPHStore.elf`
   * `actremotelink_agent_v2.0.elf`
@@ -86,7 +87,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `OmniPad-PS5_v1.0.4-hotfix1.elf`
   * `FGG-XSense_v1.1.elf`
   * `ghost-toothAPI.elf`
-  * `pad2c_v0.2.1.elf`
+  * `pad2c_v1.1.0.elf`
   * `AnyPad-PS5_v0.6.0.elf`
   * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
@@ -140,7 +141,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.11.elf`
   * `Nuvio-PS5_v1.8.0.elf`
   * `ps5library-agent-0.2.70.elf`
-  * `ps5library-agent.elf`
   * `ps5library-agent-0.2.55.elf`
   * `Spectrum-Library_v1.4.8.elf`
   * `ps5_overlay.elf`
@@ -204,6 +204,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99666.zip`
   * `PPSA99808.zip`
   * `prospero-win-v0.2.0.zip`
+  * `PPSA99300.zip`
   * `Markus_PHU-EmuPack_PS1-Tool.PS5.rar`
   * `Markus_PHU-EmuPack-Nes.PS5.rar`
   * `Markus_PHU-EmuPack-Snes.PS5.rar`
