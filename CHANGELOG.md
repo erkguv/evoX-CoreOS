@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/10/2026 à 03:41
+* **PAYLOADS**
+  * `Ps5X360 V0.6.0` (PS5X360) - *Mise à jour (Précédent: v0.6.0)*
+* **APPS**
+  * `Ppsa50011` (v1.0.0) - *Mise à jour (Précédent: v0.6.0)*
+  * `Ps5X360-Source-1.0.0-Changes` (v1.0.0) - *Nouveau*
+  * `Porpoise-4.0` (v4.0) - *Nouveau*
+
 ## Build du 21/10/2026 à 21:28
 * **PAYLOADS**
   * `Elfldr V0.27` (v0.27) - *Nouveau*

@@ -81,7 +81,6 @@
     <outline text="Ps5-Hwinfo V0.1" title="Ps5-Hwinfo V0.1" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-hwinfo/0.1/ps5-hwinfo_v0.1.elf" description="PS5 payload for collecting hardware and runtime telemetry."/>
     <outline text="Snes9Xps5 V2.8" title="Snes9Xps5 V2.8" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.8/snes9xPS5_v2.8.elf" description="snes9x emulator"/>
     <outline text="Genplusgxps5 V1.7" title="Genplusgxps5 V1.7" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.7/genplusgxPS5_v1.7.elf" description="Port of Genesis-Plus-GX for PS55"/>
-    <outline text="Ps5X360 V0.6.0" title="Ps5X360 V0.6.0" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf" description="x360 emu for ps5, you need PPSA97358.zip"/>
     <outline text="Ps5-Romm V1.2.1" title="Ps5-Romm V1.2.1" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.1/ps5-romm_v1.2.1.elf" description="ps5-romm for ps5"/>
     <outline text="Phu-Sandbox.Exit V1.0" title="Phu-Sandbox.Exit V1.0" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf" description="addon for Markus-PHU Emupack"/>
     <outline text="Ps5-Game-Compressor V1.0.4" title="Ps5-Game-Compressor V1.0.4" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf" description="Tool to compress PS5 games."/>
@@ -125,6 +124,7 @@
     <outline text="Ps5 Overlay Shellui" title="Ps5 Overlay Shellui" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5 Overlay" title="Ps5 Overlay" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Np-Fake-Signin-Ps5" title="Np-Fake-Signin-Ps5" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
+    <outline text="Ps5X360 V0.6.0" title="Ps5X360 V0.6.0" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Elf Arsenal V1.6.23" title="Elf Arsenal V1.6.23" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Spectrum-Library V1.4.8" title="Spectrum-Library V1.4.8" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5Library-Agent-0.2.70" title="Ps5Library-Agent-0.2.70" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>

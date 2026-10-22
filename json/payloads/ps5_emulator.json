@@ -22,16 +22,6 @@
       "checksum": "f764824466d317bed73715ce8d5235b8a6505f676ab6338b7134d7264b0a84af"
     },
     {
-      "name": "Ps5X360 V0.6.0",
-      "filename": "PS5X360_v0.6.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf",
-      "local_path": "payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf",
-      "description": "x360 emu for ps5, you need PPSA97358.zip",
-      "version": "v0.6.0",
-      "category": "PS5 Emulator",
-      "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb"
-    },
-    {
       "name": "Ps5-Romm V1.2.1",
       "filename": "ps5-romm_v1.2.1.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.1/ps5-romm_v1.2.1.elf",

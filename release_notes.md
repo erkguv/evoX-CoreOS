@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.21-2128)
+### 🚀 Synthèse de la mise à jour (v2026.10.22-0341)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -97,7 +97,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-hwinfo_v0.1.elf`
   * `snes9xPS5_v2.8.elf`
   * `genplusgxPS5_v1.7.elf`
-  * `PS5X360_v0.6.0.elf`
   * `ps5-romm_v1.2.1.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `PS5-Game-Compressor_v1.0.4.elf`
@@ -141,6 +140,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5_overlay_shellui.elf`
   * `ps5_overlay.elf`
   * `np-fake-signin-ps5.elf`
+  * `PS5X360_v0.6.0.elf`
   * `ELF_Arsenal_v1.6.23.elf`
   * `Spectrum-Library_v1.4.8.elf`
   * `ps5library-agent-0.2.70.elf`
@@ -188,12 +188,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99004.zip`
   * `flycast-ps5-2026.10.06.zip`
   * `PPSA50011.zip`
-  * `PS5X360-AutoLog-v1.0.9-preview.elf`
-  * `PS5X360-source-0.6.0-changes.zip`
+  * `PS5X360-source-1.0.0-changes.zip`
   * `helper.elf`
   * `PPSA97358.zip`
   * `castation-0.4.0.zip`
-  * `Porpoise-3.0.zip`
+  * `Porpoise-4.0.zip`
   * `PPSA19111.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`

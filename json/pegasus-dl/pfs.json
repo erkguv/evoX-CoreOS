@@ -3,6 +3,208 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA07631",
+      "title": "Saros",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.005.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/78549217df5077bea107700e077d04be6a9a4b0dfbcd821a.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/78549217df5077bea107700e077d04be6a9a4b0dfbcd821a.png",
+      "description": "Master electrifying bullet ballet combat – intense projectile-focused gameplay with a unique, neon-infused esthetic – to overcome ferocious enemies and spectacular boss fights. Housemarque returns With decades of experience crafting adrenaline-fueled, arcade-inspired mechanics, Housemarque is back with the next evolution of the award-winning, third-person action seen in Returnal. Bullet Ballet Unleash a high-tech arsenal as you dodge, shield and parry enemy attacks in a fluid, flow-state-inducing dance. Combine abilities and learn enemy bullet patterns to gain the upper hand when the odds seem stacked against you. Permanent Progression Augment your loadout using an evolving set of weapons and upgrades. After every run you’ll face a changed world, but the resources you gain will ensure Carcosa yields to you. With Second Chance you’ll be revived instantly on your first death, getting you straight back into the action. Lost Carcosa Fight through mysterious biomes and dreamlike landscapes littered with ancient ruins and alien technology. Come back stronger after every death to break free of the shackles of your past as you uncover the true cost of your power. Otherworldly sound design and musical score Carcosa is brought to life by atmospheric, sci-fi-inspired 3D audio soundscapes – all punctuated by a dark, electronic-meets-drone-metal musical score from multi award-winning composer, Sam Slater.1 Who can you trust? Between runs, return to the Passage to track your progression and meet the crew of Echelon IV. But beware: the Eclipse distorts more than physical spaces. As hallucinations and paranoia take hold, even your closest allies may become your greatest threat… PS5® features - Thrive in the chaos of Carcosa’s Eclipse with near-instant loading speeds of the PS5® console letting you rapidly start over. - Track threats and more with precision Tempest 3D Audio.1 - Seize control of Arjun’s fate; feel every texture in your hands with the detailed input of haptic feedback. - Feel the influence of the Eclipse on Arjun’s suit and weaponry via adaptive triggers, as capabilities augment and evolve… 1 3D Audio via built-in TV speakers or analog/USB stereo headphones. Setup required.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-21T23:34:15.396Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Gofile",
+          "url": "https://gofile.io/d/8PISJ5eP"
+        }
+      ],
+      "sizeBytes": 132070244352
+    },
+    {
+      "titleId": "PPSA19577",
+      "title": "Kunitsu-Gami Path of the Goddess",
+      "createdAt": "2026-10-22T00:16:52.967Z",
+      "version": "1.410",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0301/0c99d3ada38035978841fba687ad6a49e9a50b89106a141e.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0301/0c99d3ada38035978841fba687ad6a49e9a50b89106a141e.png",
+      "description": "A new tale of the Kami awaits... Kunitsu-Gami: Path of the Goddess is a unique Japanese-inspired, single player Kagura Action Strategy game. The game takes place on a mountain covered by defilement. During the day, purify the villages and prepare yourself for sundown. During the night, protect the Maiden against the hordes of the Seethe. Repeat the day and night cycle until you cleanse the mountain of defilement and return peace to the land.\nRegion: USA to EUR Langs\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: JagerWolfnr\nUpdated: 2026-10-21T23:26:40.305Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Gofile",
+          "url": "https://gofile.io/d/BNCiV9cL"
+        }
+      ],
+      "sizeBytes": 34467112550
+    },
+    {
+      "titleId": "PPSA23556",
+      "title": "UFC 6",
+      "createdAt": "2026-10-22T00:16:52.967Z",
+      "version": "1.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/7cc2882c6efb6815884ef18f06e113a7871a513ccda89b32.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/7cc2882c6efb6815884ef18f06e113a7871a513ccda89b32.png",
+      "description": "Limited Time Offer: Purchase* EA SPORTS™ UFC® 6 and redeem the Championship Fighter Skin Collection in-game until Nov. 16, 2026. Fighter Skins include: - Conor McGregor - UFC 205 - Jon Jones - UFC 309 - Sean O'Malley - UFC 299 - Alex Pereira - UFC 320 - Ilia Topuria - UFC 317 EA SPORTS™ UFC® 6 is powered by fighters. Evolved striking and motion systems bring those UFC stars to life in the Octagon, while new game modes introduce immersive storytelling that makes every fight feel personal. That starts with Markerless Capture, which delivers unprecedented fighter fidelity with authentic locomotion and Signature Strikes, complemented by new fighter bodies built with Sapien Technology that make your favorite UFC superstars truly look, move, and fight like themselves. Real-Time Contact brings the impact to the Octagon with Frostbite™ powered ragdoll physics and damage reactions that hurt so good. When you really start dishing out the damage, enter Flow State, which engages an athlete's standout skills in punishing fashion. Finally, all-new game modes like Hall of Legends and The Legacy let you experience the stories of UFC greats or carve your own path, from backrooms to the bright lights. Square up and fight your fight. This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: JagerWolfenr\nUpdated: 2026-10-21T23:17:42.175Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Gofile",
+          "url": "https://gofile.io/d/fFtb7FZq"
+        }
+      ],
+      "sizeBytes": 119185342464
+    },
+    {
+      "titleId": "PPSA25427",
+      "title": "Kimetsu No Yaiba The Hinokami Chronicles 2",
+      "createdAt": "2026-10-21T23:15:53.742Z",
+      "version": "2.000.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1707/5838807383baec8d94aaad989ca3f7c654e1efc2a1da66c2.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1707/5838807383baec8d94aaad989ca3f7c654e1efc2a1da66c2.png",
+      "description": "Please note this is the Standard Edition. Be aware there is also a Deluxe Edition available, so please ensure your selection before purchasing. Content Description: Destroy demons with the power of forged bonds! Tanjiro Kamado's battle will once again unfold on console... Single Player: Story Mode Play as Tanjiro and relive the Entertainment District Arc, the Swordsmith Village Arc, and the Hashira Training Arc from the TV anime, Demon Slayer: Kimetsu no Yaiba! Battle Upper Rank demons with your allies! VS Mode: The Hashira unite! The game features over 40 characters, including the nine Hashira, the highest-ranking swordsmen of the Demon Slayer Corps! New elements, such as Dual Ultimates and Gear, have been added! Take on new challenges both online and offline! Bonus for linking save data: The following bonuses will be available for players with save data from Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles or Demon Slayer -Kimetsu no Yaiba- Sweep The Board! - Bonus for Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles save data: Character Unlock Keys: Academy Tanjiro, Academy Nezuko, Academy Zenitsu, Academy Inosuke, Academy Giyu, Academy Shinobu - Bonus for Demon Slayer -Kimetsu no Yaiba- Sweep The Board! save data: Character Unlock Key: Hinatsuru, Makio and Suma Battle Attire: Hinatsuru, Makio and Suma Kimono (Meal Prep) Standard Edition Content: - Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Main Game - Digital Version Bonus - Character Unlock Keys: Academy Rengoku and Academy Uzui *Character Unlock Keys are bonuses that allow you to play the specified character in VS Mode at the very start. *Battle Attire can be used in VS Mode. *Online play in VS Mode requires a paid subscription to PlayStation®Plus. *The latest patch must be installed in order to use online features. *Contents and specifications are subject to change without notice. *The digital version bonuses are permanent. *Bonuses may be distributed at a later date. *PlayStation®4 version save data can be transferred to PlayStation®5, if there is PlayStation®4 version save data when activating the PlayStation®5 version for the first time *If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Install the DLCs with your pkg manager of preference.\nCredits: Jagerwolfenr\nUpdated: 2026-10-21T23:15:34.962Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Gofile",
+          "url": "https://gofile.io/d/pqizFDbR"
+        }
+      ],
+      "sizeBytes": 33822867456
+    },
+    {
+      "titleId": "PPSA02633",
+      "title": "Street Fighter 6 + DLC Years 1-3 Fighters Edition",
+      "createdAt": "2026-10-21T23:15:53.742Z",
+      "version": "1.028",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png",
+      "description": "Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the series. Powered by Capcom’s proprietary RE ENGINE, the Street Fighter 6 experience spans across three distinct game modes featuring World Tour, Fighting Ground and Battle Hub. Diverse Roster of 18 Fighters Play legendary masters and new fan favorites like Ryu, Chun-Li, Luke, Jamie, Kimberly and more in this latest edition with each character featuring striking new redesigns and exhilarating cinematic specials. Dominate the Fighting Ground Street Fighter 6 offers a highly evolved combat system with three control types - Classic, Modern and Dynamic - allowing you to quickly play to your skill level. The new Real Time Commentary Feature adds all the hype of a competitive match as well as easy-to-understand explanations about your gameplay. The Drive Gauge is a new system to manage your resources. Use it wisely in order to claim victory. Explore the Streets in World Tour Discover the meaning of strength in World Tour, an immersive, single-player story mode. Take your avatar and explore Metro City and beyond. Meet Masters who will take you under their wing and teach you their style and techniques. Seek Rivals in the Battle Hub The Battle Hub represents a core mode of Street Fighter 6 where players can gather and communicate, and become stronger together. Use the avatar you create in World Tour to check out cabinets on the Battle Hub floor and play against other players, or head over to the Game Center to enjoy some of Capcom's classic arcade games. Your path to becoming a World Warrior starts here. * Information for EU Consumers: Important information for consumers residing in the European Union is available at:https://manual.capcom.com/information-for-eu-consumers/sf6/ Online Play Capcom provides various online services for this game, including online-only content. * Certain elements of this game cannot be accessed without an internet connection. * A Capcom ID is required to use online-only content. * For information on the services related to Capcom ID and how to use it, please visit the official Capcom ID website (https://cid.capcom.com/). Please note that there may be cases wherein use of Capcom ID is age-restricted. * Capcom may temporarily suspend online services in the event of unforeseen circumstances.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: JagerWolfenr\nUpdated: 2026-10-21T23:12:11.247Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Gofile",
+          "url": "https://gofile.io/d/eIWOvYvF"
+        }
+      ],
+      "sizeBytes": 120259084288
+    },
+    {
+      "titleId": "PPSA27836",
+      "title": "Onimusha Way of the Sword",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.000.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/79a186e6a055909cfeb66264230ad3d76915587b0269cd0d.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/79a186e6a055909cfeb66264230ad3d76915587b0269cd0d.png",
+      "description": "An all-new entry in the Onimusha series! Fight through bloodstained battlefields of intense swordplay action. Explore the historic Japanese capital of Edo-period Kyoto, twisted by malevolent clouds of Malice. With every stage cloaked in mystery, danger and intrigue. Battle against monstrosities from the underworld known as Genma in a tale of dark fantasy. Follow the tale of a samurai who wields the Oni Gauntlet, a mystical artifact that grants its bearer the power to slay Genma. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path? The Protagonist, Miyamoto Musashi An ardent samurai who arrives in Kyoto looking to prove that he is unmatched in the way of the sword. However, the path before him takes a strange and unexpected turn. The protagonist of this game is a fierce young samurai, constantly moving from one bloody and gritty fight to the next. To cement this image of a striking samurai, Capcom has turned to none other than the late, iconic Japanese samurai movie legend Toshiro Mifune to star as the face model for this rendition of Miyamoto Musashi. Action Equipped with an Oni Gauntlet, Musashi is granted power beyond human limits. Besides giving him the strength needed to cut down the Genma, it also holds numerous other abilities, such as being able to absorb Genma souls and convert them into a power source to further enhance its wearer. But who is behind the voice that rings out from the gauntlet? Genma Usually found dwelling in the lowest depths of hell, the Malice enveloping Kyoto has brought these fiends into the world of the living. Their ceaseless atrocities have plunged the capital into a state of dread and panic. Formidable Foes In his battle against the Genma threat, Musashi will face powerful opponents whose martial prowess rivals his own. Will he triumph, or die trying? Bloody duels to the death await in the capital. Setting The game is set in Kyoto, home to countless shrines and temples, such as Kiyomizu-dera Temple. Twisted by Malice, the face of the capital starts to take on an eerie and foreboding appearance. Agreement to the End User License Agreement is required to play this title. (https://manual.capcom.com/eula/game/) *This content is also available as part of one or more bundles. Please check your previous purchases to avoid duplication.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: JagerWolfenr; Deckerr97\nUpdated: 2026-10-21T23:09:12.134Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Fileditch",
+          "url": "https://itsfileditchfiles.st/beta46/01258101906bc6331ee0/L1ZARD%20Onimusha%20Way%20of%20The%20Sword%20PPSA27836.rar"
+        },
+        {
+          "name": "Fileditch - Backport",
+          "url": "https://itsfileditchfiles.st/beta46/1d25592fe33989d09601/PPSA27836%20Onimusha%20Way%20of%20the%20Sword%20FW%204xx%2B%20Pro%20fix%20backport.rar"
+        }
+      ],
+      "sizeBytes": 62384399974
+    },
+    {
+      "titleId": "PPSA34015",
+      "title": "EA Sports FC 27",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2322/78e0ba12f88a79c454b6b17d1638f2ae0b2943f1dbc98a17.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2322/78e0ba12f88a79c454b6b17d1638f2ae0b2943f1dbc98a17.png",
+      "description": "If you have purchased FC25 or FC26 on PlayStation Store, you will see a 30 % discount on the Standard Edition price until October 28. EA SPORTS FC™ 27 includes PS4 &amp; PS5 versions. Welcome to The World’s Game in EA SPORTS FC™ 27. Step into The Grounds‡‡, a social football playground where the streets meet the stadium. From Kickabouts and 1v1s to teaming up with friends in Clubs, connect with renowned football mentors, improve your abilities, and express yourself on and off the pitch. Feel greater control in every game mode with more fluid, true-to-life gameplay, featuring dynamic corners, enhanced attacking awareness, player-focused defending tailored for competitive play, and more community-driven innovations. Sign your next star in Manager Career through a rebuilt Transfer Market with realistic player values and active club bidding. Master new negotiation tactics, including performance and buy-back clauses, as Dynamic OVRs reflect player form, morale, and fitness across every club. Immortalise your dream club in Football Ultimate Team™ with the brand-new FUT Gallery. Curate your favourite Player Items to grow your Gallery Level, earn rewards, and build your Club’s identity throughout the new football season. Experience unrivalled authenticity in EA SPORTS FC™ 27, with match data from the world’s top leagues powering 21,000+ licensed players. Join the Club Membership in EA SPORTS FC™ 27 for rewards ‡ . To qualify, play EA SPORTS FC™ 26 and EA SPORTS FC™ 27 before 1 November, 2026. Current Club Members from EA SPORTS FC™ 26 can maintain their status by playing EA SPORTS FC™ 27 before 1 November, 2026. ‡‡The Grounds mode, including Clubs, only available on PlayStation 5 version.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: JagerWolfen\nUpdated: 2026-10-21T23:04:06.597Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Fileditch",
+          "url": "https://fileditchalbums.st/wbutdwbv5f"
+        }
+      ],
+      "sizeBytes": 122406567936
+    },
+    {
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei Complete Edition",
+      "createdAt": "2026-10-21T23:15:53.742Z",
+      "version": "2.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png",
+      "description": "The Echoes of Sekigahara and Most Wanted in-game content will be included as part of an update (patch v.2.0). This standalone experience follows Atsu, a haunted and lone mercenary, as she sets out to hunt down those who killed her family many years prior. Her quest across Ezo takes her to unexplored lands as she seeks out a gang of six outlaws. Along the way, help her find unlikely allies, forge lasting bonds and build a path towards healing and redemption. Engage in fluid and dynamic combat, go beyond the bloodshed and piece together Atsu’s unconventional tale living at the periphery of 1600s Northern Japan, obscured by the shadows of Mount Yōtei. Included in this version: Echoes of Sekigahara• • Delve into a new story expansion into Atsu’s past, explore a whole new area of Ezo, learn more of the Battle of Sekigahara and master a type of new weapon in combat. Most Wanted Game Mode• • Tackle a brand-new combat survival mode, in which you fight off waves of new enemies and challenging boss encounters – while unlocking new weapons, cosmetics and even new playable characters. Ghost of Yōtei™ Legends• • Team up with friends in this co-op multiplayer game mode and challenge monstruous, supernatural versions of the Yōtei Six.² Its core game modes include: Survival, Story and Incursion.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Ignore the error that appears when you launch the game. Once you've ignored it, you can play it normally.\nCredits: JaggerWolfner\nUpdated: 2026-10-21T23:00:55.900Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Fileditch",
+          "url": "https://fileditchalbums.st/422ghjpc33"
+        }
+      ],
+      "sizeBytes": 179314884608
+    },
+    {
+      "titleId": "PPSA26786",
+      "title": "Indiana Jones and the Great Circle + DLC",
+      "createdAt": "2026-10-21T23:15:53.742Z",
+      "version": "1.015",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png",
+      "description": "Uncover one of history’s greatest mysteries in Indiana Jones and the Great Circle™, a first-person, single-player adventure set between the events of Raiders of the Lost Ark™ and The Last Crusade™. The year is 1937, sinister forces are scouring the globe for the secret to an ancient power connected to the Great Circle, and only one person can stop them - Indiana Jones™. You’ll become the legendary archaeologist in this cinematic action-adventure game from MachineGames, the award-winning studio behind the recent Wolfenstein series, and executive produced by Hall of Fame game designer Todd Howard. YOU ARE INDIANA JONES Live the adventure as Indy in a thrilling story full of exploration, immersive action, and intriguing puzzles. As the brilliant archaeologist – famed for his keen intellect, cunning resourcefulness, and trademark humor – you will travel the world in a race against enemy forces to discover the secrets to one of the greatest mysteries of all time. A WORLD OF MYSTERY AWAITS Travel from the halls of Marshall College to the heart of the Vatican, the pyramids of Egypt, the sunken temples of Sukhothai, and beyond. When a break-in in the dead of night ends in a confrontation with a mysterious colossal man, you must set out to discover the world-shattering secret behind the theft of a seemingly unimportant artifact. Forging new alliances and facing familiar enemies, you’ll engage with intriguing characters, use guile and wits to solve ancient riddles, and survive intense set-pieces. WHIP-CRACKING ACTION Indiana’s trademark whip remains at the heart of his gear and can be used to distract, disarm, and attack enemies. But the whip isn’t just a weapon, it’s Indy’s most valuable tool for navigating the environment. Swing over unsuspecting patrols and scale walls as you make your way through a striking world. Combine stealth infiltration, melee combat, and gunplay to combat the enemy threat and unravel the mystery . THE SPIRIT OF DISCOVERY Venture through a dynamic mix of linear, narrative-driven gameplay and open-area maps. Indulge your inner explorer and unearth a world of fascinating secrets, deadly traps and fiendish puzzles, where anything could potentially hide the next piece of the mystery – or snakes. Why did it have to be snakes?\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Desesperado3\nUpdated: 2026-10-21T22:50:27.595Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/Y85BVl6oz6"
+        }
+      ],
+      "sizeBytes": 212600881152
+    },
+    {
+      "titleId": "PPSA24884",
+      "title": "Starfield + DLC",
+      "createdAt": "2026-10-21T23:15:53.742Z",
+      "version": "1.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2416/936885b92da764db51a40d174c4d36453f7a2581aa495ffd.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2416/936885b92da764db51a40d174c4d36453f7a2581aa495ffd.png",
+      "description": "Starfield is the first new universe in over 25 years from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim and Fallout 4. In this next generation role-playing game set amongst the stars, create any character you want and explore with unparalleled freedom as you embark on an epic journey to answer humanity’s greatest mystery. In the year 2330, humanity has ventured beyond our solar system, settling new planets, and living as a spacefaring people. You will join Constellation – the last group of space explorers seeking rare artifacts throughout the galaxy – and navigate the vast expanse of space in Bethesda Game Studios’ biggest and most ambitious game. TELL YOUR STORY In Starfield the most important story is the one you tell with your character. Start your journey by customizing your appearance and deciding your Background and Traits. Will you be an experienced explorer, a charming diplomat, a stealthy cyber runner, or something else entirely? The choice is yours. Decide who you will be and what you will become. EXPLORE OUTER SPACE Venture through the stars and explore more than 1000 planets. Navigate bustling cities, explore dangerous bases, and traverse wild landscapes. Meet and recruit a memorable cast of characters, join in the adventures of various factions, and embark on quests across the Settled Systems. A new story or experience is always waiting to be discovered. CAPTAIN THE SHIP OF YOUR DREAMS Pilot and command the ship of your dreams. Personalize the look of your ship, modify critical systems including weapons and shields, and assign crew members to provide unique bonuses. In deep space you will engage in high-stakes dogfights, encounter random missions, dock at star stations, and even board and commandeer enemy ships to add to your collection. DISCOVER, COLLECT, BUILD Explore planets and discover the fauna, flora, and resources needed to craft everything from medicine and food to equipment and weapons. Build outposts and hire a crew to passively extract materials and establish cargo links to transfer resources between them. Invest these raw materials into research projects to unlock unique crafting recipes. LOCK AND LOAD Space can be a dangerous place. A refined combat system gives you the tools to deal with any situation. Whether you prefer long-range rifles, laser weapons, or demolitions, each weapon type can be modified to complement your playstyle. Zero G environments add a chaotic spectacle to combat, while boost packs give players freedom to maneuver like never before.\nRegion: EUR\nFirmware: 11.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Desesperado3\nUpdated: 2026-10-21T22:37:55.581Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/eSDfsRpabd"
+        }
+      ],
+      "sizeBytes": 173946175488
+    },
+    {
+      "titleId": "PPSA20423",
+      "title": "Another Crab's Treasure",
+      "createdAt": "2026-10-21T22:14:52.541Z",
+      "version": "02.000.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0301/30aac0dabbd3e8a390d7b5a75bc558e7f593e09765034080.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0301/30aac0dabbd3e8a390d7b5a75bc558e7f593e09765034080.png",
+      "description": "As Kril the hermit crab, you’ll need to wear the trash around you as shells to withstand attacks from enemies many times your size. Embark on an epic treasure hunt to buy back your repossessed shell, and discover the dark secrets behind the polluted ocean. TRASH OR TREASURE? In this undersea society, trash is not only a way of life, but a valuable resource, used for everything from fashion to firearms. But with the presence of trash comes a mysterious infection known as the Gunk, which could spell doom for the entire ocean. LEARN FROM NATURE As Kril explores the ocean, he'll gain a variety of Umami Techniques—powerful attacks learned from the denizens of the seas. Punch your enemies with the overwhelming might of a Mantis Shrimp, ensnare them with the horrifying Bobbit Worm, and much more. UNEXPLORED DEPTHS The ocean goes deeper than one can imagine. Fight your way through kelp forests, coral reefs, sand castle cities, and even the unfathomable darkness of the deep-sea trenches, all in the name of getting back your prized shell. PLAY AT YOUR OWN PACE Designed to be an approachable experience for newer soulslike players as well as provide a challenge for hardcore fans, Another Crab's Treasure offers something for any level of skill or time commitment. Assist options are provided for those seeking a less frustrating experience, and gluttons for punishment can use those same options to make the game even harder.\nRegion: EUR\nFirmware: 4.xx+\nNotes: Tested on PS5 Slim Disc Edition, FW 11.20, External M.2 NVMe SSD with the following payloads: 1. kstuff-fpkg-1.13-dr-test6.elf Source : Drakmor's Discord Server 2. ShadowMountPlus_1.7-beta5fix1.elf Source : Drakmor's ShadowMountPlus GitHub\nUpdated: 2026-10-21T21:36:30.531Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/2V0KphNpWj"
+        }
+      ],
+      "sizeBytes": 3189013217
+    },
+    {
       "titleId": "PPSA03845",
       "title": "Dead Space",
       "createdAt": "2026-10-16T21:48:35.923Z",

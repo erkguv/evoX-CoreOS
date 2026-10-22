@@ -467,12 +467,6 @@
       <pubDate>v1.7</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5X360 V0.6.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf</link>
-      <description>x360 emu for ps5, you need PPSA97358.zip</description>
-      <pubDate>v0.6.0</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Ps5-Romm V1.2.1</title>
       <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.1/ps5-romm_v1.2.1.elf</link>
       <description>ps5-romm for ps5</description>
@@ -731,6 +725,12 @@
       <pubDate>np-fake-signin</pubDate>
     </item>
     <item>
+      <title>[Payloads] Ps5X360 V0.6.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PS5X360</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Elf Arsenal V1.6.23</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -882,21 +882,15 @@
     </item>
     <item>
       <title>[Applications] Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PPSA50011.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PPSA50011.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.6.0</pubDate>
+      <pubDate>v1.0.0</pubDate>
     </item>
     <item>
-      <title>[Applications] Ps5X360-Autolog-V1.0.9-Preview</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PS5X360-AutoLog-v1.0.9-preview.elf</link>
+      <title>[Applications] Ps5X360-Source-1.0.0-Changes</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PS5X360-source-1.0.0-changes.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.6.0</pubDate>
-    </item>
-    <item>
-      <title>[Applications] Ps5X360-Source-0.6.0-Changes</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PS5X360-source-0.6.0-changes.zip</link>
-      <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.6.0</pubDate>
+      <pubDate>v1.0.0</pubDate>
     </item>
     <item>
       <title>[Applications] Helper</title>
@@ -917,10 +911,10 @@
       <pubDate>v0.4.0</pubDate>
     </item>
     <item>
-      <title>[Applications] Porpoise-3.0</title>
-      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v3.0/Porpoise-3.0.zip</link>
+      <title>[Applications] Porpoise-4.0</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.0/Porpoise-4.0.zip</link>
       <description>GameCube and Wii Dolphin emu for ps5</description>
-      <pubDate>v3.0</pubDate>
+      <pubDate>v4.0</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa19111</title>

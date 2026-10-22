@@ -771,16 +771,6 @@
             "checksum": "f764824466d317bed73715ce8d5235b8a6505f676ab6338b7134d7264b0a84af"
         },
         {
-            "name": "Ps5X360 V0.6.0",
-            "filename": "PS5X360_v0.6.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf",
-            "local_path": "payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf",
-            "description": "x360 emu for ps5, you need PPSA97358.zip",
-            "version": "v0.6.0",
-            "category": "PS5 Emulator",
-            "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb"
-        },
-        {
             "name": "Ps5-Romm V1.2.1",
             "filename": "ps5-romm_v1.2.1.elf",
             "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.1/ps5-romm_v1.2.1.elf",
@@ -1058,7 +1048,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "957fa8551bdaabc3b858fd4a141c5f5c813202f7193159ee47920d039137da65"
+            "checksum": "76570f2e436784f402bb9cd6d9b484c03c356aded745d7069cc36d05fbebbd05"
         },
         {
             "name": "Pkg-Manager V1.5.1",
@@ -1201,6 +1191,15 @@
             "description": "Récupéré depuis le stockage local (Interne / Fallback)",
             "version": "np-fake-signin",
             "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca"
+        },
+        {
+            "name": "Ps5X360 V0.6.0",
+            "filename": "PS5X360_v0.6.0.elf",
+            "url": "",
+            "local_path": "payloads/ps5_emulator/PS5X360/v0.6.0/PS5X360_v0.6.0.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "PS5X360",
+            "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb"
         },
         {
             "name": "Elf Arsenal V1.6.23",

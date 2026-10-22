@@ -34,31 +34,21 @@
     {
       "name": "Ppsa50011",
       "filename": "PPSA50011.zip",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PPSA50011.zip",
-      "local_path": "apps/PS5X360/v0.6.0/PPSA50011.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PPSA50011.zip",
+      "local_path": "apps/PS5X360/v1.0.0/PPSA50011.zip",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.6.0",
-      "checksum": "b2bf7a7d242428cfa002ec557210dc885403580b58bda8d67a436a2550b67dd2",
+      "version": "v1.0.0",
+      "checksum": "4985867c14e94054da858a4655e3a2202daf85f06556b67dd02423bd40876d79",
       "category": "Applications"
     },
     {
-      "name": "Ps5X360-Autolog-V1.0.9-Preview",
-      "filename": "PS5X360-AutoLog-v1.0.9-preview.elf",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PS5X360-AutoLog-v1.0.9-preview.elf",
-      "local_path": "apps/PS5X360/v0.6.0/PS5X360-AutoLog-v1.0.9-preview.elf",
+      "name": "Ps5X360-Source-1.0.0-Changes",
+      "filename": "PS5X360-source-1.0.0-changes.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PS5X360-source-1.0.0-changes.zip",
+      "local_path": "apps/PS5X360/v1.0.0/PS5X360-source-1.0.0-changes.zip",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.6.0",
-      "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb",
-      "category": "Applications"
-    },
-    {
-      "name": "Ps5X360-Source-0.6.0-Changes",
-      "filename": "PS5X360-source-0.6.0-changes.zip",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PS5X360-source-0.6.0-changes.zip",
-      "local_path": "apps/PS5X360/v0.6.0/PS5X360-source-0.6.0-changes.zip",
-      "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.6.0",
-      "checksum": "315a9df892995511403d2198e95058b850e470d6879d6c31d9e3397746412a93",
+      "version": "v1.0.0",
+      "checksum": "b8854e2212d19b47a3ca6bcd8e21f15b236998bbc55bb25ac64afbf3af35f2ed",
       "category": "Applications"
     },
     {
@@ -92,13 +82,13 @@
       "category": "Applications"
     },
     {
-      "name": "Porpoise-3.0",
-      "filename": "Porpoise-3.0.zip",
-      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v3.0/Porpoise-3.0.zip",
-      "local_path": "apps/Porpoise/v3.0/Porpoise-3.0.zip",
+      "name": "Porpoise-4.0",
+      "filename": "Porpoise-4.0.zip",
+      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.0/Porpoise-4.0.zip",
+      "local_path": "apps/Porpoise/v4.0/Porpoise-4.0.zip",
       "description": "GameCube and Wii Dolphin emu for ps5",
-      "version": "v3.0",
-      "checksum": "889bc738624c1c1abe5be304e3e78604f5cd66068473b5eeaef6c77e7677513e",
+      "version": "v4.0",
+      "checksum": "bce438cc8f436e177ae33b47a43aba82a7020e9db9b2b94c14055b4b7db2328e",
       "category": "Applications"
     },
     {
