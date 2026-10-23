@@ -12,14 +12,14 @@
       "checksum": "2633e61352406697d1c37f4374554cab83adf13055a8ca284419e1c8b6ac22bd"
     },
     {
-      "name": "Genplusgxps5 V2.1",
-      "filename": "genplusgxPS5_v2.1.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.1/genplusgxPS5_v2.1.elf",
-      "local_path": "payloads/ps5_emulator/genplusgxPS5/v2.1/genplusgxPS5_v2.1.elf",
+      "name": "Genplusgxps5 V2.1.1",
+      "filename": "genplusgxPS5_v2.1.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.1.1/genplusgxPS5_v2.1.1.elf",
+      "local_path": "payloads/ps5_emulator/genplusgxPS5/v2.1.1/genplusgxPS5_v2.1.1.elf",
       "description": "Port of Genesis-Plus-GX for PS55",
-      "version": "v2.1",
+      "version": "v2.1.1",
       "category": "PS5 Emulator",
-      "checksum": "7c8c6e23e734dde655d065643b6e4b73084f479f51d7929e837dcc610558338c"
+      "checksum": "5999b01c35b6774a758797d093d5248efad7b31990a94cd78fd1b29dc0a846d5"
     },
     {
       "name": "Ps5X360 V1.0.2",

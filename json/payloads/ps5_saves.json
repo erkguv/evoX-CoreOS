@@ -2,14 +2,14 @@
   "name": "PS5 Saves",
   "payloads": [
     {
-      "name": "Garlic-Savemgr V1.14",
-      "filename": "garlic-savemgr_v1.14.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.14/garlic-savemgr_v1.14.elf",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.14/garlic-savemgr_v1.14.elf",
+      "name": "Garlic-Savemgr V1.15-Beta1",
+      "filename": "garlic-savemgr_v1.15-beta1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.14",
+      "version": "v1.15-beta1",
       "category": "PS5 Saves",
-      "checksum": "57763da9d36ae1cb0c744e90a59a06cb54e4eae0c9a8dec62ce774f892c624b9"
+      "checksum": "9777e49916968b5327be9d3799d25f1d3b810d3c853c448d38c8bbd120124787"
     },
     {
       "name": "Garlic-Worker V1.1.7",

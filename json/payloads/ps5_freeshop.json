@@ -40,16 +40,6 @@
       "version": "v1.4.0",
       "category": "PS5 Freeshop",
       "checksum": "e43c6272b3519fc2ec8b9373a484f2c2adb9669d7652567661149da741ab6d94"
-    },
-    {
-      "name": "Ps5-Phstore Vphstore",
-      "filename": "PS5-PHStore_vPHStore.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf",
-      "local_path": "payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf",
-      "description": "Free PH Store client for PS5.",
-      "version": "PHStore",
-      "category": "PS5 Freeshop",
-      "checksum": "64d5c4605a063a63f01213c31d627466218e787956873b2eef39b369b60112ee"
     }
   ]
 }

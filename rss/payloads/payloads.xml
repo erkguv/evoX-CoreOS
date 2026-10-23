@@ -5,10 +5,10 @@
     <link>https://erkguv.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Payloads</description>
     <item>
-      <title>Garlic-Savemgr V1.14</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.14/garlic-savemgr_v1.14.elf</link>
+      <title>Garlic-Savemgr V1.15-Beta1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.14</pubDate>
+      <pubDate>v1.15-beta1</pubDate>
     </item>
     <item>
       <title>Garlic-Worker V1.1.7</title>
@@ -269,12 +269,6 @@
       <pubDate>v1.4.0</pubDate>
     </item>
     <item>
-      <title>Ps5-Phstore Vphstore</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf</link>
-      <description>Free PH Store client for PS5.</description>
-      <pubDate>PHStore</pubDate>
-    </item>
-    <item>
       <title>Actremotelink Agent V2.0</title>
       <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf</link>
       <description>ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play</description>
@@ -407,10 +401,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Pad2C V1.2.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.2.0/pad2c_v1.2.0.elf</link>
+      <title>Pad2C V1.3.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.0/pad2c_v1.3.0.elf</link>
       <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v1.2.0</pubDate>
+      <pubDate>v1.3.0</pubDate>
     </item>
     <item>
       <title>Anypad-Ps5 V0.6.0</title>
@@ -438,9 +432,9 @@
     </item>
     <item>
       <title>Genplusgxps5 V2.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.1/genplusgxPS5_v2.1.elf</link>
-      <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v2.1</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>genplusgxPS5</pubDate>
     </item>
     <item>
       <title>Ps5X360 V1.0.2</title>
@@ -747,6 +741,12 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Spectrum-Library</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Phstore Vphstore</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PS5-PHStore</pubDate>
     </item>
     <item>
       <title>Ps5 Overlay</title>

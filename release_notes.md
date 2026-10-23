@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.23-1115)
+### 🚀 Synthèse de la mise à jour (v2026.10.23-1643)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -20,7 +20,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
-  * `garlic-savemgr_v1.14.elf`
+  * `garlic-savemgr_v1.15-beta1.elf`
   * `garlic-worker_v1.1.7.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `Common_FPS_PS5_v1.2.3.elf`
@@ -64,7 +64,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent.elf`
   * `orbit_store.elf`
-  * `PS5-PHStore_vPHStore.elf`
   * `actremotelink_agent_v2.0.elf`
   * `actremotelink_pin_notify_v2.0.elf`
   * `bfplayer-standalone.elf`
@@ -87,7 +86,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `OmniPad-PS5_v1.0.4-hotfix1.elf`
   * `FGG-XSense_v1.1.elf`
   * `ghost-toothAPI.elf`
-  * `pad2c_v1.2.0.elf`
+  * `pad2c_v1.3.0.elf`
   * `AnyPad-PS5_v0.6.0.elf`
   * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
@@ -144,6 +143,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5library-agent-0.2.70.elf`
   * `ps5library-agent-0.2.55.elf`
   * `Spectrum-Library_v1.4.8.elf`
+  * `PS5-PHStore_vPHStore.elf`
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `PoorDS4rc51_v0.1.0-rc51.elf`

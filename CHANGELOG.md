@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/10/2026 à 16:43
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.15-Beta1` (v1.15-beta1) - *Nouveau*
+  * `Pad2C V1.3.0` (v1.3.0) - *Nouveau*
+  * `Genplusgxps5 V2.1` (genplusgxPS5) - *Mise à jour (Précédent: v2.1)*
+  * `Ps5-Phstore Vphstore` (PS5-PHStore) - *Mise à jour (Précédent: PHStore)*
+
 ## Build du 23/10/2026 à 03:44
 * **PAYLOADS**
   * `Pad2C V1.2.0` (v1.2.0) - *Nouveau*
