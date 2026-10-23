@@ -661,14 +661,14 @@
             "checksum": "744277a72a268871284ad3b91565968df06c57c0acdabd921c8712e6de731f99"
         },
         {
-            "name": "Pad2C V1.3.0",
-            "filename": "pad2c_v1.3.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.0/pad2c_v1.3.0.elf",
-            "local_path": "payloads/ps5_pad_utility/pad2c/v1.3.0/pad2c_v1.3.0.elf",
+            "name": "Pad2C V1.3.1",
+            "filename": "pad2c_v1.3.1.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.1/pad2c_v1.3.1.elf",
+            "local_path": "payloads/ps5_pad_utility/pad2c/v1.3.1/pad2c_v1.3.1.elf",
             "description": "Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.",
-            "version": "v1.3.0",
+            "version": "v1.3.1",
             "category": "PS5 Pad Utility",
-            "checksum": "98bd84646df953307bf732c64c064d8361931e66cf70d2b5cd2f8537c49f8860"
+            "checksum": "b2608887bbea8f1bf74c2fcb6888a475b80c89a53266f4fe0f7dc96e828d738d"
         },
         {
             "name": "Anypad-Ps5 V0.6.0",
@@ -678,7 +678,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "69be375b35b4eeb350d0001be699b0f39d7faa50de173e17ab1b95707d61420a"
+            "checksum": "5972d09b6975cf150f3088c52329216fc968a47df64c45d88d16757ac237f39c"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
@@ -701,23 +701,24 @@
             "checksum": "9fc48733077145d1d204a4c9cdb879baaab1e711a604dd73af0dd4a807d6bc49"
         },
         {
-            "name": "Snes9Xps5 V2.8",
-            "filename": "snes9xPS5_v2.8.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.8/snes9xPS5_v2.8.elf",
-            "local_path": "payloads/ps5_emulator/snes9xPS5/v2.8/snes9xPS5_v2.8.elf",
+            "name": "Snes9Xps5 V2.9",
+            "filename": "snes9xPS5_v2.9.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.9/snes9xPS5_v2.9.elf",
+            "local_path": "payloads/ps5_emulator/snes9xPS5/v2.9/snes9xPS5_v2.9.elf",
             "description": "snes9x emulator",
-            "version": "v2.8",
+            "version": "v2.9",
             "category": "PS5 Emulator",
-            "checksum": "2633e61352406697d1c37f4374554cab83adf13055a8ca284419e1c8b6ac22bd"
+            "checksum": "14d5147546ec26d54973fbad975d380539832834d8940e3806f902e2183b2779"
         },
         {
-            "name": "Genplusgxps5 V2.1",
-            "filename": "genplusgxPS5_v2.1.elf",
-            "url": "",
-            "local_path": "payloads/ps5_emulator/genplusgxPS5/v2.1/genplusgxPS5_v2.1.elf",
-            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-            "version": "genplusgxPS5",
-            "checksum": "7c8c6e23e734dde655d065643b6e4b73084f479f51d7929e837dcc610558338c"
+            "name": "Genplusgxps5 V2.2",
+            "filename": "genplusgxPS5_v2.2.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.2/genplusgxPS5_v2.2.elf",
+            "local_path": "payloads/ps5_emulator/genplusgxPS5/v2.2/genplusgxPS5_v2.2.elf",
+            "description": "Port of Genesis-Plus-GX for PS55",
+            "version": "v2.2",
+            "category": "PS5 Emulator",
+            "checksum": "0acf4a5edd0443a1540ee509cb1fb16bd4ba6d7533a53bd0992e6eaa76508494"
         },
         {
             "name": "Ps5X360 V1.0.2",

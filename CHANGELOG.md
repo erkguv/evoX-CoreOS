@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/10/2026 à 21:12
+* **PAYLOADS**
+  * `Pad2C V1.3.1` (v1.3.1) - *Nouveau*
+  * `Snes9Xps5 V2.9` (v2.9) - *Nouveau*
+  * `Genplusgxps5 V2.2` (v2.2) - *Nouveau*
+
 ## Build du 23/10/2026 à 16:43
 * **PAYLOADS**
   * `Garlic-Savemgr V1.15-Beta1` (v1.15-beta1) - *Nouveau*
