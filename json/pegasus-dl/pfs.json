@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA34008",
+      "title": "Mortal Shell II",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.00",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1509/1d0b85f713fa47d73f2a649a9e12a940361ec51d0b2cefb5.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1509/1d0b85f713fa47d73f2a649a9e12a940361ec51d0b2cefb5.png",
+      "description": "Mortal Shell II is a standalone sequel to Mortal Shell that significantly expands on the original with faster and unforgiving combat, deeper weapon design with extensive upgrade options, and an emphasis on free exploration within a compact open-world. The corpses of exceptional warriors are scattered throughout Mortal Shell II’s destroyed world. Once discovered, each warrior can be possessed, awakening their innate strengths and mastered abilities. Evolve your own style of combat by harnessing the unique abilities of each warrior, and unlock their secrets through the discovery of lost memories. Mortal Shell II’s compact open-world connects over winding footpaths guarded by desperate and fanatical adversaries. Players who wander are rewarded with new warriors to possess, additional story elements, powerful and strange weaponry, upgrades, curiosities and more. Step through derelict temples of ancient deities, across forbidden forests and icy graves, into citadels carved out of bone. Scattered between these lost landmarks are more than 80 dungeons, each providing a challenging test of the talents and weaponry you have collected on your journey. You control the Harbinger, a being that must reclaim the Undermether’s stolen eggs that are now ruthlessly guarded by grotesque, dangerous creatures. Mortal Shell II’s combat system is agile and expressive. Stamina gauges are removed, and execution options have been enhanced, delivering a kinetic and chaotic dark power fantasy. Precision meets intensity in high-stakes combat.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-23T09:48:23.798Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/KagQLkLYe0"
+        }
+      ],
+      "sizeBytes": 32212254720
+    },
+    {
+      "titleId": "PPSA28608",
+      "title": "Darwin’s Paradox",
+      "createdAt": "2026-10-23T09:49:57.100Z",
+      "version": "01.00",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1223/3098be7ad1447bdc06bc6f855a7945efe6c16b99bcfc7d07.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1223/3098be7ad1447bdc06bc6f855a7945efe6c16b99bcfc7d07.png",
+      "description": "Embark on a grand adventure worthy of a true animated movie with Darwin, an octopus as charming as he is clever, ripped from the ocean and trapped in a massive and mysterious industrial complex. With his extraordinary intelligence and incredible abilities – swimming, camouflage, and many other fascinating skills – help him overcome the most formidable traps and dangers in this captivating platformer, adventure, and puzzle game. In the peaceful vastness of the ocean, Darwin, a young octopus, explores the deep sea… until a strange beam of light pierces the abyss and pulls him toward the surface. Thrust out of his aquatic world, he wakes up disoriented in the middle of a gigantic junkyard, backed by a foreboding factory. But something is wrong. Between the threatening machines, strange holding tanks, and the mysterious and dangerous creatures and characters that inhabit the place, Darwin realizes he is in danger. To return to the ocean, Darwin will have to outsmart, evolve, and reveal to the players through his journey the mysteries of a conspiracy that goes beyond anything one could have imagined… and which could very well seal the fate of humanity! Main Gameplay Features: A grand adventure worthy of an animated movie: With rich artistic direction and a vibrant world, Darwin’s Paradox immerses you in a visual and emotional epic where every detail reveals more of its incredible story. Original gameplay: The game offers a perfect balance between platforming sequences and moments of puzzle-solving: Swim, hide, infiltrate, jump, and use the extraordinary abilities of an octopus to advance in your adventure, escape perilous situations, or solve the many puzzles in the game. A living and interactive world: Discover sprawling levels with a unique and polished artistic direction, filled with puzzles, dangers, and surprising creatures and characters. An immersive and poignant narrative: Between humor, emotion, and suspense, Darwin takes you on a memorable odyssey.\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-23T09:41:34.783Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/VWUZdM9Nwj"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
       "titleId": "PPSA10595",
       "title": "Tekken 8 Ultimate Edition",
       "createdAt": "2026-10-16T21:48:35.923Z",
