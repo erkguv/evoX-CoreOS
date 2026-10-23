@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/10/2026 à 03:44
+* **PAYLOADS**
+  * `Pad2C V1.2.0` (v1.2.0) - *Nouveau*
+  * `Genplusgxps5 V2.1` (v2.1) - *Nouveau*
+  * `Ps5X360 V1.0.2` (v1.0.2) - *Nouveau*
+  * `Ps5-Romm V1.3.0` (v1.3.0) - *Nouveau*
+* **APPS**
+  * `Ppsa50011` (v1.0.2) - *Mise à jour (Précédent: v1.0.0)*
+  * `Ps5X360-Helper` (v1.0.2) - *Nouveau*
+  * `Ps5X360-Source-1.0.2-Changes` (v1.0.2) - *Nouveau*
+
 ## Build du 22/10/2026 à 21:24
 * **PAYLOADS**
   * `Ps5Library-Agent` (v0.2.91) - *Mise à jour (Précédent: PS5Library)*

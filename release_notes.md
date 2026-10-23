@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.22-2124)
+### 🚀 Synthèse de la mise à jour (v2026.10.23-0344)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -87,13 +87,14 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `OmniPad-PS5_v1.0.4-hotfix1.elf`
   * `FGG-XSense_v1.1.elf`
   * `ghost-toothAPI.elf`
-  * `pad2c_v1.1.0.elf`
+  * `pad2c_v1.2.0.elf`
   * `AnyPad-PS5_v0.6.0.elf`
   * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
   * `snes9xPS5_v2.8.elf`
-  * `genplusgxPS5_v1.7.elf`
-  * `ps5-romm_v1.2.1.elf`
+  * `genplusgxPS5_v2.1.elf`
+  * `PS5X360_v1.0.2.elf`
+  * `ps5-romm_v1.3.0.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
@@ -146,7 +147,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `PoorDS4rc51_v0.1.0-rc51.elf`
-  * `PS5X360_v0.6.0.elf`
 
 </details>
 
@@ -196,7 +196,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `SpectrumLibrary_1.0.4.zip`
   * `flycast-ps5-2026.10.06.zip`
   * `PPSA50011.zip`
-  * `PS5X360-source-1.0.0-changes.zip`
+  * `PS5X360-Helper.elf`
+  * `PS5X360-source-1.0.2-changes.zip`
   * `helper.elf`
   * `PPSA97358.zip`
   * `Porpoise-4.0.zip`

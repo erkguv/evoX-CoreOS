@@ -407,10 +407,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pad2C V1.1.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.1.0/pad2c_v1.1.0.elf</link>
+      <title>[Payloads] Pad2C V1.2.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.2.0/pad2c_v1.2.0.elf</link>
       <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v1.1.0</pubDate>
+      <pubDate>v1.2.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Anypad-Ps5 V0.6.0</title>
@@ -437,16 +437,22 @@
       <pubDate>v2.8</pubDate>
     </item>
     <item>
-      <title>[Payloads] Genplusgxps5 V1.7</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.7/genplusgxPS5_v1.7.elf</link>
+      <title>[Payloads] Genplusgxps5 V2.1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.1/genplusgxPS5_v2.1.elf</link>
       <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v1.7</pubDate>
+      <pubDate>v2.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Romm V1.2.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.1/ps5-romm_v1.2.1.elf</link>
+      <title>[Payloads] Ps5X360 V1.0.2</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v1.0.2/PS5X360_v1.0.2.elf</link>
+      <description>x360 emu for ps5, you need PPSA97358.zip</description>
+      <pubDate>v1.0.2</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Ps5-Romm V1.3.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.3.0/ps5-romm_v1.3.0.elf</link>
       <description>ps5-romm for ps5</description>
-      <pubDate>v1.2.1</pubDate>
+      <pubDate>v1.3.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Phu-Sandbox.Exit V1.0</title>
@@ -761,12 +767,6 @@
       <pubDate>PoorDS4</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5X360 V0.6.0</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PS5X360</pubDate>
-    </item>
-    <item>
       <title>[Packages PKG] Ps5Pkg Avatar-Changer V1.00</title>
       <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg</link>
       <description>Avatar-Changer.</description>
@@ -930,15 +930,21 @@
     </item>
     <item>
       <title>[Applications] Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PPSA50011.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v1.0.0</pubDate>
+      <pubDate>v1.0.2</pubDate>
     </item>
     <item>
-      <title>[Applications] Ps5X360-Source-1.0.0-Changes</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PS5X360-source-1.0.0-changes.zip</link>
+      <title>[Applications] Ps5X360-Helper</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-Helper.elf</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v1.0.0</pubDate>
+      <pubDate>v1.0.2</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Ps5X360-Source-1.0.2-Changes</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-source-1.0.2-changes.zip</link>
+      <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
+      <pubDate>v1.0.2</pubDate>
     </item>
     <item>
       <title>[Applications] Helper</title>

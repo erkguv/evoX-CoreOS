@@ -104,21 +104,31 @@
         {
             "name": "Ppsa50011",
             "filename": "PPSA50011.zip",
-            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PPSA50011.zip",
-            "local_path": "apps/PS5X360/v1.0.0/PPSA50011.zip",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip",
+            "local_path": "apps/PS5X360/v1.0.2/PPSA50011.zip",
             "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-            "version": "v1.0.0",
-            "checksum": "4985867c14e94054da858a4655e3a2202daf85f06556b67dd02423bd40876d79",
+            "version": "v1.0.2",
+            "checksum": "230359c2638f99add3972147e1690e62d8984a37c00181501680bdda7c1096c8",
             "category": "Applications"
         },
         {
-            "name": "Ps5X360-Source-1.0.0-Changes",
-            "filename": "PS5X360-source-1.0.0-changes.zip",
-            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PS5X360-source-1.0.0-changes.zip",
-            "local_path": "apps/PS5X360/v1.0.0/PS5X360-source-1.0.0-changes.zip",
+            "name": "Ps5X360-Helper",
+            "filename": "PS5X360-Helper.elf",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-Helper.elf",
+            "local_path": "apps/PS5X360/v1.0.2/PS5X360-Helper.elf",
             "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-            "version": "v1.0.0",
-            "checksum": "b8854e2212d19b47a3ca6bcd8e21f15b236998bbc55bb25ac64afbf3af35f2ed",
+            "version": "v1.0.2",
+            "checksum": "4a0250329e63b376f620511c4b6e2c6a2eb959e056824abde27947bf53f07b59",
+            "category": "Applications"
+        },
+        {
+            "name": "Ps5X360-Source-1.0.2-Changes",
+            "filename": "PS5X360-source-1.0.2-changes.zip",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-source-1.0.2-changes.zip",
+            "local_path": "apps/PS5X360/v1.0.2/PS5X360-source-1.0.2-changes.zip",
+            "description": "x360 emu for ps5, you need xpsemu_tools.elf",
+            "version": "v1.0.2",
+            "checksum": "d9bd03469de0f858d6d3ef8ebde04771b26c6fbcad68f765b0f33bdd0f10d606",
             "category": "Applications"
         },
         {

@@ -66,15 +66,21 @@
     </item>
     <item>
       <title>Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PPSA50011.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v1.0.0</pubDate>
+      <pubDate>v1.0.2</pubDate>
     </item>
     <item>
-      <title>Ps5X360-Source-1.0.0-Changes</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.0/PS5X360-source-1.0.0-changes.zip</link>
+      <title>Ps5X360-Helper</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-Helper.elf</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v1.0.0</pubDate>
+      <pubDate>v1.0.2</pubDate>
+    </item>
+    <item>
+      <title>Ps5X360-Source-1.0.2-Changes</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-source-1.0.2-changes.zip</link>
+      <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
+      <pubDate>v1.0.2</pubDate>
     </item>
     <item>
       <title>Helper</title>
