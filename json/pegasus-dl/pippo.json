@@ -3,6 +3,60 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8 Wings of Theve Deluxe Edition",
+      "createdAt": "2026-10-24T00:27:13.025Z",
+      "version": "v01.001.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1823/5929543b280b7ff4707431f09bd5e9e5a4396a1dde269986.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1823/5929543b280b7ff4707431f09bd5e9e5a4396a1dde269986.png",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA24913, v01.001.001, JPN, 4.xx BackPort + 5.xx BackPort\nSize: 232GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, separated 4.xx BackPort &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/pMZubagv#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/pMZubagv#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/ETOEEHlq#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/ETOEEHlq#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/ETOEEHlq#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/ETOEEHlq#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/MspceXMi#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/MspceXMi#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/MspceXMi#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/MspceXMi#FileKeeper"
+        }
+      ],
+      "sizeBytes": 249108103168
+    },
+    {
       "titleId": "PPSA24662",
       "title": "F1 25 Season 2026 Edition",
       "createdAt": "2026-10-22T22:00:56.746Z",
@@ -10,7 +64,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA24662, v01.026, USA, 4.xx BackPort\nSize: 93GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: Using HEN can cause crash. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA24662, v01.026, USA, 4.xx BackPort\nSize: 93GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo &amp; DecKerr97\nHow to play: Using HEN can cause crash. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -64,7 +118,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2408/619d09fd9e82617c0d3207bee7a4d7055c4181b7b4496c50.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2408/619d09fd9e82617c0d3207bee7a4d7055c4181b7b4496c50.png",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA38474, v01.002, ASIA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 13.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA38474, v01.002, ASIA, 4.xx BackPort\nSize: 24GB\nCredits: Files: Scene; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 13.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -156,7 +210,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/3e9face5939ff74cb52fc44508cd42d0481d85f3612a09e9.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/3e9face5939ff74cb52fc44508cd42d0481d85f3612a09e9.png",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18026, v01.009.002, EUR, 4.xx BackPort\nSize: 38GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18026, v01.009.002, EUR, 4.xx BackPort\nSize: 38GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
