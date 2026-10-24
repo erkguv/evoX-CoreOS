@@ -3,6 +3,78 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA07550",
+      "title": "MediEvil Resurrection",
+      "createdAt": "2026-10-24T07:10:04.644Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1415/685fbcd48b44bbf014e2faad00695f22eb37ca3533600bc3.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1415/685fbcd48b44bbf014e2faad00695f22eb37ca3533600bc3.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/medievil-resurrection-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/obj3jke49zDx/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1HaPS4"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HAEuLKQzhT"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA20928",
+      "title": "Jak and Daxter The Precursor Legacy",
+      "createdAt": "2026-10-24T07:10:04.644Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/671315cbe9ba857dac7f1c86f59086899fe0d098f8523718.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/671315cbe9ba857dac7f1c86f59086899fe0d098f8523718.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/jak-and-daxter-the-precursor-legacy-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/0Kezk0V4oGD1/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/J8cd6"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/bc2scib5M3"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07715",
+      "title": "GODS EATER BURST",
+      "createdAt": "2026-10-24T07:10:04.644Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2102/31b372bce7227435ea70ba0bbc5b13d2b77c9f01f283fcc3.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2102/31b372bce7227435ea70ba0bbc5b13d2b77c9f01f283fcc3.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/gods-eater-burst-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/Z9dzBB9glzk1/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/4uAkq"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/AnpbdUtafz"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA31544",
       "title": "FINAL FANTASY RESONANCE Deluxe Edition",
       "createdAt": "2026-10-22T21:37:00.195Z",
@@ -135246,6 +135318,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYjhsRU1kVktyTWcwN1pXY3FLYnRaeVdSZUd5Mmd2VVJuaU1qTWRTZit5UzllVm1wS1B2QmJZWUxKOVI5OGVSdXFwVzFsajViYThBTEdjTlJCZXhGSXRhR1hDZkFJZz09IiwiaSI6ImVKbEdNTTEzcTFsSk95OSsiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24913",
+      "title": "[exFAT] Ace Combat 8 Wings of Theve Deluxe Edition",
+      "createdAt": "2026-10-24T07:10:04.644Z",
+      "version": "01.001.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1823/5929543b280b7ff4707431f09bd5e9e5a4396a1dde269986.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1823/5929543b280b7ff4707431f09bd5e9e5a4396a1dde269986.png",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 01.001.001 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "JPN exFAT 01.001.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoia1BNYWNTNmdXSStXd2ZMRUhQWXBrTUl3QUc5anJLRzdWb1hxZnMyakNWWmZOWVBmRmpROVJrbGkwTDl5RkFCaDJTSTJDZXJrdC8wSjNJbThBdWdpRWwycWd6UXhyQ3cxYTFNNko2QWVYZz09IiwiaSI6ImFNK3doK2RLZjRaSFF0aTEiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "JPN exFAT 01.001.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN3UwazFQMERRejQrbkVKZ0NSS1NlQjBWNzNKckpBeE5IYlN1WU5BYm52NWYrZ3hBUWFzZGJXeHhNQ1hmRU1WMm5xZktNb05kd3V6eHRjQTQ2RGlzd1dXbzNHUlBlTGlhN0t0OEVMTHpSRkk9IiwiaSI6ImZTeFlCbE5Ua3ZVSW51RnciLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "JPN exFAT 01.001.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTTRyeG9SdHFnemNhUFJHRnpjcXZHTkNWRkorenFpdm4yZUxXNFo0dE5Sb1BFVHhXQmhzK0pkT0J3TXM0TUsyNzFNZ0VTWXE0Q3pMbndRN3JES0JTa2ZqRUJKOXhmN25CUnVSZjZ0cDMiLCJpIjoiU1hTS1hBSnpvNnQ3UlRYMCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "JPN exFAT 01.001.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS0ZSWFR4NGh1R0FNTG1QN0EvZ1JrMlJ0dHpaV3VSb2tBbmdsekZzc1VDdW5PYitDdTVRT2NnZ3dnU3pWVjVvWlRWa2toOTJnSU1vamE2UkhCa0VnZjUwaFpadVlHcWpmSmQzVjI5M0tmcFE9IiwiaSI6IjRseDNwMXJmU3FxdGNxWksiLCJuIjoiVmlraSJ9"
         }
       ]
     },

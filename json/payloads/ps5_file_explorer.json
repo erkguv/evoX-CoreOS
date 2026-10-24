@@ -2,14 +2,14 @@
   "name": "PS5 File Explorer",
   "payloads": [
     {
-      "name": "Bfpilot V0.4.4",
-      "filename": "BFpilot_v0.4.4.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf",
-      "local_path": "payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf",
+      "name": "Bfpilot V0.5.0",
+      "filename": "BFpilot_v0.5.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf",
+      "local_path": "payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf",
       "description": "BFpilot is a lightweight PS5 payload that serves a browser-based file manager.",
-      "version": "v0.4.4",
+      "version": "v0.5.0",
       "category": "PS5 File Explorer",
-      "checksum": "5a8237630260026ad054d71fbbe661e433ac9ffa2cb4eea2785769c1eb7ee1c1"
+      "checksum": "b9226a4321de09d434579d651b9fdbb5ce0ccbe5c65f86bb2e951c324da4df9f"
     },
     {
       "name": "Lapy Jb Daemon",

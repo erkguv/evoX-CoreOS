@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.24-0342)
+### 🚀 Synthèse de la mise à jour (v2026.10.24-1032)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -26,7 +26,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Common_FPS_PS5_v1.2.3.elf`
   * `overlay_payload.elf`
   * `ps5-overlay-kus_v1.0.19.elf`
-  * `BFpilot_v0.4.4.elf`
+  * `BFpilot_v0.5.0.elf`
   * `lapy_jb_daemon.elf`
   * `wfm-7zip-helper.elf`
   * `web-file-mgr-v1.12.elf`
@@ -51,7 +51,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.13.elf`
-  * `ps5upload_v7.1.9.elf`
+  * `ps5upload_v7.2.0.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`

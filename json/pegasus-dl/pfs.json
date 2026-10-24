@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA08260",
+      "title": "Star Wars Outlaws",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.007",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/bca42b94af09b7a7ffd27fcb76a7bb1e46b60ed0c5f99322.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/bca42b94af09b7a7ffd27fcb76a7bb1e46b60ed0c5f99322.png",
+      "description": "Experience the first-ever open world Star Wars action-adventure game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life. Fight, steal, and outwit your way through the galaxy crime syndicates as you join the galaxy most wanted. If youâ€re willing to take the risk, the galaxy is full of opportunity. DISCOVER A GALAXY OF OPPORTUNITY Explore distinct locations with bustling cities and cantinas. Race across sprawling outdoor landscapes on your speeder. Each location brings new adventures, unique challenges, and enticing rewards if youâ€re willing to take the risk. EXPERIENCE AN ORIGINAL SCOUNDREL STORY Live the high-stakes lifestyle of an outlaw. Turn any situation to your advantage with Nix by your side: fight with your blaster, overcome enemies with stealth and gadgets, or find the right moments to distract enemies and gain the upper hand. EMBARK ON HIGH-STAKES MISSIONS Take on high-risk, high-reward missions from the galaxyâ€s crime syndicates. Steal valuable goods, infiltrate secret locations, and outwit enemies as one of the galaxyâ€s most wanted. Every choice you make influences your ever-changing reputation. JUMP INTO THE PILOT SEAT Pilot your ship, the Trailblazer, as you engage in thrilling dogfights with the Empire and other foes. Find the right opportunities to chase, evade, and attack to get the upper hand. Offer, content, and dates subject to change.\nRegion: EUR\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-24T04:47:23.698Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/PEoWkVdIN9"
+        }
+      ],
+      "sizeBytes": 73014444032
+    },
+    {
+      "titleId": "PPSA28038",
+      "title": "Halo Campaign Evolved Premium Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "17.661",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1321/a0d52445fcb5d96d66a361b6759d1b8b959c4644cea70714.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1321/a0d52445fcb5d96d66a361b6759d1b8b959c4644cea70714.png",
+      "description": "PREMIUM EDITION INCLUDES: • Halo: Campaign Evolved game • Alpha Halo Armory Pack, featuring 5 Master Chief Armor skins &amp; 6 weapon skins • Art of Halo: Campaign Evolved Digital Artbook • Halo: Hungry Buzzards Digital Short Story • Digital Game Manual EXPERIENCE WHERE THE LEGEND BEGINS Halo: Campaign Evolved is a faithful yet modernized remake of Halo: Combat Evolved’s campaign. Experience the original story rebuilt with high-definition visuals, updated cinematics, refined controls, plus a brand-new three-mission adventure featuring the Master Chief and Sgt. Johnson. A broader arsenal of weapons, vehicles, enemies, and gameplay-modifying “Skulls” – optional modifiers that change combat in fun and challenging ways – add fresh tactics and endless replayability. Play it your way: solo, in 2-player split-screen co-op (console only), or up to 4-player online co-op with full crossplay and cross-progression support.* Whether you’re discovering Halo for the first time or returning to the ring after 25 years, Halo: Campaign Evolved delivers an adventure that feels both timeless and brand new. DISCOVER THE RINGWORLD: After crash landing on a mysterious ringworld known as Halo, the Master Chief is tasked with helping the remaining humans survive against overwhelming Covenant forces. Alongside his AI companion Cortana, he uncovers Halo’s dark secrets and fights to avert the annihilation of all life in the galaxy. THE COMPLETE CAMPAIGN, REBUILT: Battle through the original missions, remade with high-def visuals, updated cinematics, and refined level design. CINEMATICS AND AUDIO OVERHAULED: All-new visuals and animations, plus a remastered soundtrack and fully rebuilt sound design for deeper immersion. COMBAT AND WEAPONS EXPANDED: Classic Halo combat feels sharper than ever, now with 9 additional iconic weapons from across the series to add to your arsenal. THREE NEW MISSIONS: Play as the Master Chief alongside Sgt. Johnson in Operation: Meteorite, a standalone combat operation featuring new environments, gameplay, and enemies. PLAY SOLO OR WITH FRIENDS: 2-player split-screen (console only) or 4-player online co-op, with crossplay and cross-progression across console and PC. DRIVE, HIJACK, WREAK HAVOC: Halo’s iconic vehicles return with more ways to create unforgettable chaos. For the first time in Halo: CE, hijack enemy vehicles and pilot a fully drivable Wraith tank. ENDLESS REPLAYABILITY: Remix every mission with optional “Skull” modifiers that add variety and challenge with randomized weapons, enemies, and environments.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-24T04:38:48.867Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/PEoWkVdIN9"
+        }
+      ],
+      "sizeBytes": 67645734912
+    },
+    {
       "titleId": "PPSA20447",
       "title": "The First Berserker Khazan",
       "createdAt": "2026-10-16T21:48:35.923Z",

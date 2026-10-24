@@ -41,10 +41,10 @@
       <pubDate>v1.0.19</pubDate>
     </item>
     <item>
-      <title>[Payloads] Bfpilot V0.4.4</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf</link>
+      <title>[Payloads] Bfpilot V0.5.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf</link>
       <description>BFpilot is a lightweight PS5 payload that serves a browser-based file manager.</description>
-      <pubDate>v0.4.4</pubDate>
+      <pubDate>v0.5.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Lapy Jb Daemon</title>
@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.1.9</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ps5upload</pubDate>
+      <title>[Payloads] Ps5Upload V7.2.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.2.0/ps5upload_v7.2.0.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025</description>
+      <pubDate>v7.2.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>

@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/10/2026 à 10:32
+* **PAYLOADS**
+  * `Bfpilot V0.5.0` (v0.5.0) - *Nouveau*
+  * `Ps5Upload V7.2.0` (v7.2.0) - *Nouveau*
+
 ## Build du 23/10/2026 à 21:12
 * **PAYLOADS**
   * `Pad2C V1.3.1` (v1.3.1) - *Nouveau*

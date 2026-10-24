@@ -62,14 +62,14 @@
             "checksum": "fbb798d01fa413ca0d04b81ff9c719e1da0535e4145858459d9982e163b975d1"
         },
         {
-            "name": "Bfpilot V0.4.4",
-            "filename": "BFpilot_v0.4.4.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf",
-            "local_path": "payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf",
+            "name": "Bfpilot V0.5.0",
+            "filename": "BFpilot_v0.5.0.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf",
+            "local_path": "payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf",
             "description": "BFpilot is a lightweight PS5 payload that serves a browser-based file manager.",
-            "version": "v0.4.4",
+            "version": "v0.5.0",
             "category": "PS5 File Explorer",
-            "checksum": "5a8237630260026ad054d71fbbe661e433ac9ffa2cb4eea2785769c1eb7ee1c1"
+            "checksum": "b9226a4321de09d434579d651b9fdbb5ce0ccbe5c65f86bb2e951c324da4df9f"
         },
         {
             "name": "Lapy Jb Daemon",
@@ -312,13 +312,14 @@
             "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
         },
         {
-            "name": "Ps5Upload V7.1.9",
-            "filename": "ps5upload_v7.1.9.elf",
-            "url": "",
-            "local_path": "payloads/ps5_server/ps5upload/v7.1.9/ps5upload_v7.1.9.elf",
-            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-            "version": "ps5upload",
-            "checksum": "a9674bd22737688783c1857817d032ddf2fd5ca4e750eea17175428556271141"
+            "name": "Ps5Upload V7.2.0",
+            "filename": "ps5upload_v7.2.0.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.2.0/ps5upload_v7.2.0.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v7.2.0/ps5upload_v7.2.0.elf",
+            "description": "PS5 Upload server / tool. Port: 9025",
+            "version": "v7.2.0",
+            "category": "PS5 Server",
+            "checksum": "a8a20057b43fae225df7adfdda046911d81886a72fc3223e831c2999db948331"
         },
         {
             "name": "Airpsx V0.19",
@@ -678,7 +679,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "5e4016b2453ab9251e7206419e5951e0c1aa1089dab903422622bb5c48587857"
+            "checksum": "90aff974adba8b613e277fc8a152041d722b6a284aab97fedb61f551b89a57ec"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
