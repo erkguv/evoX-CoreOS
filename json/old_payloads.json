@@ -311,14 +311,14 @@
             "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
         },
         {
-            "name": "Ps5Upload V7.3.0",
-            "filename": "ps5upload_v7.3.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.3.0/ps5upload_v7.3.0.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v7.3.0/ps5upload_v7.3.0.elf",
+            "name": "Ps5Upload V7.4.3",
+            "filename": "ps5upload_v7.4.3.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v7.3.0",
+            "version": "v7.4.3",
             "category": "PS5 Server",
-            "checksum": "ded4faa584fa2ac76d34210b7df01cee1359c47eeb0bae5c6f8d7c03a3e1a3cd"
+            "checksum": "1a7dfaff37d131adac59a74a454dd0a756a503d1022bddda5b5b7e619299e667"
         },
         {
             "name": "Airpsx V0.19",
@@ -433,12 +433,12 @@
         {
             "name": "Orbit Store",
             "filename": "orbit_store.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.4.0/orbit_store.elf",
-            "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.4.0/orbit_store.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.5.0/orbit_store.elf",
+            "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.5.0/orbit_store.elf",
             "description": "A modern, no-BS download manager for PS5.",
-            "version": "v1.4.0",
+            "version": "v1.5.0",
             "category": "PS5 Freeshop",
-            "checksum": "e43c6272b3519fc2ec8b9373a484f2c2adb9669d7652567661149da741ab6d94"
+            "checksum": "9590ef2cfa8764eb96fbe52dec302f1d9c8ba7d51101f031a69ac1279d20e579"
         },
         {
             "name": "Actremotelink Agent V2.0",
@@ -678,7 +678,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "d0a62adfd23b67f58909057ae811948e12169ecd41077ca9d4376bf8c95ab673"
+            "checksum": "433df104748e941f10dc55041ed41aba58b2902cf5f2d0568674ee58de92be1e"
         },
         {
             "name": "Np-Fake-Signin-Ps5",

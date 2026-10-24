@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/10/2026 à 20:26
+* **PAYLOADS**
+  * `Ps5Upload V7.4.3` (v7.4.3) - *Nouveau*
+  * `Orbit Store` (v1.5.0) - *Mise à jour (Précédent: v1.4.0)*
+
 ## Build du 24/10/2026 à 15:37
 * **PAYLOADS**
   * `Bfpilot V0.5.0` (BFpilot) - *Mise à jour (Précédent: v0.5.0)*
