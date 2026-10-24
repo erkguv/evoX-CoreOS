@@ -64,11 +64,10 @@
         {
             "name": "Bfpilot V0.5.0",
             "filename": "BFpilot_v0.5.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf",
+            "url": "",
             "local_path": "payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf",
-            "description": "BFpilot is a lightweight PS5 payload that serves a browser-based file manager.",
-            "version": "v0.5.0",
-            "category": "PS5 File Explorer",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "BFpilot",
             "checksum": "b9226a4321de09d434579d651b9fdbb5ce0ccbe5c65f86bb2e951c324da4df9f"
         },
         {
@@ -312,14 +311,14 @@
             "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
         },
         {
-            "name": "Ps5Upload V7.2.0",
-            "filename": "ps5upload_v7.2.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.2.0/ps5upload_v7.2.0.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v7.2.0/ps5upload_v7.2.0.elf",
+            "name": "Ps5Upload V7.3.0",
+            "filename": "ps5upload_v7.3.0.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.3.0/ps5upload_v7.3.0.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v7.3.0/ps5upload_v7.3.0.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v7.2.0",
+            "version": "v7.3.0",
             "category": "PS5 Server",
-            "checksum": "a8a20057b43fae225df7adfdda046911d81886a72fc3223e831c2999db948331"
+            "checksum": "ded4faa584fa2ac76d34210b7df01cee1359c47eeb0bae5c6f8d7c03a3e1a3cd"
         },
         {
             "name": "Airpsx V0.19",
@@ -679,7 +678,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "90aff974adba8b613e277fc8a152041d722b6a284aab97fedb61f551b89a57ec"
+            "checksum": "d0a62adfd23b67f58909057ae811948e12169ecd41077ca9d4376bf8c95ab673"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
@@ -714,11 +713,10 @@
         {
             "name": "Genplusgxps5 V2.2",
             "filename": "genplusgxPS5_v2.2.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.2/genplusgxPS5_v2.2.elf",
+            "url": "",
             "local_path": "payloads/ps5_emulator/genplusgxPS5/v2.2/genplusgxPS5_v2.2.elf",
-            "description": "Port of Genesis-Plus-GX for PS55",
-            "version": "v2.2",
-            "category": "PS5 Emulator",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "genplusgxPS5",
             "checksum": "0acf4a5edd0443a1540ee509cb1fb16bd4ba6d7533a53bd0992e6eaa76508494"
         },
         {

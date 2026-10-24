@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/10/2026 à 15:37
+* **PAYLOADS**
+  * `Bfpilot V0.5.0` (BFpilot) - *Mise à jour (Précédent: v0.5.0)*
+  * `Ps5Upload V7.3.0` (v7.3.0) - *Nouveau*
+  * `Genplusgxps5 V2.2` (genplusgxPS5) - *Mise à jour (Précédent: v2.2)*
+
 ## Build du 24/10/2026 à 10:32
 * **PAYLOADS**
   * `Bfpilot V0.5.0` (v0.5.0) - *Nouveau*

@@ -3,6 +3,78 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA02195",
+      "title": "Trackmania Free Starter Access",
+      "createdAt": "2026-10-24T13:16:10.034Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2020/80a04a298990fe77d90c0fc5d531a87035852e1b4af6cfbb.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2020/80a04a298990fe77d90c0fc5d531a87035852e1b4af6cfbb.png",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/trackmania-free-starter-access-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8XoBQGOB/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/HgRzE"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/jTxcioO1oV"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34474",
+      "title": "eBaseball PRO SPIRIT 2026",
+      "createdAt": "2026-10-24T13:16:10.034Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1904/7abe9a7da5ec64878487df8eccdf2ccbf9042b3a33df95f4.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1904/7abe9a7da5ec64878487df8eccdf2ccbf9042b3a33df95f4.png",
+      "description": "Region: JPN\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/ebaseball-pro-spirit-2026-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/N2p3Dd1Kk3Ma/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/gXeGOeEXJ3Aa/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/0rpmv1wj7GRg/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1sXnnc"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1wZefA"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/nvGlM"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/WLoqxnJi6o"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/aP6wrmxnDV"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/KrF7J8hXsa"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA07550",
       "title": "MediEvil Resurrection",
       "createdAt": "2026-10-24T07:10:04.644Z",
@@ -71,6 +143,30 @@
         {
           "name": "USA 7.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/AnpbdUtafz"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06788",
+      "title": "Resistance Retribution",
+      "createdAt": "2026-10-24T13:16:10.034Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2421/7dcb69559223b4249e5c9efcf4d114532cafb5b678d63e8f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2421/7dcb69559223b4249e5c9efcf4d114532cafb5b678d63e8f.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/resistance-retribution-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/dkD3YDxLJmLQ/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1lwGmW"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/5Q2UUU2GoV"
         }
       ]
     },
@@ -9616,7 +9712,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2822/ee41c702e3b4d9a76c1918e829a7191c9b1fb5b7a3d1e416.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2822/ee41c702e3b4d9a76c1918e829a7191c9b1fb5b7a3d1e416.png",
-      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 11.xx\nRegion: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/south-of-midnight-ps5/",
       "downloadLinks": [
         {
@@ -9650,6 +9746,22 @@
         {
           "name": "USA 11.xx Base - Rootz part 4",
           "url": "https://www.rootz.so/d/jkzuS"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTzk5RDNvTEJJVnEyQzZ6Yy9KVkVRMC8yeUNQZXNUTzV0dERUREFFR3lkbnErWjFwSWk5bTJWMmYzMW94N2Z0NXBGZ1gzaVQ5VlRrdmZ3NVNxbS9oUUQ4SXRiTU5wNzVMZ1hjS0ZZbnRZZz09IiwiaSI6IlVUQ3kyY00zTUlralRYV1oiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieXRmMkVnb05Nb3BlSVk2VWxOV3ZsMngzbnVDTy9HQUU5NTRIWjZtQVRETzdNQUowaXlUM3lIZ0xqSGJNd0dRV21KTEk0OGVvdXlKdXh1ZEIvZk5Vdk1Zd00vMDFhNEZCYVB0MThBV0g3MXM9IiwiaSI6IjZETGZvRDNkTVJaWWZ2aW4iLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS0RVdDFZZlFINFh6ODJLYzVnYXFmUldaa2dsVXlxclVYZGszMTNSdmM4MnlQbEZHM2gvZHFpU1E2OUthS2JNa3NsS2hrOGhiYzU4VnFMTVBvQU1tMXF0QjBvckxFYmR0RGI2U3hQMEoiLCJpIjoidEx6UTl3SkxkS2RqMWdCNCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOTdqT2tLWEtNOGFvMUZLa2kwNzh1d0l1WE1jdU1yMjIyc2NUc0R5ekxxMVNRWFlLQkdKR2EvWDJDQzl5NlNEdFhnTXZtQ2pJdWdlRENkOFpYTE5YY24yeTRMbk1PZUp4Zmszcm92N0k5Y3c9IiwiaSI6IkxnTDNxZVJ0WTV0N2U1QlgiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -135318,6 +135430,50 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYjhsRU1kVktyTWcwN1pXY3FLYnRaeVdSZUd5Mmd2VVJuaU1qTWRTZit5UzllVm1wS1B2QmJZWUxKOVI5OGVSdXFwVzFsajViYThBTEdjTlJCZXhGSXRhR1hDZkFJZz09IiwiaSI6ImVKbEdNTTEzcTFsSk95OSsiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA99903",
+      "title": "[exFAT] Sonic the Hedgehog 2006 (Unofficial Port)",
+      "createdAt": "2026-10-24T13:16:10.034Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Sonic_the_Hedgehog_2006.webp",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000 Base - AKIA (exFAT) part 1",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTjhMMUVUQzZocml0VENzRFFpQ3JvS044dXpGR2FwejI0aVdnUXJQSG14SU9vdEVjMENwM0F6bXk2RWZBOXZoNTcwTkRKaWpvbkJEaU5pQ0RxZTBKKzRIUFJXYlBzVWRvTVl3RUNnQlgiLCJpIjoiZVZsTjQxeHQyRk81Q1pPTCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - VIKI (exFAT) part 1",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNVdFbDBDU3g5NERTbjlaRzcwbVhyNWE4akpqMmJFUjV1aU15ZXpQZVQwV1ltSE0yODhUVFVva0Z4bjhGalMzYjEvWEpGMkdya253RTU2dHQ4TmptV1Rlc3B3dFh2NUdoalBmQm5lZUVpSzg9IiwiaSI6ImtzQmxDVVhRTTEvcXZOTFkiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DATA (exFAT) part 1",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUHlSZ09VOUgyTkYwNEJFMGZ6QU1QRk9ydjZnU2hnWFBYQ2xVY0NaL3o3cUZEcFpSZ2xkTjZBcUU0bkNRYVNFWlJtbXg1Vk1raXdTMkU1TnZaRmZzTDkvMmQ3cG1kTW1pZFlpdUR1UkxOQT09IiwiaSI6InVEYk90aDUweWJqWjQxcFoiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileK (exFAT) part 1",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicFYyOVVqdWJIUW9BWnRabzlGeS9WdkZOcUdCQW90SnVSYjNaekNHMFN0ZklTMURCU1ZiL2hmTktic0ttZ2JsRGFzNDVqQm1wVzcyU2ZpWFY5b09YTUdwM1hNWmV4UlQvd0ZERS84OEhGZFU9IiwiaSI6IkxlOE9QU09FU2ZVSUNZdFUiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DATA (exFAT) part 2",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRFVhRmY1UWdxYmM3MXljZmdmSUcxeUxQNXhBcGY1RDhsb1ZTSk5iay9ncEl3Rnp6M1FIL083UGRhemN4RmJGWE0yeUphczhHelRWUjVaelNBTWlUVW80UW9VQXN5RE5BdTVQSEZ4VDFnQT09IiwiaSI6Im9ZWGh2cDNKQ29BeStWRFYiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileK (exFAT) part 2",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTEFpalJaV25ERVBaM01CNmpPMnhaNVY3aWZONTh2TkV1WnZ1WmJvUDFaVHVlTmpjaDNIKy9peDc4VUFIMFVoT0NlZHNta3doSVY1dFgvNUFPY2VOTUlBakZibStQUlJuTUp0ZGFYK00zYmM9IiwiaSI6IjljM1dXdWNIT21rcUNSS2siLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - AKIA (exFAT) part 2",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib1BHWnVqM0p2QjhqajU1WjJGUXRtMGt5b3FJQTB4WGZMaFFWeE1PWVlIQWNMS1ZWd09uYjlYU0IzUEdQanNlWkJRQzd3VzFYaTJuMUo3Y0M0R2ZJNC9OZjJYY1RpRVE1UGVVM1I5UE0iLCJpIjoiMHJ4KzlwUVU0R2ZVa2dPTCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - VIKI (exFAT) part 2",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaVhnODJGY3RVUFYyaWdHT2ovSXZtU3FYbFRUVjBDMmlVZGI2T3JuVXhnVWk1a2J2WG5NQTdVajZLSUdqNlZxRndpV1pOZUVIL1BVUG9HOFpSYkkxbWRFUHpmcllQUFQ1NDgzRlcvQkdUMU09IiwiaSI6IlhIaWlYVGNVRGtWelQ3RXoiLCJuIjoiVmlraSJ9"
         }
       ]
     },

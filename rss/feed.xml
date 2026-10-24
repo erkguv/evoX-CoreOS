@@ -42,9 +42,9 @@
     </item>
     <item>
       <title>[Payloads] Bfpilot V0.5.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf</link>
-      <description>BFpilot is a lightweight PS5 payload that serves a browser-based file manager.</description>
-      <pubDate>v0.5.0</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>BFpilot</pubDate>
     </item>
     <item>
       <title>[Payloads] Lapy Jb Daemon</title>
@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.2.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.2.0/ps5upload_v7.2.0.elf</link>
+      <title>[Payloads] Ps5Upload V7.3.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.3.0/ps5upload_v7.3.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.2.0</pubDate>
+      <pubDate>v7.3.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -432,9 +432,9 @@
     </item>
     <item>
       <title>[Payloads] Genplusgxps5 V2.2</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.2/genplusgxPS5_v2.2.elf</link>
-      <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v2.2</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>genplusgxPS5</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5X360 V1.0.2</title>
