@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.25-0337)
+### 🚀 Synthèse de la mise à jour (v2026.10.25-1059)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -11,6 +11,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_ultimate_pack_part1_latest.zip`
 - `PS5_ultimate_pack_part2_latest.zip`
 - `PS5_ultimate_pack_part3_latest.zip`
+- `PS5_ultimate_pack_part4_latest.zip`
 
 #### 📂 Fichiers inclus / mis à jour :
 📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)
@@ -51,7 +52,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.13.elf`
-  * `ps5upload_v7.5.1.elf`
+  * `ps5upload_v7.5.2.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -176,7 +177,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>📄 Pack FFPFSC</b></summary>
 
 * **files**
-  * `EVOPlayer-v0.12.5-PPSA99039.ffpfsc`
+  * `EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc`
+  * `EVOPlayer-v0.13.0-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
 
 </details>
