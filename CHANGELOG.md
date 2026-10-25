@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/10/2026 à 20:33
+* **PAYLOADS**
+  * `Ps5Upload V7.5.3` (v7.5.3) - *Nouveau*
+  * `Orbit Store` (v1.6.0) - *Mise à jour (Précédent: v1.5.0)*
+* **APPS**
+  * `Ppsa99000` (v1.000.107) - *Mise à jour (Précédent: v1.000.106)*
+
 ## Build du 25/10/2026 à 10:59
 * **PAYLOADS**
   * `Ps5Upload V7.5.2` (v7.5.2) - *Nouveau*
