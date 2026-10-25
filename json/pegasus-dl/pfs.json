@@ -3,6 +3,240 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA14363",
+      "title": "Metal Gear Solid - Master Collection Version Vol. 1",
+      "createdAt": "2026-10-25T15:15:02.032Z",
+      "version": "3.0",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2815/11d0dbc5e72685640d62c9848170615d220d91d690181b82.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2815/11d0dbc5e72685640d62c9848170615d220d91d690181b82.png",
+      "description": "Released in 1998, this was the first 3D title in the METAL GEAR series. The game pioneers 3D stealth action against the threat of war and global nuclear weapons, using live action footage, cinematic cut scenes, interwoven with innovative gameplay. The storyline, a whirlwind of intrigue and betrayal, has been hailed as the greatest story of the 20th century and was the third title in the METAL GEAR series to become a hit in subsequent years. Also included: an exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid and Metal Gear &amp; Metal Gear 2: Solid Snake. [Title lineup] Metal Gear Metal Gear 2: Solid Snake Metal Gear Solid (Including VR Missions/Special Missions) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid: Screenplay Book Metal Gear Solid: Master Book Metal Gear &amp; Metal Gear 2: Screenplay Book Metal Gear &amp; Metal Gear 2: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: EUR\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Bundled in: Base Game + Vr missions. Only English.\nUpdated: 2026-10-25T14:46:46.777Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/rKbDaIcSwL"
+        }
+      ],
+      "sizeBytes": 6195490324
+    },
+    {
+      "titleId": "PPSA09663",
+      "title": "Dragon's Dogma 2 + DLC",
+      "createdAt": "2026-10-25T15:15:02.032Z",
+      "version": "4.000.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/2fff756fa904befe46b838dd6f27fa49f6b53d9f3dbbb776.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/2fff756fa904befe46b838dd6f27fa49f6b53d9f3dbbb776.png",
+      "description": "Set forth on your grand adventure, Arisen! Dragon’s Dogma is a single player, narrative driven action-RPG series that challenges the players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more. Now, in this long-awaited sequel, the deep, explorable fantasy world of Dragon’s Dogma 2 awaits. On your journey, you’ll be joined by Pawns, mysterious otherworldly beings, in an adventure so unique you will feel as if accompanied by other players while on your own adventure. All of these elements are elevated further through physics technology, artificial intelligence (AI) and the latest in graphics, to create a truly immersive fantasy world in Dragon’s Dogma 2.\nRegion: JPN to EUR Languages\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: **We STRONGLY recommend erasing your software's cache on your PS5 first before installing**. Only non-asian language available is English.\nUpdated: 2026-10-25T14:38:18.831Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki - pt.1",
+          "url": "https://vikingfile.com/f/6KhcW5GUxt"
+        },
+        {
+          "name": "Viki - pt.2",
+          "url": "https://vikingfile.com/f/GZE2xOVqJ2"
+        },
+        {
+          "name": "Viki - pt.3",
+          "url": "https://vikingfile.com/f/9Zmp2XFGad"
+        },
+        {
+          "name": "Viki - pt.4",
+          "url": "https://vikingfile.com/f/Chg70zxKPj"
+        },
+        {
+          "name": "Viki - pt.5",
+          "url": "https://vikingfile.com/f/ijVEJkChGS"
+        },
+        {
+          "name": "Viki - pt.6",
+          "url": "https://vikingfile.com/f/tauqK8Sx8V"
+        },
+        {
+          "name": "Viki - pt.7",
+          "url": "https://vikingfile.com/f/1fFv8RaF00"
+        },
+        {
+          "name": "Viki - pt.8",
+          "url": "https://vikingfile.com/f/giGuHwYfMm"
+        },
+        {
+          "name": "Viki - pt.9",
+          "url": "https://vikingfile.com/f/Gx3lygWhhv"
+        },
+        {
+          "name": "Viki - pt.10",
+          "url": "https://vikingfile.com/f/e4HiKaIWSg"
+        },
+        {
+          "name": "Viki - pt.11",
+          "url": "https://vikingfile.com/f/dy3FqLCoF0"
+        },
+        {
+          "name": "Viki - pt.12",
+          "url": "https://vikingfile.com/f/bgxTQzNzMR"
+        },
+        {
+          "name": "Viki - pt.13",
+          "url": "https://vikingfile.com/f/5lz750nkQn"
+        },
+        {
+          "name": "Viki - pt.14",
+          "url": "https://vikingfile.com/f/hXGhUk8C1u"
+        },
+        {
+          "name": "Viki - pt.15",
+          "url": "https://vikingfile.com/f/WGWj1YYUee"
+        },
+        {
+          "name": "Viki - pt.16",
+          "url": "https://vikingfile.com/f/WzTyPbbb9L"
+        },
+        {
+          "name": "Viki - pt.17",
+          "url": "https://vikingfile.com/f/PHXh5BJN4E"
+        },
+        {
+          "name": "Viki - pt.18",
+          "url": "https://vikingfile.com/f/bjePYeajOC"
+        },
+        {
+          "name": "Viki - pt.19",
+          "url": "https://vikingfile.com/f/gjZVtOa8vz"
+        },
+        {
+          "name": "Viki - pt.20",
+          "url": "https://vikingfile.com/f/ZHnSg0oW5G"
+        }
+      ],
+      "sizeBytes": 129815386522
+    },
+    {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8 Wings of Theve",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.001.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1823/5929543b280b7ff4707431f09bd5e9e5a4396a1dde269986.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1823/5929543b280b7ff4707431f09bd5e9e5a4396a1dde269986.png",
+      "description": "ACE COMBAT 8: WINGS OF THEVE delivers high-octane aerial action! Step into the cockpit and take flight as an elite pilot across stunning skies. Enter intense dogfights, eliminate threats, and rise through gripping missions to earn your wings in this game developed by PROJECT ACES, the acclaimed team behind the franchise. Aerial Warfare in Living Skies. Campaign Mode showcases stunning visuals with dynamic multi-layered cloudscapes that capture the majesty of living skies. Feel the rush of fast-paced arcade-style gameplay while deploying powerful weapons to dominate the battlefield. A visceral journey from cockpit to ground. Beyond the chaos in the air, exhilarating first-person scenes reveal your pilot’s story through breathtaking cinematics. Experience the pressure of command, the weight of decisions, and the bonds forged in battle. Between missions, bond with your squad members, rise to meet adversity, and prove yourself as a true ace. The Largest Online Mode of the Series ACE COMBAT ONLINE delivers the most expansive multiplayer experience in franchise history. Step into the series’ first online lobby, explore an air base with your custom avatar before diving into multiplayer games. Sortie into online missions with pilots worldwide in a variety of modes including Co-Op and cross platform play. *This is the Standard Edition of the game. A Deluxe Edition is also available. Please take care to avoid duplicate purchases.\nRegion: JPN to EUR Languages\nFirmware: 12.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-25T11:25:18.741Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Download - pt.1",
+          "url": "https://vikingfile.com/f/MfanQG0r1s"
+        },
+        {
+          "name": "Download - pt.2",
+          "url": "https://vikingfile.com/f/okOtoMDO9h"
+        },
+        {
+          "name": "Download - pt.3",
+          "url": "https://vikingfile.com/f/mFD9KO3Oul"
+        },
+        {
+          "name": "Download - pt.4",
+          "url": "https://vikingfile.com/f/FCTxu3WeT8"
+        },
+        {
+          "name": "Download - pt.5",
+          "url": "https://vikingfile.com/f/Z1im2ovnKn"
+        },
+        {
+          "name": "Download - pt.6",
+          "url": "https://vikingfile.com/f/SBF8FvZ5xF"
+        },
+        {
+          "name": "Download - pt.7",
+          "url": "https://vikingfile.com/f/VL7EfLLgih"
+        },
+        {
+          "name": "Download - pt.8",
+          "url": "https://vikingfile.com/f/yY5PWtktEC"
+        },
+        {
+          "name": "Download - pt.9",
+          "url": "https://vikingfile.com/f/Z8LQsATVhr"
+        },
+        {
+          "name": "Download - pt.10",
+          "url": "https://vikingfile.com/f/GL9LzQJ2i3"
+        },
+        {
+          "name": "Download - pt.11",
+          "url": "https://vikingfile.com/f/PZxuReSDjU"
+        },
+        {
+          "name": "Download - pt.12",
+          "url": "https://vikingfile.com/f/WX6Qj1FiJJ"
+        },
+        {
+          "name": "Download - pt.13",
+          "url": "https://vikingfile.com/f/Ab3z58x4Nf"
+        },
+        {
+          "name": "Download - pt.14",
+          "url": "https://vikingfile.com/f/1BnkKAhl2Z"
+        },
+        {
+          "name": "Download - pt.15",
+          "url": "https://vikingfile.com/f/7thSHqH0w4"
+        },
+        {
+          "name": "Download - pt.16",
+          "url": "https://vikingfile.com/f/s9HgImM8ea"
+        },
+        {
+          "name": "Download - pt.17",
+          "url": "https://vikingfile.com/f/8ErQ4VKora"
+        },
+        {
+          "name": "Download - pt.18",
+          "url": "https://vikingfile.com/f/SJwoEoe61A"
+        },
+        {
+          "name": "Download - pt.19",
+          "url": "https://vikingfile.com/f/QNwRGhtQh4"
+        },
+        {
+          "name": "Download - pt.20",
+          "url": "https://vikingfile.com/f/U5Icspr15E"
+        },
+        {
+          "name": "Download - pt.21",
+          "url": "https://vikingfile.com/f/5fONcdPZvU"
+        },
+        {
+          "name": "Download - pt.22",
+          "url": "https://vikingfile.com/f/pgxU5H0KeB"
+        },
+        {
+          "name": "Download - pt.23",
+          "url": "https://vikingfile.com/f/eF90ULeBbW"
+        },
+        {
+          "name": "Download - pt.24",
+          "url": "https://vikingfile.com/f/pSH0RmlTaZ"
+        },
+        {
+          "name": "Download - pt.25",
+          "url": "https://vikingfile.com/f/VgvXGwSAFi"
+        },
+        {
+          "name": "Download - pt.26",
+          "url": "https://vikingfile.com/f/IXmYm8aRvI"
+        },
+        {
+          "name": "Download - pt.27",
+          "url": "https://vikingfile.com/f/cIZ1Vz6msN"
+        }
+      ],
+      "sizeBytes": 162135015424
+    },
+    {
       "titleId": "PPSA01317",
       "title": "Gran Turismo 7 + Offline Patch Spec III",
       "createdAt": "2026-10-25T00:00:00.323Z",

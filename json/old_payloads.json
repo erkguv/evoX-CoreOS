@@ -668,7 +668,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "aae984d505d3b9345cd6c492fb5539b52f597bb709ef544947ced1aa5e428c02"
+            "checksum": "65acf935e46e4cecbf438842b7c3f189793660e8180c42aa0588378b5d39140e"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
