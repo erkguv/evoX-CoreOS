@@ -311,14 +311,14 @@
       "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
     },
     {
-      "name": "Ps5Upload V7.4.3",
-      "filename": "ps5upload_v7.4.3.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf",
+      "name": "Ps5Upload V7.5.1",
+      "filename": "ps5upload_v7.5.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.5.1/ps5upload_v7.5.1.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v7.5.1/ps5upload_v7.5.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v7.4.3",
+      "version": "v7.5.1",
       "category": "PS5 Server",
-      "checksum": "1a7dfaff37d131adac59a74a454dd0a756a503d1022bddda5b5b7e619299e667"
+      "checksum": "021c03c15d1b077558f8966ca46f38636f1934c084b930545098167e11abbc7b"
     },
     {
       "name": "Airpsx V0.19",
@@ -399,16 +399,6 @@
       "version": "v0.1",
       "category": "PS5 Utility",
       "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff"
-    },
-    {
-      "name": "Pegasus-Dl V1.11.0",
-      "filename": "pegasus-dl_v1.11.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf",
-      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf",
-      "description": "free store webadmin http://your-ps5-ip:6970.",
-      "version": "v1.11.0",
-      "category": "PS5 Freeshop",
-      "checksum": "32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9"
     },
     {
       "name": "Ps5Shopappkg-Dpi",
@@ -678,7 +668,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "433df104748e941f10dc55041ed41aba58b2902cf5f2d0568674ee58de92be1e"
+      "checksum": "53bbb844e19ca345b13d1038c63451a21955c6e67bf3e0d8b05e38941e19a6a1"
     },
     {
       "name": "Np-Fake-Signin-Ps5",
@@ -1218,6 +1208,15 @@
       "description": "Récupéré depuis le stockage local (Interne / Fallback)",
       "version": "Spectrum-Library",
       "checksum": "5d1372d48f76167e3f9e24b335cf571ea6e4b3960e6b7202d2802b0f78c3a519"
+    },
+    {
+      "name": "Pegasus-Dl V1.11.0",
+      "filename": "pegasus-dl_v1.11.0.elf",
+      "url": "",
+      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "pegasus-dl",
+      "checksum": "32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9"
     },
     {
       "name": "Ps5-Phstore Vphstore",

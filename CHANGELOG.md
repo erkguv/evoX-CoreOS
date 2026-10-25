@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/10/2026 à 03:37
+* **PAYLOADS**
+  * `Ps5Upload V7.5.1` (v7.5.1) - *Nouveau*
+  * `Pegasus-Dl V1.11.0` (pegasus-dl) - *Mise à jour (Précédent: v1.11.0)*
+* **APPS**
+  * `Ppsa99000` (v1.000.106) - *Mise à jour (Précédent: v1.000.105)*
+
 ## Build du 24/10/2026 à 20:26
 * **PAYLOADS**
   * `Ps5Upload V7.4.3` (v7.4.3) - *Nouveau*

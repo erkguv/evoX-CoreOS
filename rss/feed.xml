@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.4.3</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf</link>
+      <title>[Payloads] Ps5Upload V7.5.1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.5.1/ps5upload_v7.5.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.4.3</pubDate>
+      <pubDate>v7.5.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -243,12 +243,6 @@
       <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf</link>
       <description>Extract .zip and .7z archives directly on a jailbroken PlayStation 5.</description>
       <pubDate>v0.1</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Pegasus-Dl V1.11.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf</link>
-      <description>free store webadmin http://your-ps5-ip:6970.</description>
-      <pubDate>v1.11.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5Shopappkg-Dpi</title>
@@ -743,6 +737,12 @@
       <pubDate>Spectrum-Library</pubDate>
     </item>
     <item>
+      <title>[Payloads] Pegasus-Dl V1.11.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>pegasus-dl</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Ps5-Phstore Vphstore</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -912,9 +912,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.105/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.106/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.105</pubDate>
+      <pubDate>v1.000.106</pubDate>
     </item>
     <item>
       <title>[Applications] Spectrumlibrary 1.0.4</title>

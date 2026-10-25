@@ -3,6 +3,72 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01317",
+      "title": "Gran Turismo 7 + Offline Patch Spec III",
+      "createdAt": "2026-10-25T00:00:00.323Z",
+      "version": "1.710",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/yZ7dpmjtHr1olhutHT57IFRh.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/yZ7dpmjtHr1olhutHT57IFRh.png",
+      "description": "Get behind the wheel of over 400 cars from day one – with each classic motor and bleeding-edge supercar recreated with unparalleled detail – and navigate over 90 track routes in dynamic weather conditions. With the reintroduction of the legendary GT Simulation Mode, you can buy, tune, race and sell your way through a solo campaign as you unlock new cars and challenges. And if you love going head-to-head with others, hone your skills and compete in GT Sport Mode.² PlayStation®5 features: - Catch sight of the driver in your rear-view mirror and watch the sun glint against the curves of your car’s body, with support for 4K and HDR at a targeted 60fps framerate.³ You can also take stunningly realistic photos with the power of ray tracing on PS5™. - Feel the vibration from the anti-lock brake system and wheel spins, and variation in the braking resistance of each different car, all through the adaptive triggers of your DualSense™ wireless controller. - From the subtle bumps of the tarmac to the grooves of the kerb, feel your position on the road through immersive haptic feedback. - Sense the position of other cars and drivers on the road with unparalleled clarity through the PS5 console’s 3D Audio.⁴ - Put yourself in the driver’s seat and experience Gran Turismo™ 7 like never before with the power of PlayStation®VR2 from 22 February 2023.⁵ If you already own the PS4 version of Gran Turismo 7 standard edition, you can get the PS5 digital version of Gran Turismo 7 standard edition for a discounted price, and you do not need to purchase this product. Owners of a PS4 disk copy must insert it into the PS5 every time they want to download or play the PS5 digital version. PS4 game disk owners who buy the PS5 Digital Edition disk-free console will not be able to get the PS5 version for the discounted price.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: Yes\nNotes: **You may need to run a rally music first in order for races to work. Just once should be okay**. Special AMPR made for the offline patch. DO NOT CHANGE IT!\nUpdated: 2026-10-24T23:16:39.454Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki - pt.1",
+          "url": "https://vikingfile.com/f/voDltkyTEX"
+        },
+        {
+          "name": "Viki - pt.2",
+          "url": "https://vikingfile.com/f/qc2Sc3l6bB"
+        },
+        {
+          "name": "Viki - pt.3",
+          "url": "https://vikingfile.com/f/PM6dA6Q0UL"
+        },
+        {
+          "name": "Viki - pt.4",
+          "url": "https://vikingfile.com/f/yu3XpZ9qRU"
+        },
+        {
+          "name": "Viki - pt.5",
+          "url": "https://vikingfile.com/f/vPKBrCtYfS"
+        },
+        {
+          "name": "Viki - pt.6",
+          "url": "https://vikingfile.com/f/YKyIyGe5oA"
+        },
+        {
+          "name": "Viki - pt.7",
+          "url": "https://vikingfile.com/f/evvuh4iYnz"
+        },
+        {
+          "name": "Viki - pt.8",
+          "url": "https://vikingfile.com/f/BU2JZqwb5y"
+        },
+        {
+          "name": "Viki - pt.9",
+          "url": "https://vikingfile.com/f/sVEYJ5u3iX"
+        },
+        {
+          "name": "Viki - pt.10",
+          "url": "https://vikingfile.com/f/5khrZULJ8I"
+        },
+        {
+          "name": "Viki - pt.11",
+          "url": "https://vikingfile.com/f/b3OCIQMO1D"
+        },
+        {
+          "name": "Viki - pt.12",
+          "url": "https://vikingfile.com/f/52wKD6iSQq"
+        },
+        {
+          "name": "Viki - pt.13",
+          "url": "https://vikingfile.com/f/qcdjtqp3KY"
+        }
+      ],
+      "sizeBytes": 188978561024
+    },
+    {
       "titleId": "PPSA20560",
       "title": "Doom The Dark Ages",
       "createdAt": "2026-10-24T19:55:59.979Z",
