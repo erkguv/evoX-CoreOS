@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>Ps5Upload V8.1.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.1.1/ps5upload_v8.1.1.elf</link>
+      <title>Ps5Upload V8.3.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.3.0/ps5upload_v8.3.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v8.1.1</pubDate>
+      <pubDate>v8.3.0</pubDate>
     </item>
     <item>
       <title>Airpsx V0.19</title>
@@ -258,9 +258,9 @@
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.6.0/orbit_store.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.7.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.6.0</pubDate>
+      <pubDate>v1.7.0</pubDate>
     </item>
     <item>
       <title>Actremotelink Agent V2.0</title>

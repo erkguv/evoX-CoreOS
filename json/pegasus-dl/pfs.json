@@ -3,6 +3,220 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25682",
+      "title": "Five Nights at Freddy's Secret of the Mimic (VR update)",
+      "createdAt": "2026-10-26T17:41:05.105Z",
+      "version": "1.007",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1221/804075eadbd05248d99b4a0690043754ef591558b900444a.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1221/804075eadbd05248d99b4a0690043754ef591558b900444a.png",
+      "description": "Enter the abandoned workshop of Murray’s Costume Manor and unravel the mystery left behind by the reclusive inventor, Edwin Murray. In Five Nights at Freddy’s: Secret of the Mimic, you’ll step into a world where every dark corner holds a secret and every flicker of light hints at an ever-present threat. The Mimic, a prototype endoskeleton, can adapt to any costume and become any character, including what you fear most. Armed with only your wits, a few gadgets, and a heavily redacted corporate briefing, you’ll attempt to retrieve Fazbear’s prized prototype technology while grappling with cryptic clues and a relentless shadow determined to dispatch all unwanted company. Prepare for heart-pounding thrills as you explore the labyrinth of the deserted Costume Manor, discovering remnants of Edwin’s unfinished work and eluding the monster he’s created. Experience Five Nights at Freddy’s: Secret of the Mimic, and survive the mystery and madness. Five Night’s at Freddy’s: Secret of the Mimic will be available for the PlayStation 5 on June 13th, 2025. Disclaimer: Fazbear Entertainment is not responsible for whatever you awaken in the dark.\nRegion: EUR\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Playable in flat mode as well. Installing the backport is mandatory!\nCredits: Desesperado3\nUpdated: 2026-10-26T17:35:07.759Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/x740mCp1Yf"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vikingfile.com/f/RVMtaATW4u"
+        }
+      ],
+      "sizeBytes": 35111357645
+    },
+    {
+      "titleId": "PPSA27158",
+      "title": "Dispatch",
+      "createdAt": "2026-10-26T16:40:04.915Z",
+      "version": "1.000.013",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0621/4fb935ea5e75490740d6726da42d05d953cb50a693188174.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0621/4fb935ea5e75490740d6726da42d05d953cb50a693188174.png",
+      "description": "Dispatch is a superhero workplace comedy set in modern day Los Angeles from the writers and directors of Tales from the Borderlands and The Wolf Among Us, and features an all-star cast including Aaron Paul, Laura Bailey, and Jeffrey Wright. You play as Robert Robertson, AKA Mecha Man, whose mech-suit is destroyed in a battle against his nemesis, forcing him to take a job at a superhero dispatch center: not as a hero, but a dispatcher. As their dispatcher, you take charge of a team of ex-supervillains given a shot at redemption. Manage and level up your roster, all while navigating office relationships and romances, and rebuilding your suit for a shot at revenge! &gt; Shape the Story In Dispatch, every decision you make influences the unfolding narrative. From banter in the breakroom to life-or-death situations in the field, your choices affect your relationships with the heroes, their allegiances, and the path your own story takes. &gt; Deploy Your Heroes Use the strategy map to review ongoing emergencies and deploy the right (or wrong) heroes to deal with them. Balance the risks and rewards as you make tactical decisions, knowing that each choice can have lasting consequences for your team and the city. &gt; Manage Your Roster Managing heroes sometimes goes beyond their powers. Each hero comes with quirks, flaws, and baggage you’ll need to navigate to keep the team together. Upgrade their skills and unlock abilities to boost their effectiveness in the field. Blending narrative, strategy, and humor, Dispatch explores what it means to be a hero, whether you're wearing a cape or behind a desk. Featuring an all-star cast from every corner of entertainment: • Aaron Paul (Breaking Bad, Westworld, Black Mirror) • Laura Bailey (The Legend of Vox Machina, The Last of Us II, Marvel's Spider-Man) • Erin Yvette (Hades II, The Wolf Among Us, Armored Core VI: Fires of Rubicon) • MoistCr1TiKaL (Charles White) • Jacksepticeye (Sonic Prime, River City Girls 1 &amp; 2, Bendy and the Ink Machine) • Travis Willingham (The Legend of Vox Machina, Critical Role, Lego Avengers) • Alanah Pearce (V/H/S Beyond, Cyberpunk 2077, Gears 5) • Lance Cantstopolis (Karate, Dancing, Actor) • Joel Haver (Filmmaker, Actor, YouTuber) • THOT SQUAD (Musician: Pound Cake, Hoes Depressed) • Yung Gravy (Musician: Betty (Get Money), oops!) • Matthew Mercer (Critical Role, Overwatch, Resident Evil 6) • and Jeffrey Wright (American Fiction, The Batman, Casino Royale)\nRegion: USA to EUR Langs\nFirmware: 5.xx+\nUpdated: 2026-10-26T16:02:04.052Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/zHYyNaW2d0"
+        }
+      ],
+      "sizeBytes": 21582210662
+    },
+    {
+      "titleId": "PPSA10665",
+      "title": "Final Fantasy XVI",
+      "createdAt": "2026-10-26T15:39:04.843Z",
+      "version": "1.003.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3007/lgFVhRm5BfoX02pRUt3lSmLV.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3007/lgFVhRm5BfoX02pRUt3lSmLV.png",
+      "description": "An epic dark fantasy world where the fate of the land is decided by the mighty Eikons and the Dominants who wield them. This is the tale of Clive Rosfield, a warrior granted the title “First Shield of Rosaria” and sworn to protect his younger brother Joshua, the dominant of the Phoenix. Before long, Clive will be caught up in a great tragedy and swear revenge on the Dark Eikon Ifrit, a mysterious entity that brings calamity in its wake.\nRegion: EUR\nFirmware: 6.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-26T15:36:07.505Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki - pt.1",
+          "url": "https://vikingfile.com/f/9eF6ZnCF5S"
+        },
+        {
+          "name": "Viki - pt.2",
+          "url": "https://vikingfile.com/f/XX5xF9J1vq"
+        },
+        {
+          "name": "Viki - pt.3",
+          "url": "https://vikingfile.com/f/UWtiZ8Vhya"
+        },
+        {
+          "name": "Viki - pt.4",
+          "url": "https://vikingfile.com/f/JuQSLvtkvX"
+        },
+        {
+          "name": "Viki - pt.5",
+          "url": "https://vikingfile.com/f/hZFqlWSIHC"
+        },
+        {
+          "name": "Viki - pt.6",
+          "url": "https://vikingfile.com/f/SPcXtEueMG"
+        },
+        {
+          "name": "Viki - pt.7",
+          "url": "https://vikingfile.com/f/EIb00jJUZQ"
+        },
+        {
+          "name": "Viki - pt.8",
+          "url": "https://vikingfile.com/f/7mKVxi8C0j"
+        },
+        {
+          "name": "Viki - pt.9",
+          "url": "https://vikingfile.com/f/fFDSYtKQBn"
+        },
+        {
+          "name": "Viki - pt.10",
+          "url": "https://vikingfile.com/f/eLonX0sVsf"
+        },
+        {
+          "name": "Viki - pt.11",
+          "url": "https://vikingfile.com/f/1qlytmurIO"
+        },
+        {
+          "name": "Viki - pt.12",
+          "url": "https://vikingfile.com/f/AmX6zth6k6"
+        },
+        {
+          "name": "Viki - pt.13",
+          "url": "https://vikingfile.com/f/LaCi8kkNOv"
+        },
+        {
+          "name": "Viki - pt.14",
+          "url": "https://vikingfile.com/f/fAtrGUVmKg"
+        },
+        {
+          "name": "Viki - pt.15",
+          "url": "https://vikingfile.com/f/9BUkP93uNH"
+        },
+        {
+          "name": "Viki - pt.16",
+          "url": "https://vikingfile.com/f/54f3LjVcDs"
+        },
+        {
+          "name": "Viki - pt.17",
+          "url": "https://vikingfile.com/f/wcIWc9FZMO"
+        },
+        {
+          "name": "Viki - pt.18",
+          "url": "https://vikingfile.com/f/m4N83no3hX"
+        },
+        {
+          "name": "Viki - pt.19",
+          "url": "https://vikingfile.com/f/AZavbHlLEx"
+        },
+        {
+          "name": "Viki - pt.20",
+          "url": "https://vikingfile.com/f/qrCSjOYZnE"
+        },
+        {
+          "name": "Viki - pt.21",
+          "url": "https://vikingfile.com/f/IcTPtpZIEn"
+        },
+        {
+          "name": "Viki - pt.22",
+          "url": "https://vikingfile.com/f/iZM83GJ8k5"
+        },
+        {
+          "name": "Viki - pt.23",
+          "url": "https://vikingfile.com/f/nluwFy7v8w"
+        },
+        {
+          "name": "Viki - pt.24",
+          "url": "https://vikingfile.com/f/gW5U3Rwyvf"
+        },
+        {
+          "name": "Viki - pt.25",
+          "url": "https://vikingfile.com/f/ptGZYdkr27"
+        },
+        {
+          "name": "Viki - pt.26",
+          "url": "https://vikingfile.com/f/BpMHALFs5B"
+        },
+        {
+          "name": "Viki - pt.27",
+          "url": "https://vikingfile.com/f/dSN9k6ws0D"
+        },
+        {
+          "name": "Viki - pt.28",
+          "url": "https://vikingfile.com/f/27P1cWzi4N"
+        },
+        {
+          "name": "Viki - pt.29",
+          "url": "https://vikingfile.com/f/zyzexrEux2"
+        },
+        {
+          "name": "Viki - pt.30",
+          "url": "https://vikingfile.com/f/HGpzQaMkif"
+        }
+      ],
+      "sizeBytes": 177382149325
+    },
+    {
+      "titleId": "PPSA31544",
+      "title": "Final Fantasy Resonance Deluxe Edition",
+      "createdAt": "2026-10-26T15:39:04.843Z",
+      "version": "1.000.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/8e22140956f5980e5a33a0f6fa22ced64c3597cfdf20bc0e.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/8e22140956f5980e5a33a0f6fa22ced64c3597cfdf20bc0e.png",
+      "description": "Return to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin. ◆ Cinematic pixel art What if FINAL FANTASY had continued to push the limits of pixel art? The first FINAL FANTASY to join the HD‑2D lineup, FINAL FANTASY RESONANCE delivers a visually striking experience that feels both nostalgic and new, enhanced by dynamic camera angles and pixelized 3D models that make every moment more dramatic and immersive. ◆ A return to the familiar A classic RPG adventure unfolds in a world filled with beloved FINAL FANTASY elements—airships, crystals, espers and moogles woven into the fabric of the story, and so much more. ◆ Strategic turn-based battles Exploit enemy weaknesses to stagger them—breaking their defenses to seize extra turns and gain the upper hand with powerful Resonance attacks in cinematic battles shaped by smart choices. ◆ FINAL FANTASY legends Bolster your team with Visions, echoes of beloved FINAL FANTASY characters, who fight alongside you with unique skills and abilities for deep party customization. ◆ Hours of side content to discover The world is full of secrets, including the wandering swordmaster Gilgamesh, a Colosseum with deadly monsters and rewards to match, the Chamber of Arms with formidable foes sealed within legendary weapons, and a showdown with Ultima Weapon. --------------------- Early Purchase Bonus: Squire Kickstart Pack This set contains useful items to aid you at the start of your journey. Pack Contents: • Blessed Cuirass x1 (Increase gil obtained by a certain amount) • Mist Ether x1 *These bonuses are available only to customers who purchase the product by November 5, 2026, at 11:59 p.m. local time. *After progressing past a certain point in the game, you may claim the items from the postbox in front of the inn in the Town of Mitra.\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: DUPLEX\nUpdated: 2026-10-26T15:29:25.185Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/d3j0kYu0m4"
+        }
+      ],
+      "sizeBytes": 21796959027
+    },
+    {
+      "titleId": "PPSA15210",
+      "title": "Dragon Ball Sparking Zero + Neo DLC",
+      "createdAt": "2026-10-26T15:39:04.843Z",
+      "version": "3.000.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2306/e940c07107a4cefbbedbbd53451e26f0dbf292dcfab6c307.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2306/e940c07107a4cefbbedbbd53451e26f0dbf292dcfab6c307.png",
+      "description": "DRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Become a super warrior and experience the earth-shaking, limit-breaking power of Dragon Ball battles! THE BIGGEST ROSTER IN HISTORY Unleash the strength of over 180 fighters from Dragon Ball Z, Dragon Ball Super, Dragon Ball GT, and selected Dragon Ball movies, all in the base game! Each character comes with their own signature abilities, transformations, and techniques. Make the destructive power of the strongest fighters ever to appear in Dragon Ball yours! BREATHTAKING 3D FIGHTS Engage in heart-pounding, high-speed 3D battles that stay true to the anime and video game series, with breathtaking visuals and authentic combat moves like beam clashes, rush attacks, movements too quick for the eyes to see, and planet-razing ultimate attacks. RIVALS MAKE YOU STRONGER Challenge other players online to test your skills, or sit down with friends offline to hone your skills! Fight your way to become a champion across various tournament modes and victory conditions. BLAZE A NEW PATH Conquer the action-packed battles from the beloved original story, or discover and unlock new encounters for your favorite Z-Fighters and more. Relive your favorite moments from the series through cutscenes you can experience from the perspectives of eight characters! CREATE, PLAY, AND SHARE Recreate your favorite battles from throughout the Dragon Ball story, or set up your dream story battle with your favorite characters! Share your creations with other fans and experience the battles brought to life by imaginations around the world. *In addition to this edition, Deluxe Edition and Ultimate Edition are also available. Please be careful not to purchase the same content twice.\nRegion: EUR\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Install DLCs first! They're PKGs. Install as usual. Can be installed in any firmware.\nCredits: Samir\nUpdated: 2026-10-26T15:24:50.791Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Kn1jswescr"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/9eC1MW2H6z"
+        }
+      ],
+      "sizeBytes": 56800942490
+    },
+    {
       "titleId": "PPSA01474",
       "title": "Ratchet & Clank Rift Apart",
       "createdAt": "2026-10-16T21:48:35.923Z",
