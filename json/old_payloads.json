@@ -668,7 +668,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "4b62b4ea76f33e325eda6d2ccc232bfac86bfc99c84f9ac421860034d64dd95a"
+            "checksum": "d6d7209fc6dd56c20031ad661aaa39cac21e71e3a0ae49e90f023eac5a814c33"
         },
         {
             "name": "Np-Fake-Signin-Ps5",
@@ -1082,12 +1082,12 @@
         {
             "name": "Shadowmountplus",
             "filename": "shadowmountplus.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta7/shadowmountplus.elf",
-            "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta7/shadowmountplus.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta8/shadowmountplus.elf",
+            "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta8/shadowmountplus.elf",
             "description": "ShadowMountPlus payload for game mounting.",
-            "version": "1.7beta7",
+            "version": "1.7beta8",
             "category": "PS5 Game Dump",
-            "checksum": "a8f9d7f76e8749912508ade0cd5c78076b5bbf1271813c78c80c3d3d9d4777ee"
+            "checksum": "7163472217a2390f5bcbe3b61a96963976f7b7bd84d960b8d926f35b9cbecf28"
         },
         {
             "name": "Backpork V0.1",

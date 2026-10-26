@@ -3,6 +3,24 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01474",
+      "title": "Ratchet & Clank Rift Apart",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.005.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/DwVjpbKOsFOyPdNzmSTSWuxG.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/DwVjpbKOsFOyPdNzmSTSWuxG.png",
+      "description": "BLAST YOUR WAY THROUGH AN INTERDIMENSIONAL ADVENTURE Ratchet and Clank are back! Help them stop a robotic emperor intent on conquering cross-dimensional worlds, with their own universe next in the firing line. Witness the evolution of the dream team as they’re joined by Rivet – a Lombax resistance fighter from another dimension. - Blast your way home with an arsenal of outrageous weaponry. - Experience the shuffle of dimensional rifts and dynamic gameplay. - Explore never-before-seen planets and alternate dimension versions of old favorites. PS5™ FEATURES: - Feel in-game actions through the haptic feedback of the DualSense™ wireless controller. - Take full control of advanced weapon mechanics, made possible by adaptive triggers. - Planet-hop at hyper-speed via the near-instant loading of the PS5™ console’s SSD. - Immerse your ears with Tempest 3D AudioTech* as you work to save the universe. - Enhanced lighting and ray tracing render dazzling in-game worlds – displayed in crisp, dynamic 4K and HDR**. - Choose Performance Mode to enjoy targeted 60 frames per second gameplay***. Celebrate 20 years of Ratchet &amp; Clank with five brand-new armor sets inspired by games of the past. Download the game update* at no extra cost and receive: - Holoflux armor - Quest armor - Marauder armor - Commando armor - Clank armor *Game update v.1.004 requires internet connection.\nRegion: EUR\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-25T22:17:58.819Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/UzWdyeZaBB"
+        }
+      ],
+      "sizeBytes": 44775034061
+    },
+    {
       "titleId": "PPSA14363",
       "title": "Metal Gear Solid - Master Collection Version Vol. 1",
       "createdAt": "2026-10-25T15:15:02.032Z",
@@ -2659,7 +2677,7 @@
         },
         {
           "name": "Viki - Backport - 4.xx+",
-          "url": "https://vikingfile.com/f/KAaf4eatRl"
+          "url": "https://vikingfile.com/f/9NA0jV4b6X"
         }
       ],
       "sizeBytes": 19982335345
