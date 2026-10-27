@@ -3,6 +3,204 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24249",
+      "title": "1348 Ex Voto",
+      "createdAt": "2026-10-27T10:48:10.375Z",
+      "version": "v01.000.008",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24249_16f6978ace1bb1247be8ebd750ee6f0ef9cb2c4f9b76cb0a25d9033cd5700ca2/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24249, v01.000.008, EUR, 4.xx BackPort\nSize: 50GB\nCredits: Files: ChestCakes; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/XaCXztl5#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/XaCXztl5#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/XaCXztl5#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/XaCXztl5#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/zzoWqMKY#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/zzoWqMKY#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/zzoWqMKY#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/zzoWqMKY#FileKeeper"
+        }
+      ],
+      "sizeBytes": 53687091200
+    },
+    {
+      "titleId": "PPSA06094",
+      "title": "GigaBash Ultimate Edition",
+      "createdAt": "2026-10-27T10:48:10.375Z",
+      "version": "v01.092",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0410/Id9doKW1xf7bFXIvKLWZYhqG.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0410/Id9doKW1xf7bFXIvKLWZYhqG.png",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06094, v01.092, USA, 4.xx BackPort\nSize: 28GB\nCredits: Files: UchihaDareNial; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 6.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/PRv38Cs0#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/PRv38Cs0#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/fb6uXKcX#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/fb6uXKcX#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/fb6uXKcX#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/fb6uXKcX#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/VPRUyWHN#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/VPRUyWHN#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/VPRUyWHN#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/VPRUyWHN#FileKeeper"
+        }
+      ],
+      "sizeBytes": 30064771072
+    },
+    {
+      "titleId": "PPSA34971",
+      "title": "Hollow Knight Voidheart Edition",
+      "createdAt": "2026-10-27T10:48:10.375Z",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13285_00/4/i_876f3770382038e9d18271fce2008c6adfaf17c471f3eb01ee0d98e75b8d7885/i/icon0.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13285_00/4/i_876f3770382038e9d18271fce2008c6adfaf17c471f3eb01ee0d98e75b8d7885/i/icon0.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA34971, v01.000.002, EUR, DLCs Merged, 4.xx BackPort\nSize: 5GB\nCredits: Files: Scene; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/UMXntYoB#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/UMXntYoB#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/UMXntYoB#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/UMXntYoB#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/sh_cIZYf#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/sh_cIZYf#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/sh_cIZYf#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/sh_cIZYf#FileKeeper"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA19115",
+      "title": "DAVE THE DIVER Complete Edition",
+      "createdAt": "2026-10-27T10:48:10.375Z",
+      "version": "v01.041",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19115_8eef40812e21f816cb4d374f7f204b217c764d1ec715b7ff0d8ed6810fd31df3/icon0.webp",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA19115, v01.041, USA, 4.xx BackPort\nSize: 5GB\nCredits: Files: Scene; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/Gwd3Ai08#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/Gwd3Ai08#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/jP4xFBmJ#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/jP4xFBmJ#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/jP4xFBmJ#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/jP4xFBmJ#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Ev3PXQm9#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Ev3PXQm9#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Ev3PXQm9#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/Ev3PXQm9#FileKeeper"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
       "titleId": "PPSA33627",
       "title": "Toy Story Retro Roundup!",
       "createdAt": "2026-10-26T12:26:08.425Z",
