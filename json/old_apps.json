@@ -2,6 +2,16 @@
     "name": "AIO Store Apps",
     "apps": [
         {
+            "name": "Spectrumlibrary 1.0.4",
+            "filename": "SpectrumLibrary_1.0.4.zip",
+            "url": "https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip",
+            "local_path": "apps/Spectrum-Library-PC/1.0.4/SpectrumLibrary_1.0.4.zip",
+            "description": "Spectrum-Library-PC",
+            "version": "1.0.4",
+            "checksum": "ac2bf12d56a3892ecaef4e00e8c002cfeffa7cae53aea985e3be6152dbde40c0",
+            "category": "Applications"
+        },
+        {
             "name": "Ppsa99004",
             "filename": "PPSA99004.zip",
             "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
@@ -74,21 +84,11 @@
         {
             "name": "Ppsa99000",
             "filename": "PPSA99000.zip",
-            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.112/PPSA99000.zip",
-            "local_path": "apps/ProsperoStore/v1.000.112/PPSA99000.zip",
+            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.113/PPSA99000.zip",
+            "local_path": "apps/ProsperoStore/v1.000.113/PPSA99000.zip",
             "description": "homebrew store",
-            "version": "v1.000.112",
-            "checksum": "7eaafc11848526f54b8a393dc3be20161abb081e1b989b35d199e7691ffd09fa",
-            "category": "Applications"
-        },
-        {
-            "name": "Spectrumlibrary 1.0.4",
-            "filename": "SpectrumLibrary_1.0.4.zip",
-            "url": "https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip",
-            "local_path": "apps/Spectrum-Library-PC/1.0.4/SpectrumLibrary_1.0.4.zip",
-            "description": "Spectrum-Library-PC",
-            "version": "1.0.4",
-            "checksum": "ac2bf12d56a3892ecaef4e00e8c002cfeffa7cae53aea985e3be6152dbde40c0",
+            "version": "v1.000.113",
+            "checksum": "aa0e589f8e5f0dc3982fce211426e506bb1e9efa1db01a26cb51c0a7931a8c29",
             "category": "Applications"
         },
         {

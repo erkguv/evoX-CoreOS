@@ -5,6 +5,12 @@
     <link>https://erkguv.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Applications</description>
     <item>
+      <title>Spectrumlibrary 1.0.4</title>
+      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
+      <description>Spectrum-Library-PC</description>
+      <pubDate>1.0.4</pubDate>
+    </item>
+    <item>
       <title>Ppsa99004</title>
       <link>https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
@@ -48,15 +54,9 @@
     </item>
     <item>
       <title>Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.112/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.113/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.112</pubDate>
-    </item>
-    <item>
-      <title>Spectrumlibrary 1.0.4</title>
-      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
-      <description>Spectrum-Library-PC</description>
-      <pubDate>1.0.4</pubDate>
+      <pubDate>v1.000.113</pubDate>
     </item>
     <item>
       <title>Flycast-Ps5-2026.10.06</title>

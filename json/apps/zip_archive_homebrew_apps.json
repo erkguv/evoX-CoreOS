@@ -64,11 +64,11 @@
     {
       "name": "Ppsa99000",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.112/PPSA99000.zip",
-      "local_path": "apps/ProsperoStore/v1.000.112/PPSA99000.zip",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.113/PPSA99000.zip",
+      "local_path": "apps/ProsperoStore/v1.000.113/PPSA99000.zip",
       "description": "homebrew store",
-      "version": "v1.000.112",
-      "checksum": "7eaafc11848526f54b8a393dc3be20161abb081e1b989b35d199e7691ffd09fa",
+      "version": "v1.000.113",
+      "checksum": "aa0e589f8e5f0dc3982fce211426e506bb1e9efa1db01a26cb51c0a7931a8c29",
       "category": "Applications"
     }
   ]

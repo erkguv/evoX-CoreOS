@@ -2,16 +2,6 @@
   "name": "PS5 Server",
   "payloads": [
     {
-      "name": "Zftpd-Ps5-V1.6.0",
-      "filename": "zftpd-ps5-v1.6.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
-      "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.6.0",
-      "category": "PS5 Server",
-      "checksum": "39ed57bef579282418f822da2e58ea5d56acfa5aa4cd38816744b1f610bfa14d"
-    },
-    {
       "name": "Zftpd-Ps5-Zhttp-V1.6.0",
       "filename": "zftpd-ps5-zhttp-v1.6.0.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf",
@@ -20,6 +10,16 @@
       "version": "v1.6.0",
       "category": "PS5 Server",
       "checksum": "fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497"
+    },
+    {
+      "name": "Zftpd-Ps5-V1.6.0",
+      "filename": "zftpd-ps5-v1.6.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
+      "description": "FTP server payload for PS5. Port: 21",
+      "version": "v1.6.0",
+      "category": "PS5 Server",
+      "checksum": "39ed57bef579282418f822da2e58ea5d56acfa5aa4cd38816744b1f610bfa14d"
     },
     {
       "name": "Elfldr V0.27",
@@ -39,7 +39,7 @@
       "description": "FTP server background daemon. Port: 21",
       "version": "v0.21.1",
       "category": "PS5 Server",
-      "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938"
+      "checksum": "5f00e2df7fa8ab7daa084343f38394e6672cd389e03fc8598a54d7d9e1d58d16"
     },
     {
       "name": "Websrv V0.34",
@@ -59,7 +59,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5"
+      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb"
     },
     {
       "name": "Klogsrv V0.9",
@@ -79,7 +79,7 @@
       "description": "Drakmor",
       "version": "1.16-ng-stable",
       "category": "PS5 Server",
-      "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32"
+      "checksum": "fba508465a8c892882e88e2834ac2b6c445583b81629257764725528f3f5fd6a"
     },
     {
       "name": "Ps5-Ezremote-Server V1.13",

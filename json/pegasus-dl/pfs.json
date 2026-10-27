@@ -3,6 +3,102 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28336",
+      "title": "Stalker 2 Heart of Chornobyl",
+      "createdAt": "2026-10-27T15:02:07.066Z",
+      "version": "1.009",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0416/de7e107b83a2a6024ea287ee615643edf20429d1104b85cf.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0416/de7e107b83a2a6024ea287ee615643edf20429d1104b85cf.png",
+      "description": "THE LEGENDARY S.T.A.L.K.E.R. RETURNS The Zone has expanded, now spanning a much bigger, harsher and more seamless open world. Known for its gritty, rusted atmosphere, where the world feels eerily alive. It’s a brutal landscape, shaped by danger, mystery, and survival. Only the brave are able to push through. WELCOME TO THE ZONE In 1986 the world witnessed the Chornobyl Nuclear Power Plant accident. The second catastrophic explosion came in 2006. What followed was the birth of THE ZONE — an anomalous place where the laws of our world no longer apply. Years later, the Zone is still sealed off, yet there are those that dare venture into it, they call themselves… STALKERS. WHAT IS OUT THERE, NO ONE TRULY KNOWS Explore the abandoned city of Pripyat, the rusted skeleton of the Duga-1, forgotten villages and hidden underground laboratories concealing dark secrets, all lost for decades now reclaimed by the Zone. And scattered across it all — anomalies that rewrite the laws of physics, each one guarding an artifact worthy of dying for. THE ZONE IS UNFORGIVING... Scavenge and trade what you can, tune your loadout with numerous guns, attachments, detectors and gear, as you face deadly radiation, unexplainable anomalies, bloodthirsty mutants, and rival stalkers who'll drop you for your gear without a second thought. Resources are scarce, equipment wears out - make every bullet count. NO STALKER’S JOURNEY IS THE SAME Choose your allies and enemies wisely, and overcome countless hardships. Every choice, big and small, will shape your path ahead. Each perilous expedition could be your last. Some only go in once. Most go back… to them the Zone becomes a way of life. THE ZONE AWAITS The Zone doesn't stand still, it's a living world where factions, stalkers, mutants, and the environment constantly interact, always moving even without you, and it won't stop when you're gone. Unforgiving, it lures stalkers from all over, on the hunt for its treasures and secrets. Good hunting, stalker.\nRegion: EUR\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-27T14:30:59.715Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki - pt.1",
+          "url": "https://vik1ngfile.site/f/UHCmhYfKFA"
+        },
+        {
+          "name": "Viki - pt.2",
+          "url": "https://vik1ngfile.site/f/gu1vsDPw7e"
+        },
+        {
+          "name": "Viki - pt.3",
+          "url": "https://vik1ngfile.site/f/NgSuuMl2fU"
+        },
+        {
+          "name": "Viki - pt.4",
+          "url": "https://vik1ngfile.site/f/LRDHx6bZfw"
+        },
+        {
+          "name": "Viki - pt.5",
+          "url": "https://vik1ngfile.site/f/3KWREKX0Zs"
+        },
+        {
+          "name": "Viki - pt.6",
+          "url": "https://vik1ngfile.site/f/qA95PvB4dp"
+        },
+        {
+          "name": "Viki - pt.7",
+          "url": "https://vik1ngfile.site/f/p9IYxyzWpL"
+        },
+        {
+          "name": "Viki - pt.8",
+          "url": "https://vik1ngfile.site/f/Jan525fawl"
+        },
+        {
+          "name": "Viki - pt.9",
+          "url": "https://vik1ngfile.site/f/6mhiYHcOsD"
+        },
+        {
+          "name": "Viki - pt.10",
+          "url": "https://vik1ngfile.site/f/LMJQlW4vEM"
+        },
+        {
+          "name": "Viki - pt.11",
+          "url": "https://vik1ngfile.site/f/tJkEvzVbch"
+        },
+        {
+          "name": "Viki - pt.12",
+          "url": "https://vik1ngfile.site/f/3TxsI0NusI"
+        },
+        {
+          "name": "Viki - pt.13",
+          "url": "https://vik1ngfile.site/f/rXmw4sdFqb"
+        },
+        {
+          "name": "Viki - pt.14",
+          "url": "https://vik1ngfile.site/f/Pbo0O9telg"
+        },
+        {
+          "name": "Viki - pt.15",
+          "url": "https://vik1ngfile.site/f/KheyoR44GZ"
+        },
+        {
+          "name": "Viki - pt.16",
+          "url": "https://vik1ngfile.site/f/goT8lnvQjc"
+        }
+      ],
+      "sizeBytes": 158913789952
+    },
+    {
+      "titleId": "PPSA14299",
+      "title": "Mafia The Old Country + DLC",
+      "createdAt": "2026-10-27T15:02:07.066Z",
+      "version": "1.011",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/06f677b905f8794395b855a0de3e9fcb42b567e78c50aaed.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/06f677b905f8794395b855a0de3e9fcb42b567e78c50aaed.png",
+      "description": "Uncover the origins of organized crime in Mafia: The Old Country, a gritty mob story set in the brutal underworld of 1900s Sicily. Fight to survive as Enzo Favara and prove your worth to the Family in this immersive third-person action-adventure set during a dangerous, unforgiving era. Enzo will do anything for a better life. After a brutal childhood of forced labor, he's ready to risk everything to become a man of honor in the Torrisi crime family. His oath to the Mafia, with all the power, temptation, and hardship it entails, is a burning reminder of this simple truth: Family Takes Sacrifice. This thrilling narrative is brought to life by stunning visuals, cinematic storytelling, and the authentic realism that the critically acclaimed Mafia series is known for. Enzo's story unfolds in a time when skill with a stiletto blade was a deadly asset, a lupara sawed-off shotgun was a go-to firearm, murderous vendettas raged for decades, and mafiosi patrolled their protection rackets on foot, horseback, or behind the wheel of turn-of-the-century motorcars.\nRegion: EUR\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-27T14:16:57.295Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/ZmE1UtcODp"
+        }
+      ],
+      "sizeBytes": 66786741453
+    },
+    {
       "titleId": "PPSA25682",
       "title": "Five Nights at Freddy's Secret of the Mimic (VR update)",
       "createdAt": "2026-10-26T17:41:05.105Z",
