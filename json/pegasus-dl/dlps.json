@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25682",
+      "title": "Five Nights at Freddys Secret of The Mimic",
+      "createdAt": "2026-10-27T20:39:12.548Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1221/804075eadbd05248d99b4a0690043754ef591558b900444a.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1221/804075eadbd05248d99b4a0690043754ef591558b900444a.png",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher (with backport)\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/five-nights-at-freddys-secret-of-the-mimic-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZvZ9nman/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/ytJqK"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/cK0QilZOKJ"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA04075",
       "title": "River City Girls",
       "createdAt": "2026-10-26T13:08:11.112Z",
@@ -9487,7 +9511,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/79a186e6a055909cfeb66264230ad3d76915587b0269cd0d.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/79a186e6a055909cfeb66264230ad3d76915587b0269cd0d.png",
-      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000.001\nRegion: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/onimusha-way-of-the-sword-ps5/",
       "downloadLinks": [
         {
@@ -9513,6 +9537,22 @@
         {
           "name": "USA 12.xx Base - Rootz part 3",
           "url": "https://www.rootz.so/d/sqmZ6"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTlBWK2Y2VUFmTW9ub1g1T3dRRVdKRHBLSVFiVE9Fb3VQRkFXOXRKMzFwamMza2N5dlNuSDBXTEFrZDRoUHY2L0xYbnN2SnZiY0VnUE5YWjBDbkN3K0FMc3pMNEx3eWlPc29NemY4K0k2QT09IiwiaSI6IkZybzBDVkJ6cndGMnJ6UEgiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaVEzRUltUlV1alZ3QlNIbzFyZnFudjVQK0QxNU9YU052bHlkbldXaUErM3g2TFFYN3BUeTRHVUVVMG5sbXpJOWVnczZsazlOWm9FWmZZRHNwQ1k1emtqUFpFaWZFZ0N1dDVPQVQ0YTBXRDQ9IiwiaSI6Ii9ISEZXSmpmd1U1d0JrWXYiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN0ZXUUo3azQyVTA3WERJaGxyK2hITlZlYi9NU0JVR1NHeHhsNm0xdndPVmpwWk5GczNuL216QnMwSXJCVEErSERYSHVDemVlRDUyTkp1cUxmWW41ekRac1g0UExZZW45ZkZGaVBlTDIiLCJpIjoicUN4VUU3OERZZ21CZE0wRyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiM212YUp5K2pvOVlZbGM2MHBUUEV0a056SmFrY0tsOXY5d0V4UTVWM3pvWG56QU90MEhuOGJSU0o1djByM21aK1hvOUdGcEtPazRwR0lSSjdyd3Q0eFE1eW1haGkzRnFyeDV6QkJQY3Bpb1k9IiwiaSI6Imw1RSt3OWU1cm1pL21YbzEiLCJuIjoiVmlraSJ9"
         }
       ]
     },

@@ -3,6 +3,28 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06094",
+      "title": "Gigabash + ALL DLC",
+      "createdAt": "2026-10-27T21:06:07.758Z",
+      "version": "1.092",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0410/Id9doKW1xf7bFXIvKLWZYhqG.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0410/Id9doKW1xf7bFXIvKLWZYhqG.png",
+      "description": "GigaBash combines the chaos and creativity of titles like Power Stone, Super Smash Bros Ultimate and War of Monsters with the jaw-dropping scale of the classic kaiju movies. Play as either a rampaging Titan or a Titan-hunting mecha; summon lightning from the heavens, use a radio tower as a baton, or roll a whole district (and your enemies) into a single massive snowball. Wreak enough havoc and you'll evolve into your final form, the terrifyingly titanic S-Class.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: When the game's installed, install DLCs and have fun!\nUpdated: 2026-10-27T20:26:53.632Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/GlgWJCcEL2"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vik1ngfile.site/f/um7l4shzTR"
+        }
+      ],
+      "sizeBytes": 17716740096
+    },
+    {
       "titleId": "PPSA28336",
       "title": "Stalker 2 Heart of Chornobyl",
       "createdAt": "2026-10-27T15:02:07.066Z",

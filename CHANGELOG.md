@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/10/2026 à 21:59
+* **PAYLOADS**
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Shadowmountplus` (1.7beta9) - *Mise à jour (Précédent: 1.7beta8)*
+* **APPS**
+  * `Ppsa99000` (v1.000.114) - *Mise à jour (Précédent: v1.000.113)*
+
 ## Build du 27/10/2026 à 17:48
 * **PAYLOADS**
   * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
