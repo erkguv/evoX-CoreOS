@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V8.3.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.3.0/ps5upload_v8.3.0.elf</link>
+      <title>[Payloads] Ps5Upload V8.4.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.4.0/ps5upload_v8.4.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v8.3.0</pubDate>
+      <pubDate>v8.4.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -918,9 +918,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.111/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.112/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.111</pubDate>
+      <pubDate>v1.000.112</pubDate>
     </item>
     <item>
       <title>[Applications] Spectrumlibrary 1.0.4</title>

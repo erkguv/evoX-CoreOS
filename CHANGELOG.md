@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/10/2026 à 04:06
+* **PAYLOADS**
+  * `Ps5Upload V8.4.0` (v8.4.0) - *Nouveau*
+* **APPS**
+  * `Ppsa99000` (v1.000.112) - *Mise à jour (Précédent: v1.000.111)*
+
 ## Build du 26/10/2026 à 22:28
 * **PAYLOADS**
   * `Ps5Upload V8.3.0` (v8.3.0) - *Nouveau*
