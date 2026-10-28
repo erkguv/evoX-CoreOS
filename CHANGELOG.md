@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/10/2026 à 22:25
+* **PAYLOADS**
+  * `Shadowmountplus` (1.7beta10) - *Mise à jour (Précédent: 1.7beta9)*
+  * `Ps5Upload V8.8.0` (v8.8.0) - *Nouveau*
+* **APPS**
+  * `Ppsa99000` (v1.000.115) - *Mise à jour (Précédent: v1.000.114)*
+
 ## Build du 28/10/2026 à 12:21
 * **PAYLOADS**
   * `Zftpd-Ps5-V1.7.0` (v1.7.0) - *Nouveau*

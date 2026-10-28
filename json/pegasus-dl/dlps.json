@@ -3,6 +3,57 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26392",
+      "title": "The Legend of Heroes Trails beyond The Horizon",
+      "createdAt": "2026-10-28T21:03:12.697Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26392_d4acd8ad1449a390b06ac9520c726cf0459e2af247857db8675ecbb6189c4800/icon0.webp",
+      "description": "Variant: EUR\nRegion: EUR\nContributor: @god_d_usopp8126\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.006\nRegion: EUR\nRelease note: exFAT format — FW 01.006 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/the-legend-of-heroes-trails-beyond-the-horizon-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR Base - Akirabox part 1",
+          "url": "https://akirabox.to/obj3jkyaBzDx/file"
+        },
+        {
+          "name": "EUR Base - Akirabox part 2",
+          "url": "https://akirabox.to/b5Ozdkya93B8/file"
+        },
+        {
+          "name": "EUR Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/T9fea"
+        },
+        {
+          "name": "EUR Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1TkLpI"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/TaV3SwX9Dc"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/IZ6vitmEBz"
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicnRxYXZPaXlFY0c5b0ZJc3dkR3o2YUx0M01NcElsdU9QM2dnZ1U3OUp4ek5Vd1dPZFNSaTRWRTNrT2NLNTJJU3JMdGZnVEFOQkZDS2dtU0hyQzY1VUJmRHZxdDlxdEs4cW5lWDdyaUkxQT09IiwiaSI6IkF3N1hjcWNwUDgzNUt2Q1YiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibDVtZnQ0bDJicm9FSkJ2ejlRSnJuN1RDblhBckd3V0ZrS2Y4Z3ZVRndaYzllMlFsQW93R1Rsd0RJODNzNjJQc3RwTDU2LzByUjZhTms2M21pWUV1ZytRNWhoUTY2OE9uUXQ3VkcvR1N0bXc9IiwiaSI6InJ4UFhzbkZrcmp3Qk1EbFMiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNDJ6d2E0Tmt3V1hEZnc1SzFOa2dnOERmRzZXZzFadjA4S0VQVkIrN3NNNFg3MjBEclJ4aHdDdUhmbkVWbHJvaERXSXphQXZ3MW1BcFp4MUQ5anMvb2g4SU5RKzVjNjBJbVAxeEFJckwiLCJpIjoiNkNWaTBtaXVQdE5oOXFkdyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS3NqVXcyd0FnR0FxL1pEL054aWVDTHZTWkRsQWhNOFV0aUxPQ3EwdmFlNkUveTBwMDlWWU04VUlIQVVDcWJYTGpmaitnRi9OU3YyaUl6bzBwbFpOT3hHbmgrWkxrRU5SSVFxbzRSbTFWS0k9IiwiaSI6IlVnbDdteGJPeHI5emh5NWkiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA25682",
       "title": "Five Nights at Freddys Secret of The Mimic",
       "createdAt": "2026-10-27T20:39:12.548Z",
@@ -33,7 +84,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA15834_00/1/i_44254c8aff753e0147cf6f5b15086ff311923651fa43944308a576ae768ccc2f/i/icon0.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA15834_00/1/i_44254c8aff753e0147cf6f5b15086ff311923651fa43944308a576ae768ccc2f/i/icon0.png",
-      "description": "Region: USA\nRelease note: Works on 3.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 3.xx\nRegion: USA\nRelease note: Works on 3.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 02.000\nRegion: USA\nRelease note: exFAT format — FW 02.000 — 3.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/river-city-girls-ps5/",
       "downloadLinks": [
         {
@@ -47,6 +98,22 @@
         {
           "name": "USA 3.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/dsGBSUHxUR"
+        },
+        {
+          "name": "USA exFAT 02.000 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNllBSExnWndVY3E5Z3JSZXNCNjZGUURxSE53YTJWbzAyOSt5VUFjYWRMRjVRNWk4V24ybjNrMGVqdlh5SGZmYkhlZnJlMEtJQVd6RmY3Vk1lbWdaNXFiWTJ1aS9vV2ZyVXVaTDhkWDFhdz09IiwiaSI6InVQZHl3aURhbjVOKzJHVmIiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 02.000 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieVB0dzRYUFJRNmlESXFRNld4d2RiUmR1SnRKV1F4U3hUVk5FdUVuak1kTXZJQnZvdHh2UGhpNEZZYzRsK0JWUWd3UEU5YTNaemQ4ajhDZGV0c1FjMmhQS1R2VVEvUm1kN0RXUEg0MlhhR289IiwiaSI6Im56YndtbGtBc3ljVS93UjciLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 02.000 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVW9ZZ3dzQTBzbjhpK0d3UmN6b2l4MXprVUlSL1VaOEpoNzBXV3BvT1BzZjJBcm9GVXVuTUFnTEJ6UnFkbzJ4bE10OWhueVZzK3oxT0JTVzNtWmhZUUVHVkh4dmpaUTN3NFVQdVBkd2ciLCJpIjoiNUhOYTVETlBKalhkOG9SQSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 02.000 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibmxkSXU3dlpDUWJSVXl2ZjZCZm1DbllHMmU5UFMxcVZOS1NFMXJyc09LdmdIVEJaQkViNGEzdm9KaFNZUlprbWs1bmpCMmpGbFFLVnpTRzVoK1FBTDV1MUNjM3VrWk9TMTNucitablhSWWs9IiwiaSI6Ii9jSVdyOWcySlZHY2ZFY3QiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -81,7 +148,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1204/10563b56ef8893b7eaf21a2d6be70779362ab277c8156e6a.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1204/10563b56ef8893b7eaf21a2d6be70779362ab277c8156e6a.png",
-      "description": "Region: JPN\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: JPN 10.xx\nRegion: JPN\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: JPN exFAT 01.005\nRegion: JPN\nRelease note: exFAT format — FW 01.005 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/story-of-seasons-grand-bazaar-ps5/",
       "downloadLinks": [
         {
@@ -95,6 +162,22 @@
         {
           "name": "JPN 10.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/j3K2WzfRS0"
+        },
+        {
+          "name": "JPN exFAT 01.005 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiM2E5RFV6T3RvRmhjcWtMbXFJbzlzWWI0eTlscFJjMUhtdERXODhrdEw1THVPMWpuZ0dKUzQ3MlhpaUFEUWNhU0c0c2VkWnhBbmduRDBXdU9BaXRWNnR4TWZYQWZvdEgzQmVYV1RSZUZWQT09IiwiaSI6ImtYU2ZvUUhOZG53NlU5RUEiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "JPN exFAT 01.005 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN2VJbEh0YlFQeTV1b1FGT0t4RlVYS2N0RnFncnVwK204bGx4K2hyUzMrSkZiZXpmOXJPVjhlc2hQOXpreExNL3pBaGdwUE0xbzRQM1VPTW9kWG1FMXlPYUlLNUZGbENCTktuOUprQkRBdlk9IiwiaSI6IjhGMld3VVpqbWZrLzRtMlgiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "JPN exFAT 01.005 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibEhnMWlqSWJIaGhWMHJjcm5qTE5XMFZ0ckdaV1VwQjc4bHFyOThtQnhuVVdxWWdaMVBrSUNyWGgrR2s3RzdYYTVWdFZQWTlQNDAvc1pVbDJtVWMvQjFNTXdIbnh1cGRZaTNMOWMrMVYiLCJpIjoiUHIzb2tsNUJJcDkzY1ZReSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "JPN exFAT 01.005 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibHE4bndHVFNnTGU4UVFoUEdRcmhYM0x1elBPUWZHOFkramNQV2k4MlR1TXlQSWUzbXpkSjVVakpzSGFJOTdiMkNZNU1LaVBSancrczdjUVN6ajBCdHRncDl0dFltSS9SdVlUaUFwL1Y2MWc9IiwiaSI6Im40U0M1RUo5eGNsN0VkbWoiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -4954,12 +5037,12 @@
     },
     {
       "titleId": "PPSA25642",
-      "title": "Clive Barkers Hellraiser Revival Deluxe Edition (DLC)",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "dlc",
+      "title": "Clive Barkers Hellraiser Revival Deluxe Edition",
+      "createdAt": "2026-10-28T12:55:13.816Z",
+      "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png",
-      "description": "Region: EUR\nRelease note: Works on 12.xx and higher This release includes Deluxe Edition content and the following DLC: Here\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 12.xx\nRegion: EUR\nRelease note: Works on 12.xx and higher This release includes Deluxe Edition content and the following DLC: Here\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.005\nRegion: EUR\nRelease note: exFAT format — FW 01.005 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/clive-barkers-hellraiser-revival-deluxe-edition-ps5/",
       "downloadLinks": [
         {
@@ -5009,6 +5092,22 @@
         {
           "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 4",
           "url": "https://vikingfile.com/f/uFCE2Du0wY"
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS2N3dW9ZMHVNdldDVkJMWUJNRisrakdPUDM3UzROanFJclpTajA2VHVLZ0VScEVRTWxnaWxBOHpYYm9DaTJldVYvSC90U0JlMUs4UDNzV1duUDFQYm5Fb3dsNjBPUlp0dk9wb1Z1RzI2Zz09IiwiaSI6IkFRQVV1S3BTcVMrMFBXcXUiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRko2cjVmT1REOFdoYTFwWUFEcDZkWGN0dk1adEJmRUFaTnJlWTR6ZHErREJkTTBRUUtDQ281eHhvMmhTTUVzS3pTZFE0Y1pGV3FUTmVZajJoN3dtRzNHbHFFUDNIdXh3bmxWSDBaM25Dd009IiwiaSI6InZ5ZC9YZ2d3aEhvNG14LzEiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY3Z6K3dWZHh3VGF4dU40ajNPYjRsVENydHBHalFKWDI0RnN5Y01lVkZjbHZQTXo1ODNJNUZZUVV6bkc3WVJmWC9oOWFrMjdObGwzcDg3aXorU2pXb3ZLZ1ZMZG9nU3k1VVZCRzMvTE4iLCJpIjoiUHlCWWVxVVBRY3IyZHlETCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicWRKeXRIb2ZBbVNwOURtNUUveG9EbVh6MlkwL1BWVEdSUXh1WGxSSDluZm5IbUJEWVR1L3BQazFBR3YzZ2xySG85aEgyMnhieTZnYWhVNUkrb1Y4R0hKcmNHTUd3VGtibndBRHA1MVJ5YjQ9IiwiaSI6IjdyQWx1Q0ZRVm9iNERZRzIiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -55189,26 +55288,6 @@
           "url": "https://www.rootz.so/d/1SRHOa"
         },
         {
-          "name": "USA Base - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/iarpxecb9vbl5m7/[DLPSGAME.COM]-PPSA02484-DUPLEX.part1.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/2msbv2lvdlpzxy0/[DLPSGAME.COM]-PPSA02484-DUPLEX.part2.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 3",
-          "url": "https://www.mediafire.com/file/igwe1n45wt8wit7/[DLPSGAME.COM]-PPSA02484-DUPLEX.part3.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 4",
-          "url": "https://www.mediafire.com/file/nex3l03o336shih/[DLPSGAME.COM]-PPSA02484-DUPLEX.part4.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 5",
-          "url": "https://www.mediafire.com/file/rw9tgcm65t5kvvp/[DLPSGAME.COM]-PPSA02484-DUPLEX.part5.rar/file"
-        },
-        {
           "name": "USA Base - Akirabox part 5",
           "url": "https://akirabox.com/APVma0wLvGXo/file"
         },
@@ -55227,26 +55306,6 @@
         {
           "name": "USA Base - Akirabox part 9",
           "url": "https://akirabox.com/E9Qz9P7YV3OL/file"
-        },
-        {
-          "name": "USA Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/aldde84iyx"
-        },
-        {
-          "name": "USA Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/SVSTSUdebO"
-        },
-        {
-          "name": "USA Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/t1QBWoj0Ms"
-        },
-        {
-          "name": "USA Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/f6UKV5dTyM"
-        },
-        {
-          "name": "USA Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/KsU8rYZirQ"
         },
         {
           "name": "USA Base - 1fichier part 2",
@@ -55273,6 +55332,54 @@
           "url": "https://rootz.so/d/RmI6K"
         },
         {
+          "name": "USA Base - Akirabox part 10",
+          "url": "https://akirabox.com/E9Qz9Pxkw3OL/file"
+        },
+        {
+          "name": "USA Base - Buzzheavier part 5",
+          "url": "https://buzzheavier.com/3g6alcbijoyk"
+        },
+        {
+          "name": "USA Base - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/iarpxecb9vbl5m7/[DLPSGAME.COM]-PPSA02484-DUPLEX.part1.rar/file"
+        },
+        {
+          "name": "USA Base - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/2msbv2lvdlpzxy0/[DLPSGAME.COM]-PPSA02484-DUPLEX.part2.rar/file"
+        },
+        {
+          "name": "USA Base - Mediafire part 3",
+          "url": "https://www.mediafire.com/file/igwe1n45wt8wit7/[DLPSGAME.COM]-PPSA02484-DUPLEX.part3.rar/file"
+        },
+        {
+          "name": "USA Base - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/nex3l03o336shih/[DLPSGAME.COM]-PPSA02484-DUPLEX.part4.rar/file"
+        },
+        {
+          "name": "USA Base - Mediafire part 5",
+          "url": "https://www.mediafire.com/file/rw9tgcm65t5kvvp/[DLPSGAME.COM]-PPSA02484-DUPLEX.part5.rar/file"
+        },
+        {
+          "name": "USA Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/aldde84iyx"
+        },
+        {
+          "name": "USA Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/SVSTSUdebO"
+        },
+        {
+          "name": "USA Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/t1QBWoj0Ms"
+        },
+        {
+          "name": "USA Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/f6UKV5dTyM"
+        },
+        {
+          "name": "USA Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/KsU8rYZirQ"
+        },
+        {
           "name": "USA Base - Mediafire part 1",
           "url": "https://www.mediafire.com/file/sxootw4x6b9dw5e/[DLPSGAME.COM]+-+01.023.001+PPSA02484.part1.rar/file"
         },
@@ -55287,14 +55394,6 @@
         {
           "name": "USA Base - Mediafire part 4",
           "url": "https://www.mediafire.com/file/xhw51krcnvj6aya/[DLPSGAME.COM]+-+01.023.001+PPSA02484.part4.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 5",
-          "url": "https://www.mediafire.com/file/xiaum0i22vlgx3z/[DLPSGAME.COM]+-+01.023.001+PPSA02484.part5.rar/file"
-        },
-        {
-          "name": "USA Base - Akirabox part 10",
-          "url": "https://akirabox.com/E9Qz9Pxkw3OL/file"
         },
         {
           "name": "USA Base - Vikingfile part 1",
@@ -55313,12 +55412,52 @@
           "url": "https://vikingfile.com/f/qAyUi6uu8c"
         },
         {
-          "name": "USA Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/lbadihbNxE"
+          "name": "USA Base - Akirabox part 11",
+          "url": "https://akirabox.to/E1x3Ax2wvmyk/file"
         },
         {
-          "name": "USA Base - Buzzheavier part 5",
-          "url": "https://buzzheavier.com/3g6alcbijoyk"
+          "name": "USA Base - Akirabox part 12",
+          "url": "https://akirabox.to/rk9zKd2bQG0l/file"
+        },
+        {
+          "name": "USA Base - Akirabox part 13",
+          "url": "https://akirabox.to/qw1zeVjveGXy/file"
+        },
+        {
+          "name": "USA Base - Akirabox part 14",
+          "url": "https://akirabox.to/qPez4yb29GOY/file"
+        },
+        {
+          "name": "USA Base - Rootz part 11",
+          "url": "https://www.rootz.so/d/27SHIG"
+        },
+        {
+          "name": "USA Base - Rootz part 12",
+          "url": "https://www.rootz.so/d/qkBfM"
+        },
+        {
+          "name": "USA Base - Rootz part 13",
+          "url": "https://www.rootz.so/d/23QQQi"
+        },
+        {
+          "name": "USA Base - Rootz part 14",
+          "url": "https://www.rootz.so/d/um2Wu"
+        },
+        {
+          "name": "USA Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/ouBJCX0Ahm"
+        },
+        {
+          "name": "USA Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/ZZ55CAp660"
+        },
+        {
+          "name": "USA Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/h0fJVinWZm"
+        },
+        {
+          "name": "USA Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/QpX6DJhs2X"
         },
         {
           "name": "exFAT v01.023.001 Base - Vikingfile",
@@ -58897,6 +59036,22 @@
           "url": "https://rootz.so/d/24Rs48"
         },
         {
+          "name": "EUR 5.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/0KezkRZje3D1/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/rwQRY2T4O9"
+        },
+        {
+          "name": "EUR 5.xx Base - 1fichier part 6",
+          "url": "https://1fichier.com/?oh7s9ymbtot9rm7c0jep"
+        },
+        {
+          "name": "EUR 5.xx Base - Buzzheavier part 6",
+          "url": "https://buzzheavier.com/z6qg6duoqsik"
+        },
+        {
           "name": "EUR 5.xx Base - Mediafire part 1",
           "url": "https://www.mediafire.com/file/vsrq84im08a5b77/[DLPSGAME.COM]-PPSA03178-app0.part01.rar/file"
         },
@@ -58915,26 +59070,6 @@
         {
           "name": "EUR 5.xx Base - Mediafire part 5",
           "url": "https://www.mediafire.com/file/hpdxi1gqotdt8lh/[DLPSGAME.COM]-PPSA03178-app0.part05.rar/file"
-        },
-        {
-          "name": "EUR 5.xx Base - Mediafire part 6",
-          "url": "https://www.mediafire.com/file/ut9l6fj0e3bghcv/[DLPSGAME.COM]-PPSA03178-app0.part06.rar/file"
-        },
-        {
-          "name": "EUR 5.xx Base - Akirabox part 6",
-          "url": "https://akirabox.com/0KezkRZje3D1/file"
-        },
-        {
-          "name": "EUR 5.xx Base - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/rwQRY2T4O9"
-        },
-        {
-          "name": "EUR 5.xx Base - 1fichier part 6",
-          "url": "https://1fichier.com/?oh7s9ymbtot9rm7c0jep"
-        },
-        {
-          "name": "EUR 5.xx Base - Buzzheavier part 6",
-          "url": "https://buzzheavier.com/z6qg6duoqsik"
         }
       ]
     },
@@ -58977,30 +59112,6 @@
           "url": "https://rootz.so/d/1Zylns"
         },
         {
-          "name": "USA 12.xx Base - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/7g9hwuma9qmzs4x/[DLPSGAME.COM]-PPSA03180.part01.rar/file"
-        },
-        {
-          "name": "USA 12.xx Base - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/tetnmeczaf1rjz8/[DLPSGAME.COM]-PPSA03180.part02.rar/file"
-        },
-        {
-          "name": "USA 12.xx Base - Mediafire part 3",
-          "url": "https://www.mediafire.com/file/uimvpa9n2hccq3s/[DLPSGAME.COM]-PPSA03180.part03.rar/file"
-        },
-        {
-          "name": "USA 12.xx Base - Mediafire part 4",
-          "url": "https://www.mediafire.com/file/sc15y2dn7s2ijr7/[DLPSGAME.COM]-PPSA03180.part04.rar/file"
-        },
-        {
-          "name": "USA 12.xx Base - Mediafire part 5",
-          "url": "https://www.mediafire.com/file/0w06lauryz0hjpl/[DLPSGAME.COM]-PPSA03180.part05.rar/file"
-        },
-        {
-          "name": "USA 12.xx Base - Mediafire part 6",
-          "url": "https://www.mediafire.com/file/d88reu8xp02l7lb/[DLPSGAME.COM]-PPSA03180.part06.rar/file"
-        },
-        {
           "name": "USA 12.xx Base - Akirabox part 1",
           "url": "https://akirabox.com/Zvqzl9dwOGaD/file"
         },
@@ -59025,30 +59136,6 @@
           "url": "https://akirabox.com/1RgzR4A1Xmbp/file"
         },
         {
-          "name": "USA 12.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/GtiA50PeCP"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/qhLHDtU8NF"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/0o2PKpIH9R"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/NAGKuh486V"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/0nloSMfoxB"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/hgvy9g1Gmb"
-        },
-        {
           "name": "USA 12.xx Base - 1fichier part 1",
           "url": "https://1fichier.com/?vkbgav7fzopd98gwdr92"
         },
@@ -59071,6 +59158,46 @@
         {
           "name": "USA 12.xx Base - 1fichier part 6",
           "url": "https://1fichier.com/?tjvqzia5asw9kdvhddpq"
+        },
+        {
+          "name": "USA 12.xx Base - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/7g9hwuma9qmzs4x/[DLPSGAME.COM]-PPSA03180.part01.rar/file"
+        },
+        {
+          "name": "USA 12.xx Base - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/tetnmeczaf1rjz8/[DLPSGAME.COM]-PPSA03180.part02.rar/file"
+        },
+        {
+          "name": "USA 12.xx Base - Mediafire part 3",
+          "url": "https://www.mediafire.com/file/uimvpa9n2hccq3s/[DLPSGAME.COM]-PPSA03180.part03.rar/file"
+        },
+        {
+          "name": "USA 12.xx Base - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/sc15y2dn7s2ijr7/[DLPSGAME.COM]-PPSA03180.part04.rar/file"
+        },
+        {
+          "name": "USA 12.xx Base - Mediafire part 5",
+          "url": "https://www.mediafire.com/file/0w06lauryz0hjpl/[DLPSGAME.COM]-PPSA03180.part05.rar/file"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/GtiA50PeCP"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/qhLHDtU8NF"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/0o2PKpIH9R"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/NAGKuh486V"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/0nloSMfoxB"
         }
       ]
     },
@@ -87943,7 +88070,7 @@
           "url": "https://www.rootz.so/d/1LMi3M"
         },
         {
-          "name": "ASIA 7.xx BackPort 5.xx - Mediafire",
+          "name": "ASIA 7.xx BackPort 4.xx - Mediafire part 4",
           "url": "https://www.mediafire.com/file/l1rkx2qm3zygtfz/Backport_5xx_PPSA19406_%E2%80%93_ASIA_Earth_Defense_Force_World_Brothers_2-[DLPSGAME.COM].zip/file"
         },
         {
@@ -94284,7 +94411,7 @@
           "url": "https://www.rootz.so/d/11DRjc"
         },
         {
-          "name": "USA 10.xx BackPort 5.xx - Mediafire",
+          "name": "USA 10.xx BackPort 4.xx - Mediafire part 4",
           "url": "https://www.mediafire.com/file/1qw7ln5rgw8ygpy/Backport_5xx+PPSA16256_%E2%80%93_USA_v01_000_Metal_Gear_Solid_Classic_Backport_5xx_By-[DLPSGAME.COM].zip/file"
         },
         {

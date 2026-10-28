@@ -133,12 +133,12 @@
         {
             "name": "Shadowmountplus",
             "filename": "shadowmountplus.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta9/shadowmountplus.elf",
-            "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta9/shadowmountplus.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta10/shadowmountplus.elf",
+            "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta10/shadowmountplus.elf",
             "description": "ShadowMountPlus payload for game mounting.",
-            "version": "1.7beta9",
+            "version": "1.7beta10",
             "category": "PS5 Game Dump",
-            "checksum": "928a5a7e33d2801c1c14a5ed8ad83fcab07957ba3a5daccd382dba67d408b3e2"
+            "checksum": "8c6798232ae2a8fbcd209ab97fc4f8d4d47cf23b7eecfaa6349c0bfeb8e4a3d3"
         },
         {
             "name": "Backpork V0.1",
@@ -417,7 +417,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "6d41877f6ea15c3648fe4fe3e42c4b4509fe9d02f662f5a0df6da830ef89fe35"
+            "checksum": "ef8d6a99884597df17be88640474559600bbcb41985e6ca8af79e3f93100a21b"
         },
         {
             "name": "Common Fps Ps5 V1.2.3",
@@ -1060,14 +1060,14 @@
             "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
         },
         {
-            "name": "Ps5Upload V8.6.1",
-            "filename": "ps5upload_v8.6.1.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.6.1/ps5upload_v8.6.1.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v8.6.1/ps5upload_v8.6.1.elf",
+            "name": "Ps5Upload V8.8.0",
+            "filename": "ps5upload_v8.8.0.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.8.0/ps5upload_v8.8.0.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v8.8.0/ps5upload_v8.8.0.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v8.6.1",
+            "version": "v8.8.0",
             "category": "PS5 Server",
-            "checksum": "3e7d67537a2eac9f92ae9330a90682499610b06a5058dd47cb99c2b567c62671"
+            "checksum": "71e100106f50d25056b998d0e39cefda1b36ca1f3a2b655ec3a45ccbc15a563f"
         },
         {
             "name": "Airpsx V0.19",

@@ -84,9 +84,9 @@
     </item>
     <item>
       <title>[Payloads] Shadowmountplus</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta9/shadowmountplus.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta10/shadowmountplus.elf</link>
       <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.7beta9</pubDate>
+      <pubDate>1.7beta10</pubDate>
     </item>
     <item>
       <title>[Payloads] Backpork V0.1</title>
@@ -641,10 +641,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V8.6.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.6.1/ps5upload_v8.6.1.elf</link>
+      <title>[Payloads] Ps5Upload V8.8.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.8.0/ps5upload_v8.8.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v8.6.1</pubDate>
+      <pubDate>v8.8.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -942,9 +942,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.114/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.115/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.114</pubDate>
+      <pubDate>v1.000.115</pubDate>
     </item>
     <item>
       <title>[Applications] Flycast-Ps5-2026.10.06</title>
