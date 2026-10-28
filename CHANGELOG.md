@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/10/2026 à 04:27
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.6.2` (v0.6.2) - *Nouveau*
+  * `Kura V1.6.51` (v1.6.51) - *Nouveau*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+
 ## Build du 27/10/2026 à 21:59
 * **PAYLOADS**
   * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
