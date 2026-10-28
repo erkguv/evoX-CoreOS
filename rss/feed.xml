@@ -581,16 +581,16 @@
       <pubDate>v0.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Zftpd-Ps5-Zhttp-V1.6.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf</link>
+      <title>[Payloads] Zftpd-Ps5-V1.7.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.6.0</pubDate>
+      <pubDate>v1.7.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Zftpd-Ps5-V1.6.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf</link>
+      <title>[Payloads] Zftpd-Ps5-Zhttp-V1.7.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.6.0</pubDate>
+      <pubDate>v1.7.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Elfldr V0.27</title>
@@ -629,16 +629,22 @@
       <pubDate>1.16-ng-stable</pubDate>
     </item>
     <item>
+      <title>[Payloads] Ps5-Ezremote-Client V2.16</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.16/ps5-ezremote-client_v2.16.elf</link>
+      <description>Easy remote client application for PS5.</description>
+      <pubDate>2.16</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Ps5-Ezremote-Server V1.13</title>
       <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf</link>
       <description>Easy remote server component. Port: 8080</description>
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V8.5.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.5.1/ps5upload_v8.5.1.elf</link>
+      <title>[Payloads] Ps5Upload V8.6.1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.6.1/ps5upload_v8.6.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v8.5.1</pubDate>
+      <pubDate>v8.6.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -759,6 +765,18 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Zftpd-Ps5-Zhttp-V1.6.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Zftpd-Ps5-V1.6.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
     </item>
     <item>
       <title>[Payloads] Np-Fake-Signin-Ps5</title>

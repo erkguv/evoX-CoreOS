@@ -3,6 +3,24 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16064",
+      "title": "Minecraft Dungeons II",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.100.100",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1915/219f09639385755f13a1ed8475e789e255e9b0cda4d3d236.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1915/219f09639385755f13a1ed8475e789e255e9b0cda4d3d236.png",
+      "description": "Minecraft Dungeons II is here with more action, more loot, and more adventure. Step through the rift and fight where no hero has been before: the Sift, an uncharted dimension teeming with threats, mysteries, and breathtaking beauty. Gear up and customize your playstyle to face your toughest enemies yet in explosive battles. Brave the unknown as a lone hero, team up with friends in couch, online and mixed co-op, or find allies through matchmaking. The illagers’ plot is already underway, and their cruelty is only matched by their power. Stop them – or lose the Overworld to their corruption. *Requires initial content download. Online console multiplayer/co-op requires a platform-specific online subscription (sold separately).\nRegion: USA to EUR Langs\nFirmware: 5.xx+\nUpdated: 2026-10-28T11:01:03.178Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/K3eVSv1HdG"
+        }
+      ],
+      "sizeBytes": 7054483784
+    },
+    {
       "titleId": "PPSA23559",
       "title": "Anno 117 Pax Romana",
       "createdAt": "2026-10-28T03:12:08.425Z",

@@ -2,24 +2,24 @@
   "name": "PS5 Server",
   "payloads": [
     {
-      "name": "Zftpd-Ps5-Zhttp-V1.6.0",
-      "filename": "zftpd-ps5-zhttp-v1.6.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf",
+      "name": "Zftpd-Ps5-V1.7.0",
+      "filename": "zftpd-ps5-v1.7.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
       "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.6.0",
+      "version": "v1.7.0",
       "category": "PS5 Server",
-      "checksum": "fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497"
+      "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
     },
     {
-      "name": "Zftpd-Ps5-V1.6.0",
-      "filename": "zftpd-ps5-v1.6.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf",
+      "name": "Zftpd-Ps5-Zhttp-V1.7.0",
+      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
       "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.6.0",
+      "version": "v1.7.0",
       "category": "PS5 Server",
-      "checksum": "39ed57bef579282418f822da2e58ea5d56acfa5aa4cd38816744b1f610bfa14d"
+      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
     },
     {
       "name": "Elfldr V0.27",
@@ -82,6 +82,16 @@
       "checksum": "fba508465a8c892882e88e2834ac2b6c445583b81629257764725528f3f5fd6a"
     },
     {
+      "name": "Ps5-Ezremote-Client V2.16",
+      "filename": "ps5-ezremote-client_v2.16.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.16/ps5-ezremote-client_v2.16.elf",
+      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.16/ps5-ezremote-client_v2.16.elf",
+      "description": "Easy remote client application for PS5.",
+      "version": "2.16",
+      "category": "PS5 Server",
+      "checksum": "f9ed69c486627b6fba408ad2aea8cc96737b5909994fa9bce9d51189cc4e4157"
+    },
+    {
       "name": "Ps5-Ezremote-Server V1.13",
       "filename": "ps5-ezremote-server_v1.13.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf",
@@ -92,14 +102,14 @@
       "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
     },
     {
-      "name": "Ps5Upload V8.5.1",
-      "filename": "ps5upload_v8.5.1.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.5.1/ps5upload_v8.5.1.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v8.5.1/ps5upload_v8.5.1.elf",
+      "name": "Ps5Upload V8.6.1",
+      "filename": "ps5upload_v8.6.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.6.1/ps5upload_v8.6.1.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v8.6.1/ps5upload_v8.6.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v8.5.1",
+      "version": "v8.6.1",
       "category": "PS5 Server",
-      "checksum": "2039eb340f6c09f7fce6bd726ad526adb68e9e924351b21dba74720025267481"
+      "checksum": "3e7d67537a2eac9f92ae9330a90682499610b06a5058dd47cb99c2b567c62671"
     },
     {
       "name": "Airpsx V0.19",

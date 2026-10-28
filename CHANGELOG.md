@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/10/2026 à 12:21
+* **PAYLOADS**
+  * `Zftpd-Ps5-V1.7.0` (v1.7.0) - *Nouveau*
+  * `Zftpd-Ps5-Zhttp-V1.7.0` (v1.7.0) - *Nouveau*
+  * `Ps5-Ezremote-Client V2.16` (2.16) - *Nouveau*
+  * `Ps5Upload V8.6.1` (v8.6.1) - *Nouveau*
+  * `Zftpd-Ps5-Zhttp-V1.6.0` (zftpd) - *Mise à jour (Précédent: v1.6.0)*
+  * `Zftpd-Ps5-V1.6.0` (zftpd) - *Mise à jour (Précédent: v1.6.0)*
+
 ## Build du 28/10/2026 à 04:27
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.6.2` (v0.6.2) - *Nouveau*

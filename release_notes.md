@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.28-0427)
+### 🚀 Synthèse de la mise à jour (v2026.10.28-1221)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -117,16 +117,17 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Power-Payloads-Project_v1.0.elf`
   * `ps5-date-time-sync_v1.0.0.elf`
   * `FGG-Unpack_v0.1.elf`
-  * `zftpd-ps5-zhttp-v1.6.0.elf`
-  * `zftpd-ps5-v1.6.0.elf`
+  * `zftpd-ps5-v1.7.0.elf`
+  * `zftpd-ps5-zhttp-v1.7.0.elf`
   * `elfldr_v0.27.elf`
   * `ftpsrv_ps5-payload_v0.21.1.elf`
   * `websrv_v0.34.elf`
   * `gdbsrv_v0.9.elf`
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
+  * `ps5-ezremote-client_v2.16.elf`
   * `ps5-ezremote-server_v1.13.elf`
-  * `ps5upload_v8.5.1.elf`
+  * `ps5upload_v8.6.1.elf`
   * `airpsx_v0.19.elf`
   * `bfplayer-standalone.elf`
   * `ProsperoPlayer_v1.0.elf`
@@ -147,6 +148,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.11.elf`
   * `web-file-mgr-v1.11b.elf`
   * `web-file-mgr-v1.10.elf`
+  * `zftpd-ps5-zhttp-v1.6.0.elf`
+  * `zftpd-ps5-v1.6.0.elf`
   * `np-fake-signin-ps5.elf`
 
 </details>
