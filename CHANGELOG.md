@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 29/10/2026 à 04:47
+* **PAYLOADS**
+  * `Ps5Upload V8.8.0` (ps5upload) - *Mise à jour (Précédent: v8.8.0)*
+* **APPS**
+  * `Prospero-Win-V0.3.0` (v0.3.0) - *Nouveau*
+
 ## Build du 28/10/2026 à 22:25
 * **PAYLOADS**
   * `Shadowmountplus` (1.7beta10) - *Mise à jour (Précédent: 1.7beta9)*

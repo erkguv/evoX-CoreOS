@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.28-2225)
+### 🚀 Synthèse de la mise à jour (v2026.10.29-0447)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -209,7 +209,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA19111.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`
-  * `prospero-win-v0.2.0.zip`
+  * `prospero-win-v0.3.0.zip`
   * `PPSA99300.zip`
   * `Markus_PHU-EmuPack_PS1-Tool.PS5.rar`
   * `Markus_PHU-EmuPack-Nes.PS5.rar`

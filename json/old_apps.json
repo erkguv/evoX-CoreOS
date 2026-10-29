@@ -192,13 +192,13 @@
             "category": "Applications"
         },
         {
-            "name": "Prospero-Win-V0.2.0",
-            "filename": "prospero-win-v0.2.0.zip",
-            "url": "https://github.com/mpereiraesaa/prospero-win/releases/download/v0.2.0/prospero-win-v0.2.0.zip",
-            "local_path": "apps/prospero-win/v0.2.0/prospero-win-v0.2.0.zip",
+            "name": "Prospero-Win-V0.3.0",
+            "filename": "prospero-win-v0.3.0.zip",
+            "url": "https://github.com/mpereiraesaa/prospero-win/releases/download/v0.3.0/prospero-win-v0.3.0.zip",
+            "local_path": "apps/prospero-win/v0.3.0/prospero-win-v0.3.0.zip",
             "description": "Wine for PS5",
-            "version": "v0.2.0",
-            "checksum": "7585efc624c2f8077c0d579a045ef808129a7b0bc525a9dd9c5c6db0c51626ca",
+            "version": "v0.3.0",
+            "checksum": "b17c5daf19e5053edfbc1ce2588db403ae553592cced39ca92a337bfe1f8eb41",
             "category": "Applications"
         },
         {

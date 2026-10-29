@@ -417,7 +417,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "ef8d6a99884597df17be88640474559600bbcb41985e6ca8af79e3f93100a21b"
+      "checksum": "d6cde288a9c7404ac6ef54cda5297b280657db657284145141e55ac1caa8b5a3"
     },
     {
       "name": "Common Fps Ps5 V1.2.3",
@@ -1062,11 +1062,10 @@
     {
       "name": "Ps5Upload V8.8.0",
       "filename": "ps5upload_v8.8.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.8.0/ps5upload_v8.8.0.elf",
+      "url": "",
       "local_path": "payloads/ps5_server/ps5upload/v8.8.0/ps5upload_v8.8.0.elf",
-      "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v8.8.0",
-      "category": "PS5 Server",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "ps5upload",
       "checksum": "71e100106f50d25056b998d0e39cefda1b36ca1f3a2b655ec3a45ccbc15a563f"
     },
     {
