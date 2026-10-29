@@ -3,6 +3,174 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA23559",
+      "title": "Anno 117 Pax Romana",
+      "createdAt": "2026-10-29T12:18:21.455Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2119/29d08d5a0713f278cc887198dff4ac1a35d7ba0aaefb9b89.jpg",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2119/29d08d5a0713f278cc887198dff4ac1a35d7ba0aaefb9b89.jpg",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: @Desesperado3 &amp; Jobsitos\nPassword: DLPSGAME.COM\n\nVariant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/anno-117-pax-romana-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/k0embkEWV3Vb/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/0Kezk0plRGD1/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/1RgzRLWE9mbp/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 4",
+          "url": "https://akirabox.to/QN9mEdQWoG6d/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 5",
+          "url": "https://akirabox.to/0rpmv1oJDGRg/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 6",
+          "url": "https://akirabox.to/N2p3Dd5Mx3Ma/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/ASvce"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1ffOxk"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/EUmUC"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1J7JWS"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/SzAGW"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1ZEiuW"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/kqFstq4eLu"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/W3b4Wwq9Xd"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/krfdrlwYG9"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/6Gtt4KzJEk"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/6X6W9oFv7l"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/Vtij5U5fbf"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/qPez4yQvYGOY/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/l76mZv5M9man/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/rk9zKd5QqG0l/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 4",
+          "url": "https://akirabox.to/E1x3AxQ7emyk/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 5",
+          "url": "https://akirabox.to/qLQ36XQwYG19/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 6",
+          "url": "https://akirabox.to/gXeGOe57P3Aa/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 7",
+          "url": "https://akirabox.to/ZvqzlpPQnzaD/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/yy3Ci"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/27cR6W"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/2BeHy4"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/2Fg8pc"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/uwCPI"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/2JhzhA"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/12zu4G"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/FDBRsijCI9"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/6cooFHvcis"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/LxHxgnS6UL"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/xvTGNXdy87"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/Hf14sQMHcd"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/qjgtIz1SHI"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/Hmm2O4fLhh"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA26392",
       "title": "The Legend of Heroes Trails beyond The Horizon",
       "createdAt": "2026-10-28T21:03:12.697Z",

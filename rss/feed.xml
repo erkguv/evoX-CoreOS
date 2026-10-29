@@ -365,10 +365,10 @@
       <pubDate>2.5B</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5 Unified Autoloader V0.1.6-E7093Cd</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf</link>
+      <title>[Payloads] Ps5 Unified Autoloader V0.1.7-Abc3B82</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.7-abc3b82/PS5_Unified_Autoloader_v0.1.7-abc3b82.elf</link>
       <description>Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l</description>
-      <pubDate>v0.1.6-e7093cd</pubDate>
+      <pubDate>v0.1.7-abc3b82</pubDate>
     </item>
     <item>
       <title>[Payloads] Pldmgr V0.6.3</title>
@@ -641,10 +641,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V8.8.0</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ps5upload</pubDate>
+      <title>[Payloads] Ps5Upload V9.0.1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.0.1/ps5upload_v9.0.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025</description>
+      <pubDate>v9.0.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>

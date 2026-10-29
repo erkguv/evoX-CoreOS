@@ -417,7 +417,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "d6cde288a9c7404ac6ef54cda5297b280657db657284145141e55ac1caa8b5a3"
+            "checksum": "e4943a7497521be6984d0aaf9df3d52f263ec5ae37bedbc28494ea4ff4408bb1"
         },
         {
             "name": "Common Fps Ps5 V1.2.3",
@@ -600,14 +600,14 @@
             "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
         },
         {
-            "name": "Ps5 Unified Autoloader V0.1.6-E7093Cd",
-            "filename": "PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
-            "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
+            "name": "Ps5 Unified Autoloader V0.1.7-Abc3B82",
+            "filename": "PS5_Unified_Autoloader_v0.1.7-abc3b82.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.7-abc3b82/PS5_Unified_Autoloader_v0.1.7-abc3b82.elf",
+            "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.7-abc3b82/PS5_Unified_Autoloader_v0.1.7-abc3b82.elf",
             "description": "Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l",
-            "version": "v0.1.6-e7093cd",
+            "version": "v0.1.7-abc3b82",
             "category": "PS5 HEN Loader",
-            "checksum": "edc4f805404f80497026ba2d74f675ee7043b1ef7f4ed92b82c1ef200aac123d"
+            "checksum": "cc6a464ceaa23472cc35d557efe60a5fc3f8ebd46cf1a84790c04a2be9c5bee1"
         },
         {
             "name": "Pldmgr V0.6.3",
@@ -1060,13 +1060,14 @@
             "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
         },
         {
-            "name": "Ps5Upload V8.8.0",
-            "filename": "ps5upload_v8.8.0.elf",
-            "url": "",
-            "local_path": "payloads/ps5_server/ps5upload/v8.8.0/ps5upload_v8.8.0.elf",
-            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-            "version": "ps5upload",
-            "checksum": "71e100106f50d25056b998d0e39cefda1b36ca1f3a2b655ec3a45ccbc15a563f"
+            "name": "Ps5Upload V9.0.1",
+            "filename": "ps5upload_v9.0.1.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.0.1/ps5upload_v9.0.1.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v9.0.1/ps5upload_v9.0.1.elf",
+            "description": "PS5 Upload server / tool. Port: 9025",
+            "version": "v9.0.1",
+            "category": "PS5 Server",
+            "checksum": "36317d7d360faad3aeac6127199e7e61514dc2c2cc5f83c10835682951806d9f"
         },
         {
             "name": "Airpsx V0.19",

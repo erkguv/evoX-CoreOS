@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 29/10/2026 à 12:32
+* **PAYLOADS**
+  * `Ps5 Unified Autoloader V0.1.7-Abc3B82` (v0.1.7-abc3b82) - *Nouveau*
+  * `Ps5Upload V9.0.1` (v9.0.1) - *Nouveau*
+
 ## Build du 29/10/2026 à 04:47
 * **PAYLOADS**
   * `Ps5Upload V8.8.0` (ps5upload) - *Mise à jour (Précédent: v8.8.0)*

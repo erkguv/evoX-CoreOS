@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-29T04:47:38.466301",
+    "updated_at": "2026-10-29T12:32:52.732376",
     "packs": [
         {
             "filename": "PS5_apps_aio_latest.zip",
@@ -21,8 +21,8 @@
             "filename": "PS5_payloads_aio_latest.zip",
             "display_name": "PS5 PAYLOADS AIO",
             "pack_type": "payloads",
-            "size_bytes": 379747036,
-            "size_mb": 362.15,
+            "size_bytes": 379789664,
+            "size_mb": 362.2,
             "url": "https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip"
         },
         {
@@ -45,8 +45,8 @@
             "filename": "PS5_ultimate_pack_part1_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART1",
             "pack_type": "ultimate",
-            "size_bytes": 910320312,
-            "size_mb": 868.15,
+            "size_bytes": 910362940,
+            "size_mb": 868.19,
             "url": "https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip"
         },
         {

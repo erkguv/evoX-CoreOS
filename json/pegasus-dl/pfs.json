@@ -3,6 +3,28 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01575",
+      "title": "Avatar Frontiers of Pandora",
+      "createdAt": "2026-10-29T11:44:12.296Z",
+      "version": "1.020",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png",
+      "description": "Get the Aranahe Warrior Pack for free when you play on PlayStation®5. Avatar: Frontiers of Pandora™ is a third and first-person action-adventure game set in the never-before-seen Western Frontier of Pandora. Abducted by the human militaristic corporation known as the RDA, you, a Na’vi, were trained and molded to serve their purpose. Fifteen years later, you are free, but find yourself a stranger in your birthplace. Reconnect with your lost heritage, discover what it truly means to be Na’vi, and join other clans to protect Pandora from the RDA. EXPLORE A WORLD OF WONDER AND DANGER Experience the epic wonders of the Western Frontier, a never-before-seen continent of Pandora. Journey through beautiful yet unpredictable open world regions, where lowering your guard can lead to deadly mistakes. BECOME NA’VI Harness your incredible strength and agility while customizing your character, crafting new gear, and upgrading skills and weapons to fit your playstyle. SOAR THE SKIES Bond with your own personal banshee that will give you an edge in aerial combat and can be used for traveling across the vast Western Frontier. MASTER MULTIPLE COMBAT STYLES Fight off the dangers of Pandora as you embrace the precision of traditional Na’vi weapons, including your bow and spear-thrower, or leverage your human training with more destructive weapons, such as an assault rifle or a shotgun. AN IMMERSIVE NEXT-GEN EXPERIENCE Developed to maximize the power of PS5®, Avatar: Frontiers of Pandora will push the limits of immersion with extraordinary levels of detail, rendering, density, and immersive audio. SHARE YOUR ADVENTURE IN FULL CAMPAIGN CO-OP Play the full story campaign in single-player or with a friend online in two-player co-op. Internet connection, Ubisoft Account, PlayStation™Network account, and PlayStation®Plus subscription (sold separately) required to access online multiplayer/features.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-29T11:39:06.138Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki - pt.1",
+          "url": "https://vikingfile.com/f/shrYYkmFjH"
+        },
+        {
+          "name": "Viki - pt.2",
+          "url": "https://vikingfile.com/f/AEbSc47JKr"
+        }
+      ],
+      "sizeBytes": 228707008512
+    },
+    {
       "titleId": "PPSA35889",
       "title": "NBA 2K27",
       "createdAt": "2026-10-16T21:48:35.923Z",
