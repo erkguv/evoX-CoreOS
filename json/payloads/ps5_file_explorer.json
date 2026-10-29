@@ -22,24 +22,24 @@
       "checksum": "e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed"
     },
     {
-      "name": "Web-File-Mgr-V1.12",
-      "filename": "web-file-mgr-v1.12.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/web-file-mgr-v1.12.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/web-file-mgr-v1.12.elf",
-      "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.12",
-      "category": "PS5 File Explorer",
-      "checksum": "f3461eb967da7afbbf0420d3294fbc8f999cc2ad53a756bed413aa80c7cfa67a"
-    },
-    {
       "name": "Wfm-7Zip-Helper",
       "filename": "wfm-7zip-helper.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/wfm-7zip-helper.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/wfm-7zip-helper.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/wfm-7zip-helper.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/wfm-7zip-helper.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.12",
+      "version": "v1.13-rc1",
       "category": "PS5 File Explorer",
       "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825"
+    },
+    {
+      "name": "Web-File-Mgr-V1.13-Rc1",
+      "filename": "web-file-mgr-v1.13-rc1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/web-file-mgr-v1.13-rc1.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/web-file-mgr-v1.13-rc1.elf",
+      "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
+      "version": "v1.13-rc1",
+      "category": "PS5 File Explorer",
+      "checksum": "8c9456a10ddde61dd0247b9171e71a285b955096ca7eb8e4ae3bdbe94f38f605"
     },
     {
       "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",

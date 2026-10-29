@@ -24,12 +24,12 @@
     {
       "name": "Shadowmountplus",
       "filename": "shadowmountplus.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta10/shadowmountplus.elf",
-      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta10/shadowmountplus.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/shadowmountplus.elf",
+      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/shadowmountplus.elf",
       "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta10",
+      "version": "1.7beta11",
       "category": "PS5 Game Dump",
-      "checksum": "8c6798232ae2a8fbcd209ab97fc4f8d4d47cf23b7eecfaa6349c0bfeb8e4a3d3"
+      "checksum": "08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da"
     },
     {
       "name": "Backpork V0.1",

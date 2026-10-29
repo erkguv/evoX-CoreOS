@@ -84,9 +84,9 @@
     </item>
     <item>
       <title>[Payloads] Shadowmountplus</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta10/shadowmountplus.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/shadowmountplus.elf</link>
       <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.7beta10</pubDate>
+      <pubDate>1.7beta11</pubDate>
     </item>
     <item>
       <title>[Payloads] Backpork V0.1</title>
@@ -119,16 +119,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Web-File-Mgr-V1.12</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/web-file-mgr-v1.12.elf</link>
+      <title>[Payloads] Wfm-7Zip-Helper</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/wfm-7zip-helper.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.12</pubDate>
+      <pubDate>v1.13-rc1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Wfm-7Zip-Helper</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/wfm-7zip-helper.elf</link>
+      <title>[Payloads] Web-File-Mgr-V1.13-Rc1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/web-file-mgr-v1.13-rc1.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.12</pubDate>
+      <pubDate>v1.13-rc1</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
@@ -354,9 +354,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.7.0/orbit_store.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.7.5/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.7.0</pubDate>
+      <pubDate>v1.7.5</pubDate>
     </item>
     <item>
       <title>[Payloads] Etahen V2.5B</title>
@@ -641,10 +641,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V9.0.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.0.1/ps5upload_v9.0.1.elf</link>
+      <title>[Payloads] Ps5Upload V9.2.2</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.2.2/ps5upload_v9.2.2.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v9.0.1</pubDate>
+      <pubDate>v9.2.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -756,6 +756,12 @@
     </item>
     <item>
       <title>[Payloads] Web-File-Mgr-V1.11B</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Web-File-Mgr-V1.12</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
@@ -942,9 +948,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.115/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.115</pubDate>
+      <pubDate>v1.000.116</pubDate>
     </item>
     <item>
       <title>[Applications] Flycast-Ps5-2026.10.06</title>

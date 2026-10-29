@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 29/10/2026 à 22:35
+* **PAYLOADS**
+  * `Shadowmountplus` (1.7beta11) - *Mise à jour (Précédent: 1.7beta10)*
+  * `Wfm-7Zip-Helper` (v1.13-rc1) - *Mise à jour (Précédent: v1.12)*
+  * `Web-File-Mgr-V1.13-Rc1` (v1.13-rc1) - *Nouveau*
+  * `Orbit Store` (v1.7.5) - *Mise à jour (Précédent: v1.7.0)*
+  * `Ps5Upload V9.2.2` (v9.2.2) - *Nouveau*
+  * `Web-File-Mgr-V1.12` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.12)*
+* **APPS**
+  * `Ppsa99000` (v1.000.116) - *Mise à jour (Précédent: v1.000.115)*
+
 ## Build du 29/10/2026 à 12:32
 * **PAYLOADS**
   * `Ps5 Unified Autoloader V0.1.7-Abc3B82` (v0.1.7-abc3b82) - *Nouveau*
