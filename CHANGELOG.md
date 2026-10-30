@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 30/10/2026 à 22:04
+* **PAYLOADS**
+  * `Snes9Xps5 V2.9` (snes9xPS5) - *Mise à jour (Précédent: v2.9)*
+  * `Orbit Store` (v1.8.0) - *Mise à jour (Précédent: v1.7.5)*
+  * `Ps5Upload V9.5.1` (ps5upload) - *Mise à jour (Précédent: v9.5.1)*
+
 ## Build du 30/10/2026 à 12:22
 * **PAYLOADS**
   * `Ps5-Romm V1.4.0` (v1.4.0) - *Nouveau*

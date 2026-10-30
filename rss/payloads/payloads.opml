@@ -4,7 +4,7 @@
     <title>PS5 Store Feeds - Payloads</title>
   </head>
   <body>
-    <outline text="Snes9Xps5 V2.9" title="Snes9Xps5 V2.9" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.9/snes9xPS5_v2.9.elf" description="snes9x emulator"/>
+    <outline text="Snes9Xps5 V2.9" title="Snes9Xps5 V2.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Genplusgxps5 V2.2" title="Genplusgxps5 V2.2" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5X360 V1.0.2" title="Ps5X360 V1.0.2" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v1.0.2/PS5X360_v1.0.2.elf" description="x360 emu for ps5, you need PPSA97358.zip"/>
     <outline text="Ps5-Romm V1.4.0" title="Ps5-Romm V1.4.0" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.0/ps5-romm_v1.4.0.elf" description="ps5-romm for ps5"/>
@@ -62,7 +62,7 @@
     <outline text="Savemnt-Offset-Dumper V1.0.0" title="Savemnt-Offset-Dumper V1.0.0" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf" description="Offset dumper for save mounting utilities."/>
     <outline text="Ps5Shopappkg-Dpi" title="Ps5Shopappkg-Dpi" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf" description="You need PS5-SHOP-APPKG.pkg DPI port 9040."/>
     <outline text="Ps5Library-Agent" title="Ps5Library-Agent" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf" description="You need PS5Library.pkg."/>
-    <outline text="Orbit Store" title="Orbit Store" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.7.5/orbit_store.elf" description="A modern, no-BS download manager for PS5."/>
+    <outline text="Orbit Store" title="Orbit Store" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.0/orbit_store.elf" description="A modern, no-BS download manager for PS5."/>
     <outline text="Etahen V2.5B" title="Etahen V2.5B" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin" description="Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés."/>
     <outline text="Ps5 Unified Autoloader V0.1.7-Abc3B82" title="Ps5 Unified Autoloader V0.1.7-Abc3B82" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.7-abc3b82/PS5_Unified_Autoloader_v0.1.7-abc3b82.elf" description="Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l"/>
     <outline text="Pldmgr V0.6.3" title="Pldmgr V0.6.3" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.3/pldmgr_v0.6.3.elf" description="Interface d"/>
@@ -110,7 +110,7 @@
     <outline text="Ftpsrv Drakmor V1.16-Ng-Stable" title="Ftpsrv Drakmor V1.16-Ng-Stable" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf" description="Drakmor"/>
     <outline text="Ps5-Ezremote-Client V2.17" title="Ps5-Ezremote-Client V2.17" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.17/ps5-ezremote-client_v2.17.elf" description="Easy remote client application for PS5."/>
     <outline text="Ps5-Ezremote-Server V1.13" title="Ps5-Ezremote-Server V1.13" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf" description="Easy remote server component. Port: 8080"/>
-    <outline text="Ps5Upload V9.5.1" title="Ps5Upload V9.5.1" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.5.1/ps5upload_v9.5.1.elf" description="PS5 Upload server / tool. Port: 9025"/>
+    <outline text="Ps5Upload V9.5.1" title="Ps5Upload V9.5.1" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Airpsx V0.19" title="Airpsx V0.19" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf" description="AirPSX server tool for PS5 ecosystem."/>
     <outline text="Bfplayer-Standalone" title="Bfplayer-Standalone" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf" description="BFplayer is a native media library and player for jailbroken PlayStation 5 consoles."/>
     <outline text="Prosperoplayer V1.0" title="Prosperoplayer V1.0" type="rss" xmlUrl="https://erkguv.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf" description="A homebrew media player for jailbroken PS5."/>

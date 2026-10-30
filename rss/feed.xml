@@ -6,9 +6,9 @@
     <description>Flux RSS global de toutes les mises à jour du store PS5</description>
     <item>
       <title>[Payloads] Snes9Xps5 V2.9</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.9/snes9xPS5_v2.9.elf</link>
-      <description>snes9x emulator</description>
-      <pubDate>v2.9</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>snes9xPS5</pubDate>
     </item>
     <item>
       <title>[Payloads] Genplusgxps5 V2.2</title>
@@ -354,9 +354,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.7.5/orbit_store.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.7.5</pubDate>
+      <pubDate>v1.8.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Etahen V2.5B</title>
@@ -642,9 +642,9 @@
     </item>
     <item>
       <title>[Payloads] Ps5Upload V9.5.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.5.1/ps5upload_v9.5.1.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v9.5.1</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5upload</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>

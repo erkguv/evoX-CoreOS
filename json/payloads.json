@@ -4,11 +4,10 @@
     {
       "name": "Snes9Xps5 V2.9",
       "filename": "snes9xPS5_v2.9.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.9/snes9xPS5_v2.9.elf",
+      "url": "",
       "local_path": "payloads/ps5_emulator/snes9xPS5/v2.9/snes9xPS5_v2.9.elf",
-      "description": "snes9x emulator",
-      "version": "v2.9",
-      "category": "PS5 Emulator",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "snes9xPS5",
       "checksum": "14d5147546ec26d54973fbad975d380539832834d8940e3806f902e2183b2779"
     },
     {
@@ -417,7 +416,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "d8f70d24538c912da4f8bdc796496d67e28560ae924c9e78423e0caefd85a4bd"
+      "checksum": "3fab2fa6087d66b7cf4cf01810aa56fba3485ea3a524aa6889219156fc2c04f9"
     },
     {
       "name": "Common Fps Ps5 V1.2.3",
@@ -582,12 +581,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.7.5/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.7.5/orbit_store.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.0/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.8.0/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.7.5",
+      "version": "v1.8.0",
       "category": "PS5 Freeshop",
-      "checksum": "c5c601dd349b52c650ee4147fc89d9e2ab9a7d1df35e6e6039eee1175194e832"
+      "checksum": "53446c09c568468436f5762593618a5063375ece64e73f0532063a2da5c80a07"
     },
     {
       "name": "Etahen V2.5B",
@@ -1062,11 +1061,10 @@
     {
       "name": "Ps5Upload V9.5.1",
       "filename": "ps5upload_v9.5.1.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.5.1/ps5upload_v9.5.1.elf",
+      "url": "",
       "local_path": "payloads/ps5_server/ps5upload/v9.5.1/ps5upload_v9.5.1.elf",
-      "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v9.5.1",
-      "category": "PS5 Server",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "ps5upload",
       "checksum": "6c113d167d7fe4c4f3e036e8556d044ab3b04e7f45fe53778f8dbea158ede8d7"
     },
     {
