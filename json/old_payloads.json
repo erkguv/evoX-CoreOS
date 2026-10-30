@@ -417,7 +417,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "2e565d970ef3cd9d6e0c6e953c3ba31686b8bd72648fff3ff54b88aedea41b1e"
+            "checksum": "73cb317b3f1ef0f728e0aac1f06eb59b43b32c290995dad7d25c7ddd20a79580"
         },
         {
             "name": "Common Fps Ps5 V1.2.3",
@@ -1060,14 +1060,14 @@
             "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
         },
         {
-            "name": "Ps5Upload V9.2.2",
-            "filename": "ps5upload_v9.2.2.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.2.2/ps5upload_v9.2.2.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v9.2.2/ps5upload_v9.2.2.elf",
+            "name": "Ps5Upload V9.4.1",
+            "filename": "ps5upload_v9.4.1.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.4.1/ps5upload_v9.4.1.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v9.4.1/ps5upload_v9.4.1.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v9.2.2",
+            "version": "v9.4.1",
             "category": "PS5 Server",
-            "checksum": "9b7ea36573c7fb7c78ea89d598a01b6cf6e49a52951279abfc8d09aeb6ae3cc5"
+            "checksum": "b276e08c0b82dd29abbe7bbe7b23ed21adafc5a89737f5deba4787ed2ceccad8"
         },
         {
             "name": "Airpsx V0.19",
