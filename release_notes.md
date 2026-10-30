@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.30-0448)
+### 🚀 Synthèse de la mise à jour (v2026.10.30-1222)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -24,7 +24,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `snes9xPS5_v2.9.elf`
   * `genplusgxPS5_v2.2.elf`
   * `PS5X360_v1.0.2.elf`
-  * `ps5-romm_v1.3.0.elf`
+  * `ps5-romm_v1.4.0.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `FGG-PlayPods-GUI_v0.1.5.elf`
   * `FGG-PlayPods_v1.0.elf`
@@ -125,9 +125,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `gdbsrv_v0.9.elf`
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
-  * `ps5-ezremote-client_v2.16.elf`
+  * `ps5-ezremote-client_v2.17.elf`
   * `ps5-ezremote-server_v1.13.elf`
-  * `ps5upload_v9.4.1.elf`
+  * `ps5upload_v9.5.1.elf`
   * `airpsx_v0.19.elf`
   * `bfplayer-standalone.elf`
   * `ProsperoPlayer_v1.0.elf`

@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 30/10/2026 à 12:22
+* **PAYLOADS**
+  * `Ps5-Romm V1.4.0` (v1.4.0) - *Nouveau*
+  * `Ps5-Ezremote-Client V2.17` (2.17) - *Nouveau*
+  * `Ps5Upload V9.5.1` (v9.5.1) - *Nouveau*
+
 ## Build du 30/10/2026 à 04:48
 * **PAYLOADS**
   * `Ps5Upload V9.4.1` (v9.4.1) - *Nouveau*

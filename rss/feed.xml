@@ -23,10 +23,10 @@
       <pubDate>v1.0.2</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Romm V1.3.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.3.0/ps5-romm_v1.3.0.elf</link>
+      <title>[Payloads] Ps5-Romm V1.4.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.0/ps5-romm_v1.4.0.elf</link>
       <description>ps5-romm for ps5</description>
-      <pubDate>v1.3.0</pubDate>
+      <pubDate>v1.4.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Phu-Sandbox.Exit V1.0</title>
@@ -629,10 +629,10 @@
       <pubDate>1.16-ng-stable</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Ezremote-Client V2.16</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.16/ps5-ezremote-client_v2.16.elf</link>
+      <title>[Payloads] Ps5-Ezremote-Client V2.17</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.17/ps5-ezremote-client_v2.17.elf</link>
       <description>Easy remote client application for PS5.</description>
-      <pubDate>2.16</pubDate>
+      <pubDate>2.17</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Ezremote-Server V1.13</title>
@@ -641,10 +641,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V9.4.1</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.4.1/ps5upload_v9.4.1.elf</link>
+      <title>[Payloads] Ps5Upload V9.5.1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.5.1/ps5upload_v9.5.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v9.4.1</pubDate>
+      <pubDate>v9.5.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>

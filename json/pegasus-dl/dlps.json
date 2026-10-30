@@ -13,7 +13,7 @@
       "downloadSource": "https://dlpsgame.com/sudden-strike-5-deluxe-edition-ps5/",
       "downloadLinks": [
         {
-          "name": "EUR 4.xx Base - Akia",
+          "name": "EUR 4.xx Base - Akirabox",
           "url": "https://akirabox.to/M2BGwL0KMmj4/file"
         },
         {
@@ -21,7 +21,7 @@
           "url": "https://www.rootz.so/d/1TpmHA"
         },
         {
-          "name": "EUR 4.xx Base - Viki",
+          "name": "EUR 4.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/J5wPmm0yXZ"
         },
         {
@@ -52,7 +52,7 @@
       "downloadSource": "https://dlpsgame.com/survival-fountain-of-youth-ps5/",
       "downloadLinks": [
         {
-          "name": "EUR 4.xx Base - Akia",
+          "name": "EUR 4.xx Base - Akirabox",
           "url": "https://akirabox.to/gXeGOe5VX3Aa/file"
         },
         {
@@ -60,7 +60,7 @@
           "url": "https://www.rootz.so/d/2v5dY"
         },
         {
-          "name": "EUR 4.xx Base - Viki",
+          "name": "EUR 4.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/9wKcmm8PxV"
         },
         {
@@ -10829,6 +10829,10 @@
           "url": "https://www.rootz.so/d/MwyZ6"
         },
         {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PKGiNIk4gf"
+        },
+        {
           "name": "USA exFAT 01.003 Base - DATA (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRDJCMTdtMk91Mmc5QUVhUTByNTNoSXRadGg5WkVwVGZzUktsMlhXV0ZkMGNWdWRlcVpiTmhwSno4RkRNamhJSGY1OU9leDFpME9URFpzU29La296b09CTit2djRNSkN2YXNrYUZ3ZkVUUT09IiwiaSI6InFZZXJDVGlXRThGNWM1VUQiLCJuIjoiRGF0YSJ9"
         },
@@ -14171,6 +14175,462 @@
       ]
     },
     {
+      "titleId": "PPSA07588",
+      "title": "Pinball Heroes",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1123/igNhlEey8ZMV7KcmFF8u98Yj.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1123/igNhlEey8ZMV7KcmFF8u98Yj.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/pinball-heroes-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/Xkrzo1Vj2mBO/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1EVD8K"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Ez0pbgHMKG"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA38464",
+      "title": "Mega Man X Command Mission",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2705/80b571b0c68ba3840f22cc1ea374a2a9a60883e78c6ccf68.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2705/80b571b0c68ba3840f22cc1ea374a2a9a60883e78c6ccf68.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/mega-man-x-command-mission-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/APVmaMk26mXo/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/eEXQW"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/J53ihja2pT"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA27664",
+      "title": "Deus Ex The Conspiracy",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1721/5d6b215e678ac93bf43f9d886a9b66e765a9effcc5685455.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1721/5d6b215e678ac93bf43f9d886a9b66e765a9effcc5685455.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/deus-ex-the-conspiracy-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/0PdzyM0e4zeA/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/wUqES"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Puhey1xlKN"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24270",
+      "title": "Blood Omen Legacy of Kain",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0917/1fa9753e4b8d1a0a625faf46c2910a2c5a8d48603ffaa9cf.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0917/1fa9753e4b8d1a0a625faf46c2910a2c5a8d48603ffaa9cf.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/blood-omen-legacy-of-kain-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/wgWGqWePE34o/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/aCgYy"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/gxKepxTFg0"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16429",
+      "title": "Twisted Metal 2",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2121/9bc815c3c7785f052a753df6949281bbeb4e8664128769cb.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2121/9bc815c3c7785f052a753df6949281bbeb4e8664128769cb.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/twisted-metal-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/LK0G1XWZwz91/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1epDbE"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/dzhZ61HDSS"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA27839",
+      "title": "Twisted Metal 4",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0122/5756d1c967fd24b74981396f1ebdb69639cd78c4e860f2fa.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0122/5756d1c967fd24b74981396f1ebdb69639cd78c4e860f2fa.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/twisted-metal-4-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/Y2xm0XVMnmRO/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1anMjg"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/vAwEh4tnK8"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA27837",
+      "title": "Twisted Metal 3",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0122/f3b3627921332b0ca00008d2a9096aaaeaca617c2d5501d7.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0122/f3b3627921332b0ca00008d2a9096aaaeaca617c2d5501d7.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/twisted-metal-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/qPez4yVeeGOY/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/G3QJM"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/jlzAYN3Hx1"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16427",
+      "title": "Twisted Metal",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2116/88bafd641512979019a604ee6bd179c0501dec42aff9d9cc.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2116/88bafd641512979019a604ee6bd179c0501dec42aff9d9cc.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/twisted-metal-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/qw1zeVeD4GXy/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1Sjf4i"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Xgbj3ciiBt"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA23801",
+      "title": "TimeSplitters 2",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0108/b8f93dbf15ada814ed04b3877bb3c84cf6b2436d230034d3.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0108/b8f93dbf15ada814ed04b3877bb3c84cf6b2436d230034d3.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/timesplitters-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/9AqGQe6nEGMn/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/259E48"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/2ZAoRNdaQB"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA23799",
+      "title": "TimeSplitters",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0108/b8f93dbf15ada814ed04b3877bb3c84cf6b2436d230034d3.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0108/b8f93dbf15ada814ed04b3877bb3c84cf6b2436d230034d3.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/timesplitters-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/jar3XOgnQm2d/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/O782S"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/lkThDhjjue"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA32510",
+      "title": "TIME CRISIS",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2105/1cbd20676ea7012dde8984a1eba73cb0e7eff646943595be.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2105/1cbd20676ea7012dde8984a1eba73cb0e7eff646943595be.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/time-crisis-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNo9nJG7w/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/WAplY"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/aSOdh4lVjE"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07703",
+      "title": "Tekken 2",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2603/sIUqSXFhTJWlDhFEpCQV93rH.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2603/sIUqSXFhTJWlDhFEpCQV93rH.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/tekken-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8XVvQGOB/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/K5HAu"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/r53eCy1bHD"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09693",
+      "title": "Syphon Filter 3",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2723/tLPuoWYI5YiLjvHCp9IV0K1u.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2723/tLPuoWYI5YiLjvHCp9IV0K1u.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/syphon-filter-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdkeY83B8/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1yyTqq"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/woKECNOXhl"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07366",
+      "title": "Star Wars Rebel Assault 2 The Hidden Empire",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2020/fcb658cb3ebe05aa2687dd5d40d3996afd883eaac025c511.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2020/fcb658cb3ebe05aa2687dd5d40d3996afd883eaac025c511.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/star-wars-rebel-assault-2-the-hidden-empire-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/Z9dzBB9pPzk1/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/272BZw"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/l66DNbRZEl"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07336",
+      "title": "Star Wars Episode I The Phantom Menace",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0614/e4e405346f263be4d59f1b67bf09ee2900192881c3b73930.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0614/e4e405346f263be4d59f1b67bf09ee2900192881c3b73930.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/star-wars-episode-i-the-phantom-menace-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ36XVOdG19/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/230KiO"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HUomlw5owj"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07364",
+      "title": "Star Wars Demolition",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1414/FunpBHqp9OSbJfKBv7PClNQt.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1414/FunpBHqp9OSbJfKBv7PClNQt.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/star-wars-demolition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/Z9dzBB9dlzk1/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/lLabo"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/SaQwQycMtH"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31911",
+      "title": "SOULCALIBUR 3",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1103/e9016c9abb439a38f1e4877024988a3ec3074b0829f73e52.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1103/e9016c9abb439a38f1e4877024988a3ec3074b0829f73e52.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/soulcalibur-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdkeOA3B8/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/uLwsi"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ZgmKFe1Du2"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21300",
+      "title": "Sly Cooper and The Thievius Raccoonus",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2121/de344e17f93b46c797d3d1ca4fea65d07643647967554e8e.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2121/de344e17f93b46c797d3d1ca4fea65d07643647967554e8e.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/sly-cooper-and-the-thievius-raccoonus-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/obj3jkeg1zDx/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2B42RU"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/CgZuJla0GE"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22288",
+      "title": "Sly 3 Honour Among Thieves",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/c09db2bb2c0ca50871c60712c131cebc9c3aa96ea2c1e413.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/c09db2bb2c0ca50871c60712c131cebc9c3aa96ea2c1e413.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/sly-3-honour-among-thieves/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpWepXGEB/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/yNng8"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Vj5dmHFWd5"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA16349",
       "title": "Rugby 25",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -14207,6 +14667,643 @@
         {
           "name": "EUR exFAT 01.000.062 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaS9TV0tIaStkWnNLRTNhTWI1anBYSjBSd3dVUW1WQWpvT0dHQmN4ZENaZ2JrSVB2OHl1NXhBcXYyODFhZjBxd1F6cGdnTU91bVJtVnR2L3psUkxRUVVDc1RaZW9QUT09IiwiaSI6IlRobHJPYzcvZXNYd3N0M3oiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22287",
+      "title": "Sly 2 Band of Thieves",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2223/2d0de79f1e0c17248e5576e19bdd24790f9375092bf95ca7.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2223/2d0de79f1e0c17248e5576e19bdd24790f9375092bf95ca7.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/sly-2-band-of-thieves-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/wgWGqWe4P34o/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/hJjkG"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ffWdJwR2gq"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07695",
+      "title": "Ridge Racer 2",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2204/v8xFzLoF6UdCJqFPdJwRSRw5.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2204/v8xFzLoF6UdCJqFPdJwRSRw5.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 5.xx and higher",
+      "downloadSource": "https://dlpsgame.com/ridge-racer-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/LK0G1XWkYz91/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1huPuy"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/JEVZqfd1zG"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07811",
+      "title": "Resident Evil Directors Cut",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1307/Ue3ndByOUb2iHviPJqImWsYy.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1307/Ue3ndByOUb2iHviPJqImWsYy.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/resident-evil-directors-cut-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8XVOgGOB/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/VEBDk"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/r11IX53hVn"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07815",
+      "title": "Resident Evil 3 Nemesis",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1307/NliUZLNjF0QGLI6sqvU9n3KM.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1307/NliUZLNjF0QGLI6sqvU9n3KM.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 11.xx and higher",
+      "downloadSource": "https://dlpsgame.com/resident-evil-3-nemesis-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/jar3XOgYgm2d/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/ZG25I"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/CQz1fc4kdh"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07813",
+      "title": "Resident Evil 2",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1307/QpeOEfRcYvTWs6oU7vwePeWK.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1307/QpeOEfRcYvTWs6oU7vwePeWK.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 11.xx and higher",
+      "downloadSource": "https://dlpsgame.com/resident-evil-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNo9YZG7w/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1tzyVc"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ESjZjYcHZw"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04288",
+      "title": "Resident Evil 2",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "version": "01.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.003 — 3.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/resident-evil-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.003 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoicFdRRXIyMm5mS3MwT1NxUk45TllvWTB5S0JRZnBmWUdlNVB2dVk4eEJwSnh3c08yQk94cS9vVTgrRm0xcG5Ic2Q1aGRvTTNqIiwicyI6IlNBcXlueEVmRHk4QU1oUFlhM0FqbVE9PSIsImkiOiJHbUVTa3VTMUJMemVEclpiIn0="
+        },
+        {
+          "name": "USA exFAT 01.003 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiNkVwc0FLWmFtd1hKeHkzdUh3aVBzVVoveWIrZDBOWlErVjQ4TncwbGhEclNCL242bTlQMzE0L3FhL3hzbE5PMS9peWEiLCJzIjoiMDN0a3hDTlkxSFY0dVAvMlEzaDFiQT09IiwiaSI6IkE2VWFCb1BRcWx2eEI1Rk4ifQ=="
+        },
+        {
+          "name": "USA exFAT 01.003 Base - Buzz (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiQTlmVzBsWHg5Zm1SSkplTFRUMEFEbVJaOFdzUlJVK3gxbkdDZ2lMNklSTXpxd0M3b3J6NVhNTW8vQjF2a1I3OUt5TTcwdz09IiwicyI6IklBN1pPTHBvczJEQVl4L2dYci9UNlE9PSIsImkiOiJCdFhwa29kTFhzL1JZNjJHIn0="
+        },
+        {
+          "name": "USA exFAT 01.003 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSCszUGZyemQvRTdFenVPemNmcVF1UkJjRWxEMTJFVTBDQWtCZEZqQ0V5aTJQVisvYndYakE5V3ROblI1elNlVHBQKzBid09KQUh6NVo0MjJqNGZsdlZoSkNGVHYiLCJpIjoidlhxNXdHdnRPdnhQbXo4ciIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.003 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWUJQS2tCVFdFdzQxa0kyQTVRRVEyaG1jL3YwUlpmQkxMZnRucStseWw2cUlVRWNEb1llSHpSdTg5eXdqT1czS2NEcm9DYWJ4OC8wcFJWc25yeXl3UkpsVnB2NGluNWM9IiwiaSI6Ik5ocHJNV3A2ZXJUR2UvcFkiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.003 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZnlaTFdrTHpxSTBCVmxkNnd2bEcyYm1pWjVoWXVlS0ZrcWhyYzJuSi9jdUVlQVVTU3pkd2ZXUThnTS9sQVl3bUJyV3JWREtSelJ5RGZrTkQ5SFFkNm81SkcxTEFWdz09IiwiaSI6Im9IV2ErTXdiMGQ2d1hyQ0MiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA14448",
+      "title": "Rally Cross",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1221/2a2ebfb1cbda9dff0ee95be50ea70093b7d51e0cab69acc1.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1221/2a2ebfb1cbda9dff0ee95be50ea70093b7d51e0cab69acc1.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/rally-cross-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/E9Qz96VDwGOL/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/RCKMC"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EhQvgaTcrI"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07699",
+      "title": "R4 RIDGE RACER TYPE 4",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0810/07dbdb4d05e9dc0dd3d431d1510d1ee1f9660e8c9e703588.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0810/07dbdb4d05e9dc0dd3d431d1510d1ee1f9660e8c9e703588.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 6.xx and higher",
+      "downloadSource": "https://dlpsgame.com/r4-ridge-racer-type-4-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/Y2xm0XVb0mRO/file"
+        },
+        {
+          "name": "USA 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1dsZ3Q"
+        },
+        {
+          "name": "USA 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/45qJLLptfz"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08696",
+      "title": "Pursuit Force Extreme Justice",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1315/9bb5fbcd7c435c10e1c77601ce9d5ede3584b57567a7b674.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1315/9bb5fbcd7c435c10e1c77601ce9d5ede3584b57567a7b674.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/pursuit-force-extreme-justice-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/dZxG5XVl9zVj/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1py7e4"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/b6xJZYIHtQ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA10609",
+      "title": "Pursuit Force",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1018/21ceb8a8276085539f75c270f739995cc804252838f03dcc.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1018/21ceb8a8276085539f75c270f739995cc804252838f03dcc.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/pursuit-force-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5Ozdken83B8/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/8w1YG"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mbEjD2eplF"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31935",
+      "title": "Psi Ops The Mindgate Conspiracy",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0321/23cd398fe61319e659bc1b53789193ba0f2b3b4bbdd548b5.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0321/23cd398fe61319e659bc1b53789193ba0f2b3b4bbdd548b5.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/psi-ops-the-mindgate-conspiracy-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/LJlGnZe44G15/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/dHswq"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/okW1zV4Lcx"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA19048",
+      "title": "MediEvil 2",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1012/29b1fe590465ea249cbd1d2fcd248d83ebe40b755e5b5f9b.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1012/29b1fe590465ea249cbd1d2fcd248d83ebe40b755e5b5f9b.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/medievil-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpWe9QGEB/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1DYYaW"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/9E54DklCQ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA15811",
+      "title": "MediEvil",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2119/c11906b704e7ab6e2b77c992cc2ddfc9d5267716beb9da97.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2119/c11906b704e7ab6e2b77c992cc2ddfc9d5267716beb9da97.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/medievil-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/Pbe3Pe9WJzlX/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1VorOS"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Lre031KgsS"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17995",
+      "title": "Jet Rider 2",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2422/9d4b28f09f15d29b313d7b70486c216b0616b3535212532f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2422/9d4b28f09f15d29b313d7b70486c216b0616b3535212532f.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/jet-rider-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/vgKGx7lNqz8Q/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/sJtI"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/xukLwDfEXR"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16535",
+      "title": "Jet Rider",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2723/af127fe0e347be86d219cc3c12277d769616b70fe8bce34c.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2723/af127fe0e347be86d219cc3c12277d769616b70fe8bce34c.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/jet-rider-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/EL73gkeN939B/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/19Whiy"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/5KlRKUpKKT"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13496",
+      "title": "Gravity Crash Portable",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2118/f58aafe6314964d493e53e601208e5cb45b85041cda3f80a.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2118/f58aafe6314964d493e53e601208e5cb45b85041cda3f80a.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/gravity-crash-portable-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/M2BGwL8NRmj4/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/15UqrQ"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/9PBgoE3l8v"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA15806",
+      "title": "G Police",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2317/9770c5764fa451640cadd999a61f44b7c91d5121bdbe9298.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2317/9770c5764fa451640cadd999a61f44b7c91d5121bdbe9298.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/g-police-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/1RgzRLOY1mbp/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1ZqiG0"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/KaRqSIlsnf"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21974",
+      "title": "Ghosthunter",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0519/6ad1c95221284e11161686656428fdcaea5174a34363652a.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0519/6ad1c95221284e11161686656428fdcaea5174a34363652a.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/ghosthunter-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/LJlGnZeQ4G15/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/xR9CS"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HO6Ex9dhOC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07831",
+      "title": "Dino Crisis",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1307/J8z8zZWGd6Kr7IY9kLbzZoi1.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1307/J8z8zZWGd6Kr7IY9kLbzZoi1.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/dino-crisis-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/jar3XOgogm2d/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/265X28"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Osc3tkhJGo"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18836",
+      "title": "Cool Boarders",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0923/b43ac8576f448efd5ce03d589f55c843950d2c23fd97e1fb.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0923/b43ac8576f448efd5ce03d589f55c843950d2c23fd97e1fb.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/cool-boarders-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/Y2xm0XV80mRO/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1npEIK"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HrrNP6CCpC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA27019",
+      "title": "Battle Engine Aquila",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0223/30f8001f3b9bbdd26aba61a8ef3201c71f2677d5fb32db9b.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0223/30f8001f3b9bbdd26aba61a8ef3201c71f2677d5fb32db9b.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/battle-engine-aquila-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/7d5GLo9RLzxR/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2A7Ntg"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/pBiqkOdMjM"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21308",
+      "title": "Armored Core Project Phantasma",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2802/22a28a2be00f43e1f93af5392f11af77406cff3c53df6bfb.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2802/22a28a2be00f43e1f93af5392f11af77406cff3c53df6bfb.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/armored-core-project-phantasma-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/E1x3AxqrWmyk/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/b8zWy"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/z3l8gfoHCu"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21240",
+      "title": "ARMORED CORE",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2401/f5fc0c83ffa88ab0798ba259d7bdc783e81d905bbe732720.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2401/f5fc0c83ffa88ab0798ba259d7bdc783e81d905bbe732720.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/armored-core-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/qw1zeVeNVGXy/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/223gAa"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/6WO1vYcvWM"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07123",
+      "title": "Ape Escape Academy",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2816/42ff1afd4e02478885696e7c57d1a65e052bd43bd93abd94.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2816/42ff1afd4e02478885696e7c57d1a65e052bd43bd93abd94.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/ape-escape-academy-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/Xkrzo1VNQmBO/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1jnNQm"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mHt12aPRaI"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA14435",
+      "title": "2Xtreme",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2319/7cbb1b68a5c300d97bf94be99ec9c55c39b4a9b9c7bed774.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2319/7cbb1b68a5c300d97bf94be99ec9c55c39b4a9b9c7bed774.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/2xtreme-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/LK0G1XW8Yz91/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/pNRTM"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/6ZGFedG3v1"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18070",
+      "title": "Alone in The Dark The New Nightmare (2001)",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0811/10121f7f8758fa1e203f1f7738b40ba4ec18d38ba19ea1bc.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0811/10121f7f8758fa1e203f1f7738b40ba4ec18d38ba19ea1bc.png",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/alone-in-the-dark-the-new-nightmare-2001-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNo9ZZG7w/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2E9ElE"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WNKH4XcpiP"
         }
       ]
     },
@@ -57181,6 +58278,29 @@
       ]
     },
     {
+      "titleId": "PPSA99630",
+      "title": "The Elder Scrolls 3 Morrowind",
+      "createdAt": "2026-10-30T07:37:33.538Z",
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/10/1-wsf-1.jpg",
+      "description": "Release note: By Shivam Mishra Works on 2.xx and higher This is the OpenMW port for PS5",
+      "downloadSource": "https://dlpsgame.com/the-elder-scrolls-iii-morrowind-ps5/",
+      "downloadLinks": [
+        {
+          "name": "2.xx Base - Akia",
+          "url": "https://akirabox.to/l76mZvZyxman/file"
+        },
+        {
+          "name": "2.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1fpuLo"
+        },
+        {
+          "name": "2.xx Base - Viki",
+          "url": "https://vikingfile.com/f/YzgJYqv1qc"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA22924",
       "title": "Bye Sweet Carole",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -91276,7 +92396,7 @@
           "url": "https://www.rootz.so/d/2HkKoq"
         },
         {
-          "name": "JPN 8.xx BackPort 5.xx - Mediafire",
+          "name": "JPN 8.xx BackPort 4.xx - Mediafire part 5",
           "url": "https://www.mediafire.com/file/7y67hrfu2kqq7gb/5XX+PPSA24473+%E2%80%93+JPN+v1.00++Undefeated++By+BADERLINK+-[DLPSGAME.COM].zip/file"
         },
         {
@@ -92900,6 +94020,138 @@
       ]
     },
     {
+      "titleId": "PPSA13742",
+      "title": "Shame Legacy",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2705/e20b5fd917178626ed817e0e3b780100424a292deb6c0f81.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2705/e20b5fd917178626ed817e0e3b780100424a292deb6c0f81.png",
+      "description": "Variant: EUR 6.xx\nRegion: EUR\nRelease note: Works on 6.xx and higher\nContributor: @DUPLEX &amp; VanBuuren\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: EUR exFAT 01.030\nRegion: EUR\nRelease note: exFAT format — FW 01.030 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/shame-legacy-free-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Mediafire",
+          "url": "https://www.mediafire.com/file/qw5bm154prztobo/[DLPSGAME.COM]-PPSA13742-app0.rar/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/vgKGxYjV8m8Q/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/yjScPSDPTc"
+        },
+        {
+          "name": "EUR 6.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?yjrbseyz1nzisbbj8sw1"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz",
+          "url": "https://rootz.so/d/1yy6Xg"
+        },
+        {
+          "name": "EUR 6.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0JgG7l5A5moY/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/mOYfhxoBbD"
+        },
+        {
+          "name": "EUR 6.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?j01cfdz75yyz7xx7aihs"
+        },
+        {
+          "name": "EUR 6.xx Base - Ranoz part 1",
+          "url": "https://ranoz.gg/file/jZRx5VJ2"
+        },
+        {
+          "name": "EUR 6.xx Base - Ranoz part 2",
+          "url": "https://ranoz.gg/file/T1GHQwTN"
+        },
+        {
+          "name": "EUR 6.xx Base - Ranoz part 3",
+          "url": "https://ranoz.gg/file/rfyCIIHM"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/28PFcO"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1BqQJE"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1dXWXw"
+        },
+        {
+          "name": "EUR 6.xx BackPort 4.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/w7f0ouvyrvn2zrb/4_XX+PPSA13742_%E2%80%93_EUR_v01_000_Shame_Legacy_backport__By_BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "EUR 6.xx BackPort 4.xx - Akirabox",
+          "url": "https://akirabox.com/9QWmpgvRkGEB/file"
+        },
+        {
+          "name": "EUR 6.xx BackPort 4.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/HOwgocqWQO"
+        },
+        {
+          "name": "EUR 6.xx BackPort 4.xx - 1fichier",
+          "url": "https://1fichier.com/?xivkl1z8ic0u4a6a4nvj"
+        },
+        {
+          "name": "EUR 6.xx BackPort 4.xx - Rootz",
+          "url": "https://www.rootz.so/d/1520n2"
+        },
+        {
+          "name": "EUR 6.xx BackPort 5.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/i49kujb7kh44fd2/5_XX+PPSA13742_%E2%80%93_EUR_v01_000_Shame_Legacy_backport__By_BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "EUR 6.xx BackPort 5.xx - Akirabox",
+          "url": "https://akirabox.com/Pbe3PdrL93lX/file"
+        },
+        {
+          "name": "EUR 6.xx BackPort 5.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/pv0UIISTNx"
+        },
+        {
+          "name": "EUR 6.xx BackPort 5.xx - 1fichier",
+          "url": "https://1fichier.com/?st131q6ockvw7t4idz3u"
+        },
+        {
+          "name": "EUR 6.xx BackPort 5.xx - Rootz",
+          "url": "https://www.rootz.so/d/PTkm"
+        },
+        {
+          "name": "Release 2 Base - Rapidgator",
+          "url": "https://rapidgator.net/file/a5786286afd3c57fbe383d378930ed6d/Shame.Legacy.01.000.PPSA13742-PS5-PS5.rar.html"
+        },
+        {
+          "name": "Release 2 Base - Akirabox",
+          "url": "https://akirabox.com/2WVGrVY64Gkx/file"
+        },
+        {
+          "name": "Release 2 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/BpJw7E0KYi"
+        },
+        {
+          "name": "EUR exFAT 01.030 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoia2JtOERYb3FTOEY0bXU5b1NRUGpyMHlqUy81cm5QMjNPamdidU81d3gwa1ZHdXhKN1FFMkV3ckhjZ0YwSVFhTmduZWFSSVRWIiwicyI6IldhTnJhMS9XUi9yTkJPa1phTGdLZGc9PSIsImkiOiJWbGcwQ09sc212bDZJMEJnIn0="
+        },
+        {
+          "name": "EUR exFAT 01.030 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiREM3U3ROUG5vRVF2QXpEbktpR1VZcXduY0gyU29wOVUxVTRFbzY4WGFOSFM1VllVQm1DeUF5ZzRtUzE3ampiemZOa3MiLCJzIjoiVm5rSjFGUjlVRllkTkZmNEw1bTJUQT09IiwiaSI6Inp6ZDI5LzUySzRmdGUwMEsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.030 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiNXhpM3ZVdXRhUHpHSnN2TjlCK2E5aUNUZFVodDVWN2lmN3NEbDhTY3lMNXNhV0loTWRBNFk0WFl1YkZwbU9hM2lRPT0iLCJzIjoiaHRVVFdodjhLUVBpKzdrMit5OVY5Zz09IiwiaSI6ImlKQmFvS0VlYldTQmIrNVEifQ=="
+        }
+      ]
+    },
+    {
       "titleId": "PPSA08574",
       "title": "SAND LAND",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -93036,138 +94288,6 @@
         {
           "name": "EUR exFAT 01.007 Base - Buzz (exFAT)",
           "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiOUtMUzgvUkE5bzUwNlE0UzBDSXFkRjArMFo4TkJ4eVg1Q1c1OUozTklJdDAvMnhObzRlOGg3VnMwb0QzY1JTTHFNdkZVZz09IiwicyI6ImJxNSs2K3NaeXpxNDZLN3ZtMVJFOEE9PSIsImkiOiJIYVp2Ni9valMwUTQ3YW5SIn0="
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA13742",
-      "title": "Shame Legacy",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2705/e20b5fd917178626ed817e0e3b780100424a292deb6c0f81.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2705/e20b5fd917178626ed817e0e3b780100424a292deb6c0f81.png",
-      "description": "Variant: EUR 6.xx\nRegion: EUR\nRelease note: Works on 6.xx and higher\nContributor: @DUPLEX &amp; VanBuuren\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: EUR exFAT 01.030\nRegion: EUR\nRelease note: exFAT format — FW 01.030 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/shame-legacy-free-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 6.xx Base - Mediafire",
-          "url": "https://www.mediafire.com/file/qw5bm154prztobo/[DLPSGAME.COM]-PPSA13742-app0.rar/file"
-        },
-        {
-          "name": "EUR 6.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/vgKGxYjV8m8Q/file"
-        },
-        {
-          "name": "EUR 6.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/yjScPSDPTc"
-        },
-        {
-          "name": "EUR 6.xx Base - 1fichier part 1",
-          "url": "https://1fichier.com/?yjrbseyz1nzisbbj8sw1"
-        },
-        {
-          "name": "EUR 6.xx Base - Rootz",
-          "url": "https://rootz.so/d/1yy6Xg"
-        },
-        {
-          "name": "EUR 6.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/0JgG7l5A5moY/file"
-        },
-        {
-          "name": "EUR 6.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/mOYfhxoBbD"
-        },
-        {
-          "name": "EUR 6.xx Base - 1fichier part 2",
-          "url": "https://1fichier.com/?j01cfdz75yyz7xx7aihs"
-        },
-        {
-          "name": "EUR 6.xx Base - Ranoz part 1",
-          "url": "https://ranoz.gg/file/jZRx5VJ2"
-        },
-        {
-          "name": "EUR 6.xx Base - Ranoz part 2",
-          "url": "https://ranoz.gg/file/T1GHQwTN"
-        },
-        {
-          "name": "EUR 6.xx Base - Ranoz part 3",
-          "url": "https://ranoz.gg/file/rfyCIIHM"
-        },
-        {
-          "name": "EUR 6.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/28PFcO"
-        },
-        {
-          "name": "EUR 6.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/1BqQJE"
-        },
-        {
-          "name": "EUR 6.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/1dXWXw"
-        },
-        {
-          "name": "EUR 6.xx BackPort 4.xx - Mediafire",
-          "url": "https://www.mediafire.com/file/w7f0ouvyrvn2zrb/4_XX+PPSA13742_%E2%80%93_EUR_v01_000_Shame_Legacy_backport__By_BADERLINK-[DLPSGAME.COM].zip/file"
-        },
-        {
-          "name": "EUR 6.xx BackPort 4.xx - Akirabox",
-          "url": "https://akirabox.com/9QWmpgvRkGEB/file"
-        },
-        {
-          "name": "EUR 6.xx BackPort 4.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/HOwgocqWQO"
-        },
-        {
-          "name": "EUR 6.xx BackPort 4.xx - 1fichier",
-          "url": "https://1fichier.com/?xivkl1z8ic0u4a6a4nvj"
-        },
-        {
-          "name": "EUR 6.xx BackPort 4.xx - Rootz",
-          "url": "https://www.rootz.so/d/1520n2"
-        },
-        {
-          "name": "EUR 6.xx BackPort 5.xx - Mediafire",
-          "url": "https://www.mediafire.com/file/i49kujb7kh44fd2/5_XX+PPSA13742_%E2%80%93_EUR_v01_000_Shame_Legacy_backport__By_BADERLINK-[DLPSGAME.COM].zip/file"
-        },
-        {
-          "name": "EUR 6.xx BackPort 5.xx - Akirabox",
-          "url": "https://akirabox.com/Pbe3PdrL93lX/file"
-        },
-        {
-          "name": "EUR 6.xx BackPort 5.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/pv0UIISTNx"
-        },
-        {
-          "name": "EUR 6.xx BackPort 5.xx - 1fichier",
-          "url": "https://1fichier.com/?st131q6ockvw7t4idz3u"
-        },
-        {
-          "name": "EUR 6.xx BackPort 5.xx - Rootz",
-          "url": "https://www.rootz.so/d/PTkm"
-        },
-        {
-          "name": "Release 2 Base - Rapidgator",
-          "url": "https://rapidgator.net/file/a5786286afd3c57fbe383d378930ed6d/Shame.Legacy.01.000.PPSA13742-PS5-PS5.rar.html"
-        },
-        {
-          "name": "Release 2 Base - Akirabox",
-          "url": "https://akirabox.com/2WVGrVY64Gkx/file"
-        },
-        {
-          "name": "Release 2 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/BpJw7E0KYi"
-        },
-        {
-          "name": "EUR exFAT 01.030 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoia2JtOERYb3FTOEY0bXU5b1NRUGpyMHlqUy81cm5QMjNPamdidU81d3gwa1ZHdXhKN1FFMkV3ckhjZ0YwSVFhTmduZWFSSVRWIiwicyI6IldhTnJhMS9XUi9yTkJPa1phTGdLZGc9PSIsImkiOiJWbGcwQ09sc212bDZJMEJnIn0="
-        },
-        {
-          "name": "EUR exFAT 01.030 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiREM3U3ROUG5vRVF2QXpEbktpR1VZcXduY0gyU29wOVUxVTRFbzY4WGFOSFM1VllVQm1DeUF5ZzRtUzE3ampiemZOa3MiLCJzIjoiVm5rSjFGUjlVRllkTkZmNEw1bTJUQT09IiwiaSI6Inp6ZDI5LzUySzRmdGUwMEsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.030 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiNXhpM3ZVdXRhUHpHSnN2TjlCK2E5aUNUZFVodDVWN2lmN3NEbDhTY3lMNXNhV0loTWRBNFk0WFl1YkZwbU9hM2lRPT0iLCJzIjoiaHRVVFdodjhLUVBpKzdrMit5OVY5Zz09IiwiaSI6ImlKQmFvS0VlYldTQmIrNVEifQ=="
         }
       ]
     },
@@ -100103,6 +101223,66 @@
       ]
     },
     {
+      "titleId": "PPSA22636",
+      "title": "The Bridge Curse 2 The Extrication",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2215/9d9550823ab549806af882254d1c815fdcaf4ed0f8442c82.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2215/9d9550823ab549806af882254d1c815fdcaf4ed0f8442c82.png",
+      "description": "Variant: EUR 9.xx\nRegion: EUR\nRelease note: Works on 9.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games",
+      "downloadSource": "https://dlpsgame.com/the-bridge-curse-2-the-extrication-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.com/0rpmv67RZmRg/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/JEGoaqt2sI"
+        },
+        {
+          "name": "EUR 9.xx Base - 1fichier",
+          "url": "https://1fichier.com/?ft84a4mtrpvkuw0xg0pa"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/qgrm78onc6fz078/4XX+PPSA22636+%E2%80%93+EUR+V1.00++The+Bridge+Curse+2+The+Extrication++By+BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Akirabox part 1",
+          "url": "https://akirabox.com/Pbe3Pdj5L3lX/file"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/p4OrpVLuBP"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Rootz part 1",
+          "url": "https://www.rootz.so/d/16gmDg"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/arrg9oixlz2m2dy/5XX+PPSA22636+%E2%80%93+EUR+V1.00++The+Bridge+Curse+2+The+Extrication++By+BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Akirabox part 2",
+          "url": "https://akirabox.com/k0embjXoWmVb/file"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/7hM0MehMFS"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Rootz part 2",
+          "url": "https://www.rootz.so/d/24FBQ"
+        },
+        {
+          "name": "Release 2 Base - Rapidgator",
+          "url": "https://rapidgator.net/file/7f36a112544d5567881f814bb0c419ae/The.Bridge.Curse.2.The.Extrication.01.000.PPSA22636-PS5.rar.html"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA17372",
       "title": "Smalland Survive The Wilds",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -100227,62 +101407,182 @@
       ]
     },
     {
-      "titleId": "PPSA22636",
-      "title": "The Bridge Curse 2 The Extrication",
+      "titleId": "PPSA16618",
+      "title": "The Lord of The Rings Return to Moria",
       "createdAt": "2026-10-16T21:48:35.923Z",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2215/9d9550823ab549806af882254d1c815fdcaf4ed0f8442c82.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2215/9d9550823ab549806af882254d1c815fdcaf4ed0f8442c82.png",
-      "description": "Variant: EUR 9.xx\nRegion: EUR\nRelease note: Works on 9.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games",
-      "downloadSource": "https://dlpsgame.com/the-bridge-curse-2-the-extrication-ps5/",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png",
+      "description": "Variant: EUR 7.xx\nRegion: EUR\nRelease note: Works on 7.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 3\nContributor: pkg.games",
+      "downloadSource": "https://dlpsgame.com/the-lord-of-the-rings-return-to-moria-ps5/",
       "downloadLinks": [
         {
-          "name": "EUR 9.xx Base - Akirabox",
-          "url": "https://akirabox.com/0rpmv67RZmRg/file"
+          "name": "EUR 7.xx Base - Akirabox",
+          "url": "https://akirabox.com/2bJG84p75GOB/file"
         },
         {
-          "name": "EUR 9.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/JEGoaqt2sI"
+          "name": "EUR 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/XbCDY6UVtA"
         },
         {
-          "name": "EUR 9.xx Base - 1fichier",
-          "url": "https://1fichier.com/?ft84a4mtrpvkuw0xg0pa"
+          "name": "EUR 7.xx Base - 1fichier",
+          "url": "https://1fichier.com/?rl925edcvantzq9ja8dz"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/qgrm78onc6fz078/4XX+PPSA22636+%E2%80%93+EUR+V1.00++The+Bridge+Curse+2+The+Extrication++By+BADERLINK-[DLPSGAME.COM].zip/file"
+          "name": "EUR 7.xx BackPort 4.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/qmm4bmvm2fl6lfw/4XX+PPSA16618+%E2%80%93+EUR+V1.00++The+Lord+of+The+Rings+Return+to+Moria++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Akirabox part 1",
-          "url": "https://akirabox.com/Pbe3Pdj5L3lX/file"
+          "name": "EUR 7.xx BackPort 4.xx - Akirabox",
+          "url": "https://akirabox.com/ex5z2Bb7nzKq/file"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/p4OrpVLuBP"
+          "name": "EUR 7.xx BackPort 4.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/9nxq3Tvs0P"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Rootz part 1",
-          "url": "https://www.rootz.so/d/16gmDg"
+          "name": "EUR 7.xx BackPort 4.xx - 1fichier",
+          "url": "https://1fichier.com/?wo5bsmbpplro6o8s28h0"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/arrg9oixlz2m2dy/5XX+PPSA22636+%E2%80%93+EUR+V1.00++The+Bridge+Curse+2+The+Extrication++By+BADERLINK-[DLPSGAME.COM].zip/file"
+          "name": "EUR 7.xx BackPort 4.xx - Rootz",
+          "url": "https://www.rootz.so/d/1jGqbA"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Akirabox part 2",
-          "url": "https://akirabox.com/k0embjXoWmVb/file"
+          "name": "EUR 7.xx BackPort 5.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/8ctvi8o4mcxvwc2/5XX+PPSA16618+%E2%80%93+EUR+V1.00++The+Lord+of+The+Rings+Return+to+Moria++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/7hM0MehMFS"
+          "name": "EUR 7.xx BackPort 5.xx - Akirabox",
+          "url": "https://akirabox.com/BnkmWEZy2zR0/file"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Rootz part 2",
-          "url": "https://www.rootz.so/d/24FBQ"
+          "name": "EUR 7.xx BackPort 5.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/DX7uG91uSi"
         },
         {
-          "name": "Release 2 Base - Rapidgator",
-          "url": "https://rapidgator.net/file/7f36a112544d5567881f814bb0c419ae/The.Bridge.Curse.2.The.Extrication.01.000.PPSA22636-PS5.rar.html"
+          "name": "EUR 7.xx BackPort 5.xx - 1fichier",
+          "url": "https://1fichier.com/?u6k8hk1sfddxhm39h15f"
+        },
+        {
+          "name": "EUR 7.xx BackPort 5.xx - Rootz",
+          "url": "https://www.rootz.so/d/acSlU"
+        },
+        {
+          "name": "EUR 7.xx BackPort 6.xx - Akirabox",
+          "url": "https://akirabox.com/b5OzdjjoRmB8/file"
+        },
+        {
+          "name": "EUR 7.xx BackPort 6.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/37YgdkKY3G"
+        },
+        {
+          "name": "EUR 7.xx BackPort 6.xx - 1fichier",
+          "url": "https://1fichier.com/?dhm7ion78uc0vfw0s6kr"
+        },
+        {
+          "name": "Release 3 Base - Rapidgator part 1",
+          "url": "https://rapidgator.net/file/730c6f6bd41549302b6f3835ed879b5f/The.Lord.of.the.Rings.Return.to.Moria.01.000.PPSA16618-PS5.rar.html"
+        },
+        {
+          "name": "Release 3 Base - Rapidgator part 2",
+          "url": "https://rapidgator.net/file/a3c4062d7d3de57ac5ef09d153c55980/PPSA16618_The_Lord_of_the_Rings_Return_to_Moria_V1_00_Backport_6-PS5.rar.html"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16617",
+      "title": "The Lord of The Rings Return to Moria",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: @DUPLEX",
+      "downloadSource": "https://dlpsgame.com/the-lord-of-the-rings-return-to-moria-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/rk9zKDny4G0l/file"
+        },
+        {
+          "name": "USA 7.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/l5YzMENd9zyO/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz part 1",
+          "url": "https://rootz.so/d/1UPNZo"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz part 2",
+          "url": "https://rootz.so/d/Lkzk8"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?hjoizn3fo1bhesjsgfjp"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?26bwbh6ppl2g9muth8y8"
+        },
+        {
+          "name": "USA 7.xx Base - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/f7pm3nw7kvx3ses/[DLPSGAME.COM]-PPSA16617.part1.rar/file"
+        },
+        {
+          "name": "USA 7.xx Base - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/ss0fxgtdanz2t24/[DLPSGAME.COM]-PPSA16617.part2.rar/file"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/CfqqmzXBpn"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/sOaGOrBuST"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/xB1npmZNFw"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/qJzaYT0iP5"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/MRTfNS7Ooy"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?yuqcreg2gzr9r6jxq4bg"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?7mgj9kslmp9xmalgh2yc"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 3",
+          "url": "https://1fichier.com/?rvm79pqrsup9eicgneqf"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/jsoi7oiij6cws1z/[DLPSGAME.COM]-4xx[PPSA16618][01.000.000].zip/file"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Akirabox",
+          "url": "https://akirabox.com/M2BGwWDXMGj4/file"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/e8qfBSIUpv"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Rootz",
+          "url": "https://rootz.so/d/1tIBP6"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - 1fichier",
+          "url": "https://1fichier.com/?642qlziclgzspsm7kxr2"
         }
       ]
     },
@@ -100543,186 +101843,6 @@
         {
           "name": "exFAT 01.003 BackPort backport - DATA Backport (exFAT)",
           "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiRnhCOHRMTHQyZWlYUTZMQnNXR0RBbjVIbjg0S3hWU0thSWVaQ1JoUi9Rck1EcUhoZCtpM004amFvTTZTRG9ROTBnPT0iLCJzIjoiM3BManQ2eTFXS3FDUzd3YzAyOG9RQT09IiwiaSI6Im5ZYVFhempVaW9lWEpGVE4ifQ=="
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA16618",
-      "title": "The Lord of The Rings Return to Moria",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png",
-      "description": "Variant: EUR 7.xx\nRegion: EUR\nRelease note: Works on 7.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 3\nContributor: pkg.games",
-      "downloadSource": "https://dlpsgame.com/the-lord-of-the-rings-return-to-moria-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 7.xx Base - Akirabox",
-          "url": "https://akirabox.com/2bJG84p75GOB/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/XbCDY6UVtA"
-        },
-        {
-          "name": "EUR 7.xx Base - 1fichier",
-          "url": "https://1fichier.com/?rl925edcvantzq9ja8dz"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - Mediafire",
-          "url": "https://www.mediafire.com/file/qmm4bmvm2fl6lfw/4XX+PPSA16618+%E2%80%93+EUR+V1.00++The+Lord+of+The+Rings+Return+to+Moria++By+BADERLINK-[DLPSGAME.COM].zip/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - Akirabox",
-          "url": "https://akirabox.com/ex5z2Bb7nzKq/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/9nxq3Tvs0P"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - 1fichier",
-          "url": "https://1fichier.com/?wo5bsmbpplro6o8s28h0"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - Rootz",
-          "url": "https://www.rootz.so/d/1jGqbA"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - Mediafire",
-          "url": "https://www.mediafire.com/file/8ctvi8o4mcxvwc2/5XX+PPSA16618+%E2%80%93+EUR+V1.00++The+Lord+of+The+Rings+Return+to+Moria++By+BADERLINK-[DLPSGAME.COM].zip/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - Akirabox",
-          "url": "https://akirabox.com/BnkmWEZy2zR0/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/DX7uG91uSi"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - 1fichier",
-          "url": "https://1fichier.com/?u6k8hk1sfddxhm39h15f"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - Rootz",
-          "url": "https://www.rootz.so/d/acSlU"
-        },
-        {
-          "name": "EUR 7.xx BackPort 6.xx - Akirabox",
-          "url": "https://akirabox.com/b5OzdjjoRmB8/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 6.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/37YgdkKY3G"
-        },
-        {
-          "name": "EUR 7.xx BackPort 6.xx - 1fichier",
-          "url": "https://1fichier.com/?dhm7ion78uc0vfw0s6kr"
-        },
-        {
-          "name": "Release 3 Base - Rapidgator part 1",
-          "url": "https://rapidgator.net/file/730c6f6bd41549302b6f3835ed879b5f/The.Lord.of.the.Rings.Return.to.Moria.01.000.PPSA16618-PS5.rar.html"
-        },
-        {
-          "name": "Release 3 Base - Rapidgator part 2",
-          "url": "https://rapidgator.net/file/a3c4062d7d3de57ac5ef09d153c55980/PPSA16618_The_Lord_of_the_Rings_Return_to_Moria_V1_00_Backport_6-PS5.rar.html"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA16617",
-      "title": "The Lord of The Rings Return to Moria",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png",
-      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: @DUPLEX",
-      "downloadSource": "https://dlpsgame.com/the-lord-of-the-rings-return-to-moria-ps5/",
-      "downloadLinks": [
-        {
-          "name": "USA 7.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/rk9zKDny4G0l/file"
-        },
-        {
-          "name": "USA 7.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/l5YzMENd9zyO/file"
-        },
-        {
-          "name": "USA 7.xx Base - Rootz part 1",
-          "url": "https://rootz.so/d/1UPNZo"
-        },
-        {
-          "name": "USA 7.xx Base - Rootz part 2",
-          "url": "https://rootz.so/d/Lkzk8"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 1",
-          "url": "https://1fichier.com/?hjoizn3fo1bhesjsgfjp"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 2",
-          "url": "https://1fichier.com/?26bwbh6ppl2g9muth8y8"
-        },
-        {
-          "name": "USA 7.xx Base - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/f7pm3nw7kvx3ses/[DLPSGAME.COM]-PPSA16617.part1.rar/file"
-        },
-        {
-          "name": "USA 7.xx Base - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/ss0fxgtdanz2t24/[DLPSGAME.COM]-PPSA16617.part2.rar/file"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/CfqqmzXBpn"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/sOaGOrBuST"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/xB1npmZNFw"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/qJzaYT0iP5"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/MRTfNS7Ooy"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 1",
-          "url": "https://1fichier.com/?yuqcreg2gzr9r6jxq4bg"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 2",
-          "url": "https://1fichier.com/?7mgj9kslmp9xmalgh2yc"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 3",
-          "url": "https://1fichier.com/?rvm79pqrsup9eicgneqf"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - Mediafire",
-          "url": "https://www.mediafire.com/file/jsoi7oiij6cws1z/[DLPSGAME.COM]-4xx[PPSA16618][01.000.000].zip/file"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - Akirabox",
-          "url": "https://akirabox.com/M2BGwWDXMGj4/file"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/e8qfBSIUpv"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - Rootz",
-          "url": "https://rootz.so/d/1tIBP6"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - 1fichier",
-          "url": "https://1fichier.com/?642qlziclgzspsm7kxr2"
         }
       ]
     },
@@ -100995,6 +102115,62 @@
       ]
     },
     {
+      "titleId": "PPSA09075",
+      "title": "Valthirian Arc Hero School Story 2",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1613/d28ac371eb0b1bc16dbb27672bcd9f4ba2d408950f5ad9b9.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1613/d28ac371eb0b1bc16dbb27672bcd9f4ba2d408950f5ad9b9.png",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/valthirian-arc-hero-school-story-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/qLQ364pZPG19/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/z5P8IceOfC"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?2jze6x54cz34si6u7uds"
+        },
+        {
+          "name": "Release 2 Base - Rapidgator",
+          "url": "https://rapidgator.net/file/d7727891094cdde9dcda4cf871de7455/Valthirian.Arc.Hero.School.Story.2.01.000.PPSA09075-PS5.rar.html"
+        },
+        {
+          "name": "Release 2 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/tcehSi4EGE"
+        },
+        {
+          "name": "Release 2 Base - Akirabox",
+          "url": "https://akirabox.com/obj3j7WyjzDx/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSGZQaE1iRGVvSzNTbUoxcUIwcDd3TFd6TCthZk42blMzVmtOaFJMU3BRWnNEOGg3Y0FrWmtXb3ZBYlV1OFF3VkxaNFZhQnNlWUNxMVhFbmNIaE02bWxzNFNiaStTcW5NNmVBPSIsImkiOiJXZlYrVVFpU1VhdnRZMVN4IiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSk8wa0hEaHNDa2toSCtSR3Nwd2o5T1JaQzN6a2RHVCtEWVVIclVtWGUxNlFVbEs2QTJ6K2o5b2s4UEZVd0paNWlONEZYdTQ0aDcyaGZaeDEwcHBxTjFrZE9IVXY4NmM9IiwiaSI6IjRraUNGMS9ETFgzdnJkcDUiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidWJQcVR1S1NIMHdZb2FLa0kzaFFlNEY3aHRibHVBVERDajFncytrWWxOb2VESVlZVUt6SGU3bUxVU29QNGg3Q1N1SHlrc01BejRKUDVUS0hQK1BtUnVSd2grdDciLCJpIjoiZVczNjFOWjdIa3o0N0NwaiIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTlVkazdtRjl6VDZsaTNMSGZuZElWK082eG5YczJJN1ZzOEZpUHpGSFlRNWxNUGlxY1l0UlN4V1QrSDdPSU1UMnNYc2x2eTZWOEFlRmFTWGVRNi80THA5SzExRVIyU0U9IiwiaSI6IkcxSktUMGREMHBoczA4M1UiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUUFqd3BDM2hTVTRXRmEyRjcwdnMzWkNRYWJDdFVkSjNxM2dGdzhkZFVsQ0h3bGxST3J1N1NIZSt6M0trbkJMOWFoWUtRSXc4WWpnN21SYi9Wd1liT1IrWnVrSzZRQT09IiwiaSI6InJJNWEvYk5tcjdwT0xsL0EiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
       "titleId": "PPSA10887",
       "title": "Weird West Definitive Edition",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -101067,62 +102243,6 @@
         {
           "name": "EUR exFAT 01.000 Base - DATA (exFAT)",
           "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoianB2Z2xWN2dxVW4rbGF5TU9CV0Q1WkhzK0FWbUtWM1dNay9yeEl2enBBMEU3eVIycXJHK0NyNll5ZjRMZFZFL2l3PT0iLCJzIjoiU1RYTVZ3b3ViSVZtUDVxMEJ1VlNudz09IiwiaSI6ImJwN3M5MmZoSnY3OWJvaG8ifQ=="
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA09075",
-      "title": "Valthirian Arc Hero School Story 2",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1613/d28ac371eb0b1bc16dbb27672bcd9f4ba2d408950f5ad9b9.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1613/d28ac371eb0b1bc16dbb27672bcd9f4ba2d408950f5ad9b9.png",
-      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/valthirian-arc-hero-school-story-2-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/qLQ364pZPG19/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/z5P8IceOfC"
-        },
-        {
-          "name": "EUR 4.xx Base - 1fichier",
-          "url": "https://1fichier.com/?2jze6x54cz34si6u7uds"
-        },
-        {
-          "name": "Release 2 Base - Rapidgator",
-          "url": "https://rapidgator.net/file/d7727891094cdde9dcda4cf871de7455/Valthirian.Arc.Hero.School.Story.2.01.000.PPSA09075-PS5.rar.html"
-        },
-        {
-          "name": "Release 2 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/tcehSi4EGE"
-        },
-        {
-          "name": "Release 2 Base - Akirabox",
-          "url": "https://akirabox.com/obj3j7WyjzDx/file"
-        },
-        {
-          "name": "USA exFAT 01.000 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSGZQaE1iRGVvSzNTbUoxcUIwcDd3TFd6TCthZk42blMzVmtOaFJMU3BRWnNEOGg3Y0FrWmtXb3ZBYlV1OFF3VkxaNFZhQnNlWUNxMVhFbmNIaE02bWxzNFNiaStTcW5NNmVBPSIsImkiOiJXZlYrVVFpU1VhdnRZMVN4IiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA exFAT 01.000 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSk8wa0hEaHNDa2toSCtSR3Nwd2o5T1JaQzN6a2RHVCtEWVVIclVtWGUxNlFVbEs2QTJ6K2o5b2s4UEZVd0paNWlONEZYdTQ0aDcyaGZaeDEwcHBxTjFrZE9IVXY4NmM9IiwiaSI6IjRraUNGMS9ETFgzdnJkcDUiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA exFAT 01.000 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidWJQcVR1S1NIMHdZb2FLa0kzaFFlNEY3aHRibHVBVERDajFncytrWWxOb2VESVlZVUt6SGU3bUxVU29QNGg3Q1N1SHlrc01BejRKUDVUS0hQK1BtUnVSd2grdDciLCJpIjoiZVczNjFOWjdIa3o0N0NwaiIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA exFAT 01.000 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTlVkazdtRjl6VDZsaTNMSGZuZElWK082eG5YczJJN1ZzOEZpUHpGSFlRNWxNUGlxY1l0UlN4V1QrSDdPSU1UMnNYc2x2eTZWOEFlRmFTWGVRNi80THA5SzExRVIyU0U9IiwiaSI6IkcxSktUMGREMHBoczA4M1UiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.000 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUUFqd3BDM2hTVTRXRmEyRjcwdnMzWkNRYWJDdFVkSjNxM2dGdzhkZFVsQ0h3bGxST3J1N1NIZSt6M0trbkJMOWFoWUtRSXc4WWpnN21SYi9Wd1liT1IrWnVrSzZRQT09IiwiaSI6InJJNWEvYk5tcjdwT0xsL0EiLCJuIjoiVmF1bHQifQ=="
         }
       ]
     },
@@ -140413,43 +141533,6 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVlc0RjQxQ0xYT3FGeG5xYnY0NXpOaVZBNkFxUVdreldCSWF4WUNXSHlUb0I5SXRnMWFYYzZZb3I0dnUwVDQvb1V4K2NvZ21Kbm40MWpSOW5leWZ0WmwrbEo3NVViQT09IiwiaSI6IkNyWXQ4bGhPN1JTU3o4ZEkiLCJuIjoiVmF1bHQifQ=="
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA04288",
-      "title": "[exFAT] Resident Evil 2",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.003",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.003 — 3.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.003 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoicFdRRXIyMm5mS3MwT1NxUk45TllvWTB5S0JRZnBmWUdlNVB2dVk4eEJwSnh3c08yQk94cS9vVTgrRm0xcG5Ic2Q1aGRvTTNqIiwicyI6IlNBcXlueEVmRHk4QU1oUFlhM0FqbVE9PSIsImkiOiJHbUVTa3VTMUJMemVEclpiIn0="
-        },
-        {
-          "name": "USA exFAT 01.003 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiNkVwc0FLWmFtd1hKeHkzdUh3aVBzVVoveWIrZDBOWlErVjQ4TncwbGhEclNCL242bTlQMzE0L3FhL3hzbE5PMS9peWEiLCJzIjoiMDN0a3hDTlkxSFY0dVAvMlEzaDFiQT09IiwiaSI6IkE2VWFCb1BRcWx2eEI1Rk4ifQ=="
-        },
-        {
-          "name": "USA exFAT 01.003 Base - Buzz (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiQTlmVzBsWHg5Zm1SSkplTFRUMEFEbVJaOFdzUlJVK3gxbkdDZ2lMNklSTXpxd0M3b3J6NVhNTW8vQjF2a1I3OUt5TTcwdz09IiwicyI6IklBN1pPTHBvczJEQVl4L2dYci9UNlE9PSIsImkiOiJCdFhwa29kTFhzL1JZNjJHIn0="
-        },
-        {
-          "name": "USA exFAT 01.003 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSCszUGZyemQvRTdFenVPemNmcVF1UkJjRWxEMTJFVTBDQWtCZEZqQ0V5aTJQVisvYndYakE5V3ROblI1elNlVHBQKzBid09KQUh6NVo0MjJqNGZsdlZoSkNGVHYiLCJpIjoidlhxNXdHdnRPdnhQbXo4ciIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA exFAT 01.003 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWUJQS2tCVFdFdzQxa0kyQTVRRVEyaG1jL3YwUlpmQkxMZnRucStseWw2cUlVRWNEb1llSHpSdTg5eXdqT1czS2NEcm9DYWJ4OC8wcFJWc25yeXl3UkpsVnB2NGluNWM9IiwiaSI6Ik5ocHJNV3A2ZXJUR2UvcFkiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.003 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZnlaTFdrTHpxSTBCVmxkNnd2bEcyYm1pWjVoWXVlS0ZrcWhyYzJuSi9jdUVlQVVTU3pkd2ZXUThnTS9sQVl3bUJyV3JWREtSelJ5RGZrTkQ5SFFkNm81SkcxTEFWdz09IiwiaSI6Im9IV2ErTXdiMGQ2d1hyQ0MiLCJuIjoiVmF1bHQifQ=="
         }
       ]
     },
