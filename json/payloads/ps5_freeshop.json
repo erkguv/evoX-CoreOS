@@ -24,12 +24,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.0/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.8.0/orbit_store.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.1/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.8.1/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.8.0",
+      "version": "v1.8.1",
       "category": "PS5 Freeshop",
-      "checksum": "53446c09c568468436f5762593618a5063375ece64e73f0532063a2da5c80a07"
+      "checksum": "a9fe33c3b0338af074edb4f7c68bb3806a84efba718e3897f94eba9dc720f914"
     }
   ]
 }
