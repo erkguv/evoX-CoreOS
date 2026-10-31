@@ -1397,31 +1397,31 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0209/24a04dd6b0d6f14ce227d67afbd7444fea6e13ad631c860c.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0209/24a04dd6b0d6f14ce227d67afbd7444fea6e13ad631c860c.png",
-      "description": "Variant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.005\nRegion: EUR\nRelease note: exFAT format — FW 01.000.005 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.005\nRegion: EUR\nRelease note: exFAT format — FW 01.000.005 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/terrifier-the-artcade-game-ps5/",
       "downloadLinks": [
         {
-          "name": "EUR 10.xx Base - Akirabox",
+          "name": "EUR 10.xx Base - Akirabox part 1",
           "url": "https://akirabox.to/rk9zKdMDyG0l/file"
         },
         {
-          "name": "EUR 10.xx Base - Rootz",
+          "name": "EUR 10.xx Base - Rootz part 1",
           "url": "https://www.rootz.so/d/UIDlQ"
         },
         {
-          "name": "EUR 10.xx Base - Vikingfile",
+          "name": "EUR 10.xx Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/VMDSDB67Eq"
         },
         {
-          "name": "EUR 10.xx Base - Akirabox",
+          "name": "EUR 10.xx Base - Akirabox part 2",
           "url": "https://akirabox.to/l76mZvj7oman/file"
         },
         {
-          "name": "EUR 10.xx Base - Rootz",
+          "name": "EUR 10.xx Base - Rootz part 2",
           "url": "https://www.rootz.so/d/1l0JOK"
         },
         {
-          "name": "EUR 10.xx Base - Vikingfile",
+          "name": "EUR 10.xx Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/H7BgzlbDy2"
         },
         {
