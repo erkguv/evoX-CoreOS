@@ -3,6 +3,24 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06954",
+      "title": "Granblue Fantasy Relink Endless Ragnarok Edition",
+      "createdAt": "2026-10-31T18:47:21.592Z",
+      "version": "2.006",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0411/d00d5e76883b89b7d56344d4cf650bd02b4c7b879f94b14d.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0411/d00d5e76883b89b7d56344d4cf650bd02b4c7b879f94b14d.png",
+      "description": "*This product is intended for players who do not own Granblue Fantasy: Relink. *It includes both Granblue Fantasy: Relink and the Granblue Fantasy Relink: Endless Ragnarok Upgrade Kit. *Granblue Fantasy: Relink - Endless Ragnarok (Special Edition) comes with various in-game items that can help you along your journey, including weapons, character color packs, emotes, and more. Contents: Granblue Fantasy: Relink Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit Granblue Fantasy: Relink - Endless Ragnarok Special Pack Includes special character colors for the captain, Id, and Sandalphon. Also comes with useful items for unlocking Seofon, Tweyen, and Sandalphon. • Concept Art Color Pack - The Captain (Gran/Djeeta) - Id - Sandalphon • Azurite's Splendor x 5 • Canaan Whitebloom x 3 • Supreme Weapon Essence x 6 Granblue Fantasy: Relink DLC Collection This is a collection of previously released downloadable content for Granblue Fantasy: Relink. It includes useful items for making upgrades, 5 sets of colors for characters, and 3 sets of emotes. • Ignition Pack - Weapon: False Sword of the Apocalypse - Glittercrystal x 30 - 500 MSP - Fortitude Crystal (S) x 50 • Color Packs 1-5 • Emote Expansion Sets: Let's Chat, I Work Out, Grab Bag *An active Internet connection is required. The full game of the game is required to use in-game items. You may be required to update the game to the latest patch before use. *This product includes content that is also available for purchase individually or as a part of other products. Please be careful to ensure you do not make a duplicate purchase. *The Granblue Fantasy: Relink DLC Collection does not include the Granblue Fantasy: Relink Digital Artbook &amp; Soundtrack. *The Granblue Fantasy: Relink - Upgrade Pack has been renamed to the Granblue Fantasy: Relink - Ignition Pack. This is a name change only—no changes have been made to pack contents. *In-game items can be claimed by speaking with Sierokarte in town and selecting Claim Add-Ons from the menu. *In-game items included with this product can only be claimed once per account. *An active Internet connection and a PlayStation®Plus membership is required for online features. *The PS4® version of Granblue Fantasy: Relink can be upgraded to the PS5® version at no extra cost. Players who already own the PS4® version do not need to purchase this product. *Content and specifications are subject to change without prior notification.\nRegion: USA to EUR Langs\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-31T17:51:44.528Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/HflrvhH0G0"
+        }
+      ],
+      "sizeBytes": 100931731456
+    },
+    {
       "titleId": "PPSA06435",
       "title": "Like a Dragon Infinite Wealth + DLC",
       "createdAt": "2026-10-31T13:42:22.794Z",
@@ -2179,50 +2197,6 @@
         }
       ],
       "sizeBytes": 9663676416
-    },
-    {
-      "titleId": "PPSA01470",
-      "title": "Marvel’s Spider-Man Remastered",
-      "createdAt": "2026-10-30T14:30:16.094Z",
-      "version": "01.008",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png",
-      "description": "This isn’t the Spider-Man you’ve met or ever seen before. In Marvel’s Spider-Man Remastered, we meet an experienced Peter Parker who’s more masterful at fighting big crime in New York City. At the same time, he’s struggling to balance his chaotic personal life and career while the fate of Marvel’s New York rests upon his shoulders. Discover the complete web-slinging story with the Marvel’s Spider-Man: Miles Morales Ultimate Edition. This unmissable bundle includes a voucher code** for Marvel’s Spider-Man Remastered – the complete award-winning game, including all three DLC chapters in the Marvel’s Spider-Man: The City That Never Sleeps adventure – remastered and enhanced for the PS5 console.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-30T14:23:17.488Z",
-      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/dNp4LBDQoA"
-        },
-        {
-          "name": "Viki - Backport",
-          "url": "https://vikingfile.com/f/Eg4vDmbVbB"
-        }
-      ],
-      "sizeBytes": 70866960384
-    },
-    {
-      "titleId": "PPSA01470",
-      "title": "Marvel’s Spider-Man Remastered",
-      "createdAt": "2026-10-30T14:30:16.094Z",
-      "version": "01.008",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png",
-      "description": "This isn’t the Spider-Man you’ve met or ever seen before. In Marvel’s Spider-Man Remastered, we meet an experienced Peter Parker who’s more masterful at fighting big crime in New York City. At the same time, he’s struggling to balance his chaotic personal life and career while the fate of Marvel’s New York rests upon his shoulders. Discover the complete web-slinging story with the Marvel’s Spider-Man: Miles Morales Ultimate Edition. This unmissable bundle includes a voucher code** for Marvel’s Spider-Man Remastered – the complete award-winning game, including all three DLC chapters in the Marvel’s Spider-Man: The City That Never Sleeps adventure – remastered and enhanced for the PS5 console.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-30T14:21:49.563Z",
-      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/dNp4LBDQoA"
-        },
-        {
-          "name": "Viki - Backport",
-          "url": "https://vikingfile.com/f/Eg4vDmbVbB"
-        }
-      ],
-      "sizeBytes": 70866960384
     },
     {
       "titleId": "PPSA20397",
