@@ -416,7 +416,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "aef8349996cb644b5c1f583e2963ca30d9c2492ff0ef60cb25073f3410b22f31"
+      "checksum": "73ffac1c819771221d485ff4c2b51db9c6231ee750514a362480a64209fbda75"
     },
     {
       "name": "Common Fps Ps5 V1.2.3",
@@ -581,12 +581,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.1/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.8.1/orbit_store.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.2/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.8.2/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.8.1",
+      "version": "v1.8.2",
       "category": "PS5 Freeshop",
-      "checksum": "a9fe33c3b0338af074edb4f7c68bb3806a84efba718e3897f94eba9dc720f914"
+      "checksum": "134cedb380b39f5a010beb1a0834cebb2192ea0e5749c13675b3a64b6dfd3996"
     },
     {
       "name": "Etahen V2.5B",

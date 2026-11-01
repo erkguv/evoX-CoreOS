@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 01/11/2026 à 04:50
+* **PAYLOADS**
+  * `Orbit Store` (v1.8.2) - *Mise à jour (Précédent: v1.8.1)*
+
 ## Build du 31/10/2026 à 04:30
 * **PAYLOADS**
   * `Orbit Store` (v1.8.1) - *Mise à jour (Précédent: v1.8.0)*
