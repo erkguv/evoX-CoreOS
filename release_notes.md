@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.01-1253)
+### 🚀 Synthèse de la mise à jour (v2026.11.01-2152)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -11,7 +11,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_ultimate_pack_part1_latest.zip`
 - `PS5_ultimate_pack_part2_latest.zip`
 - `PS5_ultimate_pack_part3_latest.zip`
-- `PS5_ultimate_pack_part4_latest.zip`
 
 #### 📂 Fichiers inclus / mis à jour :
 📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)
@@ -196,8 +195,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `castation-0.4.0.zip`
   * `dump_installer.zip`
   * `dump_runner.zip`
-  * `EmulatorPack.zip`
-  * `ProsperoMultiTools.zip`
   * `ProsperoExplorer-v1.zip`
   * `PPSA99000.zip`
   * `flycast-ps5-2026.10.06.zip`
@@ -221,6 +218,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Markus_PHU-EmuPack-PC.Engine.PS5.rar`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `Markus_PHU-EmuPack-NeoGeo.PS5.rar`
+  * `EmulatorPack.zip`
 
 </details>
 

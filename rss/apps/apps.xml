@@ -35,18 +35,6 @@
       <pubDate>v1.02</pubDate>
     </item>
     <item>
-      <title>Emulatorpack</title>
-      <link>https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip</link>
-      <description>Backup manager for PS5</description>
-      <pubDate>v1</pubDate>
-    </item>
-    <item>
-      <title>Prosperomultitools</title>
-      <link>https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip</link>
-      <description>Backup manager for PS5</description>
-      <pubDate>v1</pubDate>
-    </item>
-    <item>
       <title>Prosperoexplorer-V1</title>
       <link>https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip</link>
       <description>File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network</description>
@@ -183,6 +171,12 @@
       <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar</link>
       <description>EmuPack-NeoGeo.PS5</description>
       <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>Emulatorpack</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>v1</pubDate>
     </item>
   </channel>
 </rss>

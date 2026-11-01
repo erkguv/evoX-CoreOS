@@ -52,26 +52,6 @@
       "category": "Applications"
     },
     {
-      "name": "Emulatorpack",
-      "filename": "EmulatorPack.zip",
-      "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip",
-      "local_path": "apps/Prospero_Multi_Tools/v1/EmulatorPack.zip",
-      "description": "Backup manager for PS5",
-      "version": "v1",
-      "checksum": "1107bc5a546a332b921f532c8cdde977c3598714b075286d3911cd0c717b6b02",
-      "category": "Applications"
-    },
-    {
-      "name": "Prosperomultitools",
-      "filename": "ProsperoMultiTools.zip",
-      "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip",
-      "local_path": "apps/Prospero_Multi_Tools/v1/ProsperoMultiTools.zip",
-      "description": "Backup manager for PS5",
-      "version": "v1",
-      "checksum": "0e7c60d0e860cd0cafb939f668ccae57f53503f2c2371b4193a81ab306346d6b",
-      "category": "Applications"
-    },
-    {
       "name": "Prosperoexplorer-V1",
       "filename": "ProsperoExplorer-v1.zip",
       "url": "https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip",
@@ -300,6 +280,15 @@
       "version": "Source-Fixe",
       "checksum": "dff3c2733ff02e4c1c30d024d904ada0e9dcdc724e76842c34284a7c3174871b",
       "category": "Applications"
+    },
+    {
+      "name": "Emulatorpack",
+      "filename": "EmulatorPack.zip",
+      "url": "",
+      "local_path": "apps/Prospero_Multi_Tools/v1/EmulatorPack.zip",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "v1",
+      "checksum": "446d5ea87e47e3df3e07e5d4c052b3c318987d70a1b2ab9c55ab9772a38558f4"
     }
   ]
 }
