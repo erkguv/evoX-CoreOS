@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 01/11/2026 à 12:53
+* **PAYLOADS**
+  * `Ps5-Ezremote-Client V2.18` (2.18) - *Nouveau*
+
 ## Build du 01/11/2026 à 04:50
 * **PAYLOADS**
   * `Orbit Store` (v1.8.2) - *Mise à jour (Précédent: v1.8.1)*
