@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/11/2026 à 04:51
+* **APPS**
+  * `Prosperomultitools` (v1) - *Nouveau*
+
 ## Build du 01/11/2026 à 21:52
 * **PAYLOADS**
   * `Orbit Store` (v1.8.3) - *Mise à jour (Précédent: v1.8.2)*
