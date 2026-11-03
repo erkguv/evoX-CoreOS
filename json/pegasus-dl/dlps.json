@@ -3,6 +3,222 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA21120",
+      "title": "White Day 2 The Flower That Tells Lies Complete Edition",
+      "createdAt": "2026-11-03T07:11:33.558Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1215/cd7e3c252e5ebcba5ecbc583f8ace7a8095ad79fdf97dbc3.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1215/cd7e3c252e5ebcba5ecbc583f8ace7a8095ad79fdf97dbc3.png",
+      "description": "Region: USA\nRelease note: Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/white-day-2-the-flower-that-tells-lies-complete-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/vgKGx74X6z8Q/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/nCoIi"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/wQjr8aKm3t"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA10720",
+      "title": "The Beast Inside",
+      "createdAt": "2026-11-03T07:11:33.558Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2315/md7GEzGKdqbjcFRMhIQa4Uge.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2315/md7GEzGKdqbjcFRMhIQa4Uge.png",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-beast-inside-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/Pbe3PeZa2zlX/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1DWopk"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/bUgRaUjqVu"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28979",
+      "title": "Oxide Room 208",
+      "createdAt": "2026-11-03T07:11:33.558Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/3017/04cb21d94278af534a4388a205903f74d9b01972b6a8bb5d.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/3017/04cb21d94278af534a4388a205903f74d9b01972b6a8bb5d.png",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/oxide-room-208-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpWbALGEB/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2Bybaa"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/zjKipp84sc"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25383",
+      "title": "Horror Tales The Beggar",
+      "createdAt": "2026-11-03T07:11:33.558Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1709/4d263f1439c6f7cf3aba789d57a623ee366c948e586cb9ca.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1709/4d263f1439c6f7cf3aba789d57a623ee366c948e586cb9ca.png",
+      "description": "Region: JPN\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/horror-tales-the-beggar-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdkvVO3B8/file"
+        },
+        {
+          "name": "JPN 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/rEfAG"
+        },
+        {
+          "name": "JPN 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/2BogzNyQ9j"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09566",
+      "title": "Saturnalia",
+      "createdAt": "2026-11-03T07:11:33.558Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1820/a1eITg5o8dcZh0tXxOXwumFB.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1820/a1eITg5o8dcZh0tXxOXwumFB.png",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher",
+      "downloadSource": "https://dlpsgame.com/saturnalia-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/EL73gkr7839B/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1zt344"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/IOtKAaerl3"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25212",
+      "title": "RetroRealms Double Feature Halloween and Ash vs Evil Dead",
+      "createdAt": "2026-11-03T07:11:33.558Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2700/dd8410b7f1569b2c14a43e5d2ea306475cae338d7eb49a16.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2700/dd8410b7f1569b2c14a43e5d2ea306475cae338d7eb49a16.png",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/retrorealms-double-feature-halloween-and-ash-vs-evil-dead-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/QN9mEdxq7G6d/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1rpLKy"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/4eLX76ickp"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24148",
+      "title": "Puppet House",
+      "createdAt": "2026-11-03T07:11:33.558Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1912/70df9a8d9ed3d79b2d7d3502cb110a59b69c8d2d93a0e673.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1912/70df9a8d9ed3d79b2d7d3502cb110a59b69c8d2d93a0e673.png",
+      "description": "Region: USA\nRelease note: Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/puppet-house-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJWpKlm1o/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/27wknA"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/1oZC4EaKia"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21015",
+      "title": "Dollhouse Behind The Broken Mirror",
+      "createdAt": "2026-11-03T07:11:33.558Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2208/02d3cd4a6d6d9eff66419284bdc621719baea410772e246e.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2208/02d3cd4a6d6d9eff66419284bdc621719baea410772e246e.png",
+      "description": "Region: USA\nRelease note: Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/dollhouse-behind-the-broken-mirror-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/obj3jkB72zDx/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/vGW1o"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YxDNKMJRLC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA15687",
+      "title": "Death or Treat",
+      "createdAt": "2026-11-03T07:11:33.558Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1010/a00c489985497d37ecfd714a02c80ec232db31a3aa17b4f7.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1010/a00c489985497d37ecfd714a02c80ec232db31a3aa17b4f7.png",
+      "description": "Region: EUR\nRelease note: Works on 6.xx and higher",
+      "downloadSource": "https://dlpsgame.com/death-or-treat-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrWRd9mkx/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/jAxVI"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/6Cd9txWLla"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA07973",
       "title": "White Day A Labyrinth Named School",
       "createdAt": "2026-11-01T06:23:25.479Z",
@@ -11409,7 +11625,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2318/cabc65dfd2ab1ffa31f51b20b7128ac69491ea9858c0daa3.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2318/cabc65dfd2ab1ffa31f51b20b7128ac69491ea9858c0daa3.png",
-      "description": "Release note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: 12.xx\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.006\nRegion: EUR\nRelease note: exFAT format — FW 01.006 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/hades-2-ps5/",
       "downloadLinks": [
         {
@@ -11423,6 +11639,22 @@
         {
           "name": "12.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/01Hd1ekRsp"
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicGk4RjI5MHI0Kzd6TzVOMVpsTkp0SHNzUmZUTlNpVC9TVzBTdjlsN2gwc08yS29GVGRUa0dEVjY0dGIrd0RpckNIZm42V1ZDUGdCK3k1TVRFSDRYVHZFMkRVTlFtS2JFYkRaRTBWNXRUZz09IiwiaSI6Ikk5YXNGb3Q4UEFhdnJmYXUiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYVhWMTU4TjhYaUJ2MCtNU205Y3lzTlRuSytNL2NXenRtU1lHY29Tbk5mRkpzend1dSswRDBkTFUwYWdPWGo5YjhVVWtwT1NpL3F3T3p3c0x1cnAvRlp5RUcrL2pWZk9uZVBiWUtuYmV4Q1U9IiwiaSI6IkVFVmg1TkpNVFh3QTcybEgiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTVRGUXFHcm5rdWhldmpoNXhwcm9YY3RsTURJb2NSWldjRktyUlorWFRLbjBwb1NUQW9nYkRMSGIwV0Y2d3RYUTZHMTd4a1dna054a0RBTlB2TDVoZHd5UG9LS3dpYzhCSlJMTHBNcDkiLCJpIjoiMksrUUJHVUJLei82WnJyNyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK2h5ZmV5bjFWV3dtY1FZNlFHYm0xWklVNXhpTExFQWNRb2lDblJ1YmlSQklObUUzamlOK250ZUNnQ0V0bDNkbzZmeVpvQ0NGT1FCT3o1OHoyTkJnODJVNG1QeW5LSUxzcDJyclM4MVlmdkE9IiwiaSI6IlVPZWFuemtxc3hyM3VwY3kiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -28790,26 +29022,6 @@
           "url": "https://akirabox.com/0PdzyXM0P3eA/file"
         },
         {
-          "name": "JPN 10.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/983xOWk8A4"
-        },
-        {
-          "name": "JPN 10.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/nqysdwiX2w"
-        },
-        {
-          "name": "JPN 10.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/fpQXlRkTFz"
-        },
-        {
-          "name": "JPN 10.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/Wr5HA1lJLg"
-        },
-        {
-          "name": "JPN 10.xx Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/PEJHwhsKky"
-        },
-        {
           "name": "JPN 10.xx Base - 1fichier part 2",
           "url": "https://1fichier.com/?3kap6hmceym6615p1rmw"
         },
@@ -28848,6 +29060,22 @@
         {
           "name": "JPN 10.xx Base - Mediafire part 5",
           "url": "https://www.mediafire.com/file/bs6wfv8m0t9fydk/[DLPSGAME.COM]+-+1.014.000+PPSA24478.part5.rar/file"
+        },
+        {
+          "name": "JPN 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/983xOWk8A4"
+        },
+        {
+          "name": "JPN 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/nqysdwiX2w"
+        },
+        {
+          "name": "JPN 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/fpQXlRkTFz"
+        },
+        {
+          "name": "JPN 10.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/Wr5HA1lJLg"
         },
         {
           "name": "JPN 10.xx BackPort 4.xx - Akirabox part 1",
@@ -29002,30 +29230,6 @@
           "url": "https://rootz.so/d/1lk5Mu"
         },
         {
-          "name": "JPN 7.xx Base - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/07hv542o84up2tj/[DLPSGAME.COM]+-+01.022+PPSA16265.part1.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/hmb6tlj6u56atu5/[DLPSGAME.COM]+-+01.022+PPSA16265.part2.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 3",
-          "url": "https://www.mediafire.com/file/o58ibh0rj6z2z53/[DLPSGAME.COM]+-+01.022+PPSA16265.part3.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 4",
-          "url": "https://www.mediafire.com/file/yypttkapl8hm556/[DLPSGAME.COM]+-+01.022+PPSA16265.part4.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 5",
-          "url": "https://www.mediafire.com/file/plmaj6bzlz7m640/[DLPSGAME.COM]+-+01.022+PPSA16265.part5.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 6",
-          "url": "https://www.mediafire.com/file/7d6776dsgh5owsi/[DLPSGAME.COM]+-+01.022+PPSA16265.part6.rar/file"
-        },
-        {
           "name": "JPN 7.xx Base - Akirabox part 6",
           "url": "https://akirabox.com/2WVGr8O8A3kx/file"
         },
@@ -29128,6 +29332,26 @@
         {
           "name": "JPN 7.xx Base - 1fichier part 7",
           "url": "https://1fichier.com/?vozzx9z708a31e6kcba0"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/07hv542o84up2tj/[DLPSGAME.COM]+-+01.022+PPSA16265.part1.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/hmb6tlj6u56atu5/[DLPSGAME.COM]+-+01.022+PPSA16265.part2.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 3",
+          "url": "https://www.mediafire.com/file/o58ibh0rj6z2z53/[DLPSGAME.COM]+-+01.022+PPSA16265.part3.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/yypttkapl8hm556/[DLPSGAME.COM]+-+01.022+PPSA16265.part4.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 5",
+          "url": "https://www.mediafire.com/file/plmaj6bzlz7m640/[DLPSGAME.COM]+-+01.022+PPSA16265.part5.rar/file"
         },
         {
           "name": "JPN 7.xx BackPort 4.xx - Akirabox part 1",
@@ -29314,14 +29538,6 @@
           "url": "https://akirabox.com/M2BGwQ9YM3j4/file"
         },
         {
-          "name": "EUR 12.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/cVkObiIwwO"
-        },
-        {
-          "name": "EUR 12.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/eRLuQBURuk"
-        },
-        {
           "name": "EUR 12.xx Base - 1fichier part 3",
           "url": "https://1fichier.com/?4qxdes211d4rbw3hocud"
         },
@@ -29336,6 +29552,14 @@
         {
           "name": "EUR 12.xx Base - Mediafire part 2",
           "url": "https://www.mediafire.com/file/bwyszgqdrwde5r6/[DLPSGAME.COM]-PPSA25153.part2.rar/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/cVkObiIwwO"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/eRLuQBURuk"
         },
         {
           "name": "EUR 12.xx DLC (PKG – realromhunter) - Akirabox part 1",
@@ -99084,7 +99308,7 @@
           "url": "https://www.rootz.so/d/1Nk8zw"
         },
         {
-          "name": "EUR 6.xx BackPort 5.xx - Mediafire",
+          "name": "EUR 6.xx BackPort 4.xx - Mediafire part 4",
           "url": "https://www.mediafire.com/file/oiehiekyn3hcw4w/5_XX+PPSA02891_%E2%80%93_EUR_V1_0009_By-BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
@@ -139593,6 +139817,93 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYjhsRU1kVktyTWcwN1pXY3FLYnRaeVdSZUd5Mmd2VVJuaU1qTWRTZit5UzllVm1wS1B2QmJZWUxKOVI5OGVSdXFwVzFsajViYThBTEdjTlJCZXhGSXRhR1hDZkFJZz09IiwiaSI6ImVKbEdNTTEzcTFsSk95OSsiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28511",
+      "title": "[exFAT] Out of Sight Complete Edition",
+      "createdAt": "2026-11-03T12:16:29.309Z",
+      "version": "01.006",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1410/96c38df49bf680bdcf4dcb90d68e5a98c40c04e64e640383.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1410/96c38df49bf680bdcf4dcb90d68e5a98c40c04e64e640383.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.006 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.006 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVWw5U2l1WVVIMjN3Q1hrWjRxY2ZYbzVENTVON3JiWjd5VllSTkZtVFhlWUNKRmVzZFQ5emxOZ2dudmI2aEZkaEd3YUExckdOdS8rZVIveHFLR1dqT3l3dkJsczVlMzlzeVcvTWFzWllpZz09IiwiaSI6IllJcXlMelNMTlFTd3hHWmYiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidXMxUmEraWVDWDZiMkZDbmJ6cnhicWFjMkxZU2Vwdk5ZT0RVekQwRVJhV2tJc0hVODhhcWlDb1lJUlRtZk53dmVvZGpFbUdkbDdyY21oL0FodWExQmxqMUVGRTdxdmFqcUwyZ1VQcFc1TDQ9IiwiaSI6ImQxTXFEM0xCdE4wVTF4VFgiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiT2gvL2UxWkRBdEVheGZYRkNHWXE5K0NYQXlDUEJWYVJoNEkzaXF0UEEwWldOblAwTyt1NFUyL2lkVitKekhkd0I4ZHZla2VINHRXSUdIaTkrNjBSSFpFRHlyamtMNW9pQithWThhbWwiLCJpIjoid3J2VmNnUjA4TjZXVVMyOSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.006 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaE02Z1J3OXNUQ3UyMk1LZ2RjM1kxQmdabTdjei9ZLzk5Y0UyNFNhRnVJcmp0VlRxN1Y5SVFCUXZGeDl0NUhTbGdja3JKcmhPYlBDM2ZHQjVmRmN5NFlCRzkvcEp3UGtXNnZrbzRER1JDT2c9IiwiaSI6Ik8xVWF0SE1sNjNRaUJORisiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22207",
+      "title": "[exFAT] INAZUMA ELEVEN Victory Road Deluxe Edition",
+      "createdAt": "2026-11-03T12:16:29.309Z",
+      "version": "07.012",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0110/3d28e402cf4409f5cfc6b5277d83317f25b7e77799ba607d.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0110/3d28e402cf4409f5cfc6b5277d83317f25b7e77799ba607d.png",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 07.012 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "JPN exFAT 07.012 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK0t2Vk1CRjl3MHRVRGRZb0lzL3VRWnJUUzg3Q0N0ckw4Q2RoT3FRZ1VvQmdteDlHNmhYYkptRDJqVyt2cDRjc3JBTllhVFYrMFdhcE5wcGl6emNmcVNDbFdETks0QWRtZ2lWeHpuSW9kQT09IiwiaSI6InhScjM4T0VSS29xZnFJaEwiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "JPN exFAT 07.012 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ25oanY4S3JXMkJFVnFDcXBQcE1ZbTBUd1ZFR09GSUlhQlYxdFdJWmZzMUJzWGpTbm9sYzRJc3J6WVYzNE5heUo0M1duSjVjeDJ3Y2hiS0F2eFQ0WnhRdUlUT2FGK2VEaEJpaDVpbG8wWGM9IiwiaSI6InA3a01uVk1xbEN5d1NzVVciLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "JPN exFAT 07.012 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRFJtSGxqVVZMcm9jVmpJMDBsbDVPZXVvSk0wWDI5TWlMeEpsc3N3TUNHNTdWOTQrdmxXd1JxNDZGZGVhMkVPWUxsZFhyN0c4SGZqNzVQQ0IzYnB3UXNLSlg2QTZPRUhDK3MyVFUwUkoiLCJpIjoiSDFHMno3dVdGWTc0MTZ1TSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "JPN exFAT 07.012 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQjhIc3JXTEpsN1pIZnN1V0czWDFJbXRiU1RWZDRtVTJFcGI0K1paUm81bWg2enQxaVhzRUtNaWgvL3QrV08vYnFzdk8zMlQ3ZXoxdVREdjZqT2I2VGV4MWNURmFtK0dLTWpFRjM5SmtLaTg9IiwiaSI6InUxb2tCSitMaE5RZ3YycG4iLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07247",
+      "title": "[exFAT] Warhammer 40000 Boltgun Forges of Corruption Edition",
+      "createdAt": "2026-11-03T12:16:29.309Z",
+      "version": "01.007",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2314/c5e10e76ff39458aba617e8c889c22ad12f3b495bbee2af4.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2314/c5e10e76ff39458aba617e8c889c22ad12f3b495bbee2af4.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.007 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWmNiYi92Y2gxUDFDdktHUjVOekdDaGdqV3h2dHMvdjdKR210cDJsQW5XT2xxZzVjMHVPclVNN1hVSkprM0x3c1gxbHprc2F1YVFSZ1pTa0FmRWJ5NEU5U3JqZjZuL3pwVFVzR2hGOTFnQT09IiwiaSI6ImdONnI3VUlESFIyY0VLcXciLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRlZPZWxUTkJuaWY0MFo0NElucU52V2JmcjFiNTFIR0pWeExuL0Q0UUFza2R6VUt2dzBMRXlrL3o1QUhtcnRyaWo3TnZGOHZaKzlVMjl2dFJ5MkpUcFB3SXQvZjdGYkZTZFVKeEZydUt0Z009IiwiaSI6IjllbkJZSCtGWEY0MndzRU0iLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWVk4TU84WjhkNjU5dTVHaDdRZ3Qyc2RMZWRTMkZTOU9YRDhGL1Bsb2o3VGdqV0F2SHFpMTBtWmRzKyttWjB6M2hnMkJzSDJIOEllQnYvcUFRdXhRbHpmOTlURjNpNnlyYmY5VGpNWGMiLCJpIjoiL0RBUmYwU0p4ajQzT3dSbyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNDU1TjJnek9aSFNHeVFsbGdLb3dXc3E5M1pCbTNXZkpLMnltRVArZzA2SGhkZVpib25mdTBzR2F3bjM2anFmVkhaV0VHTDF5c1hRemYyZmw4bGhXb2Jrb0xJamRNRTNQaGFwanJzei93Tnc9IiwiaSI6IjY2TE12eHJKeXp6NjNIMTEiLCJuIjoiVmlraSJ9"
         }
       ]
     },

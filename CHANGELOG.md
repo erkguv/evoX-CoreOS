@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 03/11/2026 à 13:52
+* **PAYLOADS**
+  * `Wfm-7Zip-Helper` (v1.13-rc2) - *Mise à jour (Précédent: v1.13-rc1)*
+  * `Web-File-Mgr-V1.13-Rc2` (v1.13-rc2) - *Nouveau*
+  * `Web-File-Mgr-V1.13-Rc1` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.13-rc1)*
+
 ## Build du 03/11/2026 à 00:46
 * **PAYLOADS**
   * `Orbit Store` (v1.8.4) - *Mise à jour (Précédent: v1.8.3)*

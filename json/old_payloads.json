@@ -191,22 +191,22 @@
         {
             "name": "Wfm-7Zip-Helper",
             "filename": "wfm-7zip-helper.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/wfm-7zip-helper.elf",
-            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/wfm-7zip-helper.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf",
             "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-            "version": "v1.13-rc1",
+            "version": "v1.13-rc2",
             "category": "PS5 File Explorer",
             "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825"
         },
         {
-            "name": "Web-File-Mgr-V1.13-Rc1",
-            "filename": "web-file-mgr-v1.13-rc1.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/web-file-mgr-v1.13-rc1.elf",
-            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/web-file-mgr-v1.13-rc1.elf",
+            "name": "Web-File-Mgr-V1.13-Rc2",
+            "filename": "web-file-mgr-v1.13-rc2.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf",
             "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-            "version": "v1.13-rc1",
+            "version": "v1.13-rc2",
             "category": "PS5 File Explorer",
-            "checksum": "8c9456a10ddde61dd0247b9171e71a285b955096ca7eb8e4ae3bdbe94f38f605"
+            "checksum": "91f8e7f52183ce624651b779016bb48cbe7adaad278833a1191ad2e8fc6fbfe3"
         },
         {
             "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",
@@ -416,7 +416,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "852f1d3298d7cbe2368c9032a4fddc880decafbe18b203932a9f286c3a6515a3"
+            "checksum": "a371d4f9f05ac82f2fd8a848c5a7d7318597bd1710e48e69d239596da9f5ecbb"
         },
         {
             "name": "Common Fps Ps5 V1.2.3",
@@ -1242,6 +1242,15 @@
             "description": "Récupéré depuis le stockage local (Interne / Fallback)",
             "version": "ps5-web-file-manager",
             "checksum": "989f26d292d07a35581a2ee36766fc477fc2f5deedb2a9d0cedae5ee19667eba"
+        },
+        {
+            "name": "Web-File-Mgr-V1.13-Rc1",
+            "filename": "web-file-mgr-v1.13-rc1.elf",
+            "url": "",
+            "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/web-file-mgr-v1.13-rc1.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "ps5-web-file-manager",
+            "checksum": "8c9456a10ddde61dd0247b9171e71a285b955096ca7eb8e4ae3bdbe94f38f605"
         },
         {
             "name": "Web-File-Mgr-V1.12",
