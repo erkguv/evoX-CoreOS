@@ -3,6 +3,80 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA30391",
+      "title": "Alien Rogue Incursion Evolved Edition",
+      "createdAt": "2026-11-03T20:24:32.411Z",
+      "version": "1.11",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0600/a26b8088b4213fcfafdf3f435350b91c12a0efca1621016f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0600/a26b8088b4213fcfafdf3f435350b91c12a0efca1621016f.png",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10",
+      "downloadSource": "https://dlpsgame.com/alien-rogue-incursion-evolved-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/Z9dzBBwO5zk1/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/vgKGx74M8z8Q/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1DsB7Y"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/5DnHs"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/Bj62xvpkTU"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/ulfkCj6lMa"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13446",
+      "title": "Aphelion",
+      "createdAt": "2026-11-03T20:24:32.411Z",
+      "version": "1.11",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2416/cd0d25d0c9ed2f762493c7d64513d9cb9e38b537c4787b05.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2416/cd0d25d0c9ed2f762493c7d64513d9cb9e38b537c4787b05.png",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10 Based on dump by CC!",
+      "downloadSource": "https://dlpsgame.com/aphelion-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/wgWGqWklw34o/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/0PdzyMoZ0zeA/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2IUi9o"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/2ESrIG"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/gWdokyozbI"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/vbhS0cd260"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA21120",
       "title": "White Day 2 The Flower That Tells Lies Complete Edition",
       "createdAt": "2026-11-03T07:11:33.558Z",
@@ -11625,7 +11699,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2318/cabc65dfd2ab1ffa31f51b20b7128ac69491ea9858c0daa3.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2318/cabc65dfd2ab1ffa31f51b20b7128ac69491ea9858c0daa3.png",
-      "description": "Variant: 12.xx\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.006\nRegion: EUR\nRelease note: exFAT format — FW 01.006 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: 12.xx\nRelease note: Works on 12.xx and higher\nContributor: Thanks to DUPLEX for the Files and PSVIETHOA for the BackPort\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.006\nRegion: EUR\nRelease note: exFAT format — FW 01.006 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/hades-2-ps5/",
       "downloadLinks": [
         {

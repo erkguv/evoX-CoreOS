@@ -271,11 +271,10 @@
     {
       "name": "Cheatrunner V0.18",
       "filename": "CheatRunner_v0.18.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
+      "url": "",
       "local_path": "payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
-      "description": "CheatRunner.",
-      "version": "v0.18",
-      "category": "PS5 Cheat",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "CheatRunner",
       "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140"
     },
     {
@@ -416,7 +415,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "a371d4f9f05ac82f2fd8a848c5a7d7318597bd1710e48e69d239596da9f5ecbb"
+      "checksum": "36cd72dd1ad4b94d0741f19a5f67ac3cdd61f7dc6e04f872e59c66ab601f17a9"
     },
     {
       "name": "Common Fps Ps5 V1.2.3",

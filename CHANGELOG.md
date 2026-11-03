@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 03/11/2026 à 23:08
+* **PAYLOADS**
+  * `Cheatrunner V0.18` (CheatRunner) - *Mise à jour (Précédent: v0.18)*
+* **APPS**
+  * `Porpoise-4.5-Source` (v4.5) - *Nouveau*
+  * `Porpoise-4.5` (v4.5) - *Nouveau*
+
 ## Build du 03/11/2026 à 13:52
 * **PAYLOADS**
   * `Wfm-7Zip-Helper` (v1.13-rc2) - *Mise à jour (Précédent: v1.13-rc1)*

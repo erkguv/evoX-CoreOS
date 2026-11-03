@@ -1,9 +1,10 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.03-1352)
+### 🚀 Synthèse de la mise à jour (v2026.11.03-2308)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
 #### 📦 Archives AIO Disponibles (Dossier `archives/`) :
-- `PS5_apps_aio_latest.zip`
+- `PS5_apps_aio_part1_latest.zip`
+- `PS5_apps_aio_part2_latest.zip`
 - `PS5_ffpfsc_aio_latest.zip`
 - `PS5_payloads_aio_latest.zip`
 - `PS5_pkg_aio_part1_latest.zip`
@@ -207,7 +208,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5X360-source-1.0.2-changes.zip`
   * `helper.elf`
   * `PPSA97358.zip`
-  * `Porpoise-4.0.zip`
+  * `Porpoise-4.5-source.zip`
+  * `Porpoise-4.5.zip`
   * `PPSA19111.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`

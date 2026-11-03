@@ -42,7 +42,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ## 📦 Packs Latest à Télécharger (AIO)
 
-- **PS5 APPS AIO** : [https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_apps_aio_latest.zip](https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_apps_aio_latest.zip)
+- **PS5 APPS AIO PART1** : [https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part1_latest.zip](https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part1_latest.zip)
+- **PS5 APPS AIO PART2** : [https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part2_latest.zip](https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part2_latest.zip)
 - **PS5 FFPFSC AIO** : [https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip](https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip)
 - **PS5 PAYLOADS AIO** : [https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip](https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip)
 - **PS5 PKG AIO PART1** : [https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part1_latest.zip](https://github.com/erkguv/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part1_latest.zip)
@@ -99,7 +100,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Cheatrunner V0.18 | [v0.18](https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf) | `4ae1ea4e37b2...` | CheatRunner. |
+| Cheatrunner V0.18.1 | [v0.18.1](https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18.1/CheatRunner_v0.18.1.elf) | `805352600279...` | CheatRunner. |
 | Kylin-Core V2.0.0-Community-Lite | [v2.0.0-community-lite](https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Cheat/kylin-core/v2.0.0-community-lite/kylin-core_v2.0.0-community-lite.elf) | `7f5245f2db67...` | kylin-core |
 
 ### 📂 PS5 Dns
@@ -233,7 +234,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `a371d4f9f05a...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `36cd72dd1ad4...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -309,7 +310,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Klogsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Client V2.18 | [2.18](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf) | `eda226e008ef...` | Easy remote client application for PS5. |
 | Ps5-Ezremote-Server V1.13 | [1.13](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a92...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V11.0.0 | [v11.0.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.0.0/ps5upload_v11.0.0.elf) | `027f62daaf06...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V11.0.1 | [v11.0.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.0.1/ps5upload_v11.0.1.elf) | `7a5f7d1b8c1c...` | PS5 Upload server / tool. Port: 9025 |
 | Websrv V0.34 | [v0.34](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.7.0 | [v1.7.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf) | `533ef2ea5f56...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.7.0 | [v1.7.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf) | `8f78ac0cde64...` | FTP server payload for PS5. Port: 21 |
@@ -416,7 +417,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Markus Phu-Emupack-Snes.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Snes.PS5.rar) | `cddce7fe9ef1...` | EmuPack-Snes.PS5 |
 | Markus Phu-Emupack-Ultra64.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Ultra64.PS5.rar) | `0d259ccbe37f...` | EmuPack-Ultra64.PS5 |
 | Phu-Sandbox.Exit V1.0 | [v3.0](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | EmuPack_Mame.PS5 |
-| Porpoise-4.0 | [v4.0](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.0/Porpoise-4.0.zip) | `bce438cc8f43...` | GameCube and Wii Dolphin emu for ps5 |
+| Porpoise-4.5 | [v4.5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5.zip) | `e772faa79b9e...` | GameCube and Wii Dolphin emu for ps5 |
+| Porpoise-4.5-Source | [v4.5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5-source.zip) | `236252b9a7fb...` | GameCube and Wii Dolphin emu for ps5 |
 | Ppsa19111 | [v1.3](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip) | `1bb8f143016c...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
 | Ppsa50011 | [v1.0.2](https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip) | `230359c2638f...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | Ppsa97358 | [Alpha-2.1](https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/PPSA97358.zip) | `494682ff5073...` | Xbox emulator (Xemu) port for the PS5 |

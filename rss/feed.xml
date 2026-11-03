@@ -168,9 +168,9 @@
     </item>
     <item>
       <title>[Payloads] Cheatrunner V0.18</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf</link>
-      <description>CheatRunner.</description>
-      <pubDate>v0.18</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>CheatRunner</pubDate>
     </item>
     <item>
       <title>[Payloads] Kylin-Core V2.0.0-Community-Lite</title>
@@ -995,10 +995,16 @@
       <pubDate>Alpha-2.1</pubDate>
     </item>
     <item>
-      <title>[Applications] Porpoise-4.0</title>
-      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.0/Porpoise-4.0.zip</link>
+      <title>[Applications] Porpoise-4.5-Source</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5-source.zip</link>
       <description>GameCube and Wii Dolphin emu for ps5</description>
-      <pubDate>v4.0</pubDate>
+      <pubDate>v4.5</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Porpoise-4.5</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5.zip</link>
+      <description>GameCube and Wii Dolphin emu for ps5</description>
+      <pubDate>v4.5</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa19111</title>
