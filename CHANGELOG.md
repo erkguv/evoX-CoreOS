@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 04/11/2026 à 23:22
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.15-Beta2` (v1.15-beta2) - *Nouveau*
+  * `Garlic-Worker V1.1.8` (v1.1.8) - *Nouveau*
+  * `Orbit Store` (v1.8.5) - *Mise à jour (Précédent: v1.8.4)*
+  * `Ps5-Ezremote-Client V2.19` (2.19) - *Nouveau*
+* **FFPFSC**
+  * `Evoplayer-V0.13.5-Ppsa99039-Pro` (v0.13.5) - *Nouveau*
+  * `Evoplayer-V0.13.5-Ppsa99039` (v0.13.5) - *Nouveau*
+
 ## Build du 03/11/2026 à 23:08
 * **PAYLOADS**
   * `Cheatrunner V0.18` (CheatRunner) - *Mise à jour (Précédent: v0.18)*

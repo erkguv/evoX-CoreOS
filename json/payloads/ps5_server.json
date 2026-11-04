@@ -82,12 +82,12 @@
       "checksum": "fba508465a8c892882e88e2834ac2b6c445583b81629257764725528f3f5fd6a"
     },
     {
-      "name": "Ps5-Ezremote-Client V2.18",
-      "filename": "ps5-ezremote-client_v2.18.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf",
-      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf",
+      "name": "Ps5-Ezremote-Client V2.19",
+      "filename": "ps5-ezremote-client_v2.19.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf",
+      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf",
       "description": "Easy remote client application for PS5.",
-      "version": "2.18",
+      "version": "2.19",
       "category": "PS5 Server",
       "checksum": "eda226e008efae5f14bd9e4fb0dd27ee198d1e3b525aa4ab1079e410e66f5e3c"
     },
@@ -102,14 +102,14 @@
       "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
     },
     {
-      "name": "Ps5Upload V11.0.3",
-      "filename": "ps5upload_v11.0.3.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.0.3/ps5upload_v11.0.3.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v11.0.3/ps5upload_v11.0.3.elf",
+      "name": "Ps5Upload V11.0.8",
+      "filename": "ps5upload_v11.0.8.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.0.8/ps5upload_v11.0.8.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v11.0.8/ps5upload_v11.0.8.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v11.0.3",
+      "version": "v11.0.8",
       "category": "PS5 Server",
-      "checksum": "0b0cd0b743772cb54c106b10c97935c6e4d96ba3da1dbedb7710594f4ead73aa"
+      "checksum": "f315f5645d7be6cc0736ec3183cfa67ec9d7ec689321295fb222f5b699b2542e"
     },
     {
       "name": "Airpsx V0.19",

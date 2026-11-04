@@ -83,7 +83,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1215/cd7e3c252e5ebcba5ecbc583f8ace7a8095ad79fdf97dbc3.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1215/cd7e3c252e5ebcba5ecbc583f8ace7a8095ad79fdf97dbc3.png",
-      "description": "Region: USA\nRelease note: Works on 8.xx and higher",
+      "description": "Variant: USA 8.xx\nRegion: USA\nRelease note: Works on 8.xx and higher\n\nVariant: USA exFAT 01.000.103\nRegion: USA\nRelease note: exFAT format — FW 01.000.103 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/white-day-2-the-flower-that-tells-lies-complete-edition-ps5/",
       "downloadLinks": [
         {
@@ -97,6 +97,22 @@
         {
           "name": "USA 8.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/wQjr8aKm3t"
+        },
+        {
+          "name": "USA exFAT 01.000.103 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY2JkV00vZU1ZMzR2eW9jTkd0ZlFOZGVIbUQ4MDJUeVJTeDBjaUVURGoreG1UZUYya0R5c2Q4VTlRNVZKdnEzSm9NTzBxWUJzY0tQNjZzajhwUW1pZkNLNDVHb0VKRzBGZVZWRnVWWC9rUT09IiwiaSI6IlhFWUErS3p5NW5SWFI1OUMiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000.103 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOHRWK2ZaV1NaYlB2R0s4T3o3eDI1a2xkZFVuWXlTYkF0RWp1cFhyWTJ4REZYYk9RWnl2RWlVcVRvRTBvQWJzTEpUN1E2WjJleWtuVk1OTkwwY2k3dW9sU0JxUGVJS1pZNG51ZjJBeWxzNFE9IiwiaSI6IjZxUVU3K2JEdkdIQ09oZDkiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000.103 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVUtsUTIzcVZLMkpUeGl0TVpreHI0QWFJSDl4MlF1Szl3OHVyT21wOTFMQXNSWnVoOGRzR1U5RzJKTE1uK29YN21UdkRNcWt0QXE0SWR3TGJGMU84T3J6MVVXMThpUTZnT0MvYlduamoiLCJpIjoickcwSXJzb0srQ0RXeWd5diIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000.103 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQVlvYUN2VFYycHJYVTJkbUpFNWVTVUJtMEU1K2RCTGlwT1U1MTJNV0dpVzFQSlRYeVMzL0tRL2JLUEdMS3kyeEpOaC9zNldINkMreVN1a3NoTDFJNno3czNkbjBPR1V1Y0NYSjlKTDlnWXM9IiwiaSI6IlFrQlhlKzdsVzBuWkhHa2ciLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -139891,6 +139907,122 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYjhsRU1kVktyTWcwN1pXY3FLYnRaeVdSZUd5Mmd2VVJuaU1qTWRTZit5UzllVm1wS1B2QmJZWUxKOVI5OGVSdXFwVzFsajViYThBTEdjTlJCZXhGSXRhR1hDZkFJZz09IiwiaSI6ImVKbEdNTTEzcTFsSk95OSsiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30391",
+      "title": "[exFAT] Alien Rogue Incursion Evolved Part One Deluxe Edition",
+      "createdAt": "2026-11-04T12:40:29.678Z",
+      "version": "01.000.009",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0600/a26b8088b4213fcfafdf3f435350b91c12a0efca1621016f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0600/a26b8088b4213fcfafdf3f435350b91c12a0efca1621016f.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000.009 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.000.009 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOStJaHZlZFkrajl4Z1B1Ui9FRnp0a2x6UjU2T3dEeW5WcmxjY0kyang0S3hyK25HcDRFOVhuQUdPSkcvdnl3QTNDSGhoVmNQRG9RRnVmNy9iOE1rOE1ONVFTVmgvSVpCOC90UzVDdmlrZz09IiwiaSI6IklFSEtxeE9EM0UzMWVmSXciLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.000.009 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRFFxTi9mQzZQUmxQK1B5STRBcWpPMlJ3S2RKdjdNc3Y3SXlnZFpkN0hOSnV0Z1hiSlBTTmlOc2VhY3hZRmdFYzNVNlBuMnVyTFp6K0FVYWVBSmxwU2xNaXRsYXUyR1hwQ01RNmtHem0xZEE9IiwiaSI6IlV0SUg4QXpTYnB5cE9BOCsiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.000.009 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNTBLK1grMkRMZDJad0JLcUNIL25VWVIyei8vSTlxU29teW1XelJ5NE5MUjhtZVRDQkJoMVdha014UGlHeDlkYjNuQ2c3SFAyM3NXYmZDMFg4cmsvM2kvUk8xcktoUElwdHBJdXIxR0siLCJpIjoiOVovNnN6REpMcTloQ3pyViIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.000.009 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY2dDTWhLQnhWV0NRQ0FGb0l2VHJ3T3pCSlRHS2V0a3B1amNFZHVoNFYwbkYzMm9RakxoR3dsUGQ4WloyZDJkcHh3YmVuZTBsbk9jaTRLaUY1ZC9wWUNPZGJQS2l6RFNsak5PRHJZRHJ6eHc9IiwiaSI6InNJMzBYQng5a25BTDAvRFciLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25212",
+      "title": "[exFAT] RetroRealms",
+      "createdAt": "2026-11-04T12:40:29.678Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2700/dd8410b7f1569b2c14a43e5d2ea306475cae338d7eb49a16.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2700/dd8410b7f1569b2c14a43e5d2ea306475cae338d7eb49a16.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.000 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVzgzbW5wRzhSL0tmKzlpcmNQc3pLVkwwMlNUeUJIOEJoOXJWVTVJVkNoellWbUlPa1YvRHNpNGpMOUh4aUswQWZvRDlhNXJqVWREdnlLQ3U1Y1FFWVMwUnJYVWRTSHhndk81NSsyR0ZxQT09IiwiaSI6IldnM3VjdUNmQUpveXlXdWwiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYm5NSTA5M2RDc3FJUmdqSklBWmdCcDRTU01XVDhRaWVqOTNadDFwZ0hkNmxiMk4zU0JTaTZpeUNyQ20xQUkrQWJiZEF3VkwxZmpGNjFkV2tBblRaOFRoNkNwUUtjYWJzWkM5UU9WVGRoeWs9IiwiaSI6ImtGeFdZZUZ1T1oxZlNOQmQiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ3J4L0F1TzN2b0V4MGo0M3ZzL1gwVStNemJPaUsreDhyRjFQSFJSaFVqYlBnL1hHRWdaZC9MN0ZCUTNudnVCVU14K2RYcHQxWTlpN2JRM3BjK0VoZS9lQmNCYUx1SXAwWEF4UW0vLzQiLCJpIjoicGNIV3dYLzVxemdUamZrZyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOU8rS3Q2c3YwR0RnanVoMEsrWDlxT25jSkRYVFZUYkRpNktLZGl3RXZBRFpzVUNteHd4QlFjSlJybkhqNlo5YW1OWFBXcGY0cHNqclg4aVk0OTE3Ylp3YzV6OGs1USt1UFdVdmRXeGtoUjA9IiwiaSI6IlFBK3BXYTkyS2toVXRuNFAiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18543",
+      "title": "[exFAT] The Sinking City 2 Premium Edition",
+      "createdAt": "2026-11-04T12:40:29.678Z",
+      "version": "01.000.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0514/ce9a6b7632e0f12a14a33b2b08fb43da30f15b5378cedaed.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0514/ce9a6b7632e0f12a14a33b2b08fb43da30f15b5378cedaed.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.000.003 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSjdob1ROY2o4NmxOOVkrbGpGWUJ2ajJTV29TRWZZVDBOMTNhMXBSdi80cEk3bks2RmI3Tml5Qk9pa0UzbDdIaW94Vk5zSnVoeDhSRVZic3pDTm5IellRUk1sVTdRcmU2YzhQTGFhOFRMdz09IiwiaSI6IjJkd3ozUDF1cXF2ekdPWWsiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSXZiNU9RRnNFbENzMC83ZkkxNkk0UmVGdjc2cFpPZEM1Qkp0U2F6b1QxVjVTSlFGOFFQYnM3VlN6RmhEb0loNHc1TEEvcnc3RmJMcnpzUjBQWThNZzN6THZlUHpvdFdtZyt5MFU1ZThlem89IiwiaSI6Ik85TENPS0YxaE4zMXNOYisiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN0hka05yeFh2cmJ2SitXdEdkV1Y5UGt2RWxFdzBpWGlmVVdxMnN5MzEvVFU5VlVLSXBoUGpJSi81dWxIb1phVUtZa0hGYVhGL0ZFZ05LMEFzb0tBS3h6MXJFd1I2a2VpMWpOSEdIZEkiLCJpIjoidjZPcGhncUdyTXZVM0pySCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTTVQTSs3bVlBZXRqTDNURXZZVEVVUENXYllPenpxVTRTOXdsU1JWdlcxTE1MZStMMi9MVFlxWSsrQnlvSk9ra1l4WThPSmFINHFDcjVIYnVkRnZVNkIzMGtHTGl0VXBvRmN4Q3JPbzR0d2c9IiwiaSI6InpCczVCS0QyYXpyUmxrcjQiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA01772",
+      "title": "[exFAT] The Sinking City Remastered Deluxe Edition",
+      "createdAt": "2026-11-04T12:40:29.678Z",
+      "version": "01.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2210/YHU2PikhEppyFiralnrJxiCI.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2210/YHU2PikhEppyFiralnrJxiCI.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.004 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.004 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSmNnU2FLU1A1azJVYW5EREpveFdLUUdlTXdUOEFlaGJiS0h5Q1FqWGVSSC8xYTd5MzRydlFEbDJsY3Rvc3J3aXFiVzdsUVhmcHVpVHV0TTNGdENrVFlLN01jOXhtM1dIa3FMaWFvWnJnZz09IiwiaSI6IkZyTU9ZenhjaUV0Y3Nad2ciLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.004 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicHVYVUpycjVGcGk1eUlDU3E2Mk42TW5pR3lkT0RjMHVSQnliU2F1eWJKd1ltWitBZW1RdUR1N0EyK1NKcFNqM3d2UUZta0ZkU3lpYXRtREtJL2o0SUJUTDFucDZJNkJTWUtuYkplc2IvUzg9IiwiaSI6IjNpM290MkgzT1dQSmViOXEiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.004 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNzNidjRkbTM2Tm4wcTNCWTdsa08vc0Z6QXVqci95S05yRWliNVVUV0pwVFRHWWFiSlB6eHZKeXlOejUxTUNYM1VXN2x0YVIzTHZBd2xLSkxGT0pGODhGaitvaEdEMkJCQ3pEcXJxVzgiLCJpIjoiYmtMcElTM2Y3clN6RUk0KyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.004 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNnhQYWhWVWlnV1AwMTAzaVpuRCt4OHQyRmNKa09uczRWWlhWcUU1UjkxZXoxRDg1Y1BueldUZHQzQWxGNW9ESGdaMEI2NjdNeE4wOFVaU2hMdm5URmJQbFdTSFovRGwyOGRZSUx5LzZTOW89IiwiaSI6IjZtTjFVMFErbXJXNiswMFQiLCJuIjoiVmlraSJ9"
         }
       ]
     },

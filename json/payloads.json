@@ -415,7 +415,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "ad0e2966840b471b2ccba18b99b905ea5daa64d082a7dad86fa06bebbf0cd5fd"
+      "checksum": "5acb5284086ecbaf86f53b27c9f16b9b8b3278722f2a51d5d659e150604b7154"
     },
     {
       "name": "Common Fps Ps5 V1.2.3",
@@ -528,24 +528,24 @@
       "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
     },
     {
-      "name": "Garlic-Savemgr V1.15-Beta1",
-      "filename": "garlic-savemgr_v1.15-beta1.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf",
+      "name": "Garlic-Savemgr V1.15-Beta2",
+      "filename": "garlic-savemgr_v1.15-beta2.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta1",
+      "version": "v1.15-beta2",
       "category": "PS5 Saves",
-      "checksum": "9777e49916968b5327be9d3799d25f1d3b810d3c853c448d38c8bbd120124787"
+      "checksum": "f3733b5ee291fb89dd515b659f34273dad437e054b8abb50a1d7f69d812c11b3"
     },
     {
-      "name": "Garlic-Worker V1.1.7",
-      "filename": "garlic-worker_v1.1.7.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
+      "name": "Garlic-Worker V1.1.8",
+      "filename": "garlic-worker_v1.1.8.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.1.7",
+      "version": "v1.1.8",
       "category": "PS5 Saves",
-      "checksum": "2643f35cdfe9969cf775220dc4a65bc4ff0d08750c39bfb714b74dbbf29cd396"
+      "checksum": "7d50cfca84e2f456e1b0bd6e60ab2291e81fdeeb04e7816fbf900b2dba3b69db"
     },
     {
       "name": "Savemnt-Offset-Dumper V1.0.0",
@@ -580,12 +580,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.4/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.8.4/orbit_store.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.8.4",
+      "version": "v1.8.5",
       "category": "PS5 Freeshop",
-      "checksum": "a2ece507fdc835d72671820a6da30c3e2f92391a85da10e5f14130b5dbc2c596"
+      "checksum": "935f81956acd3acba876977057c2ce77ded6a7fc72a98fd821cba2d1765e1f77"
     },
     {
       "name": "Etahen V2.5B",
@@ -1038,12 +1038,12 @@
       "checksum": "fba508465a8c892882e88e2834ac2b6c445583b81629257764725528f3f5fd6a"
     },
     {
-      "name": "Ps5-Ezremote-Client V2.18",
-      "filename": "ps5-ezremote-client_v2.18.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf",
-      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf",
+      "name": "Ps5-Ezremote-Client V2.19",
+      "filename": "ps5-ezremote-client_v2.19.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf",
+      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf",
       "description": "Easy remote client application for PS5.",
-      "version": "2.18",
+      "version": "2.19",
       "category": "PS5 Server",
       "checksum": "eda226e008efae5f14bd9e4fb0dd27ee198d1e3b525aa4ab1079e410e66f5e3c"
     },
