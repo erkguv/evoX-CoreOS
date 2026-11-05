@@ -415,7 +415,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "5acb5284086ecbaf86f53b27c9f16b9b8b3278722f2a51d5d659e150604b7154"
+      "checksum": "eb87329d6fa1b5d15dcb2734a8d7826716e200c614bb39b6f3cc6de3aa5e9dc0"
     },
     {
       "name": "Common Fps Ps5 V1.2.3",
@@ -528,24 +528,24 @@
       "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
     },
     {
-      "name": "Garlic-Savemgr V1.15-Beta2",
-      "filename": "garlic-savemgr_v1.15-beta2.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf",
+      "name": "Garlic-Savemgr V1.15-Beta5",
+      "filename": "garlic-savemgr_v1.15-beta5.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta5/garlic-savemgr_v1.15-beta5.elf",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta5/garlic-savemgr_v1.15-beta5.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta2",
+      "version": "v1.15-beta5",
       "category": "PS5 Saves",
-      "checksum": "f3733b5ee291fb89dd515b659f34273dad437e054b8abb50a1d7f69d812c11b3"
+      "checksum": "5475b1d671fb185f1ec0eb21036dfed9afdd38b66f75068c6cd3b1d5bc185aa8"
     },
     {
-      "name": "Garlic-Worker V1.1.8",
-      "filename": "garlic-worker_v1.1.8.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf",
+      "name": "Garlic-Worker V1.2.2",
+      "filename": "garlic-worker_v1.2.2.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.2.2/garlic-worker_v1.2.2.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.2.2/garlic-worker_v1.2.2.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.1.8",
+      "version": "v1.2.2",
       "category": "PS5 Saves",
-      "checksum": "7d50cfca84e2f456e1b0bd6e60ab2291e81fdeeb04e7816fbf900b2dba3b69db"
+      "checksum": "a1bbe4f4d07371b6eef228ff0f08b21044c77f17d2175c3c77028b3a3110cac7"
     },
     {
       "name": "Savemnt-Offset-Dumper V1.0.0",

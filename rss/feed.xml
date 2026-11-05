@@ -323,16 +323,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Garlic-Savemgr V1.15-Beta2</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf</link>
+      <title>[Payloads] Garlic-Savemgr V1.15-Beta5</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta5/garlic-savemgr_v1.15-beta5.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.15-beta2</pubDate>
+      <pubDate>v1.15-beta5</pubDate>
     </item>
     <item>
-      <title>[Payloads] Garlic-Worker V1.1.8</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf</link>
+      <title>[Payloads] Garlic-Worker V1.2.2</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.2.2/garlic-worker_v1.2.2.elf</link>
       <description>Garlic worker payload component.</description>
-      <pubDate>v1.1.8</pubDate>
+      <pubDate>v1.2.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.04-2322)
+### 🚀 Synthèse de la mise à jour (v2026.11.05-0536)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -75,8 +75,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test5.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `garlic-savemgr_v1.15-beta2.elf`
-  * `garlic-worker_v1.1.8.elf`
+  * `garlic-savemgr_v1.15-beta5.elf`
+  * `garlic-worker_v1.2.2.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent.elf`
