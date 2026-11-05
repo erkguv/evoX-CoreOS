@@ -234,7 +234,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `cd3455e5891c...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `28fa78ce1e76...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -270,8 +270,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Garlic-Savemgr V1.15-Beta6 | [v1.15-beta6](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta6/garlic-savemgr_v1.15-beta6.elf) | `af6e31fb07e5...` | Save manager utility hosted on Forgejo. |
-| Garlic-Worker V1.2.2 | [v1.2.2](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.2.2/garlic-worker_v1.2.2.elf) | `a1bbe4f4d073...` | Garlic worker payload component. |
+| Garlic-Savemgr V1.15-Beta9 | [v1.15-beta9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta9/garlic-savemgr_v1.15-beta9.elf) | `88ed2c04be0f...` | Save manager utility hosted on Forgejo. |
+| Garlic-Worker V1.2.3 | [v1.2.3](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.2.3/garlic-worker_v1.2.3.elf) | `a6c65b1bca4d...` | Garlic worker payload component. |
 | Savemnt-Offset-Dumper V1.0.0 | [1.0.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf) | `946328551f74...` | Offset dumper for save mounting utilities. |
 
 ### 📂 PS5 Sdk Debug
@@ -310,7 +310,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Klogsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Client V2.19 | [2.19](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf) | `eda226e008ef...` | Easy remote client application for PS5. |
 | Ps5-Ezremote-Server V1.13 | [1.13](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a92...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V11.2.1 | [v11.2.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.2.1/ps5upload_v11.2.1.elf) | `98daecdc73a4...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V11.2.3 | [v11.2.3](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.2.3/ps5upload_v11.2.3.elf) | `0a0fd1cd7946...` | PS5 Upload server / tool. Port: 9025 |
+| Websrv V0.34 | [v0.34](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.7.0 | [v1.7.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf) | `533ef2ea5f56...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.7.0 | [v1.7.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf) | `8f78ac0cde64...` | FTP server payload for PS5. Port: 21 |
 
@@ -364,12 +365,16 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | Markus Phu-Emupack-Ki-Arcade.Collection.Ps5 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg) | Markus_PHU-EmuPack-KI-Arcade.Collection.PS5. |
 | Markus Phu-Emupack-Paprium-Port.Ps5 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg) | Markus_PHU-EmuPack-Paprium-Port.PS5. |
+| Ps5-Shop-Appkg | Inconnu | [Source-Fixe](https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg) | PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi . |
+| Ps5Library | Inconnu | [Source-Fixe](https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg) | PS5Library need ps5library-agent.elf. |
 | Ps5Pkg Avatar-Changer V1.00 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg) | Avatar-Changer. |
 | Ps5Pkg Fpkgi V1.10.0 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg) | FPKGi. |
 | Ps5Pkg Gow-Betrayal Port | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg) | PS5PKG_MK64_Port. |
+| Ps5Pkg Homebrew Store Installer | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg) | Homebrew_Store. |
 | Ps5Pkg Homebrewloader V0.30 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_HOMEBREWLOADER_v0.30.pkg) | HOMEBREWLOADER. |
 | Ps5Pkg Internetbrowser-Game Menu V1.00 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg) | InternetBrowser-Game_Menu. |
 | Ps5Pkg Internetbrowser-Media Menu V1.00 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg) | InternetBrowser-Media_Menu. |
+| Ps5Pkg Itemzflow Game Manager V1.14 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg) | Itemzflow_Game_Manager. |
 | Ps5Pkg Mk64 Port | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg) | PS5PKG_MK64_Port. |
 | Ps5Pkg Ps5-Xplorer V1.05 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg) | PS5-Xplorer. |
 | Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00 | Inconnu | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg) | PS5Webit-Nexgen999_Installer. |
@@ -482,6 +487,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **FGGstore** : [FGG-Unpack](https://github.com/FGGstore/FGG-Unpack)
 - **FGGstore** : [FGG-XSense](https://github.com/FGGstore/FGG-XSense)
 - **GordonProsperoMan** : [xash3d-ps5](https://github.com/GordonProsperoMan/xash3d-ps5)
+- **Itemzflow** : [Itemzflow_Game_Manager](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg)
 - **ItsBlurf** : [BFpilot](https://github.com/ItsBlurf/BFpilot)
 - **ItsBlurf** : [BFplayer-standalone](https://github.com/ItsBlurf/BFplayer)
 - **ItsBlurf** : [PoorDS4](https://github.com/ItsBlurf/PoorDS4)
@@ -567,6 +573,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **owendswang** : [ps5-fan-control](https://github.com/owendswang/ps5-fan-control)
 - **owendswang** : [ps5-web-file-manager](https://github.com/owendswang/ps5-web-file-manager)
 - **phantomptr** : [ps5upload](https://github.com/phantomptr/ps5upload)
+- **pkg-zone** : [Homebrew_Store_installer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg)
 - **porhe911** : [Common-FPS-for-PS5](https://github.com/porhe911/Common-FPS-for-PS5)
 - **ps4macedo** : [Host-PSM pooP2JB](https://github.com/ps4macedo/instalador-host-psm-poop2jb)
 - **ps5-linux** : [ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
@@ -576,10 +583,13 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **ps5-payload-dev** : [gdbsrv](https://github.com/ps5-payload-dev/gdbsrv)
 - **ps5-payload-dev** : [klogsrv](https://github.com/ps5-payload-dev/klogsrv)
 - **ps5-payload-dev** : [svtplay](https://github.com/ps5-payload-dev/svtplay)
+- **ps5-payload-dev** : [websrv](https://github.com/ps5-payload-dev/websrv)
 - **ps5xploit** : [InternetBrowser-Game_Menu](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg)
 - **ps5xploit** : [InternetBrowser-Media_Menu](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg)
+- **ps5xploit** : [PS5-SHOP-APPKG](https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg)
 - **ps5xploit** : [ps5shopappkg-dpi](https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/ps5shopappkg-dpi.elf)
 - **rdiol12** : [PS5Library](https://github.com/rdiol12/PS5Library)
+- **rdiol12** : [PS5Library](https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg)
 - **rpf16rj** : [flycast-ps5-libretro-core](https://github.com/rpf16rj/flycast-ps5-libretro-core)
 - **s0liton** : [PHU-Sandbox.Exit](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf)
 - **s0liton** : [ps5-romm](https://github.com/s0liton/ps5-romm)

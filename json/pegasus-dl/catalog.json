@@ -41,6 +41,19 @@
             "title": "Homebrew Launcher"
         },
         {
+            "name": "Ps5Pkg Homebrew Store Installer",
+            "filename": "PS5PKG_Homebrew_Store_installer.pkg",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg",
+            "local_path": "pkg/Homebrew_Store_installer/Source-Fixe/PS5PKG_Homebrew_Store_installer.pkg",
+            "description": "Homebrew_Store.",
+            "version": "Source-Fixe",
+            "checksum": "da24bf219241d57eccd59a57c0cc81811b15edb50c3b09d49e8bb792476d7015",
+            "category": "PKG",
+            "titleId": "NPXS39041",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Homebrew-Store.png",
+            "title": "PS5 Homebrew Store"
+        },
+        {
             "name": "Ps5Pkg Internetbrowser-Game Menu V1.00",
             "filename": "PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
             "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
@@ -65,6 +78,45 @@
             "titleId": "MOUU12023",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Internet-browser_Media.png",
             "title": "Internet Brower-Media"
+        },
+        {
+            "name": "Ps5-Shop-Appkg",
+            "filename": "PS5-SHOP-APPKG.pkg",
+            "url": "https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg",
+            "local_path": "pkg/PS5-SHOP-APPKG/Source-Fixe/PS5-SHOP-APPKG.pkg",
+            "description": "PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi .",
+            "version": "Source-Fixe",
+            "checksum": "d3a428bbd15e31344764f0e2dc4bf3664d5dfa48d2c008687af974e68fd65807",
+            "category": "PKG",
+            "titleId": "MOUS21425",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ps5shopappkg.png",
+            "title": "ps5shopappkg"
+        },
+        {
+            "name": "Ps5Library",
+            "filename": "PS5Library.pkg",
+            "url": "https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg",
+            "local_path": "pkg/PS5Library/Source-Fixe/PS5Library.pkg",
+            "description": "PS5Library need ps5library-agent.elf.",
+            "version": "Source-Fixe",
+            "checksum": "3b4532298dec8db8fb1e3c0f6e70a9d914d7e1d88f788e3edcbe1e626063f173",
+            "category": "PKG",
+            "titleId": "PPSA99051",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PS5Library.png",
+            "title": "PS5Library"
+        },
+        {
+            "name": "Ps5Pkg Itemzflow Game Manager V1.14",
+            "filename": "PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
+            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
+            "local_path": "pkg/Itemzflow_Game_Manager/Source-Fixe/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
+            "description": "Itemzflow_Game_Manager.",
+            "version": "Source-Fixe",
+            "checksum": "73cbbe1045c5d58dc9e25df306c96d60ab69e9eb91a43344c1df300d85f36462",
+            "category": "PKG",
+            "titleId": "ITEM00001",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Itemzflow Game Manager.png",
+            "title": "Itemzflow Game Manager"
         },
         {
             "name": "Ps5Pkg Ps5-Xplorer V1.05",

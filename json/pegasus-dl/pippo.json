@@ -10,7 +10,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2416/cd0d25d0c9ed2f762493c7d64513d9cb9e38b537c4787b05.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2416/cd0d25d0c9ed2f762493c7d64513d9cb9e38b537c4787b05.png",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA13446, v01.003, USA, 4.xx BackPort\nSize: 52GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: Note: Own ZTSD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA13446, v01.003, USA, 4.xx BackPort\nSize: 52GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -194,7 +194,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0600/a26b8088b4213fcfafdf3f435350b91c12a0efca1621016f.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0600/a26b8088b4213fcfafdf3f435350b91c12a0efca1621016f.png",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA30391, v01.000.009, EUR, 4.xx BackPort\nSize: 58GB\nCredits: Files: Desesperado3; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: Note: Own ZTSD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA30391, v01.000.009, EUR, 4.xx BackPort\nSize: 58GB\nCredits: Files: Desesperado3; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {

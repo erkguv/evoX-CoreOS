@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 05/11/2026 à 23:29
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.15-Beta9` (v1.15-beta9) - *Nouveau*
+  * `Garlic-Worker V1.2.3` (v1.2.3) - *Nouveau*
+  * `Websrv V0.34` (v0.34) - *Nouveau*
+* **PKG**
+  * `Ps5Pkg Homebrew Store Installer` (Source-Fixe) - *Nouveau*
+  * `Ps5-Shop-Appkg` (Source-Fixe) - *Nouveau*
+  * `Ps5Library` (Source-Fixe) - *Nouveau*
+  * `Ps5Pkg Itemzflow Game Manager V1.14` (Source-Fixe) - *Nouveau*
+
 ## Build du 05/11/2026 à 14:46
 * **PAYLOADS**
   * `Garlic-Savemgr V1.15-Beta6` (v1.15-beta6) - *Nouveau*
