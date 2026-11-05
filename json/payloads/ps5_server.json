@@ -42,16 +42,6 @@
       "checksum": "5f00e2df7fa8ab7daa084343f38394e6672cd389e03fc8598a54d7d9e1d58d16"
     },
     {
-      "name": "Websrv V0.34",
-      "filename": "websrv_v0.34.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
-      "local_path": "payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
-      "description": "HTTP Web server payload. Port: 8080",
-      "version": "v0.34",
-      "category": "PS5 Server",
-      "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263"
-    },
-    {
       "name": "Gdbsrv V0.9",
       "filename": "gdbsrv_v0.9.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf",
@@ -102,14 +92,14 @@
       "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
     },
     {
-      "name": "Ps5Upload V11.1.0",
-      "filename": "ps5upload_v11.1.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.1.0/ps5upload_v11.1.0.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v11.1.0/ps5upload_v11.1.0.elf",
+      "name": "Ps5Upload V11.2.1",
+      "filename": "ps5upload_v11.2.1.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.2.1/ps5upload_v11.2.1.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v11.2.1/ps5upload_v11.2.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v11.1.0",
+      "version": "v11.2.1",
       "category": "PS5 Server",
-      "checksum": "1aaf50efa91aac8d26d53ce27ec223a3646a880892834977615c2770ff17197b"
+      "checksum": "98daecdc73a47e83ee9a9845536771e6c3125b0d1c238eb5d427faeecb16063b"
     },
     {
       "name": "Airpsx V0.19",

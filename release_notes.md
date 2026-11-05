@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.05-0536)
+### 🚀 Synthèse de la mise à jour (v2026.11.05-1446)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -75,7 +75,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test5.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `garlic-savemgr_v1.15-beta5.elf`
+  * `garlic-savemgr_v1.15-beta6.elf`
   * `garlic-worker_v1.2.2.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `ps5shopappkg-dpi.elf`
@@ -122,7 +122,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `zftpd-ps5-zhttp-v1.7.0.elf`
   * `elfldr_v0.27.elf`
   * `ftpsrv_ps5-payload_v0.21.1.elf`
-  * `websrv_v0.34.elf`
   * `gdbsrv_v0.9.elf`
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
@@ -164,12 +163,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5PKG_Avatar-Changer_v1.00.pkg`
   * `PS5PKG_FPKGi_v1.10.0.pkg`
   * `PS5PKG_HOMEBREWLOADER_v0.30.pkg`
-  * `PS5PKG_Homebrew_Store_installer.pkg`
   * `PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg`
   * `PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg`
-  * `PS5-SHOP-APPKG.pkg`
-  * `PS5Library.pkg`
-  * `PS5PKG_Itemzflow_Game_Manager_v1.14.pkg`
   * `PS5PKG_PS5-Xplorer_v1.05.pkg`
   * `PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg`
   * `PS5PKG_MK64_Port.pkg`

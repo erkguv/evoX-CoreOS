@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 05/11/2026 à 14:46
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.15-Beta6` (v1.15-beta6) - *Nouveau*
+
 ## Build du 05/11/2026 à 05:36
 * **PAYLOADS**
   * `Garlic-Savemgr V1.15-Beta5` (v1.15-beta5) - *Nouveau*

@@ -415,7 +415,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "eb87329d6fa1b5d15dcb2734a8d7826716e200c614bb39b6f3cc6de3aa5e9dc0"
+      "checksum": "cd3455e5891c7d1edf4190a9e47ef7d166863c17cf44ceb5679dd7fe45a9c4f8"
     },
     {
       "name": "Common Fps Ps5 V1.2.3",
@@ -528,14 +528,14 @@
       "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
     },
     {
-      "name": "Garlic-Savemgr V1.15-Beta5",
-      "filename": "garlic-savemgr_v1.15-beta5.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta5/garlic-savemgr_v1.15-beta5.elf",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta5/garlic-savemgr_v1.15-beta5.elf",
+      "name": "Garlic-Savemgr V1.15-Beta6",
+      "filename": "garlic-savemgr_v1.15-beta6.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta6/garlic-savemgr_v1.15-beta6.elf",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta6/garlic-savemgr_v1.15-beta6.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta5",
+      "version": "v1.15-beta6",
       "category": "PS5 Saves",
-      "checksum": "5475b1d671fb185f1ec0eb21036dfed9afdd38b66f75068c6cd3b1d5bc185aa8"
+      "checksum": "af6e31fb07e5260f20ef118cb0d140445e7897bc55757f55c2d9499d91beb257"
     },
     {
       "name": "Garlic-Worker V1.2.2",
@@ -996,16 +996,6 @@
       "version": "v0.21.1",
       "category": "PS5 Server",
       "checksum": "5f00e2df7fa8ab7daa084343f38394e6672cd389e03fc8598a54d7d9e1d58d16"
-    },
-    {
-      "name": "Websrv V0.34",
-      "filename": "websrv_v0.34.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
-      "local_path": "payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
-      "description": "HTTP Web server payload. Port: 8080",
-      "version": "v0.34",
-      "category": "PS5 Server",
-      "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263"
     },
     {
       "name": "Gdbsrv V0.9",

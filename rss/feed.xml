@@ -323,10 +323,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Garlic-Savemgr V1.15-Beta5</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta5/garlic-savemgr_v1.15-beta5.elf</link>
+      <title>[Payloads] Garlic-Savemgr V1.15-Beta6</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta6/garlic-savemgr_v1.15-beta6.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.15-beta5</pubDate>
+      <pubDate>v1.15-beta6</pubDate>
     </item>
     <item>
       <title>[Payloads] Garlic-Worker V1.2.2</title>
@@ -605,12 +605,6 @@
       <pubDate>v0.21.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Websrv V0.34</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf</link>
-      <description>HTTP Web server payload. Port: 8080</description>
-      <pubDate>v0.34</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Gdbsrv V0.9</title>
       <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf</link>
       <description>GDB Debugger server payload. Port: 1234</description>
@@ -815,12 +809,6 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Packages PKG] Ps5Pkg Homebrew Store Installer</title>
-      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg</link>
-      <description>Homebrew_Store.</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
       <title>[Packages PKG] Ps5Pkg Internetbrowser-Game Menu V1.00</title>
       <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg</link>
       <description>InternetBrowser-Game_Menu.</description>
@@ -830,24 +818,6 @@
       <title>[Packages PKG] Ps5Pkg Internetbrowser-Media Menu V1.00</title>
       <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg</link>
       <description>InternetBrowser-Media_Menu.</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>[Packages PKG] Ps5-Shop-Appkg</title>
-      <link>https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg</link>
-      <description>PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi .</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>[Packages PKG] Ps5Library</title>
-      <link>https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg</link>
-      <description>PS5Library need ps5library-agent.elf.</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>[Packages PKG] Ps5Pkg Itemzflow Game Manager V1.14</title>
-      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg</link>
-      <description>Itemzflow_Game_Manager.</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
