@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/11/2026 à 13:59
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.15-Beta9` (garlic-savemgr) - *Mise à jour (Précédent: v1.15-beta9)*
+  * `Garlic-Worker V1.3.2` (v1.3.2) - *Nouveau*
+* **APPS**
+  * `Ppsa97358` (Alpha-3) - *Mise à jour (Précédent: Alpha-2.1)*
+
 ## Build du 05/11/2026 à 23:29
 * **PAYLOADS**
   * `Garlic-Savemgr V1.15-Beta9` (v1.15-beta9) - *Nouveau*
