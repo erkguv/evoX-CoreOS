@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/11/2026 à 22:54
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.7.0` (v0.7.0) - *Nouveau*
+  * `Garlic-Worker V1.3.6` (v1.3.6) - *Nouveau*
+
 ## Build du 06/11/2026 à 13:59
 * **PAYLOADS**
   * `Garlic-Savemgr V1.15-Beta9` (garlic-savemgr) - *Mise à jour (Précédent: v1.15-beta9)*
