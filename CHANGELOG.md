@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 07/11/2026 à 12:45
+* **APPS**
+  * `Ppsa97358` (v3.1) - *Mise à jour (Précédent: Alpha-3)*
+
 ## Build du 06/11/2026 à 22:54
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.7.0` (v0.7.0) - *Nouveau*

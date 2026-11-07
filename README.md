@@ -233,7 +233,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `54c214bf461f...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `3f85fce7efd4...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -419,7 +419,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Porpoise-4.5-Source | [v4.5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5-source.zip) | `236252b9a7fb...` | GameCube and Wii Dolphin emu for ps5 |
 | Ppsa19111 | [v1.3](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip) | `1bb8f143016c...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
 | Ppsa50011 | [v1.0.2](https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip) | `230359c2638f...` | x360 emu for ps5, you need xpsemu_tools.elf |
-| Ppsa97358 | [Alpha-3](https://github.com/ZiZc3/XPSemu/releases/download/Alpha-3/PPSA97358.zip) | `e6f676fb2b2c...` | Xbox emulator (Xemu) port for the PS5 |
+| Ppsa97358 | [v3.1](https://github.com/ZiZc3/XPSemu/releases/download/v3.1/PPSA97358.zip) | `0fa4f1556b25...` | Xbox emulator (Xemu) port for the PS5 |
 | Ppsa99300 | [alpha](https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip) | `bee5db90dd10...` | Vita3K for PS5 |
 | Ppsa99666 | [v1.1.1](https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip) | `4d8e5b785b61...` | Native DOOM for PS5 |
 | Ppsa99808 | [v0.1.2](https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip) | `d76e2bd55ea3...` | PICO-8 for PS5 |
