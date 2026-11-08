@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 08/11/2026 à 21:52
+* **PAYLOADS**
+  * `Shadowmountplus` (1.7beta12) - *Mise à jour (Précédent: 1.7beta11)*
+  * `Garlic-Worker V1.4.0` (v1.4.0) - *Nouveau*
+* **APPS**
+  * `Ppsa97358` (v3.2) - *Mise à jour (Précédent: v3.1)*
+
 ## Build du 08/11/2026 à 04:53
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.7.1` (v0.7.1) - *Nouveau*

@@ -132,12 +132,12 @@
     {
       "name": "Shadowmountplus",
       "filename": "shadowmountplus.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/shadowmountplus.elf",
-      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/shadowmountplus.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta12/shadowmountplus.elf",
+      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta12/shadowmountplus.elf",
       "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta11",
+      "version": "1.7beta12",
       "category": "PS5 Game Dump",
-      "checksum": "08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da"
+      "checksum": "8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd"
     },
     {
       "name": "Backpork V0.1",
@@ -415,7 +415,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "cf8868d386f766181670b0d3bcc154a44ed5317a4749c4c4870513515cfe2a4a"
+      "checksum": "cf5fc3e86b0c458a608ea238cf40b9ecb81935f3c5fb187904ec7f57f9721e1a"
     },
     {
       "name": "Common Fps Ps5 V1.2.3",
@@ -537,14 +537,14 @@
       "checksum": "88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062"
     },
     {
-      "name": "Garlic-Worker V1.3.9",
-      "filename": "garlic-worker_v1.3.9.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf",
+      "name": "Garlic-Worker V1.4.0",
+      "filename": "garlic-worker_v1.4.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.3.9",
+      "version": "v1.4.0",
       "category": "PS5 Saves",
-      "checksum": "5dc7b486ae7c2ca21e07df8f4d5c331e308e595ece72d8170dfa4a1b768dd7a1"
+      "checksum": "accad18a84646a216ab4dc30a2e6e3d71e1796c3e34b64d422fbea4404ad4696"
     },
     {
       "name": "Savemnt-Offset-Dumper V1.0.0",

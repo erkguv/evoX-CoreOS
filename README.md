@@ -176,7 +176,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Ps5-App-Dumper V2.10 | [v2.10](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf) | `c850f1df6f27...` | PS5 App Dumper payload. |
 | Ps5-Game-Compressor Fork V1.1.1 | [v1.1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf) | `5fec05b8a3cb...` | Fork Tool to compress PS5 games. |
 | Ps5-Game-Compressor V1.0.4 | [v1.0.4](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf) | `e55e90aaade1...` | Tool to compress PS5 games. |
-| Shadowmountplus | [1.7beta11](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/shadowmountplus.elf) | `08c843018750...` | ShadowMountPlus payload for game mounting. |
+| Shadowmountplus | [1.7beta12](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta12/shadowmountplus.elf) | `8755172ec9be...` | ShadowMountPlus payload for game mounting. |
 
 ### 📂 PS5 HEN Loader
 
@@ -233,7 +233,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `cf8868d386f7...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `cf5fc3e86b0c...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -269,8 +269,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Garlic-Savemgr V1.15-Beta14 | [v1.15-beta14](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta14/garlic-savemgr_v1.15-beta14.elf) | `2f9f4b575757...` | Save manager utility hosted on Forgejo. |
-| Garlic-Worker V1.3.9 | [v1.3.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf) | `5dc7b486ae7c...` | Garlic worker payload component. |
+| Garlic-Savemgr V1.15-Beta15 | [v1.15-beta15](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta15/garlic-savemgr_v1.15-beta15.elf) | `7e6a494eb3d1...` | Save manager utility hosted on Forgejo. |
+| Garlic-Worker V1.4.0 | [v1.4.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf) | `accad18a8464...` | Garlic worker payload component. |
 | Savemnt-Offset-Dumper V1.0.0 | [1.0.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf) | `946328551f74...` | Offset dumper for save mounting utilities. |
 
 ### 📂 PS5 Sdk Debug
@@ -419,7 +419,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Porpoise-4.5-Source | [v4.5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5-source.zip) | `236252b9a7fb...` | GameCube and Wii Dolphin emu for ps5 |
 | Ppsa19111 | [v1.3](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip) | `1bb8f143016c...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
 | Ppsa50011 | [v1.0.2](https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip) | `230359c2638f...` | x360 emu for ps5, you need xpsemu_tools.elf |
-| Ppsa97358 | [v3.1](https://github.com/ZiZc3/XPSemu/releases/download/v3.1/PPSA97358.zip) | `0fa4f1556b25...` | Xbox emulator (Xemu) port for the PS5 |
+| Ppsa97358 | [v3.2](https://github.com/ZiZc3/XPSemu/releases/download/v3.2/PPSA97358.zip) | `a10f6d7c60b3...` | Xbox emulator (Xemu) port for the PS5 |
 | Ppsa99300 | [alpha](https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip) | `bee5db90dd10...` | Vita3K for PS5 |
 | Ppsa99666 | [v1.1.1](https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip) | `4d8e5b785b61...` | Native DOOM for PS5 |
 | Ppsa99808 | [v0.1.2](https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip) | `d76e2bd55ea3...` | PICO-8 for PS5 |

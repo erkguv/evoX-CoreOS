@@ -3,6 +3,118 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA38010",
+      "title": "Suika Game",
+      "createdAt": "2026-11-08T20:25:00.020Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0307/d3fc2a1e25305d3c8fdb6e1482dd9910aab38d92f5313cd0.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0307/d3fc2a1e25305d3c8fdb6e1482dd9910aab38d92f5313cd0.png",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.002\nRegion: USA\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/suika-game-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/gXeGOenlk3Aa/file"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/0yAH7m7bB5"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoid2FrY3NDMjZZTGhlTndRQXAxdGdHc0FVUVFYSEtFa0FLakVHYmc0R2RQMkNDOWFNQTdoRjN2czNvaUZFbDJRSXhtWkRLdGxNeDZwcUl1ajBwOHpaNTgrWHVGdmhpZ3ppWmVNaWxkWVlwQT09IiwiaSI6Ii9hdnlFZkN3VnVUOVNQVWMiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRFk0eENQMnU3T0E5SldSNVIzcVBXMlhMakNRamNuNjh5dkdwYWtubFRaMGdQV3d0UUc4VDV0SE1MNXM2TjZqOXk3N0JIZmpHeDNUWmQybFJCQjkzWXdGSHdmNFd3YXNtU0xwQ2lPVTROMEE9IiwiaSI6IjNLakdwYTJ5QjQxSWtwUlIiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.002 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVk1pWi9NR1cvOU5rM2o1L1VneVo1K09VRDQzcW9YV2hSeG1aakptWnJrL21WbVREL2tFOE5EY1pNRVNlc3FuMWZQMktJRWdiT0VsSXRSR0drQjVCSk1haUtNR28wSE5UTTUvWW45VnAiLCJpIjoiSjVZVG1CNXcwdlVFdjVnTSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.002 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZXYwaTBMWVlZQVRxUWE1Z2pyVWlENjU4c2R2NXBUZk5ld3g3UFZzaGNpRGtRRm56RGdRV3Q1ZVpDK1gweDlmQ1pZaGthbU5RQzMvU3BsQktWRktvbzR4bTlCUFNPR0JoRDVEajRmeE9wckk9IiwiaSI6ImRiOFNQM1dDZlk0OGFrYmEiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA37001",
+      "title": "Is This Seat Taken?",
+      "createdAt": "2026-11-08T20:25:00.020Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2712/cab44e3c3094dfeffdfcd62d733010dc47eafc9913f388e8.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2712/cab44e3c3094dfeffdfcd62d733010dc47eafc9913f388e8.png",
+      "description": "Variant: JPN 4.xx\nRegion: JPN\nRelease note: Works on 4.xx and higher\nContributor: @vincenzoz85\n\nVariant: JPN exFAT 01.000\nRegion: JPN\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/is-this-seat-taken-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ36XBABG19/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mV3ieOCs4w"
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiV2s1d1YwTjlFakNOQzNnT2xuOEY5Wngzd0Nib3M2SGhWUk5iRm9mblQ4Y29ndmFhaHBXWXZaVVhEWW1BWjR0ZjBmNlBDT1M0b2hxVWpmNXRmNFNuR1hueG9iaGRXMWc5OGxUZk45U3d3dz09IiwiaSI6ImtQQTBzZnovNUpkL0xLY3AiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMHhRYzBKc21mYjI4Wmx4Q1JIUUw4cG9UaEVLbUxFVWd5b3NoT0Q2NUhvZE1wekdFU0FyYjV5bkdwWmtnS3NOYmNTcGxkRnZEZmJZYVl4cXVobmd3VWs4MTBNNFJMZWVpNDJrV0ZFeHlKUW89IiwiaSI6ImExQUpaZDEzdXN2S0ZZVmwiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiU1NUeUl2QmR0VmZ2ZVcrSHZ5ZGJua1RmVDdRRG9XZmVqdzZxUUprV1BQcGpFTHhha0oraUIzQ1F2OGg1RGtzZ2x4WlNyVXdtZ0dkM0hkVWdLSXNVbUpJbkpsVjRjU2V5SWdRVFgvU3IiLCJpIjoiOFNWR1NlNGJXS3pPcG5LOCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoid0ZBZDZZbVoyMVR3ejk2bVo1aGtjKzd0TUpQS1VRcnJhS08xUnc4bXZFbmpzSldQKy80ODRqZXpKbnl3bDlrQ2RWd0E0dlpWUlA0RGhJL1BzZFVkNVMzZW43aDQwaEliOEFCa0R0dlFub1E9IiwiaSI6Ijcwd2RhR3FBSms3Qy92RWYiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04118",
+      "title": "Shantae Half Genie Hero Ultimate Edition",
+      "createdAt": "2026-11-08T20:25:00.020Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11441_00/1/i_a7672f3be1e9e9c0c53d661afbe1345b42b44e374eed093b06a9c7f6dd65e20a/i/icon0.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11441_00/1/i_a7672f3be1e9e9c0c53d661afbe1345b42b44e374eed093b06a9c7f6dd65e20a/i/icon0.png",
+      "description": "Region: USA\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/shantae-half-genie-hero-ultimate-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrWY94mkx/file"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/N9XUbI5Lot"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03146",
+      "title": "Draculas Legacy Remastered",
+      "createdAt": "2026-11-08T20:25:00.020Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/3f9ea9cdce748270be2c60d2da2939944f57e6d6fe3cd78b.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/3f9ea9cdce748270be2c60d2da2939944f57e6d6fe3cd78b.png",
+      "description": "Region: EUR\nRelease note: Works on 2.xx and higher",
+      "downloadSource": "https://dlpsgame.com/draculas-legacy-remastered-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 2.xx Base - Akirabox",
+          "url": "https://akirabox.to/N2p3Dd4nA3Ma/file"
+        },
+        {
+          "name": "EUR 2.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/LhWNmS6YO4"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA21755",
       "title": "Iron Lung",
       "createdAt": "2026-11-07T21:00:42.340Z",
@@ -68898,22 +69010,6 @@
           "url": "https://vikingfile.com/f/HuEH1tgnOG"
         },
         {
-          "name": "JPN 7.xx Base - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/fg9z2rb3q5cj3m9/[DLPSGAME.COM]-PPSA19359.part1.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/55zlmgamxd6q88j/[DLPSGAME.COM]-PPSA19359.part2.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 3",
-          "url": "https://www.mediafire.com/file/ni94zpk37atlgn1/[DLPSGAME.COM]-PPSA19359.part3.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 4",
-          "url": "https://www.mediafire.com/file/lstqd4h7wr68tzz/[DLPSGAME.COM]-PPSA19359.part4.rar/file"
-        },
-        {
           "name": "JPN 7.xx Base - Akirabox part 12",
           "url": "https://akirabox.com/l5YzM4QbW3yO/file"
         },
@@ -68928,22 +69024,6 @@
         {
           "name": "JPN 7.xx Base - Akirabox part 15",
           "url": "https://akirabox.com/qPez4AwleGOY/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/TA2WZSPoBA"
-        },
-        {
-          "name": "JPN 7.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/7xOBMZj6bj"
-        },
-        {
-          "name": "JPN 7.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/dCQ5hVJRwR"
-        },
-        {
-          "name": "JPN 7.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/07MaGsxIXg"
         },
         {
           "name": "JPN 7.xx Base - Rootz part 9",
@@ -68976,6 +69056,38 @@
         {
           "name": "JPN 7.xx Base - 1fichier part 10",
           "url": "https://1fichier.com/?6ithaggfo2mg32shp5r3"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/fg9z2rb3q5cj3m9/[DLPSGAME.COM]-PPSA19359.part1.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/55zlmgamxd6q88j/[DLPSGAME.COM]-PPSA19359.part2.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 3",
+          "url": "https://www.mediafire.com/file/ni94zpk37atlgn1/[DLPSGAME.COM]-PPSA19359.part3.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/lstqd4h7wr68tzz/[DLPSGAME.COM]-PPSA19359.part4.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/TA2WZSPoBA"
+        },
+        {
+          "name": "JPN 7.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/7xOBMZj6bj"
+        },
+        {
+          "name": "JPN 7.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/dCQ5hVJRwR"
+        },
+        {
+          "name": "JPN 7.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/07MaGsxIXg"
         },
         {
           "name": "JPN 7.xx Base - Mediafire part 1",
@@ -140952,64 +141064,6 @@
         {
           "name": "USA exFAT 01.000.001 Base - VIKI (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ0FMelVoaWhzbHd4ZEl6TDVPb29heG1LRmIyNFNlTHZNbHVDZW9vTVlMNWh1WnZGODRobE9NUEJ4NTZ0dzhTMlN3MFgrZzlud2kvd0RYZm9jL3FPRERFK0xwZloxaFNLMURmMTdQaTVycnM9IiwiaSI6Im55SW81MGFtRm1oL1JENTIiLCJuIjoiVmlraSJ9"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA38010",
-      "title": "[exFAT] Suika Game",
-      "createdAt": "2026-11-08T12:16:13.675Z",
-      "version": "01.002",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0307/d3fc2a1e25305d3c8fdb6e1482dd9910aab38d92f5313cd0.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0307/d3fc2a1e25305d3c8fdb6e1482dd9910aab38d92f5313cd0.png",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.002 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoid2FrY3NDMjZZTGhlTndRQXAxdGdHc0FVUVFYSEtFa0FLakVHYmc0R2RQMkNDOWFNQTdoRjN2czNvaUZFbDJRSXhtWkRLdGxNeDZwcUl1ajBwOHpaNTgrWHVGdmhpZ3ppWmVNaWxkWVlwQT09IiwiaSI6Ii9hdnlFZkN3VnVUOVNQVWMiLCJuIjoiRGF0YSJ9"
-        },
-        {
-          "name": "USA exFAT 01.002 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRFk0eENQMnU3T0E5SldSNVIzcVBXMlhMakNRamNuNjh5dkdwYWtubFRaMGdQV3d0UUc4VDV0SE1MNXM2TjZqOXk3N0JIZmpHeDNUWmQybFJCQjkzWXdGSHdmNFd3YXNtU0xwQ2lPVTROMEE9IiwiaSI6IjNLakdwYTJ5QjQxSWtwUlIiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.002 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVk1pWi9NR1cvOU5rM2o1L1VneVo1K09VRDQzcW9YV2hSeG1aakptWnJrL21WbVREL2tFOE5EY1pNRVNlc3FuMWZQMktJRWdiT0VsSXRSR0drQjVCSk1haUtNR28wSE5UTTUvWW45VnAiLCJpIjoiSjVZVG1CNXcwdlVFdjVnTSIsIm4iOiJBa2lhIn0="
-        },
-        {
-          "name": "USA exFAT 01.002 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZXYwaTBMWVlZQVRxUWE1Z2pyVWlENjU4c2R2NXBUZk5ld3g3UFZzaGNpRGtRRm56RGdRV3Q1ZVpDK1gweDlmQ1pZaGthbU5RQzMvU3BsQktWRktvbzR4bTlCUFNPR0JoRDVEajRmeE9wckk9IiwiaSI6ImRiOFNQM1dDZlk0OGFrYmEiLCJuIjoiVmlraSJ9"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA37001",
-      "title": "[exFAT] Is This Seat Taken?",
-      "createdAt": "2026-11-08T12:16:13.675Z",
-      "version": "01.000",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2712/cab44e3c3094dfeffdfcd62d733010dc47eafc9913f388e8.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2712/cab44e3c3094dfeffdfcd62d733010dc47eafc9913f388e8.png",
-      "description": "Region: JPN\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "JPN exFAT 01.000 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiV2s1d1YwTjlFakNOQzNnT2xuOEY5Wngzd0Nib3M2SGhWUk5iRm9mblQ4Y29ndmFhaHBXWXZaVVhEWW1BWjR0ZjBmNlBDT1M0b2hxVWpmNXRmNFNuR1hueG9iaGRXMWc5OGxUZk45U3d3dz09IiwiaSI6ImtQQTBzZnovNUpkL0xLY3AiLCJuIjoiRGF0YSJ9"
-        },
-        {
-          "name": "JPN exFAT 01.000 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMHhRYzBKc21mYjI4Wmx4Q1JIUUw4cG9UaEVLbUxFVWd5b3NoT0Q2NUhvZE1wekdFU0FyYjV5bkdwWmtnS3NOYmNTcGxkRnZEZmJZYVl4cXVobmd3VWs4MTBNNFJMZWVpNDJrV0ZFeHlKUW89IiwiaSI6ImExQUpaZDEzdXN2S0ZZVmwiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "JPN exFAT 01.000 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiU1NUeUl2QmR0VmZ2ZVcrSHZ5ZGJua1RmVDdRRG9XZmVqdzZxUUprV1BQcGpFTHhha0oraUIzQ1F2OGg1RGtzZ2x4WlNyVXdtZ0dkM0hkVWdLSXNVbUpJbkpsVjRjU2V5SWdRVFgvU3IiLCJpIjoiOFNWR1NlNGJXS3pPcG5LOCIsIm4iOiJBa2lhIn0="
-        },
-        {
-          "name": "JPN exFAT 01.000 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoid0ZBZDZZbVoyMVR3ejk2bVo1aGtjKzd0TUpQS1VRcnJhS08xUnc4bXZFbmpzSldQKy80ODRqZXpKbnl3bDlrQ2RWd0E0dlpWUlA0RGhJL1BzZFVkNVMzZW43aDQwaEliOEFCa0R0dlFub1E9IiwiaSI6Ijcwd2RhR3FBSms3Qy92RWYiLCJuIjoiVmlraSJ9"
         }
       ]
     },
