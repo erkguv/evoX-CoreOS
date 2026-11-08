@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 08/11/2026 à 04:53
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.7.1` (v0.7.1) - *Nouveau*
+
 ## Build du 07/11/2026 à 21:37
 * **PAYLOADS**
   * `Garlic-Worker V1.3.9` (v1.3.9) - *Nouveau*
