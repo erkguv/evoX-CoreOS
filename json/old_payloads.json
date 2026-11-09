@@ -415,7 +415,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "cf5fc3e86b0c458a608ea238cf40b9ecb81935f3c5fb187904ec7f57f9721e1a"
+            "checksum": "d30b469465f79ea344b6a5d95bea1df49da6d46fcc60fead9a89e02e4c42f711"
         },
         {
             "name": "Common Fps Ps5 V1.2.3",
@@ -537,14 +537,14 @@
             "checksum": "88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062"
         },
         {
-            "name": "Garlic-Worker V1.4.0",
-            "filename": "garlic-worker_v1.4.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf",
-            "local_path": "payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf",
+            "name": "Garlic-Worker V1.5.0",
+            "filename": "garlic-worker_v1.5.0.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf",
+            "local_path": "payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf",
             "description": "Garlic worker payload component.",
-            "version": "v1.4.0",
+            "version": "v1.5.0",
             "category": "PS5 Saves",
-            "checksum": "accad18a84646a216ab4dc30a2e6e3d71e1796c3e34b64d422fbea4404ad4696"
+            "checksum": "68c133c4d8ba9fef9fdda4b218e8b9913a8ca3dd919c26cef82b1b61bd20deda"
         },
         {
             "name": "Savemnt-Offset-Dumper V1.0.0",
@@ -659,12 +659,12 @@
         {
             "name": "Prosperomgr",
             "filename": "ProsperoMgr.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf",
-            "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr.elf",
+            "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr.elf",
             "description": "A Web-Based All-In-One homebrew manager for your PlayStation 5",
-            "version": "v1.1",
+            "version": "v1.2",
             "category": "PS5 HEN Loader",
-            "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
+            "checksum": "127394cc4f1ac7347fea509e010e80bab7b5ee13d820665474cdc3928d173bce"
         },
         {
             "name": "Pkg-Manager V1.5.1",

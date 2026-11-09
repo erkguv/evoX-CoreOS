@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 09/11/2026 à 05:02
+* **PAYLOADS**
+  * `Garlic-Worker V1.5.0` (v1.5.0) - *Nouveau*
+  * `Prosperomgr` (v1.2) - *Mise à jour (Précédent: v1.1)*
+
 ## Build du 08/11/2026 à 21:52
 * **PAYLOADS**
   * `Shadowmountplus` (1.7beta12) - *Mise à jour (Précédent: 1.7beta11)*

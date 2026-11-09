@@ -329,10 +329,10 @@
       <pubDate>garlic-savemgr</pubDate>
     </item>
     <item>
-      <title>[Payloads] Garlic-Worker V1.4.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf</link>
+      <title>[Payloads] Garlic-Worker V1.5.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf</link>
       <description>Garlic worker payload component.</description>
-      <pubDate>v1.4.0</pubDate>
+      <pubDate>v1.5.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
@@ -402,9 +402,9 @@
     </item>
     <item>
       <title>[Payloads] Prosperomgr</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr.elf</link>
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5</description>
-      <pubDate>v1.1</pubDate>
+      <pubDate>v1.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Pkg-Manager V1.5.1</title>
