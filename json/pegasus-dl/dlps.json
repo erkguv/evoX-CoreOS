@@ -3,6 +3,198 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA04123",
+      "title": "Oceanhorn 2 Knights of The Lost Realm",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1507/3772242eb5226ba11b8dac0ec3727e42a50a078753995b17.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1507/3772242eb5226ba11b8dac0ec3727e42a50a078753995b17.png",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/oceanhorn-2-knights-of-the-lost-realm-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/Z9dzBBAbnzk1/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/Kx7hI"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/NSdJWE0eSY"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31665",
+      "title": "Neon Inferno",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2219/d370d7bb55ed0e997461e6fdaa8847ed04453d62cb444915.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2219/d370d7bb55ed0e997461e6fdaa8847ed04453d62cb444915.png",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/neon-inferno-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrWYA4mkx/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1XdMOW"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Jo0DdreEck"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31177",
+      "title": "Fighting Force Collection",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2413/711cb226a74aa5ad4d6768acf9b851b903196b7dc8843260.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2413/711cb226a74aa5ad4d6768acf9b851b903196b7dc8843260.png",
+      "description": "Region: EUR\nRelease note: Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/fighting-force-collection-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/M2BGwLn9Nmj4/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/GvGpk"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/rzigzqGHXM"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA02364",
+      "title": "Cthulhu Saves Christmas",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1419/Ji3DSla5ITUmTpUopESgpgVQ.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1419/Ji3DSla5ITUmTpUopESgpgVQ.png",
+      "description": "Region: USA\nRelease note: Works on 2.xx and higher",
+      "downloadSource": "https://dlpsgame.com/cthulhu-saves-christmas-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 2.xx Base - Akirabox",
+          "url": "https://akirabox.to/QN9mEdoMLG6d/file"
+        },
+        {
+          "name": "USA 2.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1TbVWy"
+        },
+        {
+          "name": "USA 2.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/1VZYEtMYFA"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA37142",
+      "title": "Agefield High Rock The School",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/1215/b989a247dd31126e0f7103c88e645d63ad375870d4d2d871.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/1215/b989a247dd31126e0f7103c88e645d63ad375870d4d2d871.png",
+      "description": "Region: EUR\nRelease note: Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/agefield-high-rock-the-school-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/LJlGnZ0xAG15/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/23cFOq"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PuGXqmUdEg"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA37524",
+      "title": "Asylum",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/1af26e273690d52fbeb39845a6eeb202e04c939acbc507bd.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/1af26e273690d52fbeb39845a6eeb202e04c939acbc507bd.png",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/asylum-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/ex5z2XwebmKq/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/173Q5g"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/wHLG7RXJPe"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA27321",
+      "title": "Fear Effect",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2218/0d38dc25b721e0036fc260659c22fadd404ff55678ba732e.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2218/0d38dc25b721e0036fc260659c22fadd404ff55678ba732e.png",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/fear-effect-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/qPez4ygKNGOY/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1ZGO4O"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/6UKbpcZUU8"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06831",
+      "title": "Tad The Lost Explorer",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1613/6b3f07ef3034254f8411f6be2cba7f415b654374645f76b8.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1613/6b3f07ef3034254f8411f6be2cba7f415b654374645f76b8.png",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/tad-the-lost-explorer-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/Y2xm0XvkpmRO/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1RCgLI"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/8mraoCXNfE"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA38010",
       "title": "Suika Game",
       "createdAt": "2026-11-08T20:25:00.020Z",
@@ -302,7 +494,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1207/4b2e3145eb9050e7c34f4de9453a9ac231d40a3ba06b2809.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1207/4b2e3145eb9050e7c34f4de9453a9ac231d40a3ba06b2809.png",
-      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\n\nVariant: USA exFAT 01.007\nRegion: USA\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/achilles-survivor-ps5/",
       "downloadLinks": [
         {
@@ -316,6 +508,22 @@
         {
           "name": "USA 12.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/K7gPcjPQnh"
+        },
+        {
+          "name": "USA exFAT 01.007 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZnhKV3Y2SnlvWjdWZlpvM1ZvcERPU1hXQUZtQy9iNC9EV0tKcytOK1IrZVFBLzRyWU52STlPSXo5ejdWUmZKSVRUcnFmeDM5dStRZ3g1YjUvU08xdkJtZ2o2WTZYT1lHNndyUHZYaTRkQT09IiwiaSI6IlNrbE0wYlR0a1lMd2JYdmMiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.007 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoienVsK01LMXpRL0J5ekdDWGpCK01pNnNwRUNwQVdVN1lnMUpmK0xBTjBFd1ZFRDJwZzBzZ0RqUEt0bGRxNTlBUFdnN1NkcUtHTWNCaEpBRzhnRDN4bnNzQkJhWk9NNlUzMldKWmt0OEVjOXc9IiwiaSI6IlNlUWFZWGtiT242bElPZXQiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.007 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaWxDdlV2ajY2WlhPWGRlOUFpZVZVVUxRZm5PVnlYRnpTby92QU4zZXk3WUFkR3FBS0ZuRS9ET0hXSGkybVdPb2h1Q2ZUdGxRSlJFZHlvZEJUYUZxVmZrYUpEck9IWGJ2TG5OcmphQUciLCJpIjoiRkRicGZuOFFGdUwzRFp6MiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.007 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVmN5NnpsSzF4bGF1QXVDcHdDNVA4UGFCTFR4bEFPbWRSdlNVYzNDcW9XdVovSVNsdyttaHFQVWJURllpM2JNdG1RaU55TDBNcHQ2a0NlRzFINVE1bjNrbmtJQ1ZRdzFNTzhpa043QWlRMkU9IiwiaSI6InBraXNLc0owYkgwbU9DbTYiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -326,7 +534,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0712/70530fcfc1241d149c7a83806a13b51cbe237636527fe618.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0712/70530fcfc1241d149c7a83806a13b51cbe237636527fe618.png",
-      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: @DUPLEX",
+      "description": "Variant: EUR 9.xx\nRegion: EUR\nRelease note: Works on 9.xx and higher\nContributor: @DUPLEX\n\nVariant: EUR exFAT 01.014\nRegion: EUR\nRelease note: exFAT format — FW 01.014 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/achilles-legends-untold-ps5/",
       "downloadLinks": [
         {
@@ -340,6 +548,22 @@
         {
           "name": "EUR 9.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/h84oJ4n2Gu"
+        },
+        {
+          "name": "EUR exFAT 01.014 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSXZXL0puc0pic0kzb21Uck5rLzRidXRqN2J2UXkrNHI0NUwwRXpScnY1aUJ3WE81eUdQUHdUbGhrZ3pjSU5hMzNNRHRva0ZXUDMxTUZiUWhxMEMvUlpsY0J1TG82Q1pOSm5GME4wSW4ydz09IiwiaSI6ImY1OUozeFZBZUxyRzJIRDMiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.014 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiamRuV0sxeXA0cjg2V0svSVNtbUxVOWZlWVMyYkxWZyt5cVJLa1BjNFBGSC9aUnJ3clpQRDhmR2RvNlFUTGJQT0RHRjRTOGJVRVBBaVk3MDhBdjZGb0NneTdQNm1oOHZyK0ZIUWVROTZOQ009IiwiaSI6IldJWCtwdlRPdG1WRThaa3giLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.014 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiV0kyd3ltVk5ybUpsM3hmeW1VekZGMG5jeTdyajdXZDd1T2pydnJRdjA0MUpmWDVGSjM1disyRU1mUEVRSDl1MEk0bGJrYzJWWEtIelUyWEZuT2hoSFJPcWoxS0RpR0VsbGY2V1MvT2YiLCJpIjoieXdLenZ2QlNpK3VwU05pZyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.014 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSlpBSlE1NmxRZ2hmdUFrY0lGRklpWE5raVowdTNuOXhrZ2dBU0dBQ2VlaGI3aVorVm1tYkIweXNEWlhZekx3bDBtNWw4YWhOWHlBdTBiYjZrOVErRy9HYnpobzVzVi9PYVljVzBRVCtHRUk9IiwiaSI6InRaNXo2a2hwM1RxQmFDaUIiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -65251,8 +65475,104 @@
           "url": "https://akirabox.com/N2p3DQybxzMa/file"
         },
         {
-          "name": "EUR 11.xx Base - Vikingfile",
+          "name": "EUR 11.xx Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/Rql5qb0BkR"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 10",
+          "url": "https://akirabox.com/b5OzdV7B9mB8/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 11",
+          "url": "https://akirabox.com/RMKGJKdXLm1o/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 12",
+          "url": "https://akirabox.com/Pbe3PaRJKzlX/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 13",
+          "url": "https://akirabox.com/9QWmpAxYJ3EB/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 14",
+          "url": "https://akirabox.com/vgKGxXkAQG8Q/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 15",
+          "url": "https://akirabox.com/Z9dzBPlpPmk1/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 16",
+          "url": "https://akirabox.com/EL73g7VEA39B/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 17",
+          "url": "https://akirabox.com/RMKGJKdAWm1o/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 9",
+          "url": "https://www.rootz.so/d/18bRQG"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 10",
+          "url": "https://www.rootz.so/d/1J3yPA"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 11",
+          "url": "https://www.rootz.so/d/2DDySW"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 12",
+          "url": "https://www.rootz.so/d/2LHgBc"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 13",
+          "url": "https://www.rootz.so/d/6Njdo"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 14",
+          "url": "https://www.rootz.so/d/14Zacq"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 15",
+          "url": "https://www.rootz.so/d/2HFpK4"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 16",
+          "url": "https://www.rootz.so/d/3yuS8"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/6eKRsvjrI4"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/Up1ejMufzC"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/Goa2suGOjF"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/EtJj1foWCN"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/6P31zCaflX"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/C3MG8MRsJE"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/NvpEbX8zl3"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/4QUoBOyqXn"
         },
         {
           "name": "EUR 11.xx Base - Mediafire part 1",
@@ -101869,35 +102189,35 @@
           "url": "https://www.rootz.so/d/1bOdCC"
         },
         {
-          "name": "EUR 6.xx BackPort 4.xx - Mediafire",
+          "name": "EUR 6.xx BackPort 4.xx - Mediafire part 1",
           "url": "https://www.mediafire.com/file/ih22vh5agm2kb7j/4XX+PPSA13553+%E2%80%93+EUR++V1.00++Greyhill+Incident++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
-          "name": "EUR 6.xx BackPort 4.xx - Akirabox",
+          "name": "EUR 6.xx BackPort 4.xx - Akirabox part 1",
           "url": "https://akirabox.com/Z9dzBxoaPmk1/file"
         },
         {
-          "name": "EUR 6.xx BackPort 4.xx - Vikingfile",
+          "name": "EUR 6.xx BackPort 4.xx - Vikingfile part 1",
           "url": "https://vikingfile.com/f/2AjeyhjsY8"
         },
         {
-          "name": "EUR 6.xx BackPort 4.xx - Rootz",
+          "name": "EUR 6.xx BackPort 4.xx - Rootz part 1",
           "url": "https://www.rootz.so/d/1ne3oe"
         },
         {
-          "name": "EUR 6.xx BackPort 5.xx - Mediafire",
+          "name": "EUR 6.xx BackPort 4.xx - Mediafire part 2",
           "url": "https://www.mediafire.com/file/1wdli03yijb3bp8/5XX+PPSA13553+%E2%80%93+EUR++V1.00++Greyhill+Incident+By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
-          "name": "EUR 6.xx BackPort 5.xx - Akirabox",
+          "name": "EUR 6.xx BackPort 4.xx - Akirabox part 2",
           "url": "https://akirabox.com/RMKGJJLEWG1o/file"
         },
         {
-          "name": "EUR 6.xx BackPort 5.xx - Vikingfile",
+          "name": "EUR 6.xx BackPort 4.xx - Vikingfile part 2",
           "url": "https://vikingfile.com/f/3TC2KpdJs9"
         },
         {
-          "name": "EUR 6.xx BackPort 5.xx - Rootz",
+          "name": "EUR 6.xx BackPort 4.xx - Rootz part 2",
           "url": "https://www.rootz.so/d/axp3I"
         },
         {
@@ -141035,6 +141355,63 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYjhsRU1kVktyTWcwN1pXY3FLYnRaeVdSZUd5Mmd2VVJuaU1qTWRTZit5UzllVm1wS1B2QmJZWUxKOVI5OGVSdXFwVzFsajViYThBTEdjTlJCZXhGSXRhR1hDZkFJZz09IiwiaSI6ImVKbEdNTTEzcTFsSk95OSsiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30896",
+      "title": "[exFAT] Death Howl",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "version": "01.000.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1212/baaf08ae812cf46ac979d85dc48f7ede27b63d18468c24f1.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1212/baaf08ae812cf46ac979d85dc48f7ede27b63d18468c24f1.png",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.004 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000.004 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQWw2aHFmelFxYzk3cTRyZjhNWndRdHZZaHpHQi9hd0Qza0VsRzI0dENlVmRjVjFhMFV5cEx6OTcrY2ROWm0wbnFESERSODlTZmlQQWFrSFlSbGNBVzFGUWZUM1p6L1Mwa1gwNTVTQ0FZUT09IiwiaSI6InZUUVRPWGZKUEg0Y1pJWTMiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000.004 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidm55RmNKazNlWTVhU3JmTHdhY05WZWxZcWp3c3RsZ1dPc1J3Y0szcEZoV1JRa05wREV5LzhDYnU2dmFrbUlaNVUvVkR6SS85OFVlWUw4K2ZKL3FrSFI3OTFyYk5zeGM2a0JyZDJIeTdXZFk9IiwiaSI6IlE5UDhRR0VBdXZBb1BpNkQiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000.004 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMlh4bEJaOUdFSkdLeFdnMXl0YzhzUS91TGMwVzY5S2paZzM3b3pZQ01Pek5PVndEdXJkY0Z0eWNzU0xVNytNV3V4b3REbXRVeE1wWms2OENzQTYwTmRJbXVrRVN1ZXI5NW1xbkUyWXgiLCJpIjoiTW4vTXFMZFJlODJFNkQ5WCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000.004 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQVhKWW04ZmFWNjh2ei80My84R0QzMkFNM3N3VGtUdUJ2N1ZMUjE0WTBVT0V3ajV4cU9Ea0pQKzJSWGpJcGlZcEs1S3VERzF1MkVJQWdvNUNJUVcvcGtvZGNZUDJmRER4bWM5VEI3NGNjOHM9IiwiaSI6IlpRVHAxOUxOZHNvZ0ExZXciLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30552",
+      "title": "[exFAT] A Game About Digging A Hole",
+      "createdAt": "2026-11-09T12:40:46.069Z",
+      "version": "01.100",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30552_04718fa11aa447c3f967e1ff90a079e06bfc8e1a9f18f1ddb60a256dc9bcf72f/icon0.webp",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.100 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.100 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS1M0UVJOMGJMMGd2ZlA0a3JCTnJVcFFSbnVqNmp2OUtkRWZVYW04OXZDblk2UTg3SmdraDBHd1duTEViSnhjYnRucmlXM244V1VFZXlIeXppWmptTnJGNUJxN0RnOFNqRCtEYWFGUUljQT09IiwiaSI6Ik90Z0ltV0pYaUJNUC9PSWQiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.100 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibWIyRzZTdWdTYlgrL2hhZ0QrYUVJNEplQi8vRXZpbXdyVXg4dWluU25lQWUyVERMK21SbTZCZDNpN1RqQTFpWTQxanZibS8ydXNLTm1NOHRxSFFTb2RaUkFGSTdzeXc5dHVkNG5Ea3AyZjg9IiwiaSI6ImF4KzVseXFDWHQ5R3RhaSsiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.100 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiV051bHpFMEJMNWd4bmhaVE9mS3VWWFVQdGJKRVIralB2R0ZrVmo2NjN5azYxU25Ka2loYXZxSlRWbVg5YmFMTG4zMURrZ01CenZHWERQb1FmYnNxQm1VbnBCODZkTkpIdUg5S1BCOUwiLCJpIjoibjJjMUxQelpyVU1la1grciIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.100 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZis4aTY0MGhjY29UWXc3UzgvRUVvWm5abXUxMFVaOUFBMzFhbzJYVE5NaG8xSGpWRk1yQW1lU0ttYjAvR3QvZy95M3Zqa0Vjak1veHhicm4wMytPS3NaUk5TMCtXLzAyWVJHV1pjZEwzSk09IiwiaSI6IjlzK0xLa3BZMUVFR09ZeUkiLCJuIjoiVmlraSJ9"
         }
       ]
     },
