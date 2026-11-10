@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 10/11/2026 à 01:20
+* **PAYLOADS**
+  * `Websrv V0.34` (v0.34) - *Nouveau*
+* **APPS**
+  * `Ppsa97358` (v3.4) - *Mise à jour (Précédent: v3.3)*
+
 ## Build du 09/11/2026 à 15:30
 * **PAYLOADS**
   * `Ps5-Romm V1.4.1` (v1.4.1) - *Nouveau*

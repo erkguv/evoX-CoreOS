@@ -415,7 +415,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "bec3abb76db92d65d7f705378293fdddf36f031336eeedd9f7cc8d432a8e5800"
+            "checksum": "8749ef8c1593b2b14ac3bac679dfc6578029a00bf2bbd18b8c02b43042df3845"
         },
         {
             "name": "Common Fps Ps5 V1.2.3",
@@ -995,6 +995,16 @@
             "version": "v0.22",
             "category": "PS5 Server",
             "checksum": "50a5d2bb188a825eedce13b4d3ca92f5c6c71852f591f1506860fd30d6f45363"
+        },
+        {
+            "name": "Websrv V0.34",
+            "filename": "websrv_v0.34.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
+            "local_path": "payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
+            "description": "HTTP Web server payload. Port: 8080",
+            "version": "v0.34",
+            "category": "PS5 Server",
+            "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263"
         },
         {
             "name": "Gdbsrv V0.9",

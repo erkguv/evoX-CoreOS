@@ -605,6 +605,12 @@
       <pubDate>v0.22</pubDate>
     </item>
     <item>
+      <title>[Payloads] Websrv V0.34</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf</link>
+      <description>HTTP Web server payload. Port: 8080</description>
+      <pubDate>v0.34</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Gdbsrv V0.9</title>
       <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf</link>
       <description>GDB Debugger server payload. Port: 1234</description>
@@ -978,9 +984,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa97358</title>
-      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.3/PPSA97358.zip</link>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.4/PPSA97358.zip</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
-      <pubDate>v3.3</pubDate>
+      <pubDate>v3.4</pubDate>
     </item>
     <item>
       <title>[Applications] Porpoise-4.5-Source</title>
