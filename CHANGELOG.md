@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 10/11/2026 à 14:33
+* **PAYLOADS**
+  * `Wfm-7Zip-Helper` (v1.14) - *Mise à jour (Précédent: v1.13-rc2)*
+  * `Web-File-Mgr-V1.14` (v1.14) - *Nouveau*
+  * `Web-File-Mgr-V1.13-Rc2` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.13-rc2)*
+
 ## Build du 10/11/2026 à 01:20
 * **PAYLOADS**
   * `Websrv V0.34` (v0.34) - *Nouveau*

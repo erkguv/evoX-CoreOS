@@ -3,6 +3,190 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32559",
+      "title": "Abyssus Brine Edition",
+      "createdAt": "2026-11-10T09:17:25.596Z",
+      "version": "v02.000.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2915/48c1f74a883f8c46eb4cd8987cc833a983edcbf6ba06c2ee.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2915/48c1f74a883f8c46eb4cd8987cc833a983edcbf6ba06c2ee.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA32559, v02.000.005, EUR, DLCs Merged, 4.xx BackPort + 5.xx BackPort\nSize: 13GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/mweRXv8K#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/mweRXv8K#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/mweRXv8K#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/mweRXv8K#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/dMR5DhhP#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/dMR5DhhP#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/dMR5DhhP#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/dMR5DhhP#FileKeeper"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA29617",
+      "title": "Kusan City of Wolves",
+      "createdAt": "2026-11-10T09:17:25.596Z",
+      "version": "v01.001.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1811/5ab53dda60e7e580abf6e067b37ac0744e616fccddf1658e.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1811/5ab53dda60e7e580abf6e067b37ac0744e616fccddf1658e.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA29617, v01.001.004, USA, 4.xx BackPort\nSize: 13GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/UpOZNB1o#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/UpOZNB1o#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/UpOZNB1o#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/UpOZNB1o#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/gS7o8IcY#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/gS7o8IcY#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/gS7o8IcY#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/gS7o8IcY#FileKeeper"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA27950",
+      "title": "Golfing Over It with Alva Majo",
+      "createdAt": "2026-11-10T09:17:25.596Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1614/b4b41c21870a3952fb91e76cadbd93a5501e20d2b933e8a5.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1614/b4b41c21870a3952fb91e76cadbd93a5501e20d2b933e8a5.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA27950, v01.000, USA, 4.xx BackPort\nSize: 266MB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/rsy1-rKA#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/rsy1-rKA#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/rsy1-rKA#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/rsy1-rKA#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/MvL75xae#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/MvL75xae#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/MvL75xae#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/MvL75xae#FileKeeper"
+        }
+      ],
+      "sizeBytes": 278921216
+    },
+    {
+      "titleId": "PPSA04264",
+      "title": "Grand Theft Auto V",
+      "createdAt": "2026-11-10T09:17:25.596Z",
+      "version": "v01.011.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA04264, v01.011.001, USA, 4.xx BackPort\nSize: 103GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/gk3O2SC4#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/gk3O2SC4#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/gk3O2SC4#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/gk3O2SC4#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Rk2Ei6mA#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Rk2Ei6mA#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Rk2Ei6mA#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/Rk2Ei6mA#FileKeeper"
+        }
+      ],
+      "sizeBytes": 110595407872
+    },
+    {
       "titleId": "PPSA30896",
       "title": "Death Howl",
       "createdAt": "2026-11-09T11:56:46.332Z",
@@ -2411,7 +2595,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA25642, v01.005, EUR, 4.xx BackPort\nSize: 97GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: Pippo &amp; DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx+ (No Pro Fix) BackPort already included on Base, separated 4.xx Only, Pro Fix &amp; Original Files PKG included.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA25642, v01.005, EUR, 5.xx BackPort\nSize: 97GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: Pippo &amp; DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx+ (No Pro Fix) BackPort already included on Base, separated Pro Fix &amp; Original Files PKG included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -26856,40 +27040,6 @@
         }
       ],
       "sizeBytes": 13958643712
-    },
-    {
-      "titleId": "PPSA04263",
-      "title": "Grand Theft Auto V",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.010.002",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
-      "description": "Tags: PPSA04263, v01.010.002, EUR, 4.xx BackPort\nSize: 96GB\nCredits: Files: DUPLEX; Backport: Ciss84",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/wgWGqMLnEG4o/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/9oec90ZWP2"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/2b9nd67e2hqq"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/fd952gb9gqrc"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/gv1gcy8nz1iu"
-        }
-      ],
-      "sizeBytes": 103079215104
     },
     {
       "titleId": "PPSA06568",

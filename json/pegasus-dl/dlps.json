@@ -3,6 +3,360 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA27950",
+      "title": "Golfing Over It With Alva Majo",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1614/b4b41c21870a3952fb91e76cadbd93a5501e20d2b933e8a5.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1614/b4b41c21870a3952fb91e76cadbd93a5501e20d2b933e8a5.png",
+      "description": "Variant: EUR\nRegion: EUR\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/golfing-over-it-with-alva-majo-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR Base - Akirabox",
+          "url": "https://akirabox.to/Y2xm0X96pmRO/file"
+        },
+        {
+          "name": "EUR Base - Rootz",
+          "url": "https://www.rootz.so/d/uRzl2"
+        },
+        {
+          "name": "EUR Base - Vikingfile",
+          "url": "https://vikingfile.com/f/3MmiVZD5FU"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUFpCM3owU01vTFY4T2IvdTcySzRwUXlOVEFOdFJ1clI1a3gzVnhaL2Z2aG1vcEt0S0piZ0tpQlJGbG5RN2hQbFZaQ0JiNDVPMzhtTDVNd0VsNTEvQ0ptYnhScGFua09OUVlRLzZLbTM1Zz09IiwiaSI6ImhxTXA4Q3pHU0RXSU5VNy8iLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ3JzeGd3Y2NVL2VBUzNDbWhnRk93NHNSZnVmRkY3eDlmK0trZWdlRFZzbHZPNkErN3Nab1BFck5UazgzRmt2eWtTTG45ZU9nR0haYS83SDFNZ3ZvbDJqQWFKb3JQdjd0Z1dleCtWRE1hYUU9IiwiaSI6IjN0cllEbThCMkNid3g5MWsiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMnhLVzYxTThTSUk2bUw1UkJkbnc5Mk51blFuWmZEM2Y1ajkwbDlUWjkxZFZNTFc0YzBmREkycG5hUUNUNjlmajIvQktOTmE0K1c5WlJuZ3B1UTNoWjNveVdLbGJuTzhnck4vZENVa2IiLCJpIjoiZzlLeGFhMnRMQ21XUVJMLyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidkZFdDl3RzRkTVNMdHBmL292VnRJMk95cjJvNTNuQmg5eGU1NmJsWTNZSjlQSXN5UVc5bko5VHVQRDlHSzFiRlQ2c1pOOGk1U1hMUFh1NHpkYlI3S1pESWh0YzJhQWhuV0Q4dS9vbXVKNEk9IiwiaSI6ImsxTDBGWWhhS2dtVGNvVXYiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29934",
+      "title": "Planet Zoo 2 Deluxe Edition (DLC)",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "version": "DLC-deluxe",
+      "category": "dlc",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0110/5feefa4c7809beb8bc4fafba1f31cdb45ce8ab3b366252f6.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0110/5feefa4c7809beb8bc4fafba1f31cdb45ce8ab3b366252f6.png",
+      "description": "Region: EUR\nRelease note: Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/planet-zoo-2-deluxe-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 13.xx Game (v01.000.000) (DLC Deluxe Edition) - Akirabox part 1",
+          "url": "https://akirabox.to/RMKGJWd9wm1o/file"
+        },
+        {
+          "name": "EUR 13.xx Game (v01.000.000) (DLC Deluxe Edition) - Akirabox part 2",
+          "url": "https://akirabox.to/b5Ozdk7Xp3B8/file"
+        },
+        {
+          "name": "EUR 13.xx Game (v01.000.000) (DLC Deluxe Edition) - Rootz part 1",
+          "url": "https://www.rootz.so/d/U7zI8"
+        },
+        {
+          "name": "EUR 13.xx Game (v01.000.000) (DLC Deluxe Edition) - Rootz part 2",
+          "url": "https://www.rootz.so/d/1cmNBw"
+        },
+        {
+          "name": "EUR 13.xx Game (v01.000.000) (DLC Deluxe Edition) - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/d2qEq0fnsB"
+        },
+        {
+          "name": "EUR 13.xx Game (v01.000.000) (DLC Deluxe Edition) - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/PwGiT39sWX"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA33829",
+      "title": "Lost Ember Rekindled Edition (DLC)",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "version": "DLC",
+      "category": "dlc",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0711/914de82c059c7bd9e78ce5d5e9c0c2145a5444694133a5fe.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0711/914de82c059c7bd9e78ce5d5e9c0c2145a5444694133a5fe.png",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/lost-ember-rekindled-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Game (v01.100.011) (DLC) - Akirabox",
+          "url": "https://akirabox.to/0PdzyMRldzeA/file"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.100.011) (DLC) - Rootz",
+          "url": "https://www.rootz.so/d/1UifSq"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.100.011) (DLC) - Vikingfile",
+          "url": "https://vikingfile.com/f/NnN6fQfN0w"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA27099",
+      "title": "Yasha Legends of The Demon Blade",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0204/4aa6fe0abada5cae645071c1750faf6ccbafd6c65615e79a.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0204/4aa6fe0abada5cae645071c1750faf6ccbafd6c65615e79a.png",
+      "description": "Region: ASIA\nRelease note: Works on 11.xx and higher\nContributor: @By Biogames",
+      "downloadSource": "https://dlpsgame.com/yasha-legends-of-the-demon-blade-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNobe0G7w/file"
+        },
+        {
+          "name": "ASIA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/20RcZ6"
+        },
+        {
+          "name": "ASIA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/xbM0AOqHU2"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA36301",
+      "title": "TCG Card Shop Simulator",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1923/86dc3c8f50a2697d2b6cfaa6f7e3ddb68cac7e54b1419892.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1923/86dc3c8f50a2697d2b6cfaa6f7e3ddb68cac7e54b1419892.png",
+      "description": "Region: USA\nRelease note: Credits to Xan!! Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/tcg-card-shop-simulator-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ36XLA1G19/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1bkdhw"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WhvxaSfRz2"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA26145",
+      "title": "Everybodys Golf Hot Shots",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2120/dbbc17e8ff0335b87aacd426fab16dbd8773c9891f8fe9bc.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2120/dbbc17e8ff0335b87aacd426fab16dbd8773c9891f8fe9bc.png",
+      "description": "Region: EUR\nRelease note: Credits to Xan!! Works on 13.xx and higher",
+      "downloadSource": "https://dlpsgame.com/everybodys-golf-hot-shots-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 13.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/qPez4yXZPGOY/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/E9Qz96qDrGOL/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/Xkrzo1l49mBO/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Akirabox part 4",
+          "url": "https://akirabox.to/Y2xm0X9b9mRO/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/19DjU"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/15lklk"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/11jtuC"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/2IRzSy"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/mUkU0Fiw95"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/AfOd1iANsO"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/xs3bYeJblZ"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/ASBuIf1P62"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA36136",
+      "title": "The Legend of Heroes Trails From Zero",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1119/mf0k9jlnC3mMwggEjz3sfkGp.jpg",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1119/mf0k9jlnC3mMwggEjz3sfkGp.jpg",
+      "description": "Region: USA\nRelease note: Credits to Xan!! Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-legend-of-heroes-trails-from-zero-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/gXeGOekla3Aa/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/5R0Qy"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/sakRKgLkVy"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA36140",
+      "title": "The Legend of Heroes Trails to Azure",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0401/nz0LF6wasKsf9T7pGqIjlrAS.jpg",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0401/nz0LF6wasKsf9T7pGqIjlrAS.jpg",
+      "description": "Region: USA\nRelease note: Credits to Xan!! Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-legend-of-heroes-trails-to-azure-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/EL73gkVoE39B/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/FdbVo"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/AsA8rReomo"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17675",
+      "title": "The Legend of Heroes Trails of Cold Steel 4",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1900/1rlfGz7pHsEEKkzsHbNlw0V7.jpg",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1900/1rlfGz7pHsEEKkzsHbNlw0V7.jpg",
+      "description": "Region: USA\nRelease note: Credits to Xan!! Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-legend-of-heroes-trails-of-cold-steel-4-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/Pbe3PeRnQzlX/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/RTECO"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mBfsE9RpdZ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17672",
+      "title": "The Legend of Heroes Trails of Cold Steel 3",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0422/9727643af12edfb5708157b87a5d12a31561d483f4b268bd.jpg",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0422/9727643af12edfb5708157b87a5d12a31561d483f4b268bd.jpg",
+      "description": "Region: USA\nRelease note: Credits to Xan!! Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-legend-of-heroes-trails-of-cold-steel-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/Z9dzBBldqzk1/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/hqZUW"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/iw2cMtXxPh"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24326",
+      "title": "The Legend of Heroes Trails through Daybreak 2",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2500/91941944c2b6e59bf80434d498646306c5482f7817a06910.jpg",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2500/91941944c2b6e59bf80434d498646306c5482f7817a06910.jpg",
+      "description": "Region: USA\nRelease note: Credits to Xan!! Works on 5.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-legend-of-heroes-trails-through-daybreak-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpWxprGEB/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1iBJpI"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/LWMi6LpJjo"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18986",
+      "title": "The Legend of Heroes Trails through Daybreak",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2919/ecd45fda5a7269504be3a02b8dfdc9da412868355f282a63.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2919/ecd45fda5a7269504be3a02b8dfdc9da412868355f282a63.png",
+      "description": "Region: USA\nRelease note: Credits to Xan!! Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/the-legend-of-heroes-trails-through-daybreak-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/obj3jkDgjzDx/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1e9Sxk"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/KuCb2hbIw4"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA17203",
       "title": "Koumajou Remilia Scarlet Symphony",
       "createdAt": "2026-11-09T20:49:23.105Z",
@@ -857,7 +1211,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1811/5ab53dda60e7e580abf6e067b37ac0744e616fccddf1658e.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1811/5ab53dda60e7e580abf6e067b37ac0744e616fccddf1658e.png",
-      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nContributor: @DUPLEX",
+      "description": "Variant: USA 11.xx\nRegion: USA\nRelease note: Works on 11.xx and higher\nContributor: @DUPLEX\n\nVariant: USA exFAT 01.001.004\nRegion: USA\nRelease note: exFAT format — FW 01.001.004 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/kusan-city-of-wolves-ps5/",
       "downloadLinks": [
         {
@@ -871,6 +1225,22 @@
         {
           "name": "USA 11.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/SnrfCE5sgb"
+        },
+        {
+          "name": "USA exFAT 01.001.004 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWUxJRmxid201OHdSbVIreEswTzhJS1c3NkdEZ1Qvd3N2VWp2b1NMeFhtb3NLTllna1NaWXl2a2lrMmFremFSZi9pTC9ub2Qrd3JQWGtmY2o4NkJXZTV3b3JqWTB1ZEV4S0ViUFNtdDlvdz09IiwiaSI6IlhMZFpYdmdHUUE4cUpXR0MiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.001.004 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoic2d3VDBZeVZpL25nQ3diNVpIWk16Vm1KZEd1OXEybU0reEhtWW5YMVhqdms5cE1ISjBVWlhjb2R4TTlKN3RiaXZjbDBVcjRtVlZ5dzdESjNlYzUxYmVpZVpMQmN5TWlrc25td0hMTzdpaE09IiwiaSI6IjE5d0ZFQ3ZlbGJYZHk3RVkiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.001.004 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWEdRdGdJVUVkbmlqUk9XY0d4eFgwNXZNUDE1UnhVUk9jaHp5TmlMalRsWlpmb3BVcER5N25tRlhYNHVpcDlZcG51WFJnaFhmcmJ4YSsvU0ptSWF0Y2dVK2FKekZiSXBMeVptd0d4U3YiLCJpIjoidkxaTC82SDY0Q2Y3TG81biIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.001.004 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNUlHN1BLZUl5OWxTai9wVmhTNkdKRnhNc2h5bU5VNUdWQnFDZVVLYmlRbk1DSDE0bXNnK3Q1REF6cWhibWtZRU5vQ2RGdE1PK29MOVhKWk1vSE1Ic3BoN0RZWU45czJLa1Q2YkluM3YrejQ9IiwiaSI6IkFlMmg3eGlPZzNLTVpMbzgiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -7414,7 +7784,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png",
-      "description": "Variant: EUR 12.xx\nRegion: EUR\nRelease note: Works on 12.xx and higher This release includes Deluxe Edition content and the following DLC: Here\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.005\nRegion: EUR\nRelease note: exFAT format — FW 01.005 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: EUR 12.xx\nRegion: EUR\nRelease note: Works on 12.xx and higher This release includes Deluxe Edition content and the following DLC: Here\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.005\nRegion: EUR\nRelease note: exFAT format — FW 01.005 — 5.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/clive-barkers-hellraiser-revival-deluxe-edition-ps5/",
       "downloadLinks": [
         {
@@ -77653,10 +78023,6 @@
       "downloadLinks": [
         {
           "name": "USA Base - Akirabox part 1",
-          "url": "https://akirabox.com/E9Qz90jw63OL/file"
-        },
-        {
-          "name": "USA Base - Akirabox part 1",
           "url": "https://akirabox.com/RMKGJwad4m1o/file"
         },
         {
@@ -77728,52 +78094,8 @@
           "url": "https://rootz.so/d/PDzG4"
         },
         {
-          "name": "USA Base - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/aqwq3t33sj15rgq/[DLPSGAME.COM]-PPSA07148.part01.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/v3pw3nyi6x2px9z/[DLPSGAME.COM]-PPSA07148.part02.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 3",
-          "url": "https://www.mediafire.com/file/45xuxs9ox59af8s/[DLPSGAME.COM]-PPSA07148.part03.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 4",
-          "url": "https://www.mediafire.com/file/9fv2fk1dtqykdwb/[DLPSGAME.COM]-PPSA07148.part04.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 5",
-          "url": "https://www.mediafire.com/file/p3swxve36mgly58/[DLPSGAME.COM]-PPSA07148.part05.rar/file"
-        },
-        {
-          "name": "USA Base - Mediafire part 6",
-          "url": "https://www.mediafire.com/file/9ewqghltcon6lnk/[DLPSGAME.COM]-PPSA07148.part06.rar/file"
-        },
-        {
-          "name": "USA Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/M2n2tWvbA5"
-        },
-        {
-          "name": "USA Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/dtv2zEV1OL"
-        },
-        {
-          "name": "USA Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/KCvtcCEhGn"
-        },
-        {
-          "name": "USA Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/EFzuCX0PDu"
-        },
-        {
-          "name": "USA Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/icWIDAf359"
-        },
-        {
-          "name": "USA Base - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/GUYmTlqCkz"
+          "name": "USA Base - Akirabox part 1",
+          "url": "https://akirabox.com/E9Qz90jw63OL/file"
         },
         {
           "name": "USA Base - Akirabox part 2",
@@ -77834,6 +78156,54 @@
         {
           "name": "USA Base - Vikingfile part 5",
           "url": "https://vikingfile.com/f/fTV2WstHUE"
+        },
+        {
+          "name": "USA Base - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/aqwq3t33sj15rgq/[DLPSGAME.COM]-PPSA07148.part01.rar/file"
+        },
+        {
+          "name": "USA Base - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/v3pw3nyi6x2px9z/[DLPSGAME.COM]-PPSA07148.part02.rar/file"
+        },
+        {
+          "name": "USA Base - Mediafire part 3",
+          "url": "https://www.mediafire.com/file/45xuxs9ox59af8s/[DLPSGAME.COM]-PPSA07148.part03.rar/file"
+        },
+        {
+          "name": "USA Base - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/9fv2fk1dtqykdwb/[DLPSGAME.COM]-PPSA07148.part04.rar/file"
+        },
+        {
+          "name": "USA Base - Mediafire part 5",
+          "url": "https://www.mediafire.com/file/p3swxve36mgly58/[DLPSGAME.COM]-PPSA07148.part05.rar/file"
+        },
+        {
+          "name": "USA Base - Mediafire part 6",
+          "url": "https://www.mediafire.com/file/9ewqghltcon6lnk/[DLPSGAME.COM]-PPSA07148.part06.rar/file"
+        },
+        {
+          "name": "USA Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/M2n2tWvbA5"
+        },
+        {
+          "name": "USA Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/dtv2zEV1OL"
+        },
+        {
+          "name": "USA Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/KCvtcCEhGn"
+        },
+        {
+          "name": "USA Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/EFzuCX0PDu"
+        },
+        {
+          "name": "USA Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/icWIDAf359"
+        },
+        {
+          "name": "USA Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/GUYmTlqCkz"
         },
         {
           "name": "USA BackPort 4.xx - Mediafire",
@@ -83096,58 +83466,6 @@
           "url": "https://akirabox.com/k0embbJRJmVb/file"
         },
         {
-          "name": "USA 10.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/SweCWzpBql"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/duEOZ1EHCf"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/ijFCto8pTk"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/O5XHqlFqnM"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/thkNNU8H0U"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/VzZSdLp49N"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 7",
-          "url": "https://vikingfile.com/f/4x0igH2W0d"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 8",
-          "url": "https://vikingfile.com/f/LBL3nr9uyZ"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 9",
-          "url": "https://vikingfile.com/f/vG5BGspmF2"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 10",
-          "url": "https://vikingfile.com/f/w7wPepW9t5"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 11",
-          "url": "https://vikingfile.com/f/QmLHMBWr5A"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 12",
-          "url": "https://vikingfile.com/f/vAxqrcXZXs"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 13",
-          "url": "https://vikingfile.com/f/i6fCH8L0GV"
-        },
-        {
           "name": "USA 10.xx Base - Rootz part 1",
           "url": "https://www.rootz.so/d/1SEgfw"
         },
@@ -83198,6 +83516,210 @@
         {
           "name": "USA 10.xx Base - Rootz part 13",
           "url": "https://rootz.so/d/143ZYm"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 16",
+          "url": "https://akirabox.to/RMKGJW7M2m1o/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 17",
+          "url": "https://akirabox.to/qLQ36XwlQG19/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 18",
+          "url": "https://akirabox.to/b5Ozdk5Ky3B8/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 19",
+          "url": "https://akirabox.to/LK0G1X6naz91/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 20",
+          "url": "https://akirabox.to/qw1zeV5LMGXy/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 21",
+          "url": "https://akirabox.to/Y2xm0XenomRO/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 22",
+          "url": "https://akirabox.to/APVmaM5yqmXo/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 23",
+          "url": "https://akirabox.to/0JgG7arn83oY/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 24",
+          "url": "https://akirabox.to/0PdzyM5E6zeA/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 25",
+          "url": "https://akirabox.to/E1x3Ax72gmyk/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 26",
+          "url": "https://akirabox.to/qw1zeV5jMGXy/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 27",
+          "url": "https://akirabox.to/E9Qz96xK6GOL/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 28",
+          "url": "https://akirabox.to/Y2xm0XedomRO/file"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/pwmvgZYOvo"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/2rMp78dZzS"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/MWTV1RxOU7"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/LIVJinyrnA"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/ionK0C5rul"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/BCQU65b5tu"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/AS8RViYPJI"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/qhcF99qimo"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/IuEeDBRtZk"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 10",
+          "url": "https://vikingfile.com/f/EQkQaJr0BZ"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 11",
+          "url": "https://vikingfile.com/f/O2IIVOcKIy"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 12",
+          "url": "https://vikingfile.com/f/GRIQQkIsng"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 13",
+          "url": "https://vikingfile.com/f/D9PiVsoyZ7"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 14",
+          "url": "https://www.rootz.so/d/1aMZvs"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 15",
+          "url": "https://www.rootz.so/d/1eOQnQ"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 16",
+          "url": "https://www.rootz.so/d/10cT7g"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 17",
+          "url": "https://www.rootz.so/d/29GqxM"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 18",
+          "url": "https://www.rootz.so/d/wacG8"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 19",
+          "url": "https://www.rootz.so/d/Vk2tc"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 20",
+          "url": "https://www.rootz.so/d/25F05o"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 21",
+          "url": "https://www.rootz.so/d/JeUN6"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 22",
+          "url": "https://www.rootz.so/d/NgLEe"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 23",
+          "url": "https://www.rootz.so/d/1WKj4K"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 24",
+          "url": "https://www.rootz.so/d/1iQHey"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 25",
+          "url": "https://www.rootz.so/d/1mS8WW"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 26",
+          "url": "https://www.rootz.so/d/RiC6C"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/SweCWzpBql"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/duEOZ1EHCf"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/ijFCto8pTk"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/O5XHqlFqnM"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/thkNNU8H0U"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/VzZSdLp49N"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/4x0igH2W0d"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/LBL3nr9uyZ"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/vG5BGspmF2"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 10",
+          "url": "https://vikingfile.com/f/w7wPepW9t5"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 11",
+          "url": "https://vikingfile.com/f/QmLHMBWr5A"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 12",
+          "url": "https://vikingfile.com/f/vAxqrcXZXs"
         },
         {
           "name": "USA 10.xx Base - Mediafire part 1",
@@ -98577,7 +99099,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
-      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Fixed save (Thanks to Echo Stretch) Working 10.xx – 9.xx – 8.xx – 7.xx – 6.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 3\nContributor: pkg.games",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Fixed save (Thanks to Echo Stretch) Working 10.xx – 9.xx – 8.xx – 7.xx – 6.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 3\nContributor: pkg.games\n\nVariant: USA exFAT 01.011.001\nRegion: USA\nRelease note: exFAT format — FW 01.011.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/grand-theft-auto-v-ps5/",
       "downloadLinks": [
         {
@@ -98763,6 +99285,22 @@
         {
           "name": "Release 3 Base - Akirabox",
           "url": "https://akirabox.com/wgWGqMLnEG4o/file"
+        },
+        {
+          "name": "USA exFAT 01.011.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQXFzYlQxSHk1OHpUeXp1RDVteW15VGU4QitpRTY5K3FyUUF6T1JjQzZiSXZCNUZMck1ZWE83RURrUWpGRnRRZ1p2WnZTT3pVT1o4elJMTVVkL1FPVy9RcllhamlERnpFYWdoaldEb24zZz09IiwiaSI6IklESkNNZDlYa0x4cEJZYVUiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.011.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWUM4RVJaM2lBZTl6K1lublpuNE1EV2VZVW1Ta3RMTFVPRGpRbmo4OERZdXFTWXNJSFB0VXZEQkZJNzZvK0RuNm00Tm9uYmVBTmZOSWpybjIvdHNMU1B1dHl5MDJzcjJzREo2bk1EckRnNEE9IiwiaSI6Ik95Y1I0TmREb0hiREkzZ2wiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.011.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN3ZwMDBqWGJkWlg4R3lqMWphc3hLRUZGZnFsVWZod3o5WFhuVkY0TWVRaWNYYWpvbFNWR1dhUjhOd293THEzVzNlSTFLMGVhMDQyUi9JMWVvTTdaV3I0Lzd4RFNaT0JuYUpKa0tQZUgiLCJpIjoiNTZRQXpIV0Y5Q3R5NndlbiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.011.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTXpNNWpyNHd3eFpKUWkvNW0yZXJjNnZQaDB1YlFOSkM1RElMN2RRdlU5VVRpazNXc1BYUk5sQ2gzTlBBMFduNzJtWUx3bm84ekZlQ2pkR0hCcW9kWWg2OVBnRS8vVXE4KzVib25ucTZ5TVU9IiwiaSI6Ik8zVkNLU1VHVFdJSG1ka1YiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -98773,7 +99311,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
-      "description": "Variant: EUR 10.xx\nRegion: EUR\nRelease note: The game was patched to not use apr Working 10.xx – 9.xx – 8.xx – 7.xx – 6.xx – 5.xx – 4.xx – 3.xx\nContributor: @SAMAR-KSA\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.010.002\nRegion: EUR\nRelease note: exFAT format — FW 01.010.002 — 4.xx BackPort\nContributor: pippo",
+      "description": "Region: EUR\nRelease note: The game was patched to not use apr Working 10.xx – 9.xx – 8.xx – 7.xx – 6.xx – 5.xx – 4.xx – 3.xx\nContributor: @SAMAR-KSA\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/grand-theft-auto-v-ps5/",
       "downloadLinks": [
         {
@@ -99083,26 +99621,6 @@
         {
           "name": "EUR 10.xx BackPort 4.xx - Rootz",
           "url": "https://rootz.so/d/1eV6AK"
-        },
-        {
-          "name": "EUR exFAT 01.010.002 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYnlzNTFHTjA4OG5FSUJPNXFTTnhrSGdxVUtUS1NycExyMnltTjhSRmwyVzNQU3dORHhKOWZvTnpuS0hYWUVWOVFpVjFRaWhRZVk2akhKVjR1Mml6M0J6YlBRZ2VBYzk1N084PSIsImkiOiJpTlBFbjJRT1VITjJCYTJLIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.010.002 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNUdNTndKUUlYTUlvV2hoVHlVMWlkaGh0dDB1ZGMrTFFUaEY0QUVDYlpvK2xHdnJUWWYraVhqQUUzejNya0V1Mi9ZN0ZIUHdHbVBZaVZJTmRmK2dQMkN6VEFTQjhwN0E9IiwiaSI6ImxmVmxIRk9nNHNKOXk2NHgiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "EUR exFAT 01.010.002 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYmFIUFE3TW4xTktacEw2Ykp0WG5Hc2p3bS9SK0pyV2VlcHpjamFWdGx4WkwvdVRBNXdSV0grNnlOMDJwMUlTNERuL3JaN0xLQmY5MG5qK2x5TVZLa1Y1UUJ5QTQiLCJpIjoiTjV2MHFSSE5rVGl3OFcxaSIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "EUR exFAT 01.010.002 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoienlrM0E4SnQwVXFEK2EyZ1ZkMElCZlJLZ2I4M1hiSXNWVzhicGtnMEZlWE9KRlZLYVlpSmJkQ1hLSU5jUW41bG5SUC9ZKzdXdFpGRWRoMTNqVTdVL0pVSldSNUIrR1k9IiwiaSI6IklyMTFuQzZZRDVCMEJXajgiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.010.002 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYldlWXU3eUI2aFNzTUxVMkNqL2RicldkUEw0aTZ6NFg2NGduVE1uS0FiaW9uLzRHRE9qLytKWVZZbWNqbXVrMEdBNHZPOThkbTVKK3NQK2pqWjRoRTJzc2FueG1yZz09IiwiaSI6ImtadHVEMVhEOThSa0RoYXgiLCJuIjoiVmF1bHQifQ=="
         }
       ]
     },
@@ -138004,6 +138522,113 @@
       ]
     },
     {
+      "titleId": "PPSA02424",
+      "title": "It Takes Two",
+      "createdAt": "2026-11-10T06:59:26.545Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02424_a9a36ba55dd2061792c2b70754bdc2f5aef7a858f03a84225522c11ca6892a51/icon0.webp",
+      "description": "Region: USA\nContributor: @来栖晓",
+      "downloadSource": "https://dlpsgame.com/it-takes-two-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA Base - Akirabox part 1",
+          "url": "https://akirabox.to/Pbe3Pe7qKzlX/file"
+        },
+        {
+          "name": "USA Base - Akirabox part 2",
+          "url": "https://akirabox.to/9QWmpW51JGEB/file"
+        },
+        {
+          "name": "USA Base - Akirabox part 3",
+          "url": "https://akirabox.to/0Kezk0neeGD1/file"
+        },
+        {
+          "name": "USA Base - Akirabox part 4",
+          "url": "https://akirabox.to/1RgzRLM7Zmbp/file"
+        },
+        {
+          "name": "USA Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/yrAaulYwqm"
+        },
+        {
+          "name": "USA Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/xCT1XTx7MU"
+        },
+        {
+          "name": "USA Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/2jaVr5z6sR"
+        },
+        {
+          "name": "USA Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/uHT42n2Xog"
+        },
+        {
+          "name": "USA Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/16WaLQ"
+        },
+        {
+          "name": "USA Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1A2ZSy"
+        },
+        {
+          "name": "USA Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/berGy"
+        },
+        {
+          "name": "USA Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/qPAtE"
+        },
+        {
+          "name": "USA Base - Akirabox part 5",
+          "url": "https://akirabox.to/1RgzRLvjombp/file"
+        },
+        {
+          "name": "USA Base - Akirabox part 6",
+          "url": "https://akirabox.to/Xkrzo1brRmBO/file"
+        },
+        {
+          "name": "USA Base - Akirabox part 7",
+          "url": "https://akirabox.to/qPez4ylrxGOY/file"
+        },
+        {
+          "name": "USA Base - Akirabox part 8",
+          "url": "https://akirabox.to/Y2xm0Xaj6mRO/file"
+        },
+        {
+          "name": "USA Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/A98yg4EAUa"
+        },
+        {
+          "name": "USA Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/9fLpNc69yW"
+        },
+        {
+          "name": "USA Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/7FsD7CpOjg"
+        },
+        {
+          "name": "USA Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/WYFFl4ahQb"
+        },
+        {
+          "name": "USA Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/1z3Yn2"
+        },
+        {
+          "name": "USA Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1v1hvU"
+        },
+        {
+          "name": "USA Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/mNK5o"
+        },
+        {
+          "name": "USA Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/10bly4"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA02474",
       "title": "Terminator Resistance Enhanced",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -142142,6 +142767,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYjhsRU1kVktyTWcwN1pXY3FLYnRaeVdSZUd5Mmd2VVJuaU1qTWRTZit5UzllVm1wS1B2QmJZWUxKOVI5OGVSdXFwVzFsajViYThBTEdjTlJCZXhGSXRhR1hDZkFJZz09IiwiaSI6ImVKbEdNTTEzcTFsSk95OSsiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA32559",
+      "title": "[exFAT] Abyssus Brine Edition",
+      "createdAt": "2026-11-10T13:06:34.887Z",
+      "version": "02.000.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2915/48c1f74a883f8c46eb4cd8987cc833a983edcbf6ba06c2ee.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2915/48c1f74a883f8c46eb4cd8987cc833a983edcbf6ba06c2ee.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 02.000.005 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 02.000.005 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiKzZEYnBOaDloRFd5QUZtQkQ0Z1RLSHlvT0lQbG9GQmlzQStJWUFCWFBGUjA3YlkrdFdnRzl3QjF1Q3dqSlpkd2xmSENZRmxtN1NkeERKSS82OUJCUW9IY0ljdXU0MzB3RHI4SjRoZUxtdz09IiwiaSI6Ii8xR3JHK3NrV1JkQnhpdWciLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 02.000.005 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibExKdkZaNjVNNkdVVDMzYjZuVVNIaTBpTFJzb2dFUjVKYUdOYWYvZFBCckdKVTkzZGtTTkFqbUlGcHFtUE5FU0NGazhXNUlKL0w4K0l3VFhmUGR2b2U0ek55Sm12ejRGaFNjd2k3cUU4Yjg9IiwiaSI6IlBRcHhDWmhDTjFjVFo2SmMiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 02.000.005 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibk91WVFOcmFVcWJxZmNDN09hWHBTZ2hvRU5PK0xWTFdzVDJqTE1kSU1KS0w1SDhNaHlFMUdLVkVycGM2ZkNkWUxLQzdCTGZwRG5sTlNXZDhuYkNHS1hTcDlFYm91NnpDL2RVb1c1VGYiLCJpIjoiSG1kaWNoTGxIRnArNTZGcyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 02.000.005 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRHhLZlAxTkdsYUwyRDdkMU1KSkY1UDZITmRvNnlhaUVHaWZZTGdFc0h3dTE3SWd5WVlIM2NpZGxDWTh0NlJCVHd3SzhDTEtWY0VrQnIrQkwyRnhYR3FlV2E5SFJ6WDQxdUxkQVNmZFFXOW89IiwiaSI6InBYZVc4eWRjencwekhVS1EiLCJuIjoiVmlraSJ9"
         }
       ]
     },

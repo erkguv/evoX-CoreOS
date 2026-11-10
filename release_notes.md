@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.10-0120)
+### 🚀 Synthèse de la mise à jour (v2026.11.10-1433)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -41,7 +41,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BFpilot_v0.5.0.elf`
   * `lapy_jb_daemon.elf`
   * `wfm-7zip-helper.elf`
-  * `web-file-mgr-v1.13-rc2.elf`
+  * `web-file-mgr-v1.14.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `nanoDNS_v0.4.elf`
   * `Chukei_DNS_v0.9.0.elf`
@@ -148,6 +148,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.11.elf`
   * `web-file-mgr-v1.11b.elf`
   * `web-file-mgr-v1.13-rc1.elf`
+  * `web-file-mgr-v1.13-rc2.elf`
   * `web-file-mgr-v1.12.elf`
   * `web-file-mgr-v1.10.elf`
   * `zftpd-ps5-zhttp-v1.6.0.elf`
