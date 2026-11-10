@@ -3,6 +3,36 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24263",
+      "title": "Call of Duty Modern Warfare 3",
+      "createdAt": "2026-11-10T20:28:23.940Z",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0316/51b683f8a89f65bf8a3204eb43c46aba5741620709d4bdfa.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0316/51b683f8a89f65bf8a3204eb43c46aba5741620709d4bdfa.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24263, v01.004, USA, DLCs Merged, 4.xx BackPort\nSize: 466GB\nCredits: Files: High-Speed007 &amp; zhm86; Backport: DecKerr97 GUI; DLC: High-Speed007 &amp; zhm86\nHow to play: Campaign + Multiplayer with all DLCs included. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/VUXpZ_j1#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/VUXpZ_j1#AkiraBox"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/S6I38kP5#AkiraBox"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/S6I38kP5#DataNodes"
+        }
+      ],
+      "sizeBytes": 500363689984
+    },
+    {
       "titleId": "PPSA32559",
       "title": "Abyssus Brine Edition",
       "createdAt": "2026-11-10T09:17:25.596Z",
@@ -17642,60 +17672,6 @@
         }
       ],
       "sizeBytes": 12884901888
-    },
-    {
-      "titleId": "PPSA01649",
-      "title": "Call of Duty Modern Warfare 3",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.055",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/e7c940f1c3b9c2725e08b10979926ed6b71482f6f42a65ba.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/e7c940f1c3b9c2725e08b10979926ed6b71482f6f42a65ba.png",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA01649, v01.055, USA, DLCs Merged, Standard (9.xx) + 4.xx BackPort\nSize: 256GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: There is issue with campaign not launch. How to fix first: make sure turn off internet in network settings then launch game and choose offline mode and go to campaign MW3. You need keep press X few times to launch Campaign.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/jJD3VDWWaGa5/file"
-        },
-        {
-          "name": "Standard 9.xx - VikingFile",
-          "url": "https://vikingfile.com/f/SWQjvCe7ZS"
-        },
-        {
-          "name": "Standard 9.xx - DataNodes",
-          "url": "https://datanodes.to/vyyj4ozmgagc"
-        },
-        {
-          "name": "Standard 9.xx - Filek",
-          "url": "https://filekeeper.net/652coi2x0kru"
-        },
-        {
-          "name": "Standard 9.xx - Vault",
-          "url": "https://datavaults.co/b4hfs8p0pz3v"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.to/gXeGOAbqA3Aa/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/U48ns21DSO"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/lpudu0tfoh5w"
-        },
-        {
-          "name": "4.xx BackPort - Filek",
-          "url": "https://filekeeper.net/7np4s9lrmf44"
-        },
-        {
-          "name": "4.xx BackPort - Vault",
-          "url": "https://datavaults.co/9ebdk4xdfysj"
-        }
-      ],
-      "sizeBytes": 274877906944
     },
     {
       "titleId": "PPSA26785",
