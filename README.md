@@ -121,7 +121,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | Genplusgxps5 V2.2.1 | [v2.2.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.2.1/genplusgxPS5_v2.2.1.elf) | `30535fdefce4...` | Port of Genesis-Plus-GX for PS55 |
 | Phu-Sandbox.Exit V1.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | addon for Markus-PHU Emupack |
-| Ps5-Romm V1.4.1 | [v1.4.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf) | `5c8cb6c5bd1b...` | ps5-romm for ps5 |
+| Ps5-Romm V1.4.2 | [v1.4.2](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.2/ps5-romm_v1.4.2.elf) | `eefbdd173b5d...` | ps5-romm for ps5 |
 | Ps5X360 V1.0.2 | [v1.0.2](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v1.0.2/PS5X360_v1.0.2.elf) | `4a0250329e63...` | x360 emu for ps5, you need PPSA97358.zip |
 | Snes9Xps5 V2.11 | [v2.11](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.11/snes9xPS5_v2.11.elf) | `bb3d2fcb5350...` | snes9x emulator |
 
@@ -233,7 +233,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `cbce012271b9...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `044b5a38aaad...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -269,8 +269,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Garlic-Savemgr V1.15-Beta16 | [v1.15-beta16](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta16/garlic-savemgr_v1.15-beta16.elf) | `d6a6048e6b5b...` | Save manager utility hosted on Forgejo. |
-| Garlic-Worker V1.5.0 | [v1.5.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf) | `68c133c4d8ba...` | Garlic worker payload component. |
+| Garlic-Savemgr V1.15-Beta22 | [v1.15-beta22](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta22/garlic-savemgr_v1.15-beta22.elf) | `fb8e0860161e...` | Save manager utility hosted on Forgejo. |
+| Garlic-Worker V1.5.5 | [v1.5.5](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.5/garlic-worker_v1.5.5.elf) | `b758559171b5...` | Garlic worker payload component. |
 | Savemnt-Offset-Dumper V1.0.0 | [1.0.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf) | `946328551f74...` | Offset dumper for save mounting utilities. |
 
 ### 📂 PS5 Sdk Debug
@@ -309,7 +309,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Klogsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Client V2.20 | [2.20](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf) | `eda226e008ef...` | Easy remote client application for PS5. |
 | Ps5-Ezremote-Server V1.13 | [1.13](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a92...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V12.4.6 | [v12.4.6](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.4.6/ps5upload_v12.4.6.elf) | `541ce3ff11d1...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V12.4.7 | [v12.4.7](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.4.7/ps5upload_v12.4.7.elf) | `721d9dbca1e0...` | PS5 Upload server / tool. Port: 9025 |
 | Websrv V0.34 | [v0.34](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.7.0 | [v1.7.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf) | `533ef2ea5f56...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.7.0 | [v1.7.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf) | `8f78ac0cde64...` | FTP server payload for PS5. Port: 21 |

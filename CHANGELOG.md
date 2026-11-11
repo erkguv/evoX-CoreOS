@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 11/11/2026 à 05:04
+* **PAYLOADS**
+  * `Ps5-Romm V1.4.2` (v1.4.2) - *Nouveau*
+  * `Garlic-Worker V1.5.5` (v1.5.5) - *Nouveau*
+
 ## Build du 10/11/2026 à 14:33
 * **PAYLOADS**
   * `Wfm-7Zip-Helper` (v1.14) - *Mise à jour (Précédent: v1.13-rc2)*
