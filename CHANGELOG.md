@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 12/11/2026 à 00:14
+* **PAYLOADS**
+  * `Garlic-Worker V1.5.6` (v1.5.6) - *Nouveau*
+* **APPS**
+  * `Ppsa97358` (v3.5) - *Mise à jour (Précédent: v3.4)*
+
 ## Build du 11/11/2026 à 05:04
 * **PAYLOADS**
   * `Ps5-Romm V1.4.2` (v1.4.2) - *Nouveau*
