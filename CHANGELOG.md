@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 12/11/2026 à 23:23
+* **PAYLOADS**
+  * `Garlic-Worker V1.5.6` (v1.5.6) - *Mise à jour (Précédent: garlic-worker)*
+* **FFPFSC**
+  * `Evoplayer-V0.13.7-Ppsa99039-Pro` (v0.13.7) - *Nouveau*
+  * `Evoplayer-V0.13.7-Ppsa99039` (v0.13.7) - *Nouveau*
+
 ## Build du 12/11/2026 à 14:51
 * **PAYLOADS**
   * `Ps5-Romm V1.4.3` (v1.4.3) - *Nouveau*
