@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 13/11/2026 à 05:31
+* **PAYLOADS**
+  * `Memdbg Vnightly-20261112-G6E31144` (nightly-20261112-g6e31144) - *Nouveau*
+
 ## Build du 12/11/2026 à 23:23
 * **PAYLOADS**
   * `Garlic-Worker V1.5.6` (v1.5.6) - *Mise à jour (Précédent: garlic-worker)*

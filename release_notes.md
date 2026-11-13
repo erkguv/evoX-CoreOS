@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.12-2323)
+### 🚀 Synthèse de la mise à jour (v2026.11.13-0531)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -101,7 +101,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-self-decrypter-system-common-lib.elf`
   * `ps5-self-decrypter-game.elf`
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
-  * `MemDBG_vnightly-20260930-g6e493c9.elf`
+  * `MemDBG_vnightly-20261112-g6e31144.elf`
   * `ps5-hwinfo_v0.1.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_70c_v0.1.elf`

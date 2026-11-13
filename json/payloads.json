@@ -415,7 +415,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "26f40703178c16e1b917ebc2456eb945dd9c07e79c014bf83f3f8e0031c61e7e"
+      "checksum": "b20a135895e948de37189615218eae24e6cf6665d48aeea4f13611274ec54da5"
     },
     {
       "name": "Common Fps Ps5 V1.2.3",
@@ -797,14 +797,14 @@
       "checksum": "1d611c1856dd2f4b4b6cb42ead1128a7f08a26585788f92de79fa4f67d721472"
     },
     {
-      "name": "Memdbg Vnightly-20260930-G6E493C9",
-      "filename": "MemDBG_vnightly-20260930-g6e493c9.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260930-g6e493c9/MemDBG_vnightly-20260930-g6e493c9.elf",
-      "local_path": "payloads/ps5_sdk_debug/MemDBG/nightly-20260930-g6e493c9/MemDBG_vnightly-20260930-g6e493c9.elf",
+      "name": "Memdbg Vnightly-20261112-G6E31144",
+      "filename": "MemDBG_vnightly-20261112-g6e31144.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20261112-g6e31144/MemDBG_vnightly-20261112-g6e31144.elf",
+      "local_path": "payloads/ps5_sdk_debug/MemDBG/nightly-20261112-g6e31144/MemDBG_vnightly-20261112-g6e31144.elf",
       "description": "Memory debugging and inspection suite.",
-      "version": "nightly-20260930-g6e493c9",
+      "version": "nightly-20261112-g6e31144",
       "category": "PS5 Sdk Debug",
-      "checksum": "2fbdc9f0b21043619b1c32b512df47b3ddf79a99f096243c0d48f5ffc14e1906"
+      "checksum": "d2d8565c7c83b1d1dfe5d66471b5941b164d21854eee6a1b2e1d945eed383cbb"
     },
     {
       "name": "Ps5-Hwinfo V0.1",
