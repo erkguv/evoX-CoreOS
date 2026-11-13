@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 13/11/2026 à 23:24
+* **PAYLOADS**
+  * `Orbit Store` (v1.9.0) - *Mise à jour (Précédent: v1.8.5)*
+  * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*
+
 ## Build du 13/11/2026 à 14:07
 * **PAYLOADS**
   * `Pad2C V2.0.0` (v2.0.0) - *Nouveau*
