@@ -233,11 +233,11 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `b20a135895e9...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `cf9fad0e1b86...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
-| Pad2C V1.3.1 | [v1.3.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.1/pad2c_v1.3.1.elf) | `4f60ab3eb095...` | Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth. |
+| Pad2C V2.0.0 | [v2.0.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf) | `ab25b6e95189...` | Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth. |
 | Poords4 V0.2.0 | [v0.2.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf) | `c5f257ca2bf2...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | Poords4-Status V0.2.0 | [v0.2.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-status_v0.2.0.elf) | `100a21631a86...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | Poords4-Stop V0.2.0 | [v0.2.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf) | `fab1ad04daf8...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
@@ -309,7 +309,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Klogsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Client V2.20 | [2.20](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf) | `eda226e008ef...` | Easy remote client application for PS5. |
 | Ps5-Ezremote-Server V1.13 | [1.13](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a92...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V12.4.14 | [v12.4.14](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.4.14/ps5upload_v12.4.14.elf) | `17dc0827d3d4...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V12.4.15 | [v12.4.15](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.4.15/ps5upload_v12.4.15.elf) | `e70e8c6fcc8f...` | PS5 Upload server / tool. Port: 9025 |
 | Websrv V0.34 | [v0.34](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.7.0 | [v1.7.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf) | `533ef2ea5f56...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.7.0 | [v1.7.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf) | `8f78ac0cde64...` | FTP server payload for PS5. Port: 21 |

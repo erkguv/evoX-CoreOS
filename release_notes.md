@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.13-0531)
+### 🚀 Synthèse de la mise à jour (v2026.11.13-1407)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -61,7 +61,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `OmniPad-PS5_v1.0.4-hotfix1.elf`
   * `FGG-XSense_v1.1.elf`
   * `ghost-toothAPI.elf`
-  * `pad2c_v1.3.1.elf`
+  * `pad2c_v2.0.0.elf`
   * `AnyPad-PS5_v0.6.0.elf`
   * `Common_FPS_PS5_v1.2.3.elf`
   * `ps5-overlay-kus_v1.0.19.elf`

@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 13/11/2026 à 14:07
+* **PAYLOADS**
+  * `Pad2C V2.0.0` (v2.0.0) - *Nouveau*
+
 ## Build du 13/11/2026 à 05:31
 * **PAYLOADS**
   * `Memdbg Vnightly-20261112-G6E31144` (nightly-20261112-g6e31144) - *Nouveau*
