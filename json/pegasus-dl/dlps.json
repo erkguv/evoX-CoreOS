@@ -13043,7 +13043,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1223/3098be7ad1447bdc06bc6f855a7945efe6c16b99bcfc7d07.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1223/3098be7ad1447bdc06bc6f855a7945efe6c16b99bcfc7d07.png",
-      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.003\nRegion: EUR\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/darwins-paradox-ps5/",
       "downloadLinks": [
         {
@@ -13069,6 +13069,22 @@
         {
           "name": "USA 10.xx Base - Vikingfile part 4",
           "url": "https://vikingfile.com/f/1ggQjkG5aK#Darwins"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVUF6YkNGZDZlNjBSYzIxaERWOFlXVjZMOFhNUExRT1dkZjcxS2NBMDBrR2VZY2ZOb015V0dpY0pPem02T0dFclREN2ZuV2R6U0VJWDMrVjdwUVNFQUdTK1JIUmNhR3IyOHVkSjF1VDJjUT09IiwiaSI6Iit5ZW5HZllZVzNIUHJhbDMiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidGNRbnRlTEZXd1o4dnAvejV1cUN3SnlOTTQ2cC9LMDJ4V0owajVrQVMzTTcrMFdXRHA0My9UUElsa2ZEK2syZGpxUjhsbkt1T2RqU1pjYmhRcTZxWWNhN3hNenhndmFyMXlkTHRJT0NCV289IiwiaSI6InVhMjNqT1VTV3JYUUZSZ2oiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaUUzRlYrWTlHU1k5cGI4dTRSMFVEM3Fsd3ZHOFRpNm4rU2NkUXVLNXd2ZVR5Wi9qZFROQ2ZIUXd6em5NOUNCR3JsUVA5eE51N0MrYWUwWE9BYzhDM3JlbStadUZyL1dEbWtOZUdNQmsiLCJpIjoibU13WENGVUF6UmljSDB6YyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieEk1bkpQdFZOVCtWREUwQzlURDhtVUlZYnU4bElUL1JJYndhdkdGVDFSWVZUSlg1SkZrYi8rbVZKYXpPYVpQMHQycng5VnowU3lYTE9ySU8rUUZUL1RIRkZSaHA5WU05WXRSNG8zQjZWaFU9IiwiaSI6Ii9xaWl4ZlpmK0Q5NmRoMk4iLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -144194,6 +144210,93 @@
       ]
     },
     {
+      "titleId": "PPSA31246",
+      "title": "[exFAT] RESIDENT EVIL requiem Deluxe Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.310",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.310 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.310 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYVBQaDFBc2dISGw4VGcrNytzK2wrYWJQcHVjQU1FRGpUdjMzaVBTREx6SkJPQU54V0dnaGZ2RDhORmMvNDAwRTRtSVcrdXZjWG9pRUp0Z1JmbUovSFhWZDVuZmVxdUJvSUlCTk1qaUJRZz09IiwiaSI6IjMwU2l2RTBlYVVIU1AybDMiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.310 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoic1ZpZ0ticU5IYi9OMEZOMVRaVVRGaW96UTZ4Mm0vakRveEFnQjBOdm5QZEJabG9yczFTRUdHbnpQRC9yTFp1dmxOY2kwNU15TytaSy9RQW5TTHRvUVlqcGhPL2VjT0hpTUlGM3R1bmpUams9IiwiaSI6IityOU05QWl3andUMXhRZE8iLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.310 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWEtESGhocHVyTGpzd1ozT2prNW9CQS9iaGh0S3dUdUJYR2tGc1FEMTh3aXVEU0R5V1ZTR2FRMmpEMHpYU0JoWkRPbit5Q0J5VE9mWEJzdmtscnRoRW82ZVgyVG95elJNUCtTd3pyRGciLCJpIjoiakhaRVJPa3VYdUs0Qk5DbSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.310 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS0IzUk5JWDVjZ2hZZWhKQnNrUWZ6aFhWaW0ybTdJTHU4cExLN2FMa0V3MHBiZnlLK0FXY3p5OUo1TDNsRXRsbDA0aXBjMVFhaHZYMVlvR0dqbXNzNFV5dlZubnBCcFhOQ1pFUjdCeFNMeVk9IiwiaSI6InFVakw1SjNxRTA5YmJNZHgiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA19411",
+      "title": "[exFAT] Tainted Grail Fall of Avalon Excalibur Edition",
+      "createdAt": "2026-11-14T12:48:37.769Z",
+      "version": "01.025",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2809/3fa4e48846311a603ec988d1a47f3b4411e035bd8e536346.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2809/3fa4e48846311a603ec988d1a47f3b4411e035bd8e536346.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.025 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.025 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSGwydFg4MVNHYXVxVXY5UnVHTkdFSDFab2VhUDQ0Y28vQXIzOFZuWjFHOGI5akFZYUZlSnlTUFl5MHJqRE9nZGRrS2NCMCtxdm9IVXhxcU9oSmRMSXZHZTJMRTUrRk1JZEFVeDlTWHhZZz09IiwiaSI6IkFJc3RYUEhQN3hPU211OTgiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.025 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMFluUjEwZVZSUFdMQ250dXVVRmFzRUMzTW1YaGxlbUIxUno0V0M0WjQyQmJTblNMZmhuSWwwSzR3T0hSWGFYUXRPdURXbXZURG9wTTJJZzBycFo1Q1dvbE00ZFdyMi9LelVvaDhUK3RTams9IiwiaSI6IjQ0SXlCK244N3dVRHNGdUQiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.025 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNnR5aWJmZ1dFVVVNbDFxdlg4a2Vaa041bERWUXJkUUpLK2dnTUVHbUpwZ1dEM0VrYUZTc3VZbjJPbnVKcExxb1FNK3drN1dybzhWalA2dUpSdkozM2d4RlM5TjRDcWxoKzNWbXhwVlEiLCJpIjoiM3g1S1V4WncyQ3VxNDI2aCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.025 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSmNuendTc0dBSDRtaVBuQWhUbzdianpjUzUzb0t4eEpCcjlIT1o3NVp6SDFwb3ZCNjJxcmRsR2ttSlhHYmMycFRTakxuMXlwU05NK2U2S3ZyVTVEM0lBenowWWxiMjZwaUZWN015U0VkWms9IiwiaSI6InY1MzJNUmJXeXg1RXlWM2ciLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA14322",
+      "title": "[exFAT] Patapon 3",
+      "createdAt": "2026-11-14T12:48:37.769Z",
+      "version": "01.000.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1402/c73f3d3fe23c466b4ae8965d91e2ce042409b70b9d071168.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1402/c73f3d3fe23c466b4ae8965d91e2ce042409b70b9d071168.png",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000.003 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUjNJRFVheXRDaGU5eldlci9WaTQ4RGNUZElNRUpqcjZaYWRrRnBWQmUyVkdKWWMzNmQvSXhraW5LcmxDYTdZVWp3WlAzZ2ZWRGMweDZWa3RaZXdBbTIrYmRKTis1TVpZMFI5NEpjeFM2UT09IiwiaSI6IlJ3ZlBFTG9zUFNORnNaK1YiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidi8xNTljaDNNdEFtSEVWazFCRDlOZitheUM0UE5lRlZxa0ZtM08zcDc0VE1PTWdDMlpJcEkyWENNQmFjdkV1aEpoMGxlME9NeTdhWlZ2RlNqeEFqc3JQWmhQbWF3TEtFT0ZuMGRlbTB4UHc9IiwiaSI6Ikk1U1AwMkpickxHSnJVU3MiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVTFJbEMxMUdQbEpXSzN1ZzZ0eldPMHc0UDFZbVcwOWJXeFA5TEtyUGRYaWFSZlI2eTY3a0lBQm1yMU5hbFV4VStFQkx1M05QdExnQjQyM3lUS0kvc0RVWnYvY1BQU29sM1BJZlMzd2IiLCJpIjoiVld5TkZlWldxUUdEaUhCYiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUUNEUlloaG13ckhsd1RqSHQxRExLQmFtdHUxK2tLSVI3UDRDbHJDTWtYU3hPQi9XQVp6QmtrTXNtaDZRVTJLUmNjSjNoWUdOSVVoZ3lxdEJlVWZCcmdyT0Q1SkZnSjZOb3lHU1RjcFY2TWc9IiwiaSI6IkFhbFlucUJ6NDlERWZRaWIiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA23566",
       "title": "[exFAT] EA SPORTS UFC 6 Ultimate Edition",
       "createdAt": "2026-11-13T12:22:33.992Z",
@@ -146193,27 +146296,6 @@
         {
           "name": "USA to EUR Langs exFAT 01.055 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3pCdzdGcG02bTNqQVV4Q2FnZGlKSjByLzUvenMzMFVKWjN6ZkxEbUdWV2ErUlJsM0R1VjdnTGw4TGFZdzJSbFZheEdkdXRCL2x0MFVsd1M5aDlZZ0xxZVo3TU9DQT09IiwiaSI6Ijd4Tk5lMkVDSEdzNzNSWlIiLCJuIjoiVmF1bHQifQ=="
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA31246",
-      "title": "[exFAT] Resident Evil Requiem Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.200",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.200 — DLCs Merged\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.200 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiZS9NQzY3R2xmcklONE1EemxwcklJWklWZm8ySnl0NUh1ZklCZ2xWdHZ1bVV3cWllN0FBQ05zNS9lTFNKbnhkcTN0YnQvWlU2IiwicyI6InZpcE05REhCcFQ5NEFDNENDWlhDZlE9PSIsImkiOiIzWm8vZStkbmRlbG1DbXVtIn0="
-        },
-        {
-          "name": "EUR exFAT 01.200 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoibiswaHF2VWU3Wmk3SDV2dWpGemsrbTVnNVkwbzRIUEdEN1VGcWUyU2tKbU1yMlFVRW5ITUNzVDBnUzBnZWx0ZlBBPT0iLCJzIjoiMVFCOFZKb09mLys0YVhrU1I0N1Vndz09IiwiaSI6IjJ6ZUJGU2NvS2xvUkdZK08ifQ=="
         }
       ]
     },
