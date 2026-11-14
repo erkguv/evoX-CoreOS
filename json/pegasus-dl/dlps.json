@@ -3,6 +3,250 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA17775",
+      "title": "Laika Aged Through Blood",
+      "createdAt": "2026-11-14T20:56:39.974Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/211bbc85c6bb38e4dfe6e548655031a56ee3acf83e219d5c.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/211bbc85c6bb38e4dfe6e548655031a56ee3acf83e219d5c.png",
+      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nContributor: @b0mba1992",
+      "downloadSource": "https://dlpsgame.com/laika-aged-through-blood-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/7d5GLW1XjzxR/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/23gdBQ"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/1ygKxEYBAR"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03463",
+      "title": "Mighty Goose",
+      "createdAt": "2026-11-14T20:56:39.974Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/6e3b9bbaebd2393a3f892abb8095578853b22ef19fe98198.jpg",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/6e3b9bbaebd2393a3f892abb8095578853b22ef19fe98198.jpg",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: @b0mba1992",
+      "downloadSource": "https://dlpsgame.com/mighty-goose-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/jar3XbVk7G2d/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1zemJs"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/vHHLvgTXXb"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA35106",
+      "title": "Adorable Adventures",
+      "createdAt": "2026-11-14T20:56:39.974Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2812/1a8d1f3279895572464312fdc95d71c150421793b7b83258.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2812/1a8d1f3279895572464312fdc95d71c150421793b7b83258.png",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher\nContributor: @LiGHTFORCE",
+      "downloadSource": "https://dlpsgame.com/adorable-adventures-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/LJlGnK1bVm15/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/v2FHc"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ZHKPjVYSJD"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30785",
+      "title": "Hyperviolent",
+      "createdAt": "2026-11-14T20:56:39.974Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1112/80a6cfbf99945e6aa5f2314169ee7cac985dee9febbd59a1.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1112/80a6cfbf99945e6aa5f2314169ee7cac985dee9febbd59a1.png",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher\nContributor: @LiGHTFORCE",
+      "downloadSource": "https://dlpsgame.com/hyperviolent-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNKW8WG7w/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/r0OQ4"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/cXgIc3NbgC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06822",
+      "title": "Drunken Fist 2 Zombie Hangover",
+      "createdAt": "2026-11-14T20:56:39.974Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2306/D6GT9twV0CZvdbaMdwCjwOaA.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2306/D6GT9twV0CZvdbaMdwCjwOaA.png",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher",
+      "downloadSource": "https://dlpsgame.com/drunken-fist-2-zombie-hangover-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/jar3XO7P8m2d/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1OsaRs"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/04nrL5kn56"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04914",
+      "title": "Demoniaca Everlasting Night",
+      "createdAt": "2026-11-14T20:56:39.974Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2106/tsMzg9axFoz2S5ooBIHPaQH0.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2106/tsMzg9axFoz2S5ooBIHPaQH0.png",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher\n\nVariant: USA 4.xx\nRegion: USA\nRelease note: Credits @Biogames Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/demoniaca-everlasting-night-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/E9Qz96rMbGOL/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/GECcC"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/652LFxnvV7"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/QN9mEn4Eo36d/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/f5LHc"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/4MJc14S3rU"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04294",
+      "title": "Enter Digiton Heart of Corruption",
+      "createdAt": "2026-11-14T20:56:39.974Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1309/eh5NU5H5IZbU4nGLgZnUWPXL.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1309/eh5NU5H5IZbU4nGLgZnUWPXL.png",
+      "description": "Region: USA\nRelease note: Works on 3.xx and higher",
+      "downloadSource": "https://dlpsgame.com/enter-digiton-heart-of-corruption-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 3.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZvQkZman/file"
+        },
+        {
+          "name": "USA 3.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1Ae8Zc"
+        },
+        {
+          "name": "USA 3.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/XSQ9WCBxlm"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04239",
+      "title": "One Gun Guy",
+      "createdAt": "2026-11-14T20:56:39.974Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2116/GVFLUyPMqA03J2wQUD43CM8h.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2116/GVFLUyPMqA03J2wQUD43CM8h.png",
+      "description": "Region: USA\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/one-gun-guy-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8XwR5GOB/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2FGfXk"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EY2Kc73tsB"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA14322",
+      "title": "Patapon 3",
+      "createdAt": "2026-11-14T20:56:39.974Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1402/c73f3d3fe23c466b4ae8965d91e2ce042409b70b9d071168.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1402/c73f3d3fe23c466b4ae8965d91e2ce042409b70b9d071168.png",
+      "description": "Variant: USA\nRegion: USA\nRelease note: Credits @Dunaevnick\nContributor: Thanks to dunaevnick for the Files and DecKerr97 GUI for the BackPort.\n\nVariant: USA exFAT 01.000.003\nRegion: USA\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/patapon-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA Base - Akirabox",
+          "url": "https://akirabox.to/N2p3D0EQ93Ma/file"
+        },
+        {
+          "name": "USA Base - Rootz",
+          "url": "https://www.rootz.so/d/MuSzg"
+        },
+        {
+          "name": "USA Base - Vikingfile",
+          "url": "https://vikingfile.com/f/bUgfHdramk"
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUjNJRFVheXRDaGU5eldlci9WaTQ4RGNUZElNRUpqcjZaYWRrRnBWQmUyVkdKWWMzNmQvSXhraW5LcmxDYTdZVWp3WlAzZ2ZWRGMweDZWa3RaZXdBbTIrYmRKTis1TVpZMFI5NEpjeFM2UT09IiwiaSI6IlJ3ZlBFTG9zUFNORnNaK1YiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidi8xNTljaDNNdEFtSEVWazFCRDlOZitheUM0UE5lRlZxa0ZtM08zcDc0VE1PTWdDMlpJcEkyWENNQmFjdkV1aEpoMGxlME9NeTdhWlZ2RlNqeEFqc3JQWmhQbWF3TEtFT0ZuMGRlbTB4UHc9IiwiaSI6Ikk1U1AwMkpickxHSnJVU3MiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVTFJbEMxMUdQbEpXSzN1ZzZ0eldPMHc0UDFZbVcwOWJXeFA5TEtyUGRYaWFSZlI2eTY3a0lBQm1yMU5hbFV4VStFQkx1M05QdExnQjQyM3lUS0kvc0RVWnYvY1BQU29sM1BJZlMzd2IiLCJpIjoiVld5TkZlWldxUUdEaUhCYiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUUNEUlloaG13ckhsd1RqSHQxRExLQmFtdHUxK2tLSVI3UDRDbHJDTWtYU3hPQi9XQVp6QmtrTXNtaDZRVTJLUmNjSjNoWUdOSVVoZ3lxdEJlVWZCcmdyT0Q1SkZnSjZOb3lHU1RjcFY2TWc9IiwiaSI6IkFhbFlucUJ6NDlERWZRaWIiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA04125",
       "title": "Shantae Riskys Revenge Directors Cut",
       "createdAt": "2026-11-12T06:53:36.318Z",
@@ -144264,35 +144508,6 @@
         {
           "name": "EUR exFAT 01.025 Base - VIKI (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSmNuendTc0dBSDRtaVBuQWhUbzdianpjUzUzb0t4eEpCcjlIT1o3NVp6SDFwb3ZCNjJxcmRsR2ttSlhHYmMycFRTakxuMXlwU05NK2U2S3ZyVTVEM0lBenowWWxiMjZwaUZWN015U0VkWms9IiwiaSI6InY1MzJNUmJXeXg1RXlWM2ciLCJuIjoiVmlraSJ9"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA14322",
-      "title": "[exFAT] Patapon 3",
-      "createdAt": "2026-11-14T12:48:37.769Z",
-      "version": "01.000.003",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1402/c73f3d3fe23c466b4ae8965d91e2ce042409b70b9d071168.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1402/c73f3d3fe23c466b4ae8965d91e2ce042409b70b9d071168.png",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.000.003 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUjNJRFVheXRDaGU5eldlci9WaTQ4RGNUZElNRUpqcjZaYWRrRnBWQmUyVkdKWWMzNmQvSXhraW5LcmxDYTdZVWp3WlAzZ2ZWRGMweDZWa3RaZXdBbTIrYmRKTis1TVpZMFI5NEpjeFM2UT09IiwiaSI6IlJ3ZlBFTG9zUFNORnNaK1YiLCJuIjoiRGF0YSJ9"
-        },
-        {
-          "name": "USA exFAT 01.000.003 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidi8xNTljaDNNdEFtSEVWazFCRDlOZitheUM0UE5lRlZxa0ZtM08zcDc0VE1PTWdDMlpJcEkyWENNQmFjdkV1aEpoMGxlME9NeTdhWlZ2RlNqeEFqc3JQWmhQbWF3TEtFT0ZuMGRlbTB4UHc9IiwiaSI6Ikk1U1AwMkpickxHSnJVU3MiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.000.003 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVTFJbEMxMUdQbEpXSzN1ZzZ0eldPMHc0UDFZbVcwOWJXeFA5TEtyUGRYaWFSZlI2eTY3a0lBQm1yMU5hbFV4VStFQkx1M05QdExnQjQyM3lUS0kvc0RVWnYvY1BQU29sM1BJZlMzd2IiLCJpIjoiVld5TkZlWldxUUdEaUhCYiIsIm4iOiJBa2lhIn0="
-        },
-        {
-          "name": "USA exFAT 01.000.003 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUUNEUlloaG13ckhsd1RqSHQxRExLQmFtdHUxK2tLSVI3UDRDbHJDTWtYU3hPQi9XQVp6QmtrTXNtaDZRVTJLUmNjSjNoWUdOSVVoZ3lxdEJlVWZCcmdyT0Q1SkZnSjZOb3lHU1RjcFY2TWc9IiwiaSI6IkFhbFlucUJ6NDlERWZRaWIiLCJuIjoiVmlraSJ9"
         }
       ]
     },
