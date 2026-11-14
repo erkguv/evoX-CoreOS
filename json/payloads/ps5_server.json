@@ -2,16 +2,6 @@
   "name": "PS5 Server",
   "payloads": [
     {
-      "name": "Zftpd-Ps5-Zhttp-V1.7.0",
-      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
-      "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
-      "category": "PS5 Server",
-      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
-    },
-    {
       "name": "Zftpd-Ps5-V1.7.0",
       "filename": "zftpd-ps5-v1.7.0.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
@@ -20,6 +10,16 @@
       "version": "v1.7.0",
       "category": "PS5 Server",
       "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
+    },
+    {
+      "name": "Zftpd-Ps5-Zhttp-V1.7.0",
+      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "description": "FTP server payload for PS5. Port: 21",
+      "version": "v1.7.0",
+      "category": "PS5 Server",
+      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
     },
     {
       "name": "Elfldr V0.27",
@@ -39,7 +39,7 @@
       "description": "FTP server background daemon. Port: 21",
       "version": "v0.22",
       "category": "PS5 Server",
-      "checksum": "5e845b93dac8906f15f72dbe5b3ee07d3a4c47474a3afd4126d8ba4a280b106d"
+      "checksum": "50a5d2bb188a825eedce13b4d3ca92f5c6c71852f591f1506860fd30d6f45363"
     },
     {
       "name": "Websrv V0.34",
@@ -59,7 +59,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb"
+      "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5"
     },
     {
       "name": "Klogsrv V0.9",

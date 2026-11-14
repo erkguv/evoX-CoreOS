@@ -72,16 +72,6 @@
       "checksum": "6a16c6457c604db4846632510da0975f49faba08e6cab9cfd7f84d78b4557d97"
     },
     {
-      "name": "Ps5-Self-Decrypter-Game",
-      "filename": "ps5-self-decrypter-game.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf",
-      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf",
-      "description": "SELF decrypter tool for PS5 binaries.",
-      "version": "v0.5.2",
-      "category": "PS5 Sdk Debug",
-      "checksum": "190b350759b4f9d50949325e84d131e0953f37a9df271c329ba43c80c0ac7a57"
-    },
-    {
       "name": "Ps5-Self-Decrypter-Full-System",
       "filename": "ps5-self-decrypter-full-system.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf",
@@ -90,6 +80,16 @@
       "version": "v0.5.2",
       "category": "PS5 Sdk Debug",
       "checksum": "46340d3048a977f5603b3def0a0ba1c85b5c182891388442e51b39e281257b6a"
+    },
+    {
+      "name": "Ps5-Self-Decrypter-Game",
+      "filename": "ps5-self-decrypter-game.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf",
+      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf",
+      "description": "SELF decrypter tool for PS5 binaries.",
+      "version": "v0.5.2",
+      "category": "PS5 Sdk Debug",
+      "checksum": "190b350759b4f9d50949325e84d131e0953f37a9df271c329ba43c80c0ac7a57"
     },
     {
       "name": "Ps5-Self-Decrypter-Shellcore",
@@ -119,7 +119,7 @@
       "description": "Memory debugging and inspection suite.",
       "version": "nightly-20261112-g6e31144",
       "category": "PS5 Sdk Debug",
-      "checksum": "d2d8565c7c83b1d1dfe5d66471b5941b164d21854eee6a1b2e1d945eed383cbb"
+      "checksum": "1bbc659ebc82c309203fbb261666bb3d9802dcd7a20fbee3563f458eedd02b26"
     },
     {
       "name": "Ps5-Hwinfo V0.1",
@@ -129,7 +129,7 @@
       "description": "PS5 payload for collecting hardware and runtime telemetry.",
       "version": "0.1",
       "category": "PS5 Sdk Debug",
-      "checksum": "4514bdbc0c556df1a66544615942d5087d1cbee5c2026b3b66e688ba01e5a5b0"
+      "checksum": "ad5014112dec619779619d0ea01a984b3c8267fed682eca5687f34c9eade51cb"
     }
   ]
 }

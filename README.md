@@ -137,7 +137,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Fan Target 75C V0.1 | [0.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf) | `4b52e09c48eb...` | fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console |
 | Fan Target 80C V0.1 | [0.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf) | `ccf2e709218f...` | fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console |
 | Fan Target 85C V0.1 | [0.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf) | `c37019c351c1...` | fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console |
-| Fan Target V0.1 | [0.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_v0.1.elf) | `a9ad85021237...` | fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console |
+| Fan Target V0.1 | [0.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_v0.1.elf) | `0bedeb564947...` | fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console |
 | Ps5-Fan-Control V0.3 | [v0.3](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf) | `b10b6b9b9c00...` | Small PS5 daemon payload ELF that sets the system fan temperature. |
 
 ### 📂 PS5 File Explorer
@@ -149,7 +149,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | Bfpilot V0.4.4 | [v0.4.4](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf) | `5a8237630260...` | BFpilot is a lightweight PS5 payload that serves a browser-based file manager. |
 | Lapy Jb Daemon | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf) | `e8230ac4597b...` | Daemon pour le jailbreak de Lapy |
-| Ps5-File-Explorer Vfile-Explorer-V0.2.1 | [file-explorer-v0.2.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf) | `1013c23b1298...` | PS5 File Explorer http://your-ps5-ip:5905. |
+| Ps5-File-Explorer Vfile-Explorer-V0.2.1 | [file-explorer-v0.2.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf) | `6d4b905b4272...` | PS5 File Explorer http://your-ps5-ip:5905. |
 | Web-File-Mgr-V1.14 | [v1.14](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf) | `8493c0bd11d7...` | PS5 Web File Manager http://your-ps5-ip:8888. |
 | Wfm-7Zip-Helper | [v1.14](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf) | `6acc2972d358...` | PS5 Web File Manager http://your-ps5-ip:8888. |
 
@@ -233,7 +233,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `138283bfd4b5...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `2e2688457d25...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -278,9 +278,9 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Memdbg Vnightly-20261112-G6E31144 | [nightly-20261112-g6e31144](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20261112-g6e31144/MemDBG_vnightly-20261112-g6e31144.elf) | `d2d8565c7c83...` | Memory debugging and inspection suite. |
+| Memdbg Vnightly-20261112-G6E31144 | [nightly-20261112-g6e31144](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20261112-g6e31144/MemDBG_vnightly-20261112-g6e31144.elf) | `1bbc659ebc82...` | Memory debugging and inspection suite. |
 | Ps5-Fw-Spoof | [26616621599](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof.elf) | `f1754521caa9...` | Firmware spoofer utility for PS5. |
-| Ps5-Hwinfo V0.1 | [0.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-hwinfo/0.1/ps5-hwinfo_v0.1.elf) | `4514bdbc0c55...` | PS5 payload for collecting hardware and runtime telemetry. |
+| Ps5-Hwinfo V0.1 | [0.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-hwinfo/0.1/ps5-hwinfo_v0.1.elf) | `ad5014112dec...` | PS5 payload for collecting hardware and runtime telemetry. |
 | Ps5-Remoteplay-Get-Pin V0.1.1 | [v0.1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-remoteplay-get-pin/v0.1.1/ps5-remoteplay-get-pin_v0.1.1.elf) | `1d611c1856dd...` | Utility to get Remote Play PIN. |
 | Ps5-Self-Decrypter-Full-System | [v0.5.2](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf) | `46340d3048a9...` | SELF decrypter tool for PS5 binaries. |
 | Ps5-Self-Decrypter-Game | [v0.5.2](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf) | `190b350759b4...` | SELF decrypter tool for PS5 binaries. |
@@ -302,8 +302,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Airpsx V0.19 | [0.19](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf) | `ae025ca7727b...` | AirPSX server tool for PS5 ecosystem. |
 | Elfldr V0.27 | [v0.27](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf) | `82f622761017...` | ELF Loader utility. Port: 9020 / 9021 |
 | Ftpsrv Drakmor V1.16-Ng-Stable | [1.16-ng-stable](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf) | `fba508465a8c...` | Drakmor |
-| Ftpsrv Ps5-Payload V0.22 | [v0.22](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.22/ftpsrv_ps5-payload_v0.22.elf) | `5e845b93dac8...` | FTP server background daemon. Port: 21 |
-| Gdbsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | `fc91ea233cdb...` | GDB Debugger server payload. Port: 1234 |
+| Ftpsrv Ps5-Payload V0.22 | [v0.22](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.22/ftpsrv_ps5-payload_v0.22.elf) | `50a5d2bb188a...` | FTP server background daemon. Port: 21 |
+| Gdbsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | `80952d75f423...` | GDB Debugger server payload. Port: 1234 |
 | Klogsrv V0.9 | [v0.9](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `7e89c33eb90d...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Client V2.20 | [2.20](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf) | `eda226e008ef...` | Easy remote client application for PS5. |
 | Ps5-Ezremote-Server V1.13 | [1.13](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a92...` | Easy remote server component. Port: 8080 |
@@ -334,7 +334,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Ps Game State Lib V0.1 | [v0.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf) | `a550e1494b0f...` | Standalone PS5 game-state detection payload - webui ps5ip:9877 . |
 | Ps-Discordpresence V0.01 | [v0.01](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_utility/PS-DiscordPresence/v0.01/PS-DiscordPresence_v0.01.elf) | `375cf619ea6f...` | PS5 game activity service with a local status endpoint and a Python Discord RPC bridge. |
 | Ps5-Date-Time-Sync V1.0.0 | [v1.0.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_utility/ps5-date-time-sync/v1.0.0/ps5-date-time-sync_v1.0.0.elf) | `918062298038...` | A lightweight, standalone PS5 payload that restores the console |
-| Ps5-Power-Payloads-Project V1.0 | [1.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_utility/PS5-Power-Payloads-Project/1.0/PS5-Power-Payloads-Project_v1.0.elf) | `42ed7983619a...` | PS5-Power-Payloads-Project utility. |
+| Ps5-Power-Payloads-Project V1.0 | [1.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_utility/PS5-Power-Payloads-Project/1.0/PS5-Power-Payloads-Project_v1.0.elf) | `a06cf9ace6e1...` | PS5-Power-Payloads-Project utility. |
 | Unrar-Ps5 V1.4.0 | [v1.4.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_utility/unrar-ps5/v1.4.0/unrar-ps5_v1.4.0.elf) | `2ef04b0bc8fc...` | PS5 ELF payload for extracting RAR and 7z archives on a jailbroken PS5 and installing extracted apps into a configurable layout.. |
 
 ### 📂 PS5 Video Player
