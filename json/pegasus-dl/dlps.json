@@ -3,6 +3,130 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26767",
+      "title": "Deadzone Rogue",
+      "createdAt": "2026-11-15T20:26:52.343Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2901/714fd21915cb127b578d6cde41dbe592e402a380de4f1c21.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2901/714fd21915cb127b578d6cde41dbe592e402a380de4f1c21.png",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher (with backport)\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.001.022\nRegion: USA\nRelease note: exFAT format — FW 01.001.022 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/deadzone-rogue-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/N2p3D0EYk3Ma/file"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PDHltp8OAY"
+        },
+        {
+          "name": "USA exFAT 01.001.022 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMk5yckpHVFRvb2J6S21iaHkwaWM4a3Ixc0hHYWZGVVVFcFZ1bXNpUTlkZFB0VWQ0d21KMDl0bk5VcDVBaW1XbDJOQWlqUkMyNXlSanRTSWt2K1RkUyttMGtFYmtYQjdvNkQrUG1USzRFdz09IiwiaSI6IlRxTUhEY0lweFNzNm5mUWciLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.001.022 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNXRFc0hPc0h1dmx3eEVIZS9UYitzTkR6R2VsRGhYL2dBZnJNNTFJdHFMUEFZM3lzZFErWlRNb0ZYNG1mLys4ajYyaUl3Njk5NjdEZ2V1N1g0Q1Fwc1JLMU1BbXZmL1BPT3E1OW5IUEw4amc9IiwiaSI6IjJmbEpVempocEhIaEtuODEiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.001.022 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQ2ZSc2I0NnNJM3YybTdScjJERUF1ZDdnMDVDSjZ3TVRqS0U2QVFtWEZNakJSWDVJSUYvb1hiSkNwdFBBc0p6dG5pY2F0QXZLTkZMMFlIR3VBRDJ3eFM1cmJqRW9Od2RHcmlETGtIOFoiLCJpIjoiR2xLdmhvMmRzNVFJNnp2VSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.001.022 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib1hldno4UjY0b0JkOXBMaXVXVm85V2RscmtBVHdaUWF4a3RxTkxLcXZLWG9DMVBjdkRPczVvVDZlTzVwTVhjbDZnYjdzWWFYM0tWY2JUbC9TOVE1QTBlWmZVKzhhdU9ZYlFhenpLQVBaOXM9IiwiaSI6IjZ1Vm51RjVEQ085NDJiNDciLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18690",
+      "title": "Lost Ruins",
+      "createdAt": "2026-11-15T20:26:52.343Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1310/JdwA9IKvVUJ3x7jC9AxwfEu1.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1310/JdwA9IKvVUJ3x7jC9AxwfEu1.png",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/lost-ruins-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJWZr8m1o/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/imWsi"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/IicI1KldNC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06207",
+      "title": "What Remains of Edith Finch",
+      "createdAt": "2026-11-15T20:26:52.343Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07974_00/2/i_6d88053a890f153b51fc3c805b4ecb0b5332f19dd6b1aa5c062f0f182870eae6/i/icon0.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07974_00/2/i_6d88053a890f153b51fc3c805b4ecb0b5332f19dd6b1aa5c062f0f182870eae6/i/icon0.png",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher (with backport)\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/what-remains-of-edith-finch-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/jar3XbVjgG2d/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/MztRY"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/KhnkPcoCzJ"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib2NDNFNya3llQmRlbE0xSFpDbWczWHhqUFgycXA1SHJ5aCsvYU56YUJTQjlucU9qc2lYUCs5ZUhUOTdVNlJGV2RuUWlIOHRNbmtKRlZmQU5ZMlptUWZBM2FNTTFVL1FIaFRIVWlQTm1sdz09IiwiaSI6IkVsT3JaWGdkbzEyZlQ0VkwiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY1lGUlIrbmp4eHM5RTR1cVova05SUno2UmV2eVZraG9qbnNpZjVFR3VHYVpnWEdwYWMzamdOaFVzeFVGK1RENC9xcTBaYXJ5NzlFMU1jaGZocFlWNVFTRjBrN2VJUzU4cmgvbURzdWljc0U9IiwiaSI6IkZDZ0xqT3k0b20zODg0ZG0iLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYmVHMWxBaWNrSGswUlRQbmZqSnQvOTQ3dHZtdlV2UjBsN3pPRG5raytOL250WGNHYnNjNFdqbWNEaEMwVEppUTVlZ1Y1MHR6dUFua1ZNWTQzeis5MGl4cXhmRjZCSCtpdVRlQ0V1YUEiLCJpIjoicytXUTNoTGlZMWwwRDNPMiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZEV6ZVh2VjJ4S0p0dWxqZmQ3VzF3SEtOYjBGTG9UZFFwMFBuME9FQUtOMVoybWFzU2hkV1Q4bjZVY0FONVVhUEpFaWkvNlNhRnJLUDROczhTZFNYR1lZdXdsL3l3Yk90UzFmMlNhTXE3NEE9IiwiaSI6ImZuQTFNNm9CTXA0ekxlY0MiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA15753",
+      "title": "Nightmare Reaper",
+      "createdAt": "2026-11-15T20:26:52.343Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0121/de45ce14caf35770fc275c73507f9ba4685ca7b4ed2b4e4f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0121/de45ce14caf35770fc275c73507f9ba4685ca7b4ed2b4e4f.png",
+      "description": "Region: USA\nRelease note: Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/nightmare-reaper-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/1RgzRLq2Xmbp/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1uwtu4"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Qou70IGjHi"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA14650",
       "title": "Afterlife VR",
       "createdAt": "2026-11-15T12:11:44.151Z",
@@ -2173,7 +2297,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1520/ly42NkVcw3AIATr0OeBKhy9d.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1520/ly42NkVcw3AIATr0OeBKhy9d.png",
-      "description": "Region: USA\nRelease note: Works on 4.xx and higher (with backport)",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher (with backport)\n\nVariant: USA exFAT 01.000.002\nRegion: USA\nRelease note: exFAT format — FW 01.000.002 — 4.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/serious-sam-siberian-mayhem-ps5/",
       "downloadLinks": [
         {
@@ -2223,6 +2347,22 @@
         {
           "name": "USA 4.xx Base - Vikingfile part 4",
           "url": "https://vikingfile.com/f/Fn57pmDF5V"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTmtMZFJBeWcxblVKNEt5SXN2NWd1aDAwSlg3MDRqU3ZPV05JdndQY0pUYkZ2Slc1SnduR1NXZ1BlT0RYeC9xd2sxS2JMUjJiNXlOUnp5aTYvT2RLNmFicXdKNkhGQW5mN0xiaXc5bi9zQT09IiwiaSI6InRqQnBoVU4rNlZNUEpNcG8iLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibEZWUUdUdmFpdlFzYlpVdzloRk0vbXNWVENaeXVqQjBGR1REbnhGanBiYTVKQzY5VytkbXpwWnFCZktEMzllVGZCZmk2RHl0RjdyUFM1RmhvMEFIUHRnR3dZb1Axb2YzSXdzNjArVWtLdDA9IiwiaSI6IjFSZUhkYXNCQlNyQ2RJVGQiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNVBIMjhSZGErVmNPWHRvT21OcVlhb1dsYjNBaHNheUN0Q2o0dmtVemVhZ2NVS2JYT0UzUzNCWjRSbWRBWE02Q1V0UEZDa0xjOFRWQzhKVnpMa2JxL3kzWGV3emhsY2kzREJwOGNLMk4iLCJpIjoiYzBTeSs3aTZoTDRCYnljYiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibERPL0VMWmg0T3daVUhuRndvbDA1OUd3M0xGTFFmckQ2UWJVRGhSdXZxRVF2V3c4VU5VcWdGQWk3OStTQk9qSTZzVzZjVStFblZJdVk1TWpIZ0xGUEFhZWxqRmRLaXhZb2V3MzdGK3NwTjQ9IiwiaSI6IkMvNnRnQnN6RXByVmZsQm8iLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -144522,6 +144662,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYjhsRU1kVktyTWcwN1pXY3FLYnRaeVdSZUd5Mmd2VVJuaU1qTWRTZit5UzllVm1wS1B2QmJZWUxKOVI5OGVSdXFwVzFsajViYThBTEdjTlJCZXhGSXRhR1hDZkFJZz09IiwiaSI6ImVKbEdNTTEzcTFsSk95OSsiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08668",
+      "title": "[exFAT] FINAL FANTASY VII REBIRTH Deluxe Edition",
+      "createdAt": "2026-11-15T20:26:52.343Z",
+      "version": "01.080",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/6de6b1c4b0c475b5c28fd2011655ab8206ed846926fa1671.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/6de6b1c4b0c475b5c28fd2011655ab8206ed846926fa1671.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.080 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.080 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTWpXLzg3VVVSMjNVOVhUYURTRHlpVzd6S0FsVy94WnlnYUtTZkNDVmMzUXZxdjJJd1hOZm9oQmcza0ZPUWNrbDRGc2EvWGFJbWl2bFdWOEQxeU1ZUDJwRnk5NVUzeEo2UzVDVGxtdVhoUT09IiwiaSI6IlBFRlNxY2tzYmU1bzNKRXciLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.080 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiM2FJTzErMWRaZ0lLSElvRkpQRTN4SW5sTFNoMXl0cjE3MC9za0Rqbkh0SDE1eEZXeG1wbjY5UU00Q1E2MlNQTS94RUlvVEx3QnRQUG5pb05kWHZWd0dtREkwanFCNlk2N2lWaE1aRjJSVGM9IiwiaSI6IlNwaXFvQTlwcjdDbUM1bUUiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.080 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNDBkWUZpcmZONUhOOWRLU01qRERlMGVRTUpYM2NHNEN6d2E3ektxSVI5aEo5dms4SXpKUVhjUTlOOXBzMXk5Z2xEcTJMRWVNMFFKYjlsdzZtNnRMZHhmU3oydWd5SVY0MTQwS2xuTVMiLCJpIjoidkpFYlBuVStTOE54L1I0bSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.080 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVlgyeitjb3V5VmEzT2RLSjRBbjZzRTc0eDc2UkRnQWhPeVkyUU9FQ0gzbStudEVwK0pMMnZXbzc4c3NWUVJ4WjljeS8reGxGSk5HUFZFR2dvNER2S1NWbDNkYy9iN2g0blFWRDliN2x0UzA9IiwiaSI6IlZ6N0NldlIxcTZvTTIzNzEiLCJuIjoiVmlraSJ9"
         }
       ]
     },
