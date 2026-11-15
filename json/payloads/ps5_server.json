@@ -2,16 +2,6 @@
   "name": "PS5 Server",
   "payloads": [
     {
-      "name": "Zftpd-Ps5-Zhttp-V1.7.0",
-      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
-      "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
-      "category": "PS5 Server",
-      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
-    },
-    {
       "name": "Zftpd-Ps5-V1.7.0",
       "filename": "zftpd-ps5-v1.7.0.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
@@ -20,6 +10,16 @@
       "version": "v1.7.0",
       "category": "PS5 Server",
       "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
+    },
+    {
+      "name": "Zftpd-Ps5-Zhttp-V1.7.0",
+      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "description": "FTP server payload for PS5. Port: 21",
+      "version": "v1.7.0",
+      "category": "PS5 Server",
+      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
     },
     {
       "name": "Elfldr V0.27",
@@ -59,7 +59,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb"
+      "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5"
     },
     {
       "name": "Klogsrv V0.9",
@@ -69,7 +69,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
+      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8"
     },
     {
       "name": "Ftpsrv Drakmor V1.16-Ng-Stable",
@@ -102,14 +102,14 @@
       "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
     },
     {
-      "name": "Ps5Upload V12.4.20",
-      "filename": "ps5upload_v12.4.20.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.4.20/ps5upload_v12.4.20.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v12.4.20/ps5upload_v12.4.20.elf",
+      "name": "Ps5Upload V12.4.22",
+      "filename": "ps5upload_v12.4.22.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.4.22/ps5upload_v12.4.22.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v12.4.22/ps5upload_v12.4.22.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.4.20",
+      "version": "v12.4.22",
       "category": "PS5 Server",
-      "checksum": "23584161eb851eca7185ede538387da8a280cfc84092e0c3dff488e41975cbba"
+      "checksum": "b60d65a9f753233cd1a25f46eb3c3e7de595f251a1b87d8a9deefaf4c2b8cf06"
     },
     {
       "name": "Airpsx V0.19",

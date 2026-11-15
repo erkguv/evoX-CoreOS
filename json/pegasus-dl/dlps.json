@@ -3,6 +3,78 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA14650",
+      "title": "Afterlife VR",
+      "createdAt": "2026-11-15T12:11:44.151Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2112/22cdf6601ba5144968e262ef76647c1ec78dd1cc8d7e00a0.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2112/22cdf6601ba5144968e262ef76647c1ec78dd1cc8d7e00a0.png",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/afterlife-vr-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/dkD3YDr69mLQ/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/uMDjM"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/H9o3q4ejLk"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13271",
+      "title": "Mundaun",
+      "createdAt": "2026-11-15T12:11:44.151Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/1922/RW4PxBRPzTOy1p5BwyA8xxC8.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/1922/RW4PxBRPzTOy1p5BwyA8xxC8.png",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/mundaun-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/k0embkoMW3Vb/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1zEgbY"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ZHlpOUz6sy"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07663",
+      "title": "Forest Grove",
+      "createdAt": "2026-11-15T07:06:37.934Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2400/u7T0rFRp8WpoaNELJKRal6OZ.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2400/u7T0rFRp8WpoaNELJKRal6OZ.png",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/forest-grove-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZvxa7man/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2JNwvI"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/8sFaGmRLlT"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA17775",
       "title": "Laika Aged Through Blood",
       "createdAt": "2026-11-14T20:56:39.974Z",
