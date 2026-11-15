@@ -2,16 +2,6 @@
   "name": "PS5 Server",
   "payloads": [
     {
-      "name": "Zftpd-Ps5-V1.7.0",
-      "filename": "zftpd-ps5-v1.7.0.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
-      "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
-      "category": "PS5 Server",
-      "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
-    },
-    {
       "name": "Zftpd-Ps5-Zhttp-V1.7.0",
       "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
       "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
@@ -20,6 +10,16 @@
       "version": "v1.7.0",
       "category": "PS5 Server",
       "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
+    },
+    {
+      "name": "Zftpd-Ps5-V1.7.0",
+      "filename": "zftpd-ps5-v1.7.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
+      "description": "FTP server payload for PS5. Port: 21",
+      "version": "v1.7.0",
+      "category": "PS5 Server",
+      "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
     },
     {
       "name": "Elfldr V0.27",
@@ -59,7 +59,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5"
+      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb"
     },
     {
       "name": "Klogsrv V0.9",
@@ -69,7 +69,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8"
+      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
     },
     {
       "name": "Ftpsrv Drakmor V1.16-Ng-Stable",
