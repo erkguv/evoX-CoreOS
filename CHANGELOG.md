@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 16/11/2026 à 15:08
+* **PAYLOADS**
+  * `Orbit Store` (v1.9.2) - *Mise à jour (Précédent: v1.9.1)*
+
 ## Build du 15/11/2026 à 13:41
 * **PAYLOADS**
   * `Prosperomgr` (v1.2.1) - *Mise à jour (Précédent: v1.2)*

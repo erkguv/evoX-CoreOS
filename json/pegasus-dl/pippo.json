@@ -3,6 +3,232 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA17221",
+      "title": "Minecraft",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "v01.059",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA17221, v01.059, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/t2H5Aodj#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/t2H5Aodj#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/t2H5Aodj#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/t2H5Aodj#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/8P0UxuDR#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/8P0UxuDR#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/8P0UxuDR#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/8P0UxuDR#FileKeeper"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA07663",
+      "title": "Forest Grove",
+      "createdAt": "2026-11-16T11:41:37.607Z",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2400/u7T0rFRp8WpoaNELJKRal6OZ.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2400/u7T0rFRp8WpoaNELJKRal6OZ.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA07663, v01.001, USA, 4.xx BackPort\nSize: 2GB\nCredits: Files: D0ng3r; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 6.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/MyoJ_r9B#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/MyoJ_r9B#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/MyoJ_r9B#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/MyoJ_r9B#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/K_2eBTCs#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/K_2eBTCs#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/K_2eBTCs#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/K_2eBTCs#FileKeeper"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA06246",
+      "title": "QUBE 2 Ultimate Edition",
+      "createdAt": "2026-11-16T11:41:37.607Z",
+      "version": "v01.000.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2914/vb30wsXA6gsoaQuerxhVeYko.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2914/vb30wsXA6gsoaQuerxhVeYko.png",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06246, v01.000.001, USA, 4.xx BackPort\nSize: 6GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 6.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/rspK7Leq#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/rspK7Leq#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/F-IpRvSK#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/F-IpRvSK#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/F-IpRvSK#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/F-IpRvSK#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/7nzTLdtF#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/7nzTLdtF#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/7nzTLdtF#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/7nzTLdtF#FileKeeper"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA04609",
+      "title": "ELDEN RING Deluxe Edition",
+      "createdAt": "2026-11-16T13:43:38.175Z",
+      "version": "v01.018.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA04609, v01.018.001, EUR, DLCs Merged, 3.xx and beyond\nSize: 138GB\nCredits: Files: slavkarak &amp; dunaevnick; DLC: slavkarak &amp; dunaevnick\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/NZ1H66ef#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/NZ1H66ef#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/NZ1H66ef#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/NZ1H66ef#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/y1KrB1Gd#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/y1KrB1Gd#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/y1KrB1Gd#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/y1KrB1Gd#FileKeeper"
+        }
+      ],
+      "sizeBytes": 148176371712
+    },
+    {
+      "titleId": "PPSA25381",
+      "title": "Elden Ring Nightreign Deluxe Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "v01.003.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1301/308f8421ff74f3b061b231defc364d3f01e1710ea6fe6876.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1301/308f8421ff74f3b061b231defc364d3f01e1710ea6fe6876.png",
+      "description": "Tags: PPSA25381, v01.003.002, EUR, DLCs Merged, 4.xx BackPort\nSize: 55GB\nCredits: Files: Scene; Backport: DecKerr97; DLC: Scene\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36KY1dz19/file"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/wihmakcmt19w"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/9m4yPVgjQz"
+        },
+        {
+          "name": "Vault",
+          "url": "https://datavaults.co/8j2km010ythm"
+        },
+        {
+          "name": "Filek",
+          "url": "https://filekeeper.net/jc5aiuzel3gm"
+        }
+      ],
+      "sizeBytes": 59055800320
+    },
+    {
       "titleId": "PPSA26767",
       "title": "Deadzone Rogue",
       "createdAt": "2026-11-15T14:20:37.837Z",
@@ -202,7 +428,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA31246, v01.310, EUR, 4.xx BackPort\nSize: 133GB\nCredits: Files: dunaevnick; Backport: DecKerr97 GUI; DLC: dunaevnick\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA31246, v01.310, EUR, 6.xx BackPort\nSize: 133GB\nCredits: Files: dunaevnick; Backport: DecKerr97 GUI; DLC: dunaevnick\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -2873,7 +3099,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2119/29d08d5a0713f278cc887198dff4ac1a35d7ba0aaefb9b89.jpg",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2119/29d08d5a0713f278cc887198dff4ac1a35d7ba0aaefb9b89.jpg",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA23559, v02.100, EUR, 4.xx BackPort\nSize: 130GB\nCredits: Files: Karner; Backport: DecKerr97 GUI; DLC: Karner\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA23559, v02.100, EUR, 6.xx BackPort\nSize: 130GB\nCredits: Files: Karner; Backport: DecKerr97 GUI; DLC: Karner\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -16923,40 +17149,6 @@
       "sizeBytes": 15032385536
     },
     {
-      "titleId": "PPSA17221",
-      "title": "Minecraft",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.044",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
-      "description": "Tags: PPSA17221, v01.044, USA, 4.xx BackPork\nSize: 2GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0JgG75YMN3oY/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/ahR3o6gRIT"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/ms39ikjlybvx"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/bff8r67t0ynr"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/2izykrwkq2pc"
-        }
-      ],
-      "sizeBytes": 2147483648
-    },
-    {
       "titleId": "PPSA05732",
       "title": "Way of The Hunter",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -25025,40 +25217,6 @@
         }
       ],
       "sizeBytes": 20401094656
-    },
-    {
-      "titleId": "PPSA25381",
-      "title": "ELDEN RING NIGHTREIGN Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.003.002",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1301/308f8421ff74f3b061b231defc364d3f01e1710ea6fe6876.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1301/308f8421ff74f3b061b231defc364d3f01e1710ea6fe6876.png",
-      "description": "Tags: PPSA25381, v01.003.002, EUR, DLCs Merged, 4.xx BackPort\nSize: 55GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/qLQ36KY1dz19/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/9m4yPVgjQz"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/wihmakcmt19w"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/jc5aiuzel3gm"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/8j2km010ythm"
-        }
-      ],
-      "sizeBytes": 59055800320
     },
     {
       "titleId": "PPSA01695",
@@ -35216,32 +35374,6 @@
         }
       ],
       "sizeBytes": 96636764160
-    },
-    {
-      "titleId": "PPSA04609",
-      "title": "ELDEN RING Shadow of the Erdtree Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.017",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png",
-      "description": "Tags: PPSA04609, v01.017, EUR, 3.xx and beyond\nSize: 194GB\nCredits: Files: SiESPTA",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/ex5z2qJwo3Kq/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/Yx2oOmhZWA"
-        },
-        {
-          "name": "BuzzHeavier",
-          "url": "https://buzzheavier.com/eqfjuyld9vxm"
-        }
-      ],
-      "sizeBytes": 208305913856
     },
     {
       "titleId": "PPSA04404",
