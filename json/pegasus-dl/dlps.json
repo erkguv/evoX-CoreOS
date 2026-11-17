@@ -3,6 +3,62 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06246",
+      "title": "QUBE 2 Ultimate Edition",
+      "createdAt": "2026-11-16T21:05:39.847Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2914/vb30wsXA6gsoaQuerxhVeYko.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2914/vb30wsXA6gsoaQuerxhVeYko.png",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher (with backport)\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.000.001\nRegion: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/qube-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrvqwMGkx/file"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/MsanLBy4Ka"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSXNDeDByRDhtSjJCVkV2Y1lzZktaRDFodnhWRDB6ZXZ1cCt5NkwrSUtUcU9ldmIvSlNwMEZHQjdtam5PR0ZGbmZCSHZPNC9yc2xacVlHcWRGUFE5VFM0cXRlWGdlQ3pXT2J5VE1jNTJ2UT09IiwiaSI6InVLcGdiOWxBd09xTUd0bjAiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibHNseDUyMm5Fcjk3REdWdXJyVXpOZmpraGptU3o0MFNiUG1GaE9pVHlNNVNrSG9weHNzNmYrU3ZwVVdvQ0xEeFFtK0R1QWhLTGtYeDBXN05yYUNyOHF1elMzN0dyMzFWdnNka1RQcXdzS009IiwiaSI6IkpPaEhqR0FQNEQwRktvbmUiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWmxvSXRiYkRMV2Z4YjdET1ZKeFdhL3lVa2dBcXpFbS9hQk5WVjJOdGFMbHVkUW1MSXlzV3kyTzY2Z1lsVnVLR1JxaUxWdHBTWEMybXhRdW9PUFVUQldJcFlkRS9yQWt3MkQxL0hMM00iLCJpIjoiL0FqN2dYbFNHa2pWRkM5ViIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoickJ4Q0ZTTk9IV3hocEtGcjA1aWFpcTh5KzdlcHI0TFZjK1BSdDRDTnpKV0xLMkVuK24vUi9JRFBrbjBIRGdqcVdycUNicVRxRVloNkpMY1VlSGR1cm5rN1RiYWFKZnpvV0hieGJ2eW5pWTA9IiwiaSI6Ilhncm1laEZnU3NEYkdmSk4iLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09114",
+      "title": "Green Hell VR",
+      "createdAt": "2026-11-16T21:05:39.847Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1615/fdca71cc27b71db2f07c34b59990d11d60836422e79a4bc0.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1615/fdca71cc27b71db2f07c34b59990d11d60836422e79a4bc0.png",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher\nContributor: @b0mba1992 for the dump!",
+      "downloadSource": "https://dlpsgame.com/green-hell-vr-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/jJD3V1RkNma5/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Zrkf8hJwWX"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA06732",
       "title": "Teenage Mutant Ninja Turtles Shredders Revenge",
       "createdAt": "2026-11-16T12:43:20.158Z",
@@ -288,7 +344,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2400/u7T0rFRp8WpoaNELJKRal6OZ.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2400/u7T0rFRp8WpoaNELJKRal6OZ.png",
-      "description": "Variant: USA 7.xx\nRegion: USA\nRelease note: Works on 7.xx and higher\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 7.xx\nRegion: USA\nRelease note: Works on 7.xx and higher\nContributor: Thanks to D0ng3r for the Files, drakmor for ampr-emu and DecKerr97 GUI for the BackPort.\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/forest-grove-ps5/",
       "downloadLinks": [
         {
@@ -144781,38 +144837,9 @@
       ]
     },
     {
-      "titleId": "PPSA06246",
-      "title": "[exFAT] QUBE 2 Ultimate Edition",
-      "createdAt": "2026-11-16T12:43:20.158Z",
-      "version": "01.000.001",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2914/vb30wsXA6gsoaQuerxhVeYko.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2914/vb30wsXA6gsoaQuerxhVeYko.png",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.000.001 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSXNDeDByRDhtSjJCVkV2Y1lzZktaRDFodnhWRDB6ZXZ1cCt5NkwrSUtUcU9ldmIvSlNwMEZHQjdtam5PR0ZGbmZCSHZPNC9yc2xacVlHcWRGUFE5VFM0cXRlWGdlQ3pXT2J5VE1jNTJ2UT09IiwiaSI6InVLcGdiOWxBd09xTUd0bjAiLCJuIjoiRGF0YSJ9"
-        },
-        {
-          "name": "USA exFAT 01.000.001 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibHNseDUyMm5Fcjk3REdWdXJyVXpOZmpraGptU3o0MFNiUG1GaE9pVHlNNVNrSG9weHNzNmYrU3ZwVVdvQ0xEeFFtK0R1QWhLTGtYeDBXN05yYUNyOHF1elMzN0dyMzFWdnNka1RQcXdzS009IiwiaSI6IkpPaEhqR0FQNEQwRktvbmUiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.000.001 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWmxvSXRiYkRMV2Z4YjdET1ZKeFdhL3lVa2dBcXpFbS9hQk5WVjJOdGFMbHVkUW1MSXlzV3kyTzY2Z1lsVnVLR1JxaUxWdHBTWEMybXhRdW9PUFVUQldJcFlkRS9yQWt3MkQxL0hMM00iLCJpIjoiL0FqN2dYbFNHa2pWRkM5ViIsIm4iOiJBa2lhIn0="
-        },
-        {
-          "name": "USA exFAT 01.000.001 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoickJ4Q0ZTTk9IV3hocEtGcjA1aWFpcTh5KzdlcHI0TFZjK1BSdDRDTnpKV0xLMkVuK24vUi9JRFBrbjBIRGdqcVdycUNicVRxRVloNkpMY1VlSGR1cm5rN1RiYWFKZnpvV0hieGJ2eW5pWTA9IiwiaSI6Ilhncm1laEZnU3NEYkdmSk4iLCJuIjoiVmlraSJ9"
-        }
-      ]
-    },
-    {
       "titleId": "PPSA04609",
-      "title": "[exFAT] ELDEN RING NIGHTREIGN Deluxe Edition",
-      "createdAt": "2026-11-16T12:43:20.158Z",
+      "title": "[exFAT] ELDEN RING Deluxe Edition",
+      "createdAt": "2026-11-16T21:05:39.847Z",
       "version": "01.018.001",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png?w=260",
@@ -144835,6 +144862,39 @@
         {
           "name": "EUR exFAT 01.018.001 Base - VIKI (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidDhjcE5OKzgxS2lnSTJaMEN2OTBWckoybEo5NEx6MEVMTWk3amVjM0VBQzFjZENrQW5RREtDRFY5Q21HeTgvOVVkNHViWjd4QmhSYktpWjhPVzhKODJDRzlzM25jNWVHU0k0bmhYQ3B2VVE9IiwiaSI6ImFpbmt1MjhpaHZxQjdEbTAiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25381",
+      "title": "[exFAT] Elden Ring Nightreign Deluxe Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.003.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1301/308f8421ff74f3b061b231defc364d3f01e1710ea6fe6876.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1301/308f8421ff74f3b061b231defc364d3f01e1710ea6fe6876.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.003.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.003.002 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ0I4bEFhWUYxRXlRVWRkbU5FSHNwU2dPY0hqNnM0RW1DRWR3cGtLaDR6RWZqU3dFK1ppVWlqQWZlcEpDQVpyYllhMHAxTitpTmlBdi91TEJRWEljR21wMm5QTU9oUkg4Sk9BPSIsImkiOiJ5amFaRmh1S2dDUmQ2R2RjIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.003.002 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSmdZamRwaFBhNkVpWGs3bk5RSlpaYnBOZ0JkN0JJSk0vcW9CbjJzcUc3TW1IamovUkF3RmJpWC91d1RnVFlnYW4vaG1MWUw3MWNwcmlsWFVzTWZEZFp6cGRUZFUiLCJpIjoieTBBcnZSMHAvQkovRS9CMiIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.003.002 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiekFYdE95TDh4MVBFaVhjZkgzVUhTSko1cXNHYWZ2Ym5haXJiVnFIZC9OUVNZM2VSVEsvR3VHZFRTU29RNnhFTENKWVVpOGUyMHdCelFRTmRjQXRWYmhXam52aG1qMGc9IiwiaSI6Ik8vMkpFYzMrM2FvSkEwNHUiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.003.002 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVDBhbmN1cDhUdXNyQkd1SWVTM040ckp0WmJ4cjZsbFR6dkVlSUwzV2p0QXRCaFlORzJaM21UK1dFSTZxNytLZ1dyWEp2UERFSVFua1hFS3VqT29nejBMQkcyRG1jZz09IiwiaSI6ImMvOFJsSG5vQitYZlRad0wiLCJuIjoiVmF1bHQifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.003.002 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYmlzWDZ4Y24zbmVpYVFkNGVKYnFpQUt2K1FrRzlJSVAzT1BaOGdKUzN3MVRtV0ZyVDdDbGVMaTl4RzY2Sk1IK3MyRFRHNmUrQkFQNGd3V0hIbFZHek95SzFPQ25OVGs9IiwiaSI6IkZFcllENU1vWDVnNTQ0QTIiLCJuIjoiRmlsZUsifQ=="
         }
       ]
     },
@@ -144875,7 +144935,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.310 — 4.xx BackPort\nContributor: pippo",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.310 — 6.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
       "downloadLinks": [
         {
@@ -145395,7 +145455,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2119/29d08d5a0713f278cc887198dff4ac1a35d7ba0aaefb9b89.jpg",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2119/29d08d5a0713f278cc887198dff4ac1a35d7ba0aaefb9b89.jpg",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 02.100 — 4.xx BackPort\nContributor: pippo",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 02.100 — 6.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
       "downloadLinks": [
         {
@@ -150653,31 +150713,6 @@
         {
           "name": "EUR exFAT 01.015 Base - DATA (exFAT)",
           "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiVG5FRzhDV1UrYzN4RERTRUFXcmRUR2ZlMTVHS0ZUUENxbEFzVlQrVUp4anl2QVZZVE5STmVmeTJmbDdnQi9GOWx3PT0iLCJzIjoiSlpiR3BmZ0oydVFPbjlwSDJBeXhtdz09IiwiaSI6IkpuZTAwWnZYM2h4V1YxTm8ifQ=="
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA04609",
-      "title": "[exFAT] ELDEN RING Shadow of the Erdtree Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.017",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.017 — 3.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.017 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoibFE2SGJaNE1WWjNZUW5kN1lzY0VFR3h0bFFqeFNSS2FHK3ZnR2JITWNWSXNpcWhybVNpUHJ6dGk3WXZnT1VnYWVsdE1La3FZIiwicyI6IlFvYWtTeDJwQjF5dHpneHNVWmpXZEE9PSIsImkiOiJCL1oyL2l3WkRDWUE4UFZZIn0="
-        },
-        {
-          "name": "EUR exFAT 01.017 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiZ3VBMWhkL2hoRW5hWXk0OENhN3U4b1RrRlhlN2E3WUJPKzdXK2tjOXlmUExXQ25iVDA2S3JjV2xoMUVNSzZwdmZPUHIiLCJzIjoiVFhlQWs2Q1BYQzR4cHkyTnFxWURrUT09IiwiaSI6IkJIVUZLUXhzdklQR1l1WUQifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.017 Base - Buzz (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiWkFNUmpFdDZmaUR6a2VuaERKeWoxV0pCcXJFUXc3TzRBMkVQVC93T0JIRldJNmVqTCtYNnd4TWlWbU56QkFXbXlPMnhpZz09IiwicyI6ImIxWFZvTFRkMHJPRDVuaEovYW1GK3c9PSIsImkiOiI3OUVsZVY3TURNMGhXUXdVIn0="
         }
       ]
     },

@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 17/11/2026 à 01:48
+* **APPS**
+  * `Ppsa97358-Evox` (v3.6) - *Nouveau*
+  * `Ppsa97358` (v3.6) - *Mise à jour (Précédent: v3.5)*
+  * `Ppsa99000` (v1.000.120) - *Mise à jour (Précédent: v1.000.116)*
+
 ## Build du 16/11/2026 à 15:08
 * **PAYLOADS**
   * `Orbit Store` (v1.9.2) - *Mise à jour (Précédent: v1.9.1)*
