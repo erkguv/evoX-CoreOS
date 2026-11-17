@@ -785,7 +785,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "fb1889fef808a8d10d0cb6791c5ac688115c70541a9edaadb1ae1f0b48d52daa"
+      "checksum": "c28eb06a537a543c8b08389c47001d725fefed09cbbb1ecf38c2f62a34a7b3da"
     },
     {
       "name": "Pkg-Manager V1.5.1",
@@ -1028,14 +1028,14 @@
       "checksum": "fba508465a8c892882e88e2834ac2b6c445583b81629257764725528f3f5fd6a"
     },
     {
-      "name": "Ps5-Ezremote-Client V2.20",
-      "filename": "ps5-ezremote-client_v2.20.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf",
-      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf",
+      "name": "Ps5-Ezremote-Client V2.21",
+      "filename": "ps5-ezremote-client_v2.21.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.21/ps5-ezremote-client_v2.21.elf",
+      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.21/ps5-ezremote-client_v2.21.elf",
       "description": "Easy remote client application for PS5.",
-      "version": "2.20",
+      "version": "2.21",
       "category": "PS5 Server",
-      "checksum": "eda226e008efae5f14bd9e4fb0dd27ee198d1e3b525aa4ab1079e410e66f5e3c"
+      "checksum": "0c9375629c3f5535ba4037e588ef9d1e2ae25a23db5697703564517ee324c84c"
     },
     {
       "name": "Ps5-Ezremote-Server V1.13",
