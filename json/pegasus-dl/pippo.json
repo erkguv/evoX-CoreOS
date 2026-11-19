@@ -3,6 +3,60 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01911",
+      "title": "Final Fantasy VII Remake Intergrade Deluxe Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07187_00/5/i_3a90c0e006f2193b1adc12b9424372f4044439cadd6d91fda06c0a86c9c6acf2/i/icon0.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07187_00/5/i_3a90c0e006f2193b1adc12b9424372f4044439cadd6d91fda06c0a86c9c6acf2/i/icon0.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA01911 / PPSA01903, v01.005, EUR, 2.xx and beyond\nSize: 201GB\nCredits: Files: DUPLEX; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://link-vault.org/c/unGN9ocw#DataNodes"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://link-vault.org/c/unGN9ocw#FileKeeper"
+        },
+        {
+          "name": "AkiraBox",
+          "url": "https://link-vault.org/c/unGN9ocw#AkiraBox"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://link-vault.org/c/unGN9ocw#VikingFile"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/3lWCSXGP#DataVaults"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/3lWCSXGP#DataNodes"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/dw5UVqgr#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/dw5UVqgr#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/dw5UVqgr#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/dw5UVqgr#FileKeeper"
+        }
+      ],
+      "sizeBytes": 215822106624
+    },
+    {
       "titleId": "PPSA36301",
       "title": "TCG Card Shop Simulator",
       "createdAt": "2026-11-18T10:42:55.342Z",
@@ -13937,52 +13991,6 @@
         }
       ],
       "sizeBytes": 406847488
-    },
-    {
-      "titleId": "PPSA01911",
-      "title": "Final Fantasy VII Remake Intergrade Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.005",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07187_00/5/i_3a90c0e006f2193b1adc12b9424372f4044439cadd6d91fda06c0a86c9c6acf2/i/icon0.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07187_00/5/i_3a90c0e006f2193b1adc12b9424372f4044439cadd6d91fda06c0a86c9c6acf2/i/icon0.png",
-      "description": "Builds: DLC\nTags: PPSA01911, v01.005, EUR, 2.xx and beyond\nSize: 201GB\nCredits: Files: DUPLEX; DLC: DUPLEX\nHow to play: Game Modified for make DLCs USA work into EUR.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0rpmvpZELzRg/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/q1KhtCNQ1P"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/7tkrrtuci95z"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/mkw6h13hdyg3"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/mbzwoc33192b"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/l5YzM4gjR3yO/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/ca6nn1qc7l9m"
-        },
-        {
-          "name": "DLC - Vault",
-          "url": "https://datavaults.co/uurk9zsbfsaa"
-        }
-      ],
-      "sizeBytes": 215822106624
     },
     {
       "titleId": "PPSA05786",

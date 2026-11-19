@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/11/2026 à 00:03
+* **PAYLOADS**
+  * `Ps5-Ezremote-Client V2.22` (2.22) - *Nouveau*
+
 ## Build du 17/11/2026 à 15:45
 * **PAYLOADS**
   * `Ps5-Ezremote-Client V2.21` (2.21) - *Nouveau*
