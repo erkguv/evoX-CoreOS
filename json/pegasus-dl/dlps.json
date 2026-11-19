@@ -473,7 +473,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1112/d87479425f3ee4faafe94c3bd550c47b5d91260c910e7af7.jpg",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1112/d87479425f3ee4faafe94c3bd550c47b5d91260c910e7af7.jpg",
-      "description": "Region: USA\nRelease note: Works on 6.xx and higher\nContributor: Xan!!",
+      "description": "Variant: USA 6.xx\nRegion: USA\nRelease note: Works on 6.xx and higher\nContributor: Xan!!\n\nVariant: USA exFAT 03.001\nRegion: USA\nRelease note: exFAT format — FW 03.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/front-mission-1st-remake-ps5/",
       "downloadLinks": [
         {
@@ -487,6 +487,22 @@
         {
           "name": "USA 6.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/YRMqlvZN2r"
+        },
+        {
+          "name": "USA exFAT 03.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib0dNZk83ZytKbzU1TlNlSVF2TU5PdG9Ma2dMMEZKWTMveEJDZWlFOXJmVjZZM0YzQjdLelV2bEgvTFVhODh1RVI3ZWRkbVptc1d0OHFpK2k0TmVEZVRvMnNaM05oRHRUVDkyRUhzbEZ0UT09IiwiaSI6IjBRWDhvTEFxTGdGOXp2dzgiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 03.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidGdwcFZMZ3kzM3R3RnVoQ3BWQmtLK253S3ZSQmFWOGlDcStRU0FJTmR4ZHZOcXdLZHd5djRJUlQzTkpMNE9VSzdmNFRJcXVGdDBVSVVuR2Q0dXhwcmNCQUIyd3V6bVJSVi9qTkhEejBjMUk9IiwiaSI6IjkxS1NhZkc3N2VibnZGMnkiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 03.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibWhSdlV0c2lmc0hrM1dpK21SYlord2VJLy8vMlkySHozNVNyTFlGSWxZVE9LM3Q5bmhJcmFReWw4QUx5K2xFdTNJc0UzWXl6eUM5UXdsNVpOMmxlZzhxVFZ5OXF1NGV3ejZ2QkpGbnQiLCJpIjoiamRadU9qdXRobzJjZmFLcSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 03.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicDVxUEQrVDFFeGxHdjRsNGxrNFVxakpFUmhCNlV0Z01HUkIrTWk3aXlvWnQxVUJRNUkyNTB4dWwxMVA3bnFhSFBuMXN0R2NXclEvUGxmdnNSRGUzUnhyc0VGOGtCa2VmU1BPcWdGNHBhazA9IiwiaSI6ImV0VnpBdmVqcnpYRHErUFQiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -9340,7 +9356,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/cee9b1f4c4e68b0a6a0579eec34888a69a1082194b109a42.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/cee9b1f4c4e68b0a6a0579eec34888a69a1082194b109a42.png",
-      "description": "Region: EUR\nRelease note: Dump by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.017\nRegion: EUR\nRelease note: exFAT format — FW 01.017 — 2.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/human-fall-flat-ps5/",
       "downloadLinks": [
         {
@@ -9350,6 +9366,22 @@
         {
           "name": "EUR 4.xx Base - Rootz",
           "url": "https://www.rootz.so/d/1n9tpY"
+        },
+        {
+          "name": "EUR exFAT 01.017 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTnFwaTA2SmowaklrZWw3TW45Q3hwc2I2SlcyY2ZhWkFsd05mTU1HVm9adHRneU0yZ1JWTlQzaTJuZS9PRkNrSytlQ0NCWGl6T0ZQTVVKOUREWm90ZDhXbDNEOWlHNk5nVEtkZXNod0lIdz09IiwiaSI6IjVBZnZnL2w0VWFFNSs3RVciLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.017 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVkhDM2J1cC95WmJRRWNHZ1UrR1dOMzRNZEdWYVh5VFBCNlNVYk1qMDhrTllyM1B5WCs4VjV3dTAyUWczTElrbUZFeXRZVWRaM0ZRdVFEZEd4VjJ0eU9hYXFlYUdtbnNib0pYbmpUWWtmbmc9IiwiaSI6IlFnTEk1UVNvR0hRZ1Qyb2QiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.017 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaFNWdHN4U2NMaGgzd0g0RG5KUCtCeUpBVEtrckM5b3hTdUJiUWxVNDVxK1hkRElBeUx1UzlnTXZqeGhxcVF4T3B0c24xaG54eEZ2cVptR0tDWHhHaXZTVVFPTVV4M2NkYTk3RGNyLzMiLCJpIjoiWWliTGRSZEJQN0xDbVFlYSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.017 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUGJRWXZtZk9xUGpXcGo1R3pMNktIRXlUOEJXbFNWZjkySjZCZ1FXcHRMS1JTL0hEZDZtcG9wYUQ4L1NzVCtMN1NWYWpUck5IOHVYU3p1TzNGTEo0RzJ0bXh6eTA2RWVPTlkzK1JSOTBidVE9IiwiaSI6Ii92RGNadUVKTmZpQTQzZlIiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -110367,7 +110399,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
-      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Working 11. xx — 10.xx — 9.xx — 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.059\nRegion: USA\nRelease note: exFAT format — FW 01.059 — 7.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Working 11. xx — 10.xx — 9.xx — 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.059\nRegion: USA\nRelease note: exFAT format — FW 01.059 — 9.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/minecraft-ps5/",
       "downloadLinks": [
         {
