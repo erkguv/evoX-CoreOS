@@ -3,6 +3,105 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA17775",
+      "title": "Laika Aged Through Blood",
+      "createdAt": "2026-11-20T09:29:55.485Z",
+      "version": "v04.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/211bbc85c6bb38e4dfe6e548655031a56ee3acf83e219d5c.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/211bbc85c6bb38e4dfe6e548655031a56ee3acf83e219d5c.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA17775, v04.000, EUR, 4.xx BackPort\nSize: 15GB\nCredits: Files: b0mba1992; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/mAempS5d#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/mAempS5d#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/mAempS5d#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/mAempS5d#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/JESAlDrK#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/JESAlDrK#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/JESAlDrK#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/JESAlDrK#FileKeeper"
+        }
+      ],
+      "sizeBytes": 16106127360
+    },
+    {
+      "titleId": "PPSA06732",
+      "title": "Teenage Mutant Ninja Turtles Shredders Revenge Ultimate Edition",
+      "createdAt": "2026-11-20T09:29:55.485Z",
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06732_7d152cca2578f1fa1fd99dbcd5ba372aa9be7156bdafa9bf0d815482e89bfbf5/icon0.webp",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06732, v01.010, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: D0ng3r; Backport: DecKerr97 GUI; DLC: romhunter\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 5.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/k4Bb1_hZ#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/k4Bb1_hZ#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/RLVtbkCc#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/RLVtbkCc#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/RLVtbkCc#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/RLVtbkCc#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Yy2wSN3i#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Yy2wSN3i#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Yy2wSN3i#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/Yy2wSN3i#FileKeeper"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
       "titleId": "PPSA16439",
       "title": "Front Mission 1st Remake",
       "createdAt": "2026-11-19T10:06:51.419Z",

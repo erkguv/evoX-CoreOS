@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16004",
+      "title": "Rubberduck Wave Racer",
+      "createdAt": "2026-11-20T06:26:58.616Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3013/c6764b1da9fc73ec572238894b640bf01add15922550fbdc.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3013/c6764b1da9fc73ec572238894b640bf01add15922550fbdc.png",
+      "description": "Region: EUR\nRelease note: Works on 6.xx and higher\nContributor: @b0mba1992",
+      "downloadSource": "https://dlpsgame.com/rubberduck-wave-racer-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/vgKGxBQNR38Q/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/21cTC4"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WAB8y7C6zm"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA26050",
       "title": "Gothic 2 Complete Classic",
       "createdAt": "2026-11-19T20:16:47.068Z",
@@ -1435,7 +1459,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/211bbc85c6bb38e4dfe6e548655031a56ee3acf83e219d5c.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/211bbc85c6bb38e4dfe6e548655031a56ee3acf83e219d5c.png",
-      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nContributor: @b0mba1992",
+      "description": "Variant: EUR 7.xx\nRegion: EUR\nRelease note: Works on 7.xx and higher\nContributor: @b0mba1992\n\nVariant: EUR exFAT 04.000\nRegion: EUR\nRelease note: exFAT format — FW 04.000 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/laika-aged-through-blood-ps5/",
       "downloadLinks": [
         {
@@ -1449,6 +1473,22 @@
         {
           "name": "EUR 7.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/1ygKxEYBAR"
+        },
+        {
+          "name": "EUR exFAT 04.000 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYmErWlNKcWpEcG16SXAyWXhYTGpMcFF3dFBtaDBpR01YQk12T0FVYnJXUGRYcTRlR282QTZGa1Z4MlpWQlh2dnNBVmpJUVh4TzEyZ1kzc2dQdWgwczJmK2FXVFR3K0UrVzlscEozSGdHZz09IiwiaSI6Ilc4bU1IcjFpdkZITjNFdlEiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 04.000 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMm1zVGhxQ2tCeDlJcWhZQ3pYbERCeFFjTHdDMkYrcUR2bEZLRjAwaldXc2tFWHVObUQ0ekYyeE1SaHNsUnl6Nk1uQ3JncGlwaWU1MzQwY1YzcHYwTVdFSEdoZVNGcm5JTy9YTTJuTUdkLzQ9IiwiaSI6InZ2UUNkM2s4L2tRdkUzaHgiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 04.000 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZFJ5TGZORHhSSlJlYlR5eVhiSFFjSGYwUkpPb3Nzb0psUXVxeFdpcTY3djFORzN5M0NBVHZKNEN0L3JiR0NHNThjeXVJRUxHejI1SWFXTFdBUk9DUFZkbjJLZG4wVWtnUGhrbmVhV3AiLCJpIjoiV2NRNXZpcVJjWHlDN0U5ZyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 04.000 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoic1oycXdKNDlzSWY0K3F6aEszcUk5VVpjWEhrNHpzUUk3d01jdDhJZ0Z4a243NFM0QVk3R1ZiMytUMWVBeXJ5NEJaamV6d0FXNGVEbElCVFlnd1hsNGRzTURGdGNOS3RlWjNSRmFpSm5FU0k9IiwiaSI6IjNCM0ZRMG16RFVhUjBUVUciLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -145956,6 +145996,34 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYjhsRU1kVktyTWcwN1pXY3FLYnRaeVdSZUd5Mmd2VVJuaU1qTWRTZit5UzllVm1wS1B2QmJZWUxKOVI5OGVSdXFwVzFsajViYThBTEdjTlJCZXhGSXRhR1hDZkFJZz09IiwiaSI6ImVKbEdNTTEzcTFsSk95OSsiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06732",
+      "title": "[exFAT] Teenage Mutant Ninja Turtles Shredders Revenge Ultimate Edition",
+      "createdAt": "2026-11-20T12:32:50.895Z",
+      "version": "01.010",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06732_7d152cca2578f1fa1fd99dbcd5ba372aa9be7156bdafa9bf0d815482e89bfbf5/icon0.webp",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.010 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.010 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWUl0WW9ObW9ncDRoSG9TQ3VxOVBvOGRwL1NscjVTTUpqVmxncHJXeDZRbEgwS2R0b2pMSkVWdXdNaElZblFmSXhSZVVLQk9LZkk3U0VnaUVsRHpvRVhSZGM3eDdObWdmb0lEOVk3K09pQT09IiwiaSI6IlJqU1R6RTRGQkZBWVBlNDYiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.010 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMFVjNjNHRUpVZnNKSmorV2FBRFBXd1JOSEJFSTJCRENkbU1PbW5zWlVBRlo4aitjcmVFZUNnblRydHdpNlBjZ29aWit0YnBXcmxTOFFWMXdOMFNtWldYZDZLZ0c5Tk9sbytlRWtvQVJ5blU9IiwiaSI6Iklic2pEcmE5QnJLVmk5SFAiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.010 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWkRxRzZiR2tKSUpvSVdEVlR5QWdXZTN4ZUVxT0RNcW9Cc3VtVEpVdUdtM1oyM002WGF6b1ZWSjhqSkNueGoyNWFUZGpIWVdrQjhFcGNFcHl0dmFVTFhaWmlGTW5hanBHY2NZSDc0Qi8iLCJpIjoiT3dqUk1qN3ZkL295UzYxNyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.010 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUmhONUFralhkS3YyZ0RvVWlZaDZCQ2VtWjVXUjlHWmw3RFR3OWhWcE53cHl4cHNjQlJVVmxHOWFBVzFHSlRtdFY3RXlLbEZ6S2RKWVl1cldRSCszYUVoS0tsdlduZVFaVU4xWVZnVml1VW89IiwiaSI6IkREeUtKNDc4VnpNVFd6U2YiLCJuIjoiVmlraSJ9"
         }
       ]
     },

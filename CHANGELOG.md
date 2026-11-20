@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/11/2026 à 15:25
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.8.2` (v0.8.2) - *Nouveau*
+
 ## Build du 20/11/2026 à 06:04
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.8.0` (v0.8.0) - *Nouveau*
