@@ -141,14 +141,14 @@
             "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
         },
         {
-            "name": "Common Fps Ps5 V1.2.3",
-            "filename": "Common_FPS_PS5_v1.2.3.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf",
-            "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf",
+            "name": "Common Fps Ps5 V1.2.5",
+            "filename": "Common_FPS_PS5_v1.2.5.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.5/Common_FPS_PS5_v1.2.5.elf",
+            "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.5/Common_FPS_PS5_v1.2.5.elf",
             "description": "A lightweight, open-source real-time FPS counter for PlayStation 5.",
-            "version": "v1.2.3",
+            "version": "v1.2.5",
             "category": "PS5 Overlay",
-            "checksum": "bb74aa448952e9af4fb001f256f48b3b15fdedff88c2dec472ee9d16b20dbed5"
+            "checksum": "5aac58f0f705909aec773f74cbcbec8d56a517d8199a67ca46f205b2c83a5da6"
         },
         {
             "name": "Overlay Payload",
@@ -854,7 +854,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "a203d75f033dbc726fcc1536ad258672fe2e002df4b4fc678bac06c7ecea8aa4"
+            "checksum": "e0d1600330a8a5a28667a3dffbcf26800b091a26cf8dcc777a175b69241f6319"
         },
         {
             "name": "Ps5Debug-Ng V1.3.2",
@@ -1037,14 +1037,14 @@
             "checksum": "2a42054fd9725e1d9595ff4add95abc30e5b49446fcdcb96c06775a376a841c4"
         },
         {
-            "name": "Kura V1.6.51",
-            "filename": "Kura_v1.6.51.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.51/Kura_v1.6.51.elf",
-            "local_path": "payloads/ps5_hen_loader/Kura/v1.6.51/Kura_v1.6.51.elf",
+            "name": "Kura V1.6.52",
+            "filename": "Kura_v1.6.52.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.52/Kura_v1.6.52.elf",
+            "local_path": "payloads/ps5_hen_loader/Kura/v1.6.52/Kura_v1.6.52.elf",
             "description": "Un loader de payloads moderne et épuré conçu pour optimiser l",
-            "version": "v1.6.51",
+            "version": "v1.6.52",
             "category": "PS5 HEN Loader",
-            "checksum": "57f96e4ad256a53ca812129d0ed7f3e104afb7088d0d4b24876dff78050a4547"
+            "checksum": "c3bfb1db0f1fda7fe640e95711d78ae2cf9e94efa12742b5fc19c660ec43d627"
         },
         {
             "name": "Pizza-Hen V2.00",

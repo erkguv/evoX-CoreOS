@@ -3,6 +3,558 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA15338",
+      "title": "Rocket Knight Adventures Re Sparked",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/4cec578f1f1be902e7888cca1a55327b2106fcb639d57f33.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/4cec578f1f1be902e7888cca1a55327b2106fcb639d57f33.png",
+      "description": "Region: USA\nRelease note: Works on 4.xx and higher (with backport)\nContributor: Thanks Uchiha Dare Nial",
+      "downloadSource": "https://dlpsgame.com/rocket-knight-adventures-re-sparked-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpOVrLGEB/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/vcqO0"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/lub2LjCm5j"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA14234",
+      "title": "Papetura",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2417/19978e46a2686b1c2084b93cb1373e5b1f466ed1a252ae77.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2417/19978e46a2686b1c2084b93cb1373e5b1f466ed1a252ae77.png",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher (with backport)\nContributor: Thanks Uchiha Dare Nial",
+      "downloadSource": "https://dlpsgame.com/papetura-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/obj3jKd62zDx/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/20FNQG"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/duGVs6vlDz"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA05304",
+      "title": "Deaths Door",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2308/CDCJRAEgwDQjqith6UwJMP8q.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2308/CDCJRAEgwDQjqith6UwJMP8q.png",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher (with backport)\nContributor: Thanks Uchiha Dare Nial",
+      "downloadSource": "https://dlpsgame.com/deaths-door-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/Z9dzBXKMgmk1/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/razWS"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/TVBSLwIzJq"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25219",
+      "title": "Fuga Melodies of Steel 3",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/0308/4e63b9cdd56fb0b6620a489f5f6b0f4d8802635972b0edfb.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/0308/4e63b9cdd56fb0b6620a489f5f6b0f4d8802635972b0edfb.png",
+      "description": "Region: ASIA\nRelease note: Works on 9.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/fuga-melodies-of-steel-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpOVJkGEB/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/fFV5s"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/TlflEYfYvE"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09341",
+      "title": "Fuga Melodies of Steel 2",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1509/8973618946997ba04e4761a53874f115cf8711a080b37959.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1509/8973618946997ba04e4761a53874f115cf8711a080b37959.png",
+      "description": "Region: ASIA\nRelease note: Works on 5.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/fuga-melodies-of-steel-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdA2qWGB8/file"
+        },
+        {
+          "name": "ASIA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/bDeEK"
+        },
+        {
+          "name": "ASIA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/31fImuG6ZQ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03807",
+      "title": "Fuga Melodies of Steel",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1308/zNG7PBG8CFLGoLOQEqGEV94N.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1308/zNG7PBG8CFLGoLOQEqGEV94N.png",
+      "description": "Region: ASIA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/fuga-melodies-of-steel-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrv8jWGkx/file"
+        },
+        {
+          "name": "ASIA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1VdaBk"
+        },
+        {
+          "name": "ASIA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/pk9rPvGL94"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA36869",
+      "title": "Murders On The Yangtze River",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2406/627b75396894c2fb28625e71f763c90ea21e71489533ade9.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2406/627b75396894c2fb28625e71f763c90ea21e71489533ade9.png",
+      "description": "Region: ASIA\nRelease note: Works on 12.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/murders-on-the-yangtze-river-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/qw1zeKdajmXy/file"
+        },
+        {
+          "name": "ASIA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/jHLxQ"
+        },
+        {
+          "name": "ASIA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/f0Hlu5Pp33"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA15476",
+      "title": "Metal Slug Attack Reloaded",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0604/d77dcd75e817053425477975435f96b19cea17522c2f7942.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0604/d77dcd75e817053425477975435f96b19cea17522c2f7942.png",
+      "description": "Region: JPN\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/metal-slug-attack-reloaded-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJ0QB831o/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1fqBGa"
+        },
+        {
+          "name": "JPN 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/2gQio0Cjlr"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA38625",
+      "title": "GOBBLE",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1102/06639fe66f34eefe955de4e16d0b133c0cad68aa75332857.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1102/06639fe66f34eefe955de4e16d0b133c0cad68aa75332857.png",
+      "description": "Region: ASIA\nRelease note: Works on 12.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/gobble-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/N2p3D0evV3Ma/file"
+        },
+        {
+          "name": "ASIA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1RbjKC"
+        },
+        {
+          "name": "ASIA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/yuTTQ2eD9H"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03881",
+      "title": "Paper Dolls 2",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0403/mQv3ZzjlnZjB2hjnkWbR89Pq.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0403/mQv3ZzjlnZjB2hjnkWbR89Pq.png",
+      "description": "Region: ASIA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/paper-dolls-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/E1x3AZV6nzyk/file"
+        },
+        {
+          "name": "ASIA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1ntszg"
+        },
+        {
+          "name": "ASIA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/cHE8acb3yy"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA05103",
+      "title": "This War of Mine Final Cut",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2909/qf5JTJhYS3DYU1kybfmHkz6f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2909/qf5JTJhYS3DYU1kybfmHkz6f.png",
+      "description": "Region: USA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/this-war-of-mine-final-cut-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/obj3jKdE5zDx/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1js288"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/qlYo0BdPbp"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03704",
+      "title": "Mobile Suit Gundam Battle Operation Code Fairy",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202110/0610/Ysri9QIULvlVmltuEQTiiLqp.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202110/0610/Ysri9QIULvlVmltuEQTiiLqp.png",
+      "description": "Region: JPN\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/mobile-suit-gundam-battle-operation-code-fairy-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/APVma106jmXo/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/wgWGqDMkaz4o/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/5pVzNK4RpG7w/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2pw2K"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1JY1fE"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1FWAng"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/vmrc6qZjUs"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/QvayHcApYO"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/HtQ6grdxLN"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA01978",
+      "title": "Sherlock Holmes Chapter One",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1109/726FulA9CICxQyT6kgu19XaX.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1109/726FulA9CICxQyT6kgu19XaX.png",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/sherlock-holmes-chapter-one-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/BnkmWb4ZYGR0/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/ex5z2L1bymKq/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/d6bk8"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1tohIu"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/UEaHs1poQB"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/HmRdCqLzJl"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08069",
+      "title": "Sherlock Holmes The Awakened",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2812/KzAaCdh4j91Ho1rrUBQw3boO.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2812/KzAaCdh4j91Ho1rrUBQw3boO.png",
+      "description": "Region: EUR\nRelease note: Works on 6.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/sherlock-holmes-the-awakened-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/7d5GLWlJjzxR/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/dZxG5RqrKmVj/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/LMAgC"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1U0Ya0"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/QGZOBcPWGk"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/9Y69vThEvS"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07262",
+      "title": "The Legend of Tianding",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0109/i2Lsz4xlLo2snkJQ91zNNZAH.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0109/i2Lsz4xlLo2snkJQ91zNNZAH.png",
+      "description": "Region: ASIA\nRelease note: Works on 5.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/the-legend-of-tianding-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ365KgEm19/file"
+        },
+        {
+          "name": "ASIA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/17iOuW"
+        },
+        {
+          "name": "ASIA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/sQm3FsGPk5"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA38720",
+      "title": "Well Dweller",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0917/0d667e5de4e823ca39fc47245e0be15845494a2841648ad6.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0917/0d667e5de4e823ca39fc47245e0be15845494a2841648ad6.png",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/well-dweller-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/BnkmWb4Q6GR0/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/13gY76"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/A8XKGSla0c"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16093",
+      "title": "GNOSIA",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2908/b5d9161cad09fe839a02d0e35edc9ed901a650baa2caeac3.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2908/b5d9161cad09fe839a02d0e35edc9ed901a650baa2caeac3.png",
+      "description": "Region: ASIA\nRelease note: Works on 6.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/gnosia-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/ex5z2L1v5mKq/file"
+        },
+        {
+          "name": "ASIA 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2CKvwm"
+        },
+        {
+          "name": "ASIA 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/FLWbdYyL3Z"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA35314",
+      "title": "MudRunner",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1116/5d430478c0e36f653c801b6ab5fa97f6039ad85393926cf5.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1116/5d430478c0e36f653c801b6ab5fa97f6039ad85393926cf5.png",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/mudrunner-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/gXeGOboQNzAa/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1BkFm4"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/7zLcjkXp01"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28769",
+      "title": "Cairn",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2009/7c79fdb4b0dd99bf189d5fde6ad468635e14d03fc7819388.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2009/7c79fdb4b0dd99bf189d5fde6ad468635e14d03fc7819388.png",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/cairn-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNK4jWG7w/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/PO1Xk"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YpoxLfKmAq"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA20226",
+      "title": "Frontier Hunter Erzas Wheel of Fortune",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1303/721971295a402d9ea4d12bf6eff7f86ddbc857fabd9a281d.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1303/721971295a402d9ea4d12bf6eff7f86ddbc857fabd9a281d.png",
+      "description": "Region: ASIA\nRelease note: Works on 8.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/frontier-hunter-erzas-wheel-of-fortune-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZ9NWoGan/file"
+        },
+        {
+          "name": "ASIA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/HKJoe"
+        },
+        {
+          "name": "ASIA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mUhU8oal7a"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA39096",
+      "title": "Together Moon Escape",
+      "createdAt": "2026-11-20T20:41:00.978Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2011/61d193dc25ef7289df5324e043159b6d9b0ac98a3669d83f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2011/61d193dc25ef7289df5324e043159b6d9b0ac98a3669d83f.png",
+      "description": "Region: EUR\nRelease note: Works on 13.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/together-moon-escape-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdA2QOGB8/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1PyhiS"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/OTcTQUxnzO"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA16004",
       "title": "Rubberduck Wave Racer",
       "createdAt": "2026-11-20T06:26:58.616Z",
@@ -30094,34 +30646,6 @@
           "url": "https://akirabox.com/RMKGJKRgwm1o/file"
         },
         {
-          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/ZgjUPSvvAb"
-        },
-        {
-          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/NW9wxXXRne"
-        },
-        {
-          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/naj40jO24S"
-        },
-        {
-          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/SfGs3QGRfe"
-        },
-        {
-          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/T9rQJ5a8gE"
-        },
-        {
-          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/QAvYQ9VYso"
-        },
-        {
-          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 7",
-          "url": "https://vikingfile.com/f/GrQFvX4yra"
-        },
-        {
           "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - 1fichier part 1",
           "url": "https://1fichier.com/?r709xd1f7hwc7moa3dxj"
         },
@@ -30148,6 +30672,34 @@
         {
           "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - 1fichier part 7",
           "url": "https://1fichier.com/?459wawwzw3j6zdwez7ea"
+        },
+        {
+          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/ZgjUPSvvAb"
+        },
+        {
+          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/NW9wxXXRne"
+        },
+        {
+          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/naj40jO24S"
+        },
+        {
+          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/SfGs3QGRfe"
+        },
+        {
+          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/T9rQJ5a8gE"
+        },
+        {
+          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/QAvYQ9VYso"
+        },
+        {
+          "name": "USA 3.xx Game (v01.027) (DLC) [APR-EMU] - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/GrQFvX4yra"
         },
         {
           "name": "exFAT v01.026 Base - Akirabox part 1",
