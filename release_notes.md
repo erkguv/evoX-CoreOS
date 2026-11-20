@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.19-2011)
+### 🚀 Synthèse de la mise à jour (v2026.11.20-0604)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -67,7 +67,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kylin-core_v2.0.0-community-lite.elf`
   * `FGG-PlayPods-GUI_v0.1.5.elf`
   * `FGG-PlayPods_v1.0.elf`
-  * `webkit-autoloader-installer_v0.7.1.elf`
+  * `webkit-autoloader-installer_v0.8.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
@@ -119,7 +119,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
   * `zftpd-ps5-v1.7.0.elf`
   * `zftpd-ps5-zhttp-v1.7.0.elf`
-  * `elfldr_v0.27.elf`
+  * `elfldr_v0.28.elf`
   * `ftpsrv_ps5-payload_v0.22.elf`
   * `websrv_v0.34.elf`
   * `gdbsrv_v0.9.elf`

@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/11/2026 à 06:04
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.8.0` (v0.8.0) - *Nouveau*
+  * `Orbit Store` (v1.9.5) - *Mise à jour (Précédent: v1.9.2)*
+  * `Elfldr V0.28` (v0.28) - *Nouveau*
+
 ## Build du 19/11/2026 à 00:03
 * **PAYLOADS**
   * `Ps5-Ezremote-Client V2.22` (2.22) - *Nouveau*

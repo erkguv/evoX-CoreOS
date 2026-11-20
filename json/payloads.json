@@ -451,14 +451,14 @@
       "checksum": "9ee1958ec24e4a927992fea9ee202f5a173756091bd3abc02ebf4d2d686211a4"
     },
     {
-      "name": "Webkit-Autoloader-Installer V0.7.1",
-      "filename": "webkit-autoloader-installer_v0.7.1.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf",
+      "name": "Webkit-Autoloader-Installer V0.8.0",
+      "filename": "webkit-autoloader-installer_v0.8.0.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.0/webkit-autoloader-installer_v0.8.0.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.0/webkit-autoloader-installer_v0.8.0.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.7.1",
+      "version": "v0.8.0",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "df60538570e9811bb0b4652a3fdb3e1a35ec3455b3ca7c80edc4140c5bb47ce2"
+      "checksum": "015959f76c48e45df2b331ee2a6b52096afa3c2f9f1cbf9a29e67be699a6455b"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
@@ -785,7 +785,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "89dad95552c992e30bf904487785753a41c420f3042377e9b1c3ea63f1400aa4"
+      "checksum": "3fe28cbacbe136ac6ddce547e51a6b117becfc88f9be28d4f5e2a33435af767d"
     },
     {
       "name": "Pkg-Manager V1.5.1",
@@ -880,12 +880,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.2/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.9.2/orbit_store.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.5/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.9.5/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.9.2",
+      "version": "v1.9.5",
       "category": "PS5 Freeshop",
-      "checksum": "5fe4892269ebe940731d0236cd1bbca8d827e7690676f7b7af32fb9c5a775f5b"
+      "checksum": "95da321dcfa054fe355e1d820e50163b3ee4da1410a9a2aa72213d7626b2d3b9"
     },
     {
       "name": "Ps5-Game-Compressor V1.0.4",
@@ -968,14 +968,14 @@
       "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
     },
     {
-      "name": "Elfldr V0.27",
-      "filename": "elfldr_v0.27.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf",
-      "local_path": "payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf",
+      "name": "Elfldr V0.28",
+      "filename": "elfldr_v0.28.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.28/elfldr_v0.28.elf",
+      "local_path": "payloads/ps5_server/elfldr/v0.28/elfldr_v0.28.elf",
       "description": "ELF Loader utility. Port: 9020 / 9021",
-      "version": "v0.27",
+      "version": "v0.28",
       "category": "PS5 Server",
-      "checksum": "82f6227610172c98bad6efe68219fc93a10027035991f47eb4b75532d023407d"
+      "checksum": "66968bae6159d8fb06125fcd43fb99cf64d6bfdf730c70f37a6f5d056ff63458"
     },
     {
       "name": "Ftpsrv Ps5-Payload V0.22",

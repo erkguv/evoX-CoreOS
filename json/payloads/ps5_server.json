@@ -22,14 +22,14 @@
       "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
     },
     {
-      "name": "Elfldr V0.27",
-      "filename": "elfldr_v0.27.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf",
-      "local_path": "payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf",
+      "name": "Elfldr V0.28",
+      "filename": "elfldr_v0.28.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.28/elfldr_v0.28.elf",
+      "local_path": "payloads/ps5_server/elfldr/v0.28/elfldr_v0.28.elf",
       "description": "ELF Loader utility. Port: 9020 / 9021",
-      "version": "v0.27",
+      "version": "v0.28",
       "category": "PS5 Server",
-      "checksum": "82f6227610172c98bad6efe68219fc93a10027035991f47eb4b75532d023407d"
+      "checksum": "66968bae6159d8fb06125fcd43fb99cf64d6bfdf730c70f37a6f5d056ff63458"
     },
     {
       "name": "Ftpsrv Ps5-Payload V0.22",
@@ -102,14 +102,14 @@
       "checksum": "0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807"
     },
     {
-      "name": "Ps5Upload V12.6.11",
-      "filename": "ps5upload_v12.6.11.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.6.11/ps5upload_v12.6.11.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v12.6.11/ps5upload_v12.6.11.elf",
+      "name": "Ps5Upload V12.6.13",
+      "filename": "ps5upload_v12.6.13.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.6.13/ps5upload_v12.6.13.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v12.6.13/ps5upload_v12.6.13.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.6.11",
+      "version": "v12.6.13",
       "category": "PS5 Server",
-      "checksum": "c41ae74fb2cab8c6980b428a115b16d40dfbabde4627131b4fd5afea94a0dd3a"
+      "checksum": "83b0222253285e3a95db389caaffb3063ea659a3940e7f95c70f5568f887365e"
     },
     {
       "name": "Airpsx V0.19",
