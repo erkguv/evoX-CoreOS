@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/11/2026 à 23:01
+* **PAYLOADS**
+  * `Orbit Store` (v1.9.6) - *Mise à jour (Précédent: v1.9.5)*
+  * `Kura V1.6.55` (v1.6.55) - *Nouveau*
+
 ## Build du 21/11/2026 à 14:25
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.8.3` (v0.8.3) - *Nouveau*

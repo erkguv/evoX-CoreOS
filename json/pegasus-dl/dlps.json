@@ -3,6 +3,126 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25670",
+      "title": "Woodo",
+      "createdAt": "2026-11-21T21:05:57.289Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2512/60037a2512eb3d9ff4ab3bea9f37566413c9e1e560854abd.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2512/60037a2512eb3d9ff4ab3bea9f37566413c9e1e560854abd.png",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/woodo-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZ9ro7Gan/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1PIKaO"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/aoLJm1B0Xz"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13896",
+      "title": "Shadow Gambit The Cursed Crew",
+      "createdAt": "2026-11-21T21:05:57.289Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1416/e30673f1bfb202430a962306510b6c7bbceeb4c143dfe606.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1416/e30673f1bfb202430a962306510b6c7bbceeb4c143dfe606.png",
+      "description": "Region: ASIA\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/shadow-gambit-the-cursed-crew-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ365qgPm19/file"
+        },
+        {
+          "name": "ASIA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1HEcvQ"
+        },
+        {
+          "name": "ASIA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ZJilgT6VXK"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22174",
+      "title": "KAMITSUBAKI CITY ENSEMBLE",
+      "createdAt": "2026-11-21T21:05:57.289Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1404/ecf04aa29750580eb98b34a2ae0d443d4c1d67f3c0d6f867.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1404/ecf04aa29750580eb98b34a2ae0d443d4c1d67f3c0d6f867.png",
+      "description": "Region: ASIA\nRelease note: Works on 9.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/kamitsubaki-city-ensemble-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdAVQ8GB8/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1LGTiq"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YHv1eBkqhL"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22746",
+      "title": "Card en Ciel",
+      "createdAt": "2026-11-21T21:05:57.289Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2706/a1c96f8e96789242b9f4c782f8887d8b2778154eb9d7431e.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2706/a1c96f8e96789242b9f4c782f8887d8b2778154eb9d7431e.png",
+      "description": "Region: JPN\nRelease note: Works on 9.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/card-en-ciel-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/Xkrzo6KaQ3BO/file"
+        },
+        {
+          "name": "JPN 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1TKBRw"
+        },
+        {
+          "name": "JPN 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EGACQwrBjn"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29101",
+      "title": "Azure Striker Gunvolt Trilogy Enhanced",
+      "createdAt": "2026-11-21T21:05:57.289Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2504/0028219ef9b3a3632f22cb5457f59d9ca10d2373a174274e.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2504/0028219ef9b3a3632f22cb5457f59d9ca10d2373a174274e.png",
+      "description": "Region: JPN\nRelease note: Works on 10.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/azure-striker-gunvolt-trilogy-enhanced-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8lbNgGOB/file"
+        },
+        {
+          "name": "JPN 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1XM2JU"
+        },
+        {
+          "name": "JPN 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/wMoEEExlks"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA14636",
       "title": "Red Matter 2",
       "createdAt": "2026-11-21T07:53:10.888Z",
