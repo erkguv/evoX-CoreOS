@@ -67,7 +67,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen-En V1.2.0 | [v1.2.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf) | `90f1ec197e66...` | Host-PSM pooP2JB. |
 | Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr V1.2.0 | [v1.2.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf) | `b81609da1db0...` | Host-PSM pooP2JB. |
 | Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0 | [v1.2.0](https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf) | `3ccc45938dcc...` | Host-PSM pooP2JB. |
-| Webkit-Autoloader-Installer V0.8.2 | [v0.8.2](https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.2/webkit-autoloader-installer_v0.8.2.elf) | `1c415bc12494...` | Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. |
+| Webkit-Autoloader-Installer V0.8.3 | [v0.8.3](https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.3/webkit-autoloader-installer_v0.8.3.elf) | `f4b0dee9af57...` | Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. |
 
 ### 📂 PS5 Audio Utility
 
@@ -234,7 +234,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `609eef30835a...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `069281100459...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |

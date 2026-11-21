@@ -727,14 +727,14 @@
             "checksum": "9fc48733077145d1d204a4c9cdb879baaab1e711a604dd73af0dd4a807d6bc49"
         },
         {
-            "name": "Webkit-Autoloader-Installer V0.8.2",
-            "filename": "webkit-autoloader-installer_v0.8.2.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.2/webkit-autoloader-installer_v0.8.2.elf",
-            "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.2/webkit-autoloader-installer_v0.8.2.elf",
+            "name": "Webkit-Autoloader-Installer V0.8.3",
+            "filename": "webkit-autoloader-installer_v0.8.3.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.3/webkit-autoloader-installer_v0.8.3.elf",
+            "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.3/webkit-autoloader-installer_v0.8.3.elf",
             "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-            "version": "v0.8.2",
+            "version": "v0.8.3",
             "category": "Ps5-Webkit-Autoloader",
-            "checksum": "1c415bc124944c85b86a4751006b98010b977f142142d67306d13804899bad54"
+            "checksum": "f4b0dee9af572ea1cb77aaf1e6fc5bf8ef520fc0a0a30753dd94a5cbdc04dd8e"
         },
         {
             "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0",
@@ -854,7 +854,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "609eef30835a62c1cafa9afcc000222d66f9d8de7d10f83739bb484a768de3db"
+            "checksum": "069281100459fc2b72d8b2ee2ad32c7ade7354a17177eb4c72e1b612891a5a3a"
         },
         {
             "name": "Ps5Debug-Ng V1.3.2",
