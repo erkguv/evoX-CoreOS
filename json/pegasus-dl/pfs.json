@@ -3,6 +3,40 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "CUSA28907",
+      "title": "The Legend of Heroes: Trails into Reverie",
+      "createdAt": "2026-11-22T00:27:51.031Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0322/646ca1278333e4cb86302d37494df5b93de0b6187ce1093b.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0322/646ca1278333e4cb86302d37494df5b93de0b6187ce1093b.png",
+      "description": "What destinies await these three fateful figures? Use the Trails to Walk system to switch between Rean Schwarzer, Lloyd Bannings, and the masked figure \"C,\" and determine the fates of key characters and locations within Zemuria. Dive into refined tactical combat with new features such as United Front, and discover new allies and challenges within the halls of the True Reverie Corridor! The following additional content is included in the game: - Elie's Crossbell Queen Outfit - Rixia's Moonlight Wedding Outfit - Nadia's Devilish Summer Swimsuit - Lapis' Magical Girl Outfit - Tio's Old School Outfit - Lapis' Li'l Slaughterer Outfit - Free Set Vol. 1 - Free Set Vol. 2 - Free Set Vol. 3\nRegion: USA\nFirmware: 7.xx+\nNotes: If using GoldHen PS4 then works on fw 7.50 or higher. If using PS5 probably needs fw 8.40 or higher. Included DLC: Standard Cosmetic Set, Premium Cosmetic Set, SSS Summer Splash Set. Not included DLC are consumables able to get in-game: Starter Set, Advanced Set, Advanced Set 2. Cosmetic DLC usable after intro section, Summer Splash Set games usable through the camp menu and the Sporting Stone. VR mode only usable with PSVR 1 hardware and only with PS4 version of the game.\nCredits: This includes everything in one compressed file\nUpdated: 2026-11-21T23:47:30.610Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/J083T7M14L"
+        },
+        {
+          "name": "UPDATE Viki",
+          "url": "https://vikingfile.com/f/ChYL8nLx6T"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/0L08PGxYrz"
+        },
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/58m5r1iny0zk"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/uXhKTASE70"
+        }
+      ],
+      "sizeBytes": 49005576847
+    },
+    {
       "titleId": "CUSA33565",
       "title": "Road 96: Mile 0",
       "createdAt": "2026-11-21T22:25:51.878Z",

@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/11/2026 à 05:32
+* **PAYLOADS**
+  * `Kura V1.6.59` (v1.6.59) - *Nouveau*
+
 ## Build du 21/11/2026 à 23:01
 * **PAYLOADS**
   * `Orbit Store` (v1.9.6) - *Mise à jour (Précédent: v1.9.5)*
