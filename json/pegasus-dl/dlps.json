@@ -177,7 +177,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/3021/58a1b2ecdb37db8c871019e1f43f7f7b497f9f98819af6ce.png",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/3021/58a1b2ecdb37db8c871019e1f43f7f7b497f9f98819af6ce.png",
-      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: @Desesperado3",
+      "description": "Variant: EUR 9.xx\nRegion: EUR\nRelease note: Works on 9.xx and higher\nContributor: @Desesperado3\n\nVariant: USA exFAT 02.000.001\nRegion: USA\nRelease note: exFAT format — FW 02.000.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/five-nights-at-freddys-into-the-pit-ps5/",
       "downloadLinks": [
         {
@@ -191,6 +191,22 @@
         {
           "name": "EUR 9.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/ZFyv8zE0W1"
+        },
+        {
+          "name": "USA exFAT 02.000.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUC9lcXNyYTN3THFtRFFZUWFXU1JCK3pSODR5RkhZZXI1eTYzNGNXZjREczdDYUpVQnJsUlFTMnl3aHRKQjR4eUsxN1djcTVPTjFhSEZNVjVjQVprTzVnNFZOdC8rd0NleVIwb2tWR3pXZz09IiwiaSI6IkszdllsOHRiaFdVc2Y2S20iLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 02.000.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRWFxVGtHQUlYcEEveS80Q1N1NmJTVkdzZzNaTGJ5UWErUzVoNDZaeWZhNlpZRWNnWjdJT2MvL0ZKSDdTbkxqMTlPaVNwWGhFUWtBOWJwd084T2REMHlqaUJtMisrcnpqSjZVdGdsMHNsRFE9IiwiaSI6IkYyQXh5anBrVjR2RXNYanIiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 02.000.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYzdnank3ZjFzeVNyTWwzYjZvTnM3NDdZckNyWVd4OHRweTNVWlNodVdCVzlUamV3YXlzV08vUnlyaXVHSk1iMG5HWjZHVnhINU5xUnd0aW1iVVpORnVGczdxSjVVK2tXRW9PTFJ5NFIiLCJpIjoic0RpSDJIQ2ZHUkszSlY5UCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 02.000.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaHBQUkt2cGRIM2RyTlFVd1FKS0VGdE5sQjRUQjRpbDlIZStYVUhXWDQzaVA2REtBdE9oaDArQWtxNVVWWVNqMzd1VG5RcU1GMzR6MlUyd1N0QkVSS0kyRmJ0d2N6MzcvNUJsK0RnSG5qaXM9IiwiaSI6InRGMUhtaVJZZXZtc2lZelAiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -369,7 +385,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0604/d77dcd75e817053425477975435f96b19cea17522c2f7942.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0604/d77dcd75e817053425477975435f96b19cea17522c2f7942.png",
-      "description": "Region: JPN\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "description": "Variant: JPN 7.xx\nRegion: JPN\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.\n\nVariant: JPN exFAT 01.001\nRegion: JPN\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/metal-slug-attack-reloaded-ps5/",
       "downloadLinks": [
         {
@@ -383,6 +399,22 @@
         {
           "name": "JPN 7.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/2gQio0Cjlr"
+        },
+        {
+          "name": "JPN exFAT 01.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibVlRZThPdEMvbWQySG9ZMXRtaGcvTTd1VEdtd0ZGVUM5NTk0dFF0OTJUdGxDaEd0VTEzOGtlQXNrdVZrSnVLb292UkJQYTNsRU50UHBTQ1N4NXFUeXRBamJkQm9lN1B1Z3EyaElWUnVBQT09IiwiaSI6IlJrMFdPS2k1bDJJTmxSZk4iLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "JPN exFAT 01.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTmQ4amx6SDdBOEpxOERhaGV0SlFlT0xiMis1YXV6NDF4bk9jS0M5Q09KaGE2a1c3K01GTE41R1VLVEwwMUd5SFBGZFU5ZGt3ZnArVEt3cGlaNXRjT0RrWDhCYTF3QWZOdFU0R29ub2hyWWM9IiwiaSI6InplUnlWcnZhUWVXWFhUNmEiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "JPN exFAT 01.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibm5vNWZxc3dCY2lsTjVjZ1l3bCsvbEVqMGZzcmN0QzlhZVFad3E0YjZGbWZSV0lURUhJRUJEL1plK0ZSNzlPSHdZeDhiOFRqdWlHUkUzVU0yalkzNHNjbHN5aWlSbzFjd2IzNlhsYXMiLCJpIjoiNG5aMGRVdHdxV1F4UlU1RiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "JPN exFAT 01.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieFZJYnJQaTduakcyRlFPTXk5VzRxaVNVY2NlazBIYXBFVGVtRnFvTnAzNXlGVm9mQUEzWmtteVdYSG5MODhybFlEYXpxZ3hYODZlVnh3N0phK243clNNdVMvcW4xYjBFSzhnbmIrY0pHd2s9IiwiaSI6IjRwRWk3QTJnbW9EWHdnR3kiLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -441,7 +473,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2909/qf5JTJhYS3DYU1kybfmHkz6f.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2909/qf5JTJhYS3DYU1kybfmHkz6f.png",
-      "description": "Region: USA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/this-war-of-mine-final-cut-ps5/",
       "downloadLinks": [
         {
@@ -455,6 +487,22 @@
         {
           "name": "USA 4.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/qlYo0BdPbp"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiL1F0cnBTTUQwemlZTCs0ZnVaOTZCVlVXUTkwc2h6QWhyb1dYYzQ5YzdDc1kxMitlbmppeFh2R3NVbnlCTjZMMFNubXk3ZnVtb3pWMjFqQWd5YzZPN2FrK3BYMElNY1B1b2xEMDNNMGpDUT09IiwiaSI6Im8xRlJ1RDJuWHdETW1GV3EiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYlpwY05jeVhXRGRPc1M0dEI1RXcyT3Z0Yks4SjhLdEY4UEtuNDJ3RFpmZytteEtWTlF1clZzRThDZGQ0NmIvOVFrTlY0ZG5yUjhUMzlaTlp2YjlSUitsRTdxbi9IYW56QTV1Y3hSOVJsdlE9IiwiaSI6Ik45Vm1lcjBDSXMrRkdFUkEiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidTN4RlRPMUtiOXV0b0dXWHd3V0szNWpRbHA4SWJVSEdtcHRyTTBjMXR6VlNVNjNtdjk2Q0pJVjBXWnBlSXVPeXdOLzJ6d09Kd0RxKy80eDAzY3huVERsQ3dFK01NVEMwT0RlL1o0TTUiLCJpIjoidWorWEFSTXlQSXZwMHZxWCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTk1jUE5oUzVna210a0tJdVU2VGJUclBOTjY0TUR4SVZqN1JwdzZrZUlqbXVPblBsVGVWL01kRVc2dXR6dHMzTkErUFl4b3VQV1dOdnFJT1Q5MUhManNoZFR3dTFVRDZOcHdHTHBhZDlvWjg9IiwiaSI6IlUrQitFSFBhemlBN24yYnciLCJuIjoiVmlraSJ9"
         }
       ]
     },
@@ -150303,6 +150351,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYjhsRU1kVktyTWcwN1pXY3FLYnRaeVdSZUd5Mmd2VVJuaU1qTWRTZit5UzllVm1wS1B2QmJZWUxKOVI5OGVSdXFwVzFsajViYThBTEdjTlJCZXhGSXRhR1hDZkFJZz09IiwiaSI6ImVKbEdNTTEzcTFsSk95OSsiLCJuIjoiVmF1bHQifQ=="
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28769",
+      "title": "[exFAT] Cairn Deluxe Edition",
+      "createdAt": "2026-11-22T12:21:00.512Z",
+      "version": "01.001.393",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2009/7c79fdb4b0dd99bf189d5fde6ad468635e14d03fc7819388.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2009/7c79fdb4b0dd99bf189d5fde6ad468635e14d03fc7819388.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.001.393 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.001.393 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVE1pNEl2RDVCeFBXWlNYVlduYXd5c3E5WjB4aUxmYWF1c3BHTjVCV1pFajlmZGROVzZIN2s1R25VZWkvTHlSNlpUYTFGWnBTWWtxQkZjZTNHYjlvS0pjdlRuV0xQdk9PbVlxT0Y5QXhTQT09IiwiaSI6InFmS0xJWHlWaldrVnRwRm8iLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.001.393 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidlVYMXRHelp6aG9TNW9PSUV1cHcwVXRLV1M1OFgwQ2RNWE5KS3AvVFNaLy9UZWhIVGdvTkNxUC96L3RmUTY5L2N2NGVCelV3NUE3VUlPellKWEZ0aHBzUE5xQ0JWL2VLd2laVzdFUGxpWkk9IiwiaSI6Im00QnRVdVFuRDBxWEJMYmUiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.001.393 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZWVSWi9jejRndW1OZHpEcXdObnVTS2Mrd1NRdFIwaTV4RUdJdXZtTXhnN293T3N6MG5USlJMT0FnN1V6cCtyMGdnMzNib0VkS2VIanlXSFpja2tCZC9ZNTVkMnd5aDlmYis0d1J6OVkiLCJpIjoiL3NOUmtUcXVtZ29tczR3SyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.001.393 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ0VPWkZkZE5tWmlaVlB6UC9OazdnUWYwVitVZjJNSDVJcDYremtwMXFYVWlyQ3NLWFBXeFUzWGhiWHFQTzArdGQ5ZlpkSlk3cFZJeUZjb20wWHlQelRsMkJUcTJKaGVaYlNsVndJT0ZEVDQ9IiwiaSI6IjZCYjNRUHhHanZaWkI0WTEiLCJuIjoiVmlraSJ9"
         }
       ]
     },

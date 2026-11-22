@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/11/2026 à 14:16
+* **PAYLOADS**
+  * `Kura V1.6.60` (v1.6.60) - *Nouveau*
+
 ## Build du 22/11/2026 à 05:32
 * **PAYLOADS**
   * `Kura V1.6.59` (v1.6.59) - *Nouveau*
