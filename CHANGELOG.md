@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/11/2026 à 06:12
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.8.4` (v0.8.4) - *Nouveau*
+
 ## Build du 22/11/2026 à 14:16
 * **PAYLOADS**
   * `Kura V1.6.60` (v1.6.60) - *Nouveau*
