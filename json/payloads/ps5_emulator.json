@@ -32,14 +32,14 @@
       "checksum": "4a0250329e63b376f620511c4b6e2c6a2eb959e056824abde27947bf53f07b59"
     },
     {
-      "name": "Ps5-Romm V1.4.3",
-      "filename": "ps5-romm_v1.4.3.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.3/ps5-romm_v1.4.3.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.3/ps5-romm_v1.4.3.elf",
+      "name": "Ps5-Romm V1.4.4",
+      "filename": "ps5-romm_v1.4.4.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.4/ps5-romm_v1.4.4.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.4/ps5-romm_v1.4.4.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.4.3",
+      "version": "v1.4.4",
       "category": "PS5 Emulator",
-      "checksum": "96fbc86f75847937f0ce1c026d873fa4a56805d1ea3990a4d65bca63f99feb8e"
+      "checksum": "ea27113b1445206432e5773be7484d4afc064581890d64d2efd0bc96c366d63b"
     },
     {
       "name": "Phu-Sandbox.Exit V1.0",

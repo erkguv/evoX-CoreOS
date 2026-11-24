@@ -11,12 +11,6 @@
       <pubDate>01.007.000</pubDate>
     </item>
     <item>
-      <title>Spectrumlibrary 1.0.4</title>
-      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
-      <description>Spectrum-Library-PC</description>
-      <pubDate>1.0.4</pubDate>
-    </item>
-    <item>
       <title>Flycast-Ps5-2026.10.06</title>
       <link>https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip</link>
       <description>flycast-ps5-libretro-core</description>
@@ -153,6 +147,12 @@
       <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar</link>
       <description>EmuPack-NeoGeo.PS5</description>
       <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>Spectrumlibrary 1.0.4</title>
+      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
+      <description>Spectrum-Library-PC</description>
+      <pubDate>1.0.4</pubDate>
     </item>
     <item>
       <title>Dump Installer</title>

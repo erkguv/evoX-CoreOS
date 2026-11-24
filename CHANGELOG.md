@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/11/2026 à 08:55
+* **PAYLOADS**
+  * `Ps5-Romm V1.4.4` (v1.4.4) - *Nouveau*
+  * `Orbit Store` (v1.9.7) - *Mise à jour (Précédent: v1.9.6)*
+
 ## Build du 23/11/2026 à 06:12
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.8.4` (v0.8.4) - *Nouveau*
