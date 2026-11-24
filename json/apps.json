@@ -12,6 +12,16 @@
       "category": "Applications"
     },
     {
+      "name": "Spectrumlibrary 1.0.4",
+      "filename": "SpectrumLibrary_1.0.4.zip",
+      "url": "https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip",
+      "local_path": "apps/Spectrum-Library-PC/1.0.4/SpectrumLibrary_1.0.4.zip",
+      "description": "Spectrum-Library-PC",
+      "version": "1.0.4",
+      "checksum": "ac2bf12d56a3892ecaef4e00e8c002cfeffa7cae53aea985e3be6152dbde40c0",
+      "category": "Applications"
+    },
+    {
       "name": "Flycast-Ps5-2026.10.06",
       "filename": "flycast-ps5-2026.10.06.zip",
       "url": "https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip",
@@ -239,16 +249,6 @@
       "description": "EmuPack-NeoGeo.PS5",
       "version": "Source-Fixe",
       "checksum": "dff3c2733ff02e4c1c30d024d904ada0e9dcdc724e76842c34284a7c3174871b",
-      "category": "Applications"
-    },
-    {
-      "name": "Spectrumlibrary 1.0.4",
-      "filename": "SpectrumLibrary_1.0.4.zip",
-      "url": "https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip",
-      "local_path": "apps/Spectrum-Library-PC/1.0.4/SpectrumLibrary_1.0.4.zip",
-      "description": "Spectrum-Library-PC",
-      "version": "1.0.4",
-      "checksum": "ac2bf12d56a3892ecaef4e00e8c002cfeffa7cae53aea985e3be6152dbde40c0",
       "category": "Applications"
     },
     {

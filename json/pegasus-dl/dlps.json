@@ -151115,6 +151115,64 @@
       ]
     },
     {
+      "titleId": "PPSA13896",
+      "title": "[exFAT] Shadow Gambit The Cursed Crew Complete Edition",
+      "createdAt": "2026-11-24T12:10:02.525Z",
+      "version": "01.002.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1416/e30673f1bfb202430a962306510b6c7bbceeb4c143dfe606.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1416/e30673f1bfb202430a962306510b6c7bbceeb4c143dfe606.png",
+      "description": "Region: ASIA\nRelease note: exFAT format — FW 01.002.004 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "ASIA exFAT 01.002.004 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ2s3YWFHbnJsdWxhN2Vwa0cxL1JlalpGTGZSZDNnL3RjWDlVQy9pVElqR2NCbWNPc3IxQ0lGVnphL0p3azFENkpSSnF4NEVTUDJyYnovemt3R1pPK2JnemdjNmQvMS95L0JkeEZKbE9CQT09IiwiaSI6IjExU29mWDNxNmRyVWVGREoiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "ASIA exFAT 01.002.004 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNVR2aDNVSGdDRjFTSDBtTUo5eEloVkJvWExjUjhvMDkxT050dGI3RmlHajJFbkcxSDg5WkhwTEFaTG1DTTAycU5XcDNDTjgvam9SZTZWKzMvOUZxalAyQU5aM2tOZTJNOVQxRW00SDBJWk09IiwiaSI6InRwTDlZL2ErZEcwSi93S2giLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "ASIA exFAT 01.002.004 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNlZuRmlvN0IySjRBMTJCV1BNQmxSdVNsVFJxTTl3Z2EvS1RMTlFWZWRmMWhnc25WbDlwZW9MeEdERE1vZFZ1OTgzSE50NER1eU9RclFaOCtpYVlNZG83aXRTQ0ZRellyMnc0ekFtMnYiLCJpIjoiYk9DU1NyWlE2K3NmVGFSTyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "ASIA exFAT 01.002.004 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQzJCWEdQQXord2llNHliRDBqSjlESnVCWWl6VzdNM2FkQkVmM01jdWV1SFVWZG1ObDh0VEpKZjYxYmU2N0ZOd3FGK3hSNUVrWWNJS1p5NnRweTMvRER0c2dRTDRHVHZLSEQ4N3F4Y2pIZ2s9IiwiaSI6Im01Q1ZKcjVIVyt0WGs3TnAiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08069",
+      "title": "[exFAT] Sherlock Holmes The Awakened Deluxe Edition",
+      "createdAt": "2026-11-24T12:10:02.525Z",
+      "version": "01.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2812/KzAaCdh4j91Ho1rrUBQw3boO.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2812/KzAaCdh4j91Ho1rrUBQw3boO.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.002 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUUZCUHVLaFlxUy9BZlRNeGdJTXVaVkxtd3JiOEJ4bjdzOUZ0d3dRRVppbkZkejV4TytyYmdUYXU1MDdwamlkTDlFdUN0NGVKWm5zQmhjYmwvdTlPYXJrOFp3Z09JZGExNm5oOXpCMnAwZz09IiwiaSI6ImNNaU9GeUNVMG1iODZYSHciLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZmRaWmdEY1ZlQmZFd3dzUml1Z2RQZVdvV3o2ajBBRzBvNXJqbFJEZ3JvNUh0TmZOVzlIUUxIMTlQVWhnTWNDTmt6T3NhdmVJRi9RL0Jiam9JVjZGaFBRVXBsWG1OWmErQzRnbitmZlNhT289IiwiaSI6InRaeWhzbkxkdE1RV21oQTciLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiU0NlTm1hSlU5alQ1UXpSRURnSVh5ZkJJZjErRnNUOUVGOWxuaXNFU05vd0dtaHZURWV0MUxkZ3EwN0NuQ3JMRngwREZHVkNLRitvYkJJb2FQMWVrWFpNMXBsUTFubExjcnhJRkRxeW8iLCJpIjoiS2ErOUg4RHROalcwZUJ5SCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUXJvdHRvcGZKS2I1RlJHMUdkY2grdGRXWW1pQTZpSWZPdHhkWVVJOG9PbzMzeDMvRXU2cmJIQ2ErVERKbm16bUY5NHdTMHcxcWhEUVVNKzZXR0R6eUsxUmhBb3BRRUdFQnFnbUhHa0ttZXM9IiwiaSI6IjhFampSRVRuWDZVN3RSNXAiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA24326",
       "title": "[exFAT] The Legend of Heroes Trails through Daybreak 2 Ultimate Edition",
       "createdAt": "2026-11-23T12:45:07.103Z",

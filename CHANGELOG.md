@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/11/2026 à 22:06
+* **PAYLOADS**
+  * `Kura V1.6.60` (Kura) - *Mise à jour (Précédent: v1.6.60)*
+
 ## Build du 24/11/2026 à 08:55
 * **PAYLOADS**
   * `Ps5-Romm V1.4.4` (v1.4.4) - *Nouveau*
