@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.25-0724)
+### 🚀 Synthèse de la mise à jour (v2026.11.26-0714)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -36,7 +36,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test5.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `Common_FPS_PS5_v1.2.5.elf`
+  * `Common_FPS_PS5_v1.2.6.elf`
   * `overlay_payload.elf`
   * `ps5-overlay-kus_v1.0.19.elf`
   * `BFpilot_v0.5.0.elf`

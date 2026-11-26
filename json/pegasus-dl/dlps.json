@@ -3,6 +3,198 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06139",
+      "title": "F1 Manager 2022",
+      "createdAt": "2026-11-25T20:42:09.546Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1111/23faWWspvVgWBCWJvxpsUVRY.jpg",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1111/23faWWspvVgWBCWJvxpsUVRY.jpg",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: Curi",
+      "downloadSource": "https://dlpsgame.com/f1-manager-2022-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/9AqGQ8qd0zMn/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1E9QXY"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/pJGm4mP5ly"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08591",
+      "title": "Disney Dreamlight Valley",
+      "createdAt": "2026-11-25T20:42:09.546Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0316/xyMK2ciOKe696fZ7Theqj0U1.jpg",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0316/xyMK2ciOKe696fZ7Theqj0U1.jpg",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: Barquillo",
+      "downloadSource": "https://dlpsgame.com/disney-dreamlight-valley-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/Y2xm0RPZqzRO/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/RMKGJ0qOL31o/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1ntXPs"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/XBRr6"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/6f8AMuNWv8"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/Um11IEGSCb"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16840",
+      "title": "Touhou New World",
+      "createdAt": "2026-11-25T20:42:09.546Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0715/a30f00a56c2c0fb94092f09a17e98bfc5015369e8c8b729f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0715/a30f00a56c2c0fb94092f09a17e98bfc5015369e8c8b729f.png",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/touhou-new-world-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdA1j9GB8/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1uaqSe"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/qFIsmptkeK"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03329",
+      "title": "Disco Elysium The Final Cut",
+      "createdAt": "2026-11-25T20:42:09.546Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1011/mjNseThhuPx9VS6h8MmbtHRG.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1011/mjNseThhuPx9VS6h8MmbtHRG.png",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/disco-elysium-the-final-cut-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ365E4Em19/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/vt7nk"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Sx1DM2N5h6"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07409",
+      "title": "Orcs Must Die 3",
+      "createdAt": "2026-11-25T20:42:09.546Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202107/2201/dih0npdr59dlJ5RImsZamoPZ.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202107/2201/dih0npdr59dlJ5RImsZamoPZ.png",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.\n\nVariant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/orcs-must-die-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/0rpmvgn6y3Rg/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/HabEO"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/sVCesbCh3y"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/jJD3V1lvLma5/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/zuyfI"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/MXVDQQbEPc"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA01953",
+      "title": "Metal Hellsinger",
+      "createdAt": "2026-11-25T20:42:09.546Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1116/ZIy45nAyYwGjq4pCqwOyRcim.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1116/ZIy45nAyYwGjq4pCqwOyRcim.png",
+      "description": "Region: USA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/metal-hellsinger-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/0PdzyJnvqGeA/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2CbDMW"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HAz1V8vlns"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA20153",
+      "title": "Slime Rancher 2",
+      "createdAt": "2026-11-25T20:42:09.546Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/a50d35d2a60e6bc5984ae5f22ab66ac2c36b7a256a5c6d65.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/a50d35d2a60e6bc5984ae5f22ab66ac2c36b7a256a5c6d65.png",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher",
+      "downloadSource": "https://dlpsgame.com/slime-rancher-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/obj3jK1vBzDx/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/lwScy"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ofV4qlpyQT"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA05173",
       "title": "Axiom Verge 2",
       "createdAt": "2026-11-23T20:55:00.304Z",
@@ -80559,7 +80751,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0416/de7e107b83a2a6024ea287ee615643edf20429d1104b85cf.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0416/de7e107b83a2a6024ea287ee615643edf20429d1104b85cf.png",
-      "description": "Variant: USA 12.40\nRegion: USA\nRelease note: This is not full game (Game need patch day 1 we can’t dump patch because update need 12.40 and we dont have jb on 12.40) Working 12.xx – 11.xx – 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.009\nRegion: USA\nRelease note: exFAT format — FW 01.009\nContributor: pippo",
+      "description": "Region: USA\nRelease note: This is not full game (Game need patch day 1 we can’t dump patch because update need 12.40 and we dont have jb on 12.40) Working 12.xx – 11.xx – 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/stalker-2-heart-of-chornobyl-ps5/",
       "downloadLinks": [
         {
@@ -81305,18 +81497,6 @@
         {
           "name": "USA 12.40 BackPort 4.xx - Buzzheavier",
           "url": "https://buzzheavier.com/cyuz59iva68a"
-        },
-        {
-          "name": "USA exFAT 01.009 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiOEk2TFN1OE9ZYkpWTE52QnVYYTRteUZUOFVhbzVBSnhyaFlRWmRTNE5XclZ6S0MzNlZCalhoMkpINFJqbVZ6clVOcVZDV2VxIiwicyI6ImpQQThIakdVWHpHRys5dXQ0UUxnd3c9PSIsImkiOiJpZWMrOW5lRWRVM0F0RmFuIn0="
-        },
-        {
-          "name": "USA exFAT 01.009 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiTjhKNGZ0WURoS0VDZ3lxbzVKZlJRUzdTemt1SzNHbmJpQkhSUi9QNGZ4SnBGY3ZtRnl1U0p4QzZzcDFGeTV1V2w2elkiLCJzIjoiWGh1cUNVTlFaL1pyVERSanRLYWtTUT09IiwiaSI6IjA1VHFvQTFNT1lvbTJScVcifQ=="
-        },
-        {
-          "name": "USA exFAT 01.009 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiOURLM0xnL2dXWUUzRHAxQWRscGJoVG5rYWdtalJMa0lVTUZLSkZBWkhZNStFc1JtS05DL2lyZ3RubWowK21OZWFBPT0iLCJzIjoiVnZ6aWsxVGgzQ1F2WEIyVXlnakdvZz09IiwiaSI6IkRUSWhiYzJSejlBWXk1NWoifQ=="
         }
       ]
     },
@@ -151115,6 +151295,64 @@
       ]
     },
     {
+      "titleId": "PPSA08035",
+      "title": "[exFAT] Monster Hunter Rise + Sunbreak Deluxe",
+      "createdAt": "2026-11-26T06:52:07.337Z",
+      "version": "16.000.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1504/KzeHCTuoWLV4Cl7wkDA2YwCo.png",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1504/KzeHCTuoWLV4Cl7wkDA2YwCo.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 16.000.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 16.000.002 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMk9kRzY4S2gxTVU0SGRvTW93VjVqVEp6djhvc1RoSmNuSTlqY2lseXBXVGUyUmZNRlRoNGZqUy9nNDlySDBkb2JTZHlPdkhwVnlYZU1vSHhMMVNETyt6TGpsYnk3TUtNWjVxU0pvaTA0dz09IiwiaSI6IlBEVTFUeUpCT3JUdWxUWUkiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 16.000.002 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib0dGZDQwYnkrclJQVVBWZDFpUWJBWUFJNFFYM0JqVlFlQmZrNVRTTHkwQnZyV0NjTDRBZ3RvTVpmbGordGpUeWdCK1hVS2lTQzhweXdaNUtmL0IyaWU3eVlvdTZXTitXaTg1ZHZvdzEwT289IiwiaSI6IjQweTg3TDVBbWVSN3MzUUwiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 16.000.002 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiV0xYbXR3RXh3TStDNmRKYnpHcUNRRERaRHpScUpnbEpiZlI3aG0zNUtjd3g2eGVBcVl4TmFNSm1LdGUwTDdxMFp3WFBJTHE1NkRDcVcyWWt4QW14UFAxdnVCYlRUYUVXa0FLVGhKY08iLCJpIjoiTHRnVmpQU3kzc2IxS1ZMcyIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 16.000.002 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoia2taTCthRGRMaTd1QlVCdTUwck9iQ25YK0tsTS9RdEdZekkyekNXZFloaGhWU1hTZ2krZEhrTThoZkxSbXc1QkdOYklVSmI4QlhsbWp2UStsamY0WEEvc0F6WDIvemt1bnJGQXJWc2xVeXc9IiwiaSI6IldNbzJ2ZUpvK1dYVUo4TWwiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28336",
+      "title": "[exFAT] STALKER 2 Heart of Chornobyl Ultimate Edition",
+      "createdAt": "2026-11-26T06:52:07.337Z",
+      "version": "01.022",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0416/de7e107b83a2a6024ea287ee615643edf20429d1104b85cf.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0416/de7e107b83a2a6024ea287ee615643edf20429d1104b85cf.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.022 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.022 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVWE0WmdoK214TFE3dE9KTnJnRUkyb1hBcHM3SGdpdExzc1ltdEU0WEhnTlZZeUg4azQwTWNLcGFxaFpIYVpzWlMzcEJiaW5PbGZ4TnIzT0YxWXZnQTdwWFVFZGFRNWc4RUp4TXJtcGROQT09IiwiaSI6ImNraXJ4TlBjdnNHZG1vbTUiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.022 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWWs3cmFIRzBmdktNUUlkbHVjcFg5MWpmQzYvV2J1MzZRTlozbWJ5b0hLQjMxMWhCWWR3b2MvTVBHNmVidHhiTE1yclduOFNnb3h5NXFrVkpvbGsyZllGeEllNFpUc1c2RGlvUHF1Q2xmb1U9IiwiaSI6ImRQWFdlVHowcVlPNVNLaEYiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.022 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNy82QWRZYzRsWEI2bVgwa0tGdDBpZEYrYnRLSmpGb3h4enJkMVlsb0p6Y3djbGZ2UzZEdXdWZFRWM0t3NE9lLzM2dVYvZ09KMmRZNkdhUGt0aVhHRmFBdjZxL3dMVlh6RFpqdlhwNmgiLCJpIjoiVCtnS0pnTUVBUzB2YkZvbCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.022 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUDhBdTZqSlNwelBENHVka3Frc3BRSExtMlFhc0IxSmRhU1pvMnYvVWFwTmpsTjk5ay8wbFBSSjFqeDB3Y0s1cVFOVVYzUmRXODV2RDZ1VUVWMGh6clI2NENJQWdDRXNZb0FhRU13dkpJV1k9IiwiaSI6Im5Cd0Q1ekxOMG54WjNBYmkiLCJuIjoiVmlraSJ9"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA13896",
       "title": "[exFAT] Shadow Gambit The Cursed Crew Complete Edition",
       "createdAt": "2026-11-24T12:10:02.525Z",
@@ -156830,6 +157068,7 @@
       "titleId": "PPSA19936",
       "title": "[exFAT] Turok 3 Shadow of Oblivion",
       "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.000",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0321/7864657bb25ca65a2252d4e65583c067e461e74dfdf7dde6.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0321/7864657bb25ca65a2252d4e65583c067e461e74dfdf7dde6.png",

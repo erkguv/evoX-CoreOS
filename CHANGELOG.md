@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 26/11/2026 à 07:14
+* **PAYLOADS**
+  * `Common Fps Ps5 V1.2.6` (v1.2.6) - *Nouveau*
+
 ## Build du 24/11/2026 à 22:06
 * **PAYLOADS**
   * `Kura V1.6.60` (Kura) - *Mise à jour (Précédent: v1.6.60)*
