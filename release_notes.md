@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.26-0714)
+### 🚀 Synthèse de la mise à jour (v2026.11.26-2106)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -41,7 +41,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-overlay-kus_v1.0.19.elf`
   * `BFpilot_v0.5.0.elf`
   * `lapy_jb_daemon.elf`
-  * `web-file-mgr-v1.14.elf`
+  * `web-file-mgr-v1.15.elf`
   * `wfm-7zip-helper.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `ps5-fan-control_v0.3.elf`
@@ -131,6 +131,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
+  * `web-file-mgr-v1.14.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
   * `web-file-mgr-v1.12.elf`

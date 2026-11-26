@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 26/11/2026 à 21:06
+* **PAYLOADS**
+  * `Web-File-Mgr-V1.15` (v1.15) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.15) - *Mise à jour (Précédent: v1.14)*
+  * `Web-File-Mgr-V1.14` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.14)*
+
 ## Build du 26/11/2026 à 07:14
 * **PAYLOADS**
   * `Common Fps Ps5 V1.2.6` (v1.2.6) - *Nouveau*
