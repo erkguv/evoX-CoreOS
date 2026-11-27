@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/11/2026 à 20:51
+* **PAYLOADS**
+  * `Ps5Library-Agent` (v0.2.92) - *Mise à jour (Précédent: v0.2.91)*
+  * `Zftpd-Ps5-Zhttp-V1.7.1` (v1.7.1) - *Nouveau*
+  * `Zftpd-Ps5-V1.7.1` (v1.7.1) - *Nouveau*
+  * `Pad2C V2.1.0` (v2.1.0) - *Nouveau*
+  * `Zftpd-Ps5-V1.7.0` (zftpd) - *Mise à jour (Précédent: v1.7.0)*
+  * `Zftpd-Ps5-Zhttp-V1.7.0` (zftpd) - *Mise à jour (Précédent: v1.7.0)*
+
 ## Build du 26/11/2026 à 21:06
 * **PAYLOADS**
   * `Web-File-Mgr-V1.15` (v1.15) - *Nouveau*

@@ -330,9 +330,9 @@
     </item>
     <item>
       <title>Ps5Library-Agent</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf</link>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf</link>
       <description>You need PS5Library.pkg.</description>
-      <pubDate>v0.2.91</pubDate>
+      <pubDate>v0.2.92</pubDate>
     </item>
     <item>
       <title>Orbit Store</title>
@@ -365,16 +365,16 @@
       <pubDate>2.1</pubDate>
     </item>
     <item>
-      <title>Zftpd-Ps5-V1.7.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf</link>
+      <title>Zftpd-Ps5-Zhttp-V1.7.1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-zhttp-v1.7.1.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.7.0</pubDate>
+      <pubDate>v1.7.1</pubDate>
     </item>
     <item>
-      <title>Zftpd-Ps5-Zhttp-V1.7.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf</link>
+      <title>Zftpd-Ps5-V1.7.1</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-v1.7.1.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.7.0</pubDate>
+      <pubDate>v1.7.1</pubDate>
     </item>
     <item>
       <title>Elfldr V0.28</title>
@@ -509,10 +509,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Pad2C V2.0.0</title>
-      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf</link>
+      <title>Pad2C V2.1.0</title>
+      <link>https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.1.0/pad2c_v2.1.0.elf</link>
       <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v2.0.0</pubDate>
+      <pubDate>v2.1.0</pubDate>
     </item>
     <item>
       <title>Anypad-Ps5 V0.6.0</title>
@@ -723,6 +723,18 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>garlic-savemgr</pubDate>
+    </item>
+    <item>
+      <title>Zftpd-Ps5-V1.7.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
+    </item>
+    <item>
+      <title>Zftpd-Ps5-Zhttp-V1.7.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
     </item>
     <item>
       <title>Zftpd-Ps5-Zhttp-V1.6.0</title>

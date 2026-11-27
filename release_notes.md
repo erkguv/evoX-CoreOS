@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.27-0706)
+### 🚀 Synthèse de la mise à jour (v2026.11.27-2051)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -82,8 +82,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ProsperoPlayer_v1.0.elf`
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
-  * `zftpd-ps5-v1.7.0.elf`
-  * `zftpd-ps5-zhttp-v1.7.0.elf`
+  * `zftpd-ps5-zhttp-v1.7.1.elf`
+  * `zftpd-ps5-v1.7.1.elf`
   * `elfldr_v0.28.elf`
   * `ftpsrv_ps5-payload_v0.22.elf`
   * `websrv_v0.34.elf`
@@ -106,7 +106,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `OmniPad-PS5_v1.0.4-hotfix1.elf`
   * `FGG-XSense_v1.1.elf`
   * `ghost-toothAPI.elf`
-  * `pad2c_v2.0.0.elf`
+  * `pad2c_v2.1.0.elf`
   * `AnyPad-PS5_v0.6.0.elf`
   * `ps5debug-NG_v1.3.2.elf`
   * `ps5-fw-spoof.elf`
@@ -142,6 +142,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.11.elf`
   * `garlic-worker_v1.5.6.elf`
   * `garlic-savemgr_v1.15-beta9.elf`
+  * `zftpd-ps5-v1.7.0.elf`
+  * `zftpd-ps5-zhttp-v1.7.0.elf`
   * `zftpd-ps5-zhttp-v1.6.0.elf`
   * `zftpd-ps5-v1.6.0.elf`
   * `Nuvio-PS5_v1.8.0.elf`

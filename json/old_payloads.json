@@ -540,12 +540,12 @@
         {
             "name": "Ps5Library-Agent",
             "filename": "ps5library-agent.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf",
-            "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
+            "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
             "description": "You need PS5Library.pkg.",
-            "version": "v0.2.91",
+            "version": "v0.2.92",
             "category": "PS5 Freeshop",
-            "checksum": "ac78389a628401edba3c081f00156238ad5652b1b7ad241f5ccc7713179f0c82"
+            "checksum": "f2f25588354f0f04945913fa8c9dcd5095a4904f1da2207150fba787fa758176"
         },
         {
             "name": "Orbit Store",
@@ -598,24 +598,24 @@
             "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
         },
         {
-            "name": "Zftpd-Ps5-V1.7.0",
-            "filename": "zftpd-ps5-v1.7.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
-            "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
+            "name": "Zftpd-Ps5-Zhttp-V1.7.1",
+            "filename": "zftpd-ps5-zhttp-v1.7.1.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-zhttp-v1.7.1.elf",
+            "local_path": "payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-zhttp-v1.7.1.elf",
             "description": "FTP server payload for PS5. Port: 21",
-            "version": "v1.7.0",
+            "version": "v1.7.1",
             "category": "PS5 Server",
-            "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
+            "checksum": "833adfc1f2274c63a0a1f60a274427ef6f1bc97d2077d13cbc8b91e62f0da6bf"
         },
         {
-            "name": "Zftpd-Ps5-Zhttp-V1.7.0",
-            "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
-            "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+            "name": "Zftpd-Ps5-V1.7.1",
+            "filename": "zftpd-ps5-v1.7.1.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-v1.7.1.elf",
+            "local_path": "payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-v1.7.1.elf",
             "description": "FTP server payload for PS5. Port: 21",
-            "version": "v1.7.0",
+            "version": "v1.7.1",
             "category": "PS5 Server",
-            "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
+            "checksum": "5a7cf2ff5d73418ea0109468fa7d77fc99356eaa338d58c35198affe60b96ea1"
         },
         {
             "name": "Elfldr V0.28",
@@ -837,14 +837,14 @@
             "checksum": "744277a72a268871284ad3b91565968df06c57c0acdabd921c8712e6de731f99"
         },
         {
-            "name": "Pad2C V2.0.0",
-            "filename": "pad2c_v2.0.0.elf",
-            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf",
-            "local_path": "payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf",
+            "name": "Pad2C V2.1.0",
+            "filename": "pad2c_v2.1.0.elf",
+            "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.1.0/pad2c_v2.1.0.elf",
+            "local_path": "payloads/ps5_pad_utility/pad2c/v2.1.0/pad2c_v2.1.0.elf",
             "description": "Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.",
-            "version": "v2.0.0",
+            "version": "v2.1.0",
             "category": "PS5 Pad Utility",
-            "checksum": "ab25b6e95189fccd35b1dd6bc5a4097bc64080c8bed76c769233bac58a6d73cd"
+            "checksum": "876dbb00fb118c9aef30152d60e0e2c9eda3e3746b6e880293f86ff29ac6c4b1"
         },
         {
             "name": "Anypad-Ps5 V0.6.0",
@@ -854,7 +854,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "155c95d409a8f7f0471d3987b67ea31e3f451cdd2938f25061cd14d43a580b04"
+            "checksum": "cb95eda7c6b9349eb84148d1686186e46dbb90bc155623273a66fb25d8a5cb79"
         },
         {
             "name": "Ps5Debug-Ng V1.3.2",
@@ -1184,6 +1184,24 @@
             "description": "Récupéré depuis le stockage local (Interne / Fallback)",
             "version": "garlic-savemgr",
             "checksum": "88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062"
+        },
+        {
+            "name": "Zftpd-Ps5-V1.7.0",
+            "filename": "zftpd-ps5-v1.7.0.elf",
+            "url": "",
+            "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "zftpd",
+            "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
+        },
+        {
+            "name": "Zftpd-Ps5-Zhttp-V1.7.0",
+            "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
+            "url": "",
+            "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+            "version": "zftpd",
+            "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
         },
         {
             "name": "Zftpd-Ps5-Zhttp-V1.6.0",
