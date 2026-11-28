@@ -854,7 +854,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "cb95eda7c6b9349eb84148d1686186e46dbb90bc155623273a66fb25d8a5cb79"
+      "checksum": "c754365e2a83f0068bc4731ecf856f32edd7fd3f1daf53b55d162215792a1a38"
     },
     {
       "name": "Ps5Debug-Ng V1.3.2",
