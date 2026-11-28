@@ -540,12 +540,12 @@
     {
       "name": "Ps5Library-Agent",
       "filename": "ps5library-agent.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
-      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.109/ps5library-agent.elf",
+      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.109/ps5library-agent.elf",
       "description": "You need PS5Library.pkg.",
-      "version": "v0.2.92",
+      "version": "v0.2.109",
       "category": "PS5 Freeshop",
-      "checksum": "f2f25588354f0f04945913fa8c9dcd5095a4904f1da2207150fba787fa758176"
+      "checksum": "e6a77df6fca3e23e59bd9be65c2da9fb03e793a38902c66b4208ca29287a11a1"
     },
     {
       "name": "Orbit Store",
@@ -854,7 +854,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "c754365e2a83f0068bc4731ecf856f32edd7fd3f1daf53b55d162215792a1a38"
+      "checksum": "b8dbe502a49c8107c9ac6c27f269a10c2ef163e116273c8a5cdbe9dcae9aedf1"
     },
     {
       "name": "Ps5Debug-Ng V1.3.2",

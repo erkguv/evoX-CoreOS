@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/11/2026 à 19:45
+* **PAYLOADS**
+  * `Ps5Library-Agent` (v0.2.109) - *Mise à jour (Précédent: v0.2.92)*
+
 ## Build du 27/11/2026 à 20:51
 * **PAYLOADS**
   * `Ps5Library-Agent` (v0.2.92) - *Mise à jour (Précédent: v0.2.91)*

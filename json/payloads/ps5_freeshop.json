@@ -14,12 +14,12 @@
     {
       "name": "Ps5Library-Agent",
       "filename": "ps5library-agent.elf",
-      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
-      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
+      "url": "https://erkguv.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.109/ps5library-agent.elf",
+      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.109/ps5library-agent.elf",
       "description": "You need PS5Library.pkg.",
-      "version": "v0.2.92",
+      "version": "v0.2.109",
       "category": "PS5 Freeshop",
-      "checksum": "f2f25588354f0f04945913fa8c9dcd5095a4904f1da2207150fba787fa758176"
+      "checksum": "e6a77df6fca3e23e59bd9be65c2da9fb03e793a38902c66b4208ca29287a11a1"
     },
     {
       "name": "Orbit Store",
